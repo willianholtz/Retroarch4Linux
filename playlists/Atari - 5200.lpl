@@ -1,0 +1,580 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Activision Decathlon, The (USA).a52",
+      "label": "Activision Decathlon, The (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Astro Chase (USA).a52",
+      "label": "Astro Chase (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Ballblazer (USA).a52",
+      "label": "Ballblazer (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Beamrider (USA).a52",
+      "label": "Beamrider (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/BerZerk (USA).a52",
+      "label": "BerZerk (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Blue Print (USA).a52",
+      "label": "Blue Print (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Bounty Bob Strikes Back! (USA).a52",
+      "label": "Bounty Bob Strikes Back! (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Buck Rogers - Planet of Zoom (USA).a52",
+      "label": "Buck Rogers - Planet of Zoom (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Carol Shaw's River Raid (USA).a52",
+      "label": "Carol Shaw's River Raid (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Castle Blast (USA) (Unl).a52",
+      "label": "Castle Blast (USA) (Unl)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Castle Crisis (USA) (Unl).a52",
+      "label": "Castle Crisis (USA) (Unl)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Centipede (USA).a52",
+      "label": "Centipede (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Choplifter! (USA).a52",
+      "label": "Choplifter! (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Congo Bongo (USA).a52",
+      "label": "Congo Bongo (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Countermeasure (USA).a52",
+      "label": "Countermeasure (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/David Crane's Pitfall II - Lost Caverns (USA).a52",
+      "label": "David Crane's Pitfall II - Lost Caverns (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Defender (USA).a52",
+      "label": "Defender (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Dig Dug (USA).a52",
+      "label": "Dig Dug (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Dreadnaught Factor, The (USA).a52",
+      "label": "Dreadnaught Factor, The (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Frogger (USA).a52",
+      "label": "Frogger (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Frogger II - Threeedeep! (USA).a52",
+      "label": "Frogger II - Threeedeep! (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Galaxian (USA).a52",
+      "label": "Galaxian (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Gorf (USA).a52",
+      "label": "Gorf (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Gremlins (USA).a52",
+      "label": "Gremlins (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Gyruss (USA).a52",
+      "label": "Gyruss (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/H.E.R.O. (USA).a52",
+      "label": "H.E.R.O. (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/James Bond 007 (USA).a52",
+      "label": "James Bond 007 (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Joust (USA).a52",
+      "label": "Joust (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Jungle Hunt (USA).a52",
+      "label": "Jungle Hunt (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/K-Razy Shoot-Out (USA).a52",
+      "label": "K-Razy Shoot-Out (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Kaboom! (USA).a52",
+      "label": "Kaboom! (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Kangaroo (USA).a52",
+      "label": "Kangaroo (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Keystone Kapers (USA).a52",
+      "label": "Keystone Kapers (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Koffi - Yellow Kopter (USA) (Unl).a52",
+      "label": "Koffi - Yellow Kopter (USA) (Unl)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Mario Bros. (USA).a52",
+      "label": "Mario Bros. (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/MegaMania (USA).a52",
+      "label": "MegaMania (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Meteorites (USA).a52",
+      "label": "Meteorites (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Miner 2049er Starring Bounty Bob (USA).a52",
+      "label": "Miner 2049er Starring Bounty Bob (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Missile Command (USA).a52",
+      "label": "Missile Command (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Montezuma's Revenge featuring Panama Joe (USA).a52",
+      "label": "Montezuma's Revenge featuring Panama Joe (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Moon Patrol (USA).a52",
+      "label": "Moon Patrol (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Mountain King (USA).a52",
+      "label": "Mountain King (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Mr. Do!'s Castle (USA).a52",
+      "label": "Mr. Do!'s Castle (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Ms. Pac-Man (USA).a52",
+      "label": "Ms. Pac-Man (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Pac-Man (USA).a52",
+      "label": "Pac-Man (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Pengo (USA).a52",
+      "label": "Pengo (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Pitfall! (USA).a52",
+      "label": "Pitfall! (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Pole Position (USA).a52",
+      "label": "Pole Position (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Popeye (USA).a52",
+      "label": "Popeye (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Q-bert (USA).a52",
+      "label": "Q-bert (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Qix (USA).a52",
+      "label": "Qix (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Quest for Quintana Roo (USA).a52",
+      "label": "Quest for Quintana Roo (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/RealSports Baseball (USA).a52",
+      "label": "RealSports Baseball (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/RealSports Football (USA).a52",
+      "label": "RealSports Football (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/RealSports Soccer (USA).a52",
+      "label": "RealSports Soccer (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/RealSports Tennis (USA).a52",
+      "label": "RealSports Tennis (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Rescue on Fractalus! (USA).a52",
+      "label": "Rescue on Fractalus! (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Robotron 2084 (USA).a52",
+      "label": "Robotron 2084 (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Space Dungeon (USA).a52",
+      "label": "Space Dungeon (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Space Invaders (USA).a52",
+      "label": "Space Invaders (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Space Shuttle - A Journey Into Space (USA).a52",
+      "label": "Space Shuttle - A Journey Into Space (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Star Raiders (USA).a52",
+      "label": "Star Raiders (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Star Trek - Strategic Operations Simulator (USA).a52",
+      "label": "Star Trek - Strategic Operations Simulator (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Star Wars - Return of the Jedi - Death Star Battle (USA).a52",
+      "label": "Star Wars - Return of the Jedi - Death Star Battle (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Star Wars - The Arcade Game (USA).a52",
+      "label": "Star Wars - The Arcade Game (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Super Breakout (USA).a52",
+      "label": "Super Breakout (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Super Cobra (USA).a52",
+      "label": "Super Cobra (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Vanguard (USA).a52",
+      "label": "Vanguard (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Wizard of Wor (USA).a52",
+      "label": "Wizard of Wor (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Zaxxon (USA).a52",
+      "label": "Zaxxon (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Zenji (USA).a52",
+      "label": "Zenji (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 5200/Zone Ranger (USA).a52",
+      "label": "Zone Ranger (USA)",
+      "core_path": ".config/retroarch/cores/atari800_libretro.so",
+      "core_name": "atari800",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 5200.lpl"
+    }
+  ]
+}

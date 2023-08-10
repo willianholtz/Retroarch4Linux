@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket/Baseball Stars (Japan, Europe).zip",
+      "label": "Baseball Stars (Japan, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket/Dokodemo Mahjong (Japan).zip",
+      "label": "Dokodemo Mahjong (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket/King of Fighters R-1 (Japan, Europe).zip",
+      "label": "King of Fighters R-1 (Japan, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket/Melon-chan no Seichou Nikki (Japan).zip",
+      "label": "Melon-chan no Seichou Nikki (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket/Neo Cherry Master - Real Casino Series (Japan, Europe).zip",
+      "label": "Neo Cherry Master - Real Casino Series (Japan, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket/Neo Geo Cup '98 (Japan, Europe).zip",
+      "label": "Neo Geo Cup '98 (Japan, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket/Pocket Tennis - Pocket Sports Series (Japan, Europe).zip",
+      "label": "Pocket Tennis - Pocket Sports Series (Japan, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket/Renketsu Puzzle Tsunagete Pon! (Japan).zip",
+      "label": "Renketsu Puzzle Tsunagete Pon! (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket/Samurai Shodown! - Pocket Fighting Series (Japan, Europe).zip",
+      "label": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket/Shougi no Tatsujin (Japan).zip",
+      "label": "Shougi no Tatsujin (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket.lpl"
+    }
+  ]
+}

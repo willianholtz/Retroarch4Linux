@@ -1,0 +1,604 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/A.P.B. - All Points Bulletin (USA, Europe).zip",
+      "label": "A.P.B. - All Points Bulletin (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Awesome Golf (USA, Europe).zip",
+      "label": "Awesome Golf (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Basketbrawl (USA, Europe).zip",
+      "label": "Basketbrawl (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Batman Returns (USA, Europe).zip",
+      "label": "Batman Returns (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Battle Wheels (USA, Europe).zip",
+      "label": "Battle Wheels (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Battlezone 2000 (USA, Europe).zip",
+      "label": "Battlezone 2000 (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Bill & Ted's Excellent Adventure (USA, Europe).zip",
+      "label": "Bill & Ted's Excellent Adventure (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Block Out (USA, Europe).zip",
+      "label": "Block Out (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Blue Lightning (USA, Europe).zip",
+      "label": "Blue Lightning (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Bubble Trouble (USA, Europe).zip",
+      "label": "Bubble Trouble (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/California Games (USA, Europe).zip",
+      "label": "California Games (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Checkered Flag (USA, Europe).zip",
+      "label": "Checkered Flag (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Chip's Challenge (USA, Europe).zip",
+      "label": "Chip's Challenge (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Crystal Mines II (USA, Europe).zip",
+      "label": "Crystal Mines II (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Desert Strike - Return to the Gulf (USA, Europe).zip",
+      "label": "Desert Strike - Return to the Gulf (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Dinolympics (USA, Europe).zip",
+      "label": "Dinolympics (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Dirty Larry - Renegade Cop (USA, Europe).zip",
+      "label": "Dirty Larry - Renegade Cop (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Double Dragon (USA, Europe).zip",
+      "label": "Double Dragon (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Dracula the Undead (USA, Europe).zip",
+      "label": "Dracula the Undead (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Electrocop (USA, Europe).zip",
+      "label": "Electrocop (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/European Soccer Challenge (USA, Europe).zip",
+      "label": "European Soccer Challenge (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Fat Bobby (USA, Europe).zip",
+      "label": "Fat Bobby (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Fidelity Ultimate Chess Challenge, The (USA, Europe).zip",
+      "label": "Fidelity Ultimate Chess Challenge, The (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Gates of Zendocon, The (USA, Europe).zip",
+      "label": "Gates of Zendocon, The (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Gauntlet - The Third Encounter (USA, Europe).zip",
+      "label": "Gauntlet - The Third Encounter (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Gordo 106 - The Mutated Lab Monkey (USA, Europe).zip",
+      "label": "Gordo 106 - The Mutated Lab Monkey (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Hard Drivin' (USA, Europe).zip",
+      "label": "Hard Drivin' (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Hockey (USA, Europe).zip",
+      "label": "Hockey (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Hydra (USA, Europe).zip",
+      "label": "Hydra (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Ishido - The Way of Stones (USA, Europe).zip",
+      "label": "Ishido - The Way of Stones (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Jimmy Connors' Tennis (USA, Europe).zip",
+      "label": "Jimmy Connors' Tennis (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Joust (USA, Europe).zip",
+      "label": "Joust (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Klax (USA, Europe).zip",
+      "label": "Klax (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Krazy Ace - Miniature Golf (USA, Europe).zip",
+      "label": "Krazy Ace - Miniature Golf (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Kung Food (USA, Europe).zip",
+      "label": "Kung Food (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Lemmings (USA, Europe).zip",
+      "label": "Lemmings (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Lexis (USA, Europe).zip",
+      "label": "Lexis (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Lynx Casino (USA, Europe).zip",
+      "label": "Lynx Casino (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Malibu Bikini Volleyball (USA, Europe).zip",
+      "label": "Malibu Bikini Volleyball (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Ms. Pac-Man (USA, Europe).zip",
+      "label": "Ms. Pac-Man (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/NFL Football (USA, Europe).zip",
+      "label": "NFL Football (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Ninja Gaiden (USA, Europe).zip",
+      "label": "Ninja Gaiden (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).zip",
+      "label": "Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Pac-Land (USA, Europe).zip",
+      "label": "Pac-Land (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Paperboy (USA, Europe).zip",
+      "label": "Paperboy (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Pinball Jam (USA, Europe).zip",
+      "label": "Pinball Jam (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Pit Fighter - The Ultimate Competition (USA, Europe).zip",
+      "label": "Pit Fighter - The Ultimate Competition (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Power Factor (USA, Europe).zip",
+      "label": "Power Factor (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Qix (USA, Europe).zip",
+      "label": "Qix (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Raiden (USA) (v3.0).zip",
+      "label": "Raiden (USA) (v3.0)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Rampage (USA, Europe).zip",
+      "label": "Rampage (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Rampart (USA, Europe).zip",
+      "label": "Rampart (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/RoadBlasters (USA, Europe).zip",
+      "label": "RoadBlasters (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Robo-Squash (USA, Europe).zip",
+      "label": "Robo-Squash (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Robotron 2084 (USA, Europe).zip",
+      "label": "Robotron 2084 (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Rygar - Legendary Warrior (USA, Europe).zip",
+      "label": "Rygar - Legendary Warrior (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/S.T.U.N. Runner (USA, Europe).zip",
+      "label": "S.T.U.N. Runner (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Scrapyard Dog (USA, Europe).zip",
+      "label": "Scrapyard Dog (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Shadow of the Beast (USA, Europe).zip",
+      "label": "Shadow of the Beast (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Shanghai (USA, Europe).zip",
+      "label": "Shanghai (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Steel Talons (USA, Europe).zip",
+      "label": "Steel Talons (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Super Asteroids, Missile Command (USA, Europe).zip",
+      "label": "Super Asteroids, Missile Command (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Super Off-Road (USA, Europe).zip",
+      "label": "Super Off-Road (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Super Skweek (USA, Europe).zip",
+      "label": "Super Skweek (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Switchblade II (USA, Europe).zip",
+      "label": "Switchblade II (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Todd's Adventures in Slime World (USA, Europe).zip",
+      "label": "Todd's Adventures in Slime World (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Toki (USA, Europe).zip",
+      "label": "Toki (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Tournament Cyberball (USA, Europe).zip",
+      "label": "Tournament Cyberball (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Turbo Sub (USA, Europe).zip",
+      "label": "Turbo Sub (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Viking Child (USA, Europe).zip",
+      "label": "Viking Child (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Warbirds (USA, Europe).zip",
+      "label": "Warbirds (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/World Class Soccer (USA, Europe).zip",
+      "label": "World Class Soccer (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Xenophobe (USA, Europe).zip",
+      "label": "Xenophobe (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Xybots (USA, Europe).zip",
+      "label": "Xybots (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - Lynx/Zarlor Mercenary (USA, Europe).zip",
+      "label": "Zarlor Mercenary (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_lynx_libretro.so",
+      "core_name": "mednafen_lynx",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - Lynx.lpl"
+    }
+  ]
+}

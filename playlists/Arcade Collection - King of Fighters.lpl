@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kf2k3pcb.zip",
+      "label": "The King of Fighters 2003 [dedicated PCB version, Japan region]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - King of Fighters.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof2000.zip",
+      "label": "The King of Fighters 2000 (NGM-2570) (NGH-2570)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - King of Fighters.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof2001.zip",
+      "label": "The King of Fighters 2001 (NGM-262?)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - King of Fighters.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof2002.zip",
+      "label": "The King of Fighters 2002 (NGM-2650)(NGH-2650)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - King of Fighters.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof2003.zip",
+      "label": "The King of Fighters 2003 (NGM-2710)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - King of Fighters.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof94.zip",
+      "label": "The King of Fighters '94 (NGM-055)(NGH-055)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - King of Fighters.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof95.zip",
+      "label": "The King of Fighters '95 (NGM-084)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - King of Fighters.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof96.zip",
+      "label": "The King of Fighters '96 (NGM-214)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - King of Fighters.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof97.zip",
+      "label": "The King of Fighters '97 (NGM-2320)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - King of Fighters.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof98.zip",
+      "label": "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (NGM-2420)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - King of Fighters.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof99.zip",
+      "label": "The King of Fighters '99 - Millennium Battle (NGM-2510)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - King of Fighters.lpl"
+    }
+  ]
+}

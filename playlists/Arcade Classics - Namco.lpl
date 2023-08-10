@@ -1,0 +1,636 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/assault.zip",
+      "label": "Assault",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bakutotu.zip",
+      "label": "Bakutotsu Kijuutei",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/baraduke.zip",
+      "label": "Baraduke (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/blastoff.zip",
+      "label": "Blast Off (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/blazer.zip",
+      "label": "Blazer (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bombbee.zip",
+      "label": "Bomb Bee",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/btlecity.zip",
+      "label": "Vs. Battle City",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/burnforc.zip",
+      "label": "Burning Force (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/cosmogng.zip",
+      "label": "Cosmo Gang the Video (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/dangseed.zip",
+      "label": "Dangerous Seed (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/digdug.zip",
+      "label": "Dig Dug (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/digdug2.zip",
+      "label": "Dig Dug II (New Ver.)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/drgnbstr.zip",
+      "label": "Dragon Buster",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/dsaber.zip",
+      "label": "Dragon Saber",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/dspirit.zip",
+      "label": "Dragon Spirit (new version)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/exvania.zip",
+      "label": "Exvania (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/fghtatck.zip",
+      "label": "Fighter _ Attacker (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/fourtrax.zip",
+      "label": "Four Trax",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/galaga.zip",
+      "label": "Galaga (Namco)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/galaga88.zip",
+      "label": "Galaga '88 (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/galaxian.zip",
+      "label": "Galaxian (Namco set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/genpeitd.zip",
+      "label": "Genpei ToumaDen",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/kingball.zip",
+      "label": "King _ Balloon (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/knckhead.zip",
+      "label": "Knuckle Heads (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/kyukaidk.zip",
+      "label": "Kyuukai Douchuuki (Japan new version)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/machbrkr.zip",
+      "label": "Mach Breakers (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mappy.zip",
+      "label": "Mappy (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/marvland.zip",
+      "label": "Marvel Land (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/metlhawk.zip",
+      "label": "Metal Hawk (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/metrocrs.zip",
+      "label": "Metro-Cross (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mirninja.zip",
+      "label": "Mirai Ninja (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mmaze.zip",
+      "label": "Marchen Maze (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/moonal2.zip",
+      "label": "Moon Alien Part 2",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/motos.zip",
+      "label": "Motos",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mrdrillr.zip",
+      "label": "Mr Driller (DRI1/VER.A)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/nebulray.zip",
+      "label": "Nebulas Ray (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/nrallyx.zip",
+      "label": "New Rally X",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/numanath.zip",
+      "label": "Numan Athletics (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ordyne.zip",
+      "label": "Ordyne (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pacland.zip",
+      "label": "Pac-Land (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pacman.zip",
+      "label": "Pac-Man (Midway)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pacmania.zip",
+      "label": "Pac-Mania",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pacnpal.zip",
+      "label": "Pac _ Pal",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pacplus.zip",
+      "label": "Pac-Man Plus",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/phelios.zip",
+      "label": "Phelios (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/phozon.zip",
+      "label": "Phozon (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pistoldm.zip",
+      "label": "Pistol Daimyo no Bouken (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ptblank.zip",
+      "label": "Point Blank",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/puzlclub.zip",
+      "label": "Puzzle Club (Japan prototype)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/quester.zip",
+      "label": "Quester (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/rallyx.zip",
+      "label": "Rally X",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/rbibb.zip",
+      "label": "Vs. Atari R.B.I. Baseball (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/roishtar.zip",
+      "label": "The Return of Ishtar",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/rompers.zip",
+      "label": "Rompers (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/rthun2.zip",
+      "label": "Rolling Thunder 2",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/rthunder.zip",
+      "label": "Rolling Thunder (new version)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/shadowld.zip",
+      "label": "Shadow Land",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/skykid.zip",
+      "label": "Sky Kid (New Ver.)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/skykiddx.zip",
+      "label": "Sky Kid Deluxe (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/solvalou.zip",
+      "label": "Solvalou (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/splatter.zip",
+      "label": "Splatter House (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/starblad.zip",
+      "label": "Starblade",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/starlstr.zip",
+      "label": "Vs. Star Luster",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/superpac.zip",
+      "label": "Super Pac-Man",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/supxevs.zip",
+      "label": "Vs. Super Xevious",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/swcourt.zip",
+      "label": "Super World Court (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/tankfrce.zip",
+      "label": "Tank Force (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/tceptor.zip",
+      "label": "Thunder Ceptor",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/tinklpit.zip",
+      "label": "Tinkle Pit (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/tkoboxng.zip",
+      "label": "Vs. TKO Boxing",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/todruaga.zip",
+      "label": "Tower of Druaga (New Ver.)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/toypop.zip",
+      "label": "Toypop",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/valkyrie.zip",
+      "label": "Valkyrie No Densetsu (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/vshoot.zip",
+      "label": "J-League Soccer V-Shoot",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/vsskykid.zip",
+      "label": "Vs. Super SkyKid",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/warpwarp.zip",
+      "label": "Warp _ Warp",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/wldcourt.zip",
+      "label": "World Court (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/wndrmomo.zip",
+      "label": "Wonder Momo",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/xevious.zip",
+      "label": "Xevious (Namco)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Namco.lpl"
+    }
+  ]
+}

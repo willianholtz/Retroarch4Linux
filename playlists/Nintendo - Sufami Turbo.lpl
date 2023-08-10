@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Nintendo - Sufami Turbo/Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (Japan).smc",
+      "label": "Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Sufami Turbo/Crayon Shin Chan - Nagagutsu Dobon (Japan).smc",
+      "label": "Crayon Shin Chan - Nagagutsu Dobon (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Sufami Turbo/Gegege no Kitarou - Youkai Donjara (Japan).smc",
+      "label": "Gegege no Kitarou - Youkai Donjara (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Sufami Turbo/Gekisou Sentai Car Rangers (Japan).smc",
+      "label": "Gekisou Sentai Car Rangers (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Sufami Turbo/Poi Poi Ninjya World (Japan).smc",
+      "label": "Poi Poi Ninjya World (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Sufami Turbo/SD Gundam Generations (A) 1 Nen Sensouki (Japan).smc",
+      "label": "SD Gundam Generations (A) 1 Nen Sensouki (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Sufami Turbo/SD Gundam Generations (B) Guripus Senki (Japan).smc",
+      "label": "SD Gundam Generations (B) Guripus Senki (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Sufami Turbo/SD Gundam Generations (C) Axiz Senki (Japan).smc",
+      "label": "SD Gundam Generations (C) Axiz Senki (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Sufami Turbo/SD Gundam Generations (D) Babironia Kenkoku Senki (Japan).smc",
+      "label": "SD Gundam Generations (D) Babironia Kenkoku Senki (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Sufami Turbo/SD Gundam Generations (E) Zansukaru Senki (Japan).smc",
+      "label": "SD Gundam Generations (E) Zansukaru Senki (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Sufami Turbo/SD Gundam Generations (F) Colony Kakutouki (Japan).smc",
+      "label": "SD Gundam Generations (F) Colony Kakutouki (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Sufami Turbo/SD Ultra Battle - Seven & Ultraman (Japan).smc",
+      "label": "SD Ultra Battle - Seven & Ultraman (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Sufami Turbo/SD Ultra Battle - Seven Densetsu (Japan).smc",
+      "label": "SD Ultra Battle - Seven Densetsu (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Sufami Turbo/SD Ultra Battle - Ultraman & Seven (Japan).smc",
+      "label": "SD Ultra Battle - Ultraman & Seven (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Sufami Turbo/SD Ultra Battle - Ultraman Densetsu (Japan).smc",
+      "label": "SD Ultra Battle - Ultraman Densetsu (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Sufami Turbo.lpl"
+    }
+  ]
+}

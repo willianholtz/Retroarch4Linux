@@ -1,0 +1,3092 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/1991 Du Ma Racing (China) (Translated En).zip",
+      "label": "1991 Du Ma Racing (China) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/4 Nin uchi Mahjong (Japan) (Translated En).zip",
+      "label": "4 Nin uchi Mahjong (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Advanced Dungeons & Dragons - Dragons of Flame (Japan) (Translated En).zip",
+      "label": "Advanced Dungeons & Dragons - Dragons of Flame (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Airwolf (Japan) (Translated En).zip",
+      "label": "Airwolf (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Akira (Japan) (Translated En).zip",
+      "label": "Akira (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Akumajou Densetsu (Japan) (Translated En).zip",
+      "label": "Akumajou Densetsu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Akumajou Special - Boku Dracula-kun (Japan) (Translated En).zip",
+      "label": "Akumajou Special - Boku Dracula-kun (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/American Dream (Japan) (Translated En).zip",
+      "label": "American Dream (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ankoku Shinwa - Yamato Takeru Densetsu (Japan) (Translated En).zip",
+      "label": "Ankoku Shinwa - Yamato Takeru Densetsu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Arctic (Japan).zip",
+      "label": "Arctic (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Argus (Japan).zip",
+      "label": "Argus (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Arkanoid II (Japan).zip",
+      "label": "Arkanoid II (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Armadillo (Japan) (Translated En).zip",
+      "label": "Armadillo (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Astro Fang - Super Machine (Japan) (Translated En).zip",
+      "label": "Astro Fang - Super Machine (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Astro Robo Sasa (Japan).zip",
+      "label": "Astro Robo Sasa (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Atlantis no Nazo (Japan).zip",
+      "label": "Atlantis no Nazo (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Attack Animal Gakuen (Japan) (Translated En).zip",
+      "label": "Attack Animal Gakuen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/B-Wings (Japan).zip",
+      "label": "B-Wings (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Babel no Tou (Japan).zip",
+      "label": "Babel no Tou (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ballblazer (Japan).zip",
+      "label": "Ballblazer (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Baltron (Japan).zip",
+      "label": "Baltron (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Banana (Japan) (Translated En).zip",
+      "label": "Banana (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Bats & Terry (Japan) (Translated En).zip",
+      "label": "Bats & Terry (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Battle City (Japan).zip",
+      "label": "Battle City (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Battle Storm (Japan) (Translated En).zip",
+      "label": "Battle Storm (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Binary Land (Japan).zip",
+      "label": "Binary Land (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Bio Force Ape (Japan) (Proto).zip",
+      "label": "Bio Force Ape (Japan) (Proto)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Bio Senshi Dan - Increaser Tono Tatakai (Japan) (Translated En).zip",
+      "label": "Bio Senshi Dan - Increaser Tono Tatakai (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Bio-Miracle Bokutte Upa (Japan) (Translated En).zip",
+      "label": "Bio-Miracle Bokutte Upa (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Bird Week (Japan).zip",
+      "label": "Bird Week (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Blodia Land - Puzzle Quest (Japan).zip",
+      "label": "Blodia Land - Puzzle Quest (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Bloody Warriors - Shan-Go no Gyakushuu (Japan) (Translated En).zip",
+      "label": "Bloody Warriors - Shan-Go no Gyakushuu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Bokosuka Wars (Japan).zip",
+      "label": "Bokosuka Wars (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Booby Kids (Japan).zip",
+      "label": "Booby Kids (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Cadillac (Japan) (Translated En).zip",
+      "label": "Cadillac (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Captain Silver (Japan) (Translated En).zip",
+      "label": "Captain Silver (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Captain Tsubasa Vol. II - Super Striker (Japan) (Translated En).zip",
+      "label": "Captain Tsubasa Vol. II - Super Striker (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Castle Quest (Japan) (Translated En).zip",
+      "label": "Castle Quest (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Chack'n Pop (Japan).zip",
+      "label": "Chack'n Pop (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Challenger (Japan).zip",
+      "label": "Challenger (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Championship Lode Runner (Japan).zip",
+      "label": "Championship Lode Runner (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Chaos World (Japan) (Translated En).zip",
+      "label": "Chaos World (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Chess Academy (China) (Translated En).zip",
+      "label": "Chess Academy (China) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Chester Field - Ankoku Shin e no Chousen (Japan) (Translated En).zip",
+      "label": "Chester Field - Ankoku Shin e no Chousen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Chiisana Obake - Acchi Socchi Kocchi (Japan) (Translated En).zip",
+      "label": "Chiisana Obake - Acchi Socchi Kocchi (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Cho Jiku Yosai Macross (Japan).zip",
+      "label": "Cho Jiku Yosai Macross (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Choplifter (Japan).zip",
+      "label": "Choplifter (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Choujin Sentai - Jetman (Japan) (Translated En).zip",
+      "label": "Choujin Sentai - Jetman (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Choujinrou Senki Warwolf (Japan) (Translated En).zip",
+      "label": "Choujinrou Senki Warwolf (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Chuuka Taisen (Japan) (Translated En).zip",
+      "label": "Chuuka Taisen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Circus Charlie (Japan).zip",
+      "label": "Circus Charlie (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Cocoron (Japan) (Translated En).zip",
+      "label": "Cocoron (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Columbus - Ougon no Yoake (Japan) (Translated En).zip",
+      "label": "Columbus - Ougon no Yoake (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Contra (Japan) (Translated En).zip",
+      "label": "Contra (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Cosmic Epsilon (Japan) (Translated En).zip",
+      "label": "Cosmic Epsilon (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Cosmo Genesis (Japan) (Translated En).zip",
+      "label": "Cosmo Genesis (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Cosmo Police Galivan (Japan) (Translated En).zip",
+      "label": "Cosmo Police Galivan (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Crazy Climber (Japan).zip",
+      "label": "Crazy Climber (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Crisis Force (Japan) (Translated En).zip",
+      "label": "Crisis Force (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Cycle Race - Road Man (Japan).zip",
+      "label": "Cycle Race - Road Man (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dai Meiro - Meikyuu no Tatsujin (Japan) (Translated En).zip",
+      "label": "Dai Meiro - Meikyuu no Tatsujin (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dai-2-Ji Super Robot Taisen (Japan) (Translated En).zip",
+      "label": "Dai-2-Ji Super Robot Taisen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Daisenryaku (Japan) (Translated En).zip",
+      "label": "Daisenryaku (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Daiva Story 6 - Imperial of Nirsartia (Japan) (Translated En).zip",
+      "label": "Daiva Story 6 - Imperial of Nirsartia (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dark Lord (Japan) (Translated En).zip",
+      "label": "Dark Lord (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dash Yarou (Japan) (Translated En).zip",
+      "label": "Dash Yarou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Deblock (Japan).zip",
+      "label": "Deblock (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Deep Dungeon III - Yuushi heno Tabi (Japan) (Translated En).zip",
+      "label": "Deep Dungeon III - Yuushi heno Tabi (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Deep Dungeon IV - Kuro no Youjutsushi (Japan) (Translated En).zip",
+      "label": "Deep Dungeon IV - Kuro no Youjutsushi (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Devil Man (Japan) (Translated En).zip",
+      "label": "Devil Man (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dezaemon (Japan) (Translated En).zip",
+      "label": "Dezaemon (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dig Dug (Japan).zip",
+      "label": "Dig Dug (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Digital Devil Monogatari - Megami Tensei (Japan) (Translated En).zip",
+      "label": "Digital Devil Monogatari - Megami Tensei (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Don Doko Don (Japan).zip",
+      "label": "Don Doko Don (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Don Doko Don 2 (Japan) (Translated En).zip",
+      "label": "Don Doko Don 2 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Donald Land (Japan).zip",
+      "label": "Donald Land (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Door Door (Japan).zip",
+      "label": "Door Door (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Doraemon (Japan) (Translated En).zip",
+      "label": "Doraemon (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Doraemon - Giga Zombie no Gyakushuu (Japan) (Translated En).zip",
+      "label": "Doraemon - Giga Zombie no Gyakushuu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Double Moon Densetsu (Japan) (Translated En).zip",
+      "label": "Double Moon Densetsu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dough Boy (Japan).zip",
+      "label": "Dough Boy (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan) (Translated En).zip",
+      "label": "Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dragon Ball - Daimaou Fukkatsu (Japan) (Translated En).zip",
+      "label": "Dragon Ball - Daimaou Fukkatsu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dragon Ball - Shenron no Nazo (Japan) (Translated En).zip",
+      "label": "Dragon Ball - Shenron no Nazo (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dragon Ball Z - Kyoushuu! Saiya Jin (Japan) (Translated En).zip",
+      "label": "Dragon Ball Z - Kyoushuu! Saiya Jin (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan) (Translated En).zip",
+      "label": "Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dragon Ball Z III - Ressen Jinzou Ningen (Japan) (Translated En).zip",
+      "label": "Dragon Ball Z III - Ressen Jinzou Ningen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dragon Buster (Japan).zip",
+      "label": "Dragon Buster (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dragon Buster II - Yami no Fuuin (Japan) (Translated En).zip",
+      "label": "Dragon Buster II - Yami no Fuuin (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dragon Knife (China) (Unl) (Translated En).zip",
+      "label": "Dragon Knife (China) (Unl) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dragon Ninja (Japan) (Translated En).zip",
+      "label": "Dragon Ninja (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dragon Scroll - Yomigaerishi Maryuu (Japan) (Translated En).zip",
+      "label": "Dragon Scroll - Yomigaerishi Maryuu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dream Master (Japan) (Translated En).zip",
+      "label": "Dream Master (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Dynamite Bowl (Japan).zip",
+      "label": "Dynamite Bowl (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Eggerland - Meikyuu no Fukkatsu (Japan) (Translated En).zip",
+      "label": "Eggerland - Meikyuu no Fukkatsu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Egypt (Japan) (Translated En).zip",
+      "label": "Egypt (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Elnark no Zaihou (Japan) (Translated En).zip",
+      "label": "Elnark no Zaihou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Elysion (Japan) (Translated En).zip",
+      "label": "Elysion (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Esper Bouken Tai (Japan) (Translated En).zip",
+      "label": "Esper Bouken Tai (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Esper Dream 2 - Aratanaru Tatakai (Japan) (Translated En).zip",
+      "label": "Esper Dream 2 - Aratanaru Tatakai (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Exciting Boxing (Japan).zip",
+      "label": "Exciting Boxing (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Exciting Rally - World Rally Championship (Japan) (Translated En).zip",
+      "label": "Exciting Rally - World Rally Championship (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Exed Exes (Japan).zip",
+      "label": "Exed Exes (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Exerion (Japan).zip",
+      "label": "Exerion (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/F-1 Race (Japan).zip",
+      "label": "F-1 Race (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Famicom Wars (Japan) (Translated En).zip",
+      "label": "Famicom Wars (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Family Jockey (Japan) (Translated En).zip",
+      "label": "Family Jockey (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Family Tennis (Japan) (Translated En).zip",
+      "label": "Family Tennis (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Fantasy Zone 2 - Opa-Opa no Namida (Japan).zip",
+      "label": "Fantasy Zone 2 - Opa-Opa no Namida (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Field Combat (Japan).zip",
+      "label": "Field Combat (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Final Fantasy II (Japan) (Translated En).zip",
+      "label": "Final Fantasy II (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Final Fantasy III (Japan) (Translated En).zip",
+      "label": "Final Fantasy III (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Final Fantasy VII (China) (Unl) (Translated En).zip",
+      "label": "Final Fantasy VII (China) (Unl) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Final Lap (Japan).zip",
+      "label": "Final Lap (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Final Mission (Japan) (Translated En).zip",
+      "label": "Final Mission (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Fire Emblem (Japan) (Translated En).zip",
+      "label": "Fire Emblem (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Fire Emblem Gaiden (Japan) (Translated En).zip",
+      "label": "Fire Emblem Gaiden (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Flappy (Japan).zip",
+      "label": "Flappy (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Fleet Commander (Japan) (Translated En).zip",
+      "label": "Fleet Commander (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Flipull - An Exciting Cube Game (Japan).zip",
+      "label": "Flipull - An Exciting Cube Game (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Flying Hero (Japan).zip",
+      "label": "Flying Hero (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Formation Z (Japan).zip",
+      "label": "Formation Z (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Front Line (Japan).zip",
+      "label": "Front Line (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Fudou Myouou Den (Japan) (Translated En).zip",
+      "label": "Fudou Myouou Den (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Fushigi no Umi no Nadia (Japan) (Translated En).zip",
+      "label": "Fushigi no Umi no Nadia (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Fuzzical Fighter (Japan) (Translated En).zip",
+      "label": "Fuzzical Fighter (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Galaxian (Japan).zip",
+      "label": "Galaxian (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Game Party (Japan) (Translated En).zip",
+      "label": "Game Party (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ganbare Goemon 2 (Japan) (Translated En).zip",
+      "label": "Ganbare Goemon 2 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ganbare Goemon! - Karakuri Douchuu (Japan) (Translated En).zip",
+      "label": "Ganbare Goemon! - Karakuri Douchuu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ganso Saiyuuki - Super Monkey Daibouken (Japan) (Translated En).zip",
+      "label": "Ganso Saiyuuki - Super Monkey Daibouken (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Garfield - A Week of Garfield (Japan).zip",
+      "label": "Garfield - A Week of Garfield (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Gegege no Kitarou - Youkai Daimakyou (Japan) (Translated En).zip",
+      "label": "Gegege no Kitarou - Youkai Daimakyou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Gegege no Kitarou 2 - Youkai Gundan no Chousen (Japan) (Translated En).zip",
+      "label": "Gegege no Kitarou 2 - Youkai Gundan no Chousen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Geimos (Japan).zip",
+      "label": "Geimos (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Gekitotsu Yonku Battle (Japan) (Translated En).zip",
+      "label": "Gekitotsu Yonku Battle (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Getsu Fuuma Den (Japan) (Translated En).zip",
+      "label": "Getsu Fuuma Den (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Golf '92, The (Japan) (Translated En).zip",
+      "label": "Golf '92, The (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Golf Club - Birdie Rush (Japan) (Translated En).zip",
+      "label": "Golf Club - Birdie Rush (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Goonies (Japan).zip",
+      "label": "Goonies (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Gorby no Pipeline Daisakusen (Japan) (Translated En).zip",
+      "label": "Gorby no Pipeline Daisakusen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Gradius II (Japan).zip",
+      "label": "Gradius II (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Grand Master (Japan) (Translated En).zip",
+      "label": "Grand Master (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Great Deal (Japan).zip",
+      "label": "Great Deal (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Gun-Dec (Japan) (Translated En).zip",
+      "label": "Gun-Dec (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Gyrodine (Japan).zip",
+      "label": "Gyrodine (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Hana no Star Kaidou (Japan).zip",
+      "label": "Hana no Star Kaidou (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Hebereke (Japan) (Translated En).zip",
+      "label": "Hebereke (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Heisei Tensai Bakabon (Japan) (Translated En).zip",
+      "label": "Heisei Tensai Bakabon (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Hello Kitty no Ohanabatake (Japan) (Translated En).zip",
+      "label": "Hello Kitty no Ohanabatake (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Hello Kitty World (Japan) (Translated En).zip",
+      "label": "Hello Kitty World (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Heracles no Eikou - Toujin Makyou Den (Japan) (Translated En).zip",
+      "label": "Heracles no Eikou - Toujin Makyou Den (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Heracles no Eikou II - Titan no Metsubou (Japan) (Translated En).zip",
+      "label": "Heracles no Eikou II - Titan no Metsubou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Hi no Tori Hououhen - Gaou no Bouken (Japan) (Translated En).zip",
+      "label": "Hi no Tori Hououhen - Gaou no Bouken (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Higemaru Makaijima - Nanatsu no Shima Daibouken (Japan) (Translated En).zip",
+      "label": "Higemaru Makaijima - Nanatsu no Shima Daibouken (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Hikari no Senshi Photon - The Ultimate Game on Planet Earth (Japan) (Translated En).zip",
+      "label": "Hikari no Senshi Photon - The Ultimate Game on Planet Earth (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Hirake! Ponkikki (Japan) (Translated En).zip",
+      "label": "Hirake! Ponkikki (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Hitler no Fukkatsu - Top Secret (Japan) (Translated En).zip",
+      "label": "Hitler no Fukkatsu - Top Secret (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Hokuto no Ken (Japan) (Translated En).zip",
+      "label": "Hokuto no Ken (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Holy Diver (Japan) (Translated En).zip",
+      "label": "Holy Diver (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Honoo no Doukyuuji - Dodge Danpei (Japan) (Translated En).zip",
+      "label": "Honoo no Doukyuuji - Dodge Danpei (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Honoo no Doukyuuji - Dodge Danpei 2 (Japan) (Translated En).zip",
+      "label": "Honoo no Doukyuuji - Dodge Danpei 2 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Hottaman no Chitei Tanken (Japan) (Translated En).zip",
+      "label": "Hottaman no Chitei Tanken (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Hyaku no Sekai no Monogatari - The Tales on a Watery Wilderness (Japan) (Translated En).zip",
+      "label": "Hyaku no Sekai no Monogatari - The Tales on a Watery Wilderness (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Hyper Sports (Japan).zip",
+      "label": "Hyper Sports (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan) (Translated En).zip",
+      "label": "Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ikinari Musician (Japan).zip",
+      "label": "Ikinari Musician (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ikki (Japan).zip",
+      "label": "Ikki (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Insector X (Japan) (Translated En).zip",
+      "label": "Insector X (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/J.League Fighting Soccer - The King of Ace Strikers (Japan).zip",
+      "label": "J.League Fighting Soccer - The King of Ace Strikers (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/J.League Winning Goal (Japan) (Translated En).zip",
+      "label": "J.League Winning Goal (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Jajamaru Gekimaden - Maboroshi no Kinmajou (Japan) (Translated En).zip",
+      "label": "Jajamaru Gekimaden - Maboroshi no Kinmajou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Jajamaru no Daibouken (Japan) (Translated En).zip",
+      "label": "Jajamaru no Daibouken (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Jekyll Hakase no Houma ga Toki (Japan) (Translated En).zip",
+      "label": "Jekyll Hakase no Houma ga Toki (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Jesus - Kyoufu no Bio Monster (Japan) (Translated En).zip",
+      "label": "Jesus - Kyoufu no Bio Monster (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Jigoku Gokuraku Maru (Japan) (Translated En).zip",
+      "label": "Jigoku Gokuraku Maru (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Jikuu Yuuden - Debias (Japan) (Translated En).zip",
+      "label": "Jikuu Yuuden - Debias (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/JJ - Tobidase Daisakusen Part II (Japan) (Translated En).zip",
+      "label": "JJ - Tobidase Daisakusen Part II (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Joy Mech Fight (Japan) (Translated En).zip",
+      "label": "Joy Mech Fight (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Jumbo Ozaki no Hole in One Professional (Japan).zip",
+      "label": "Jumbo Ozaki no Hole in One Professional (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Just Breed (Japan) (Translated En).zip",
+      "label": "Just Breed (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Juuouki (Japan) (Translated En).zip",
+      "label": "Juuouki (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Juuryoku Soukou Metal Storm (Japan) (Translated En).zip",
+      "label": "Juuryoku Soukou Metal Storm (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Juvei Quest (Japan) (Translated En).zip",
+      "label": "Juvei Quest (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kaguya Hime Densetsu (Japan) (Translated En).zip",
+      "label": "Kaguya Hime Densetsu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kai no Bouken - The Quest of Ki (Japan) (Translated En).zip",
+      "label": "Kai no Bouken - The Quest of Ki (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kaijuu Monogatari (Japan) (Translated En).zip",
+      "label": "Kaijuu Monogatari (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kaiketsu Yancha Maru 2 - Karakuri Land (Japan) (Translated En).zip",
+      "label": "Kaiketsu Yancha Maru 2 - Karakuri Land (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen (Japan) (Translated En).zip",
+      "label": "Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kamen no Ninja - Hanamaru (Japan) (Translated En).zip",
+      "label": "Kamen no Ninja - Hanamaru (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi (Japan) (Translated En).zip",
+      "label": "Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Karakuri Kengoden Musashi Lord - Karakuri Jin Hashiru! (Japan) (Translated En).zip",
+      "label": "Karakuri Kengoden Musashi Lord - Karakuri Jin Hashiru! (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Karateka (Japan).zip",
+      "label": "Karateka (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Karnov (Japan) (Translated En).zip",
+      "label": "Karnov (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kawa no Nushi Tsuri (Japan) (Translated En).zip",
+      "label": "Kawa no Nushi Tsuri (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Keisan Game - Sansuu 1 Nen (Japan) (Translated En).zip",
+      "label": "Keisan Game - Sansuu 1 Nen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Keisan Game - Sansuu 3 Nen (Japan) (Translated En).zip",
+      "label": "Keisan Game - Sansuu 3 Nen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Keisan Game - Sansuu 4 Nen (Japan) (Translated En).zip",
+      "label": "Keisan Game - Sansuu 4 Nen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Keisan Game - Sansuu 5+6 Nen (Japan) (Translated En).zip",
+      "label": "Keisan Game - Sansuu 5+6 Nen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kekkyoku Nankyoku Daibouken (Japan) (Translated En).zip",
+      "label": "Kekkyoku Nankyoku Daibouken (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kero Kero Keroppi no Daibouken (Japan) (Translated En).zip",
+      "label": "Kero Kero Keroppi no Daibouken (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kero Kero Keroppi no Daibouken 2 - Donuts Ike wa Oosawagi! (Japan) (Translated En).zip",
+      "label": "Kero Kero Keroppi no Daibouken 2 - Donuts Ike wa Oosawagi! (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Keroppi to Keroriinu no Splash Bomb! (Japan) (Translated En).zip",
+      "label": "Keroppi to Keroriinu no Splash Bomb! (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/King Kong 2 - Ikari no Megaton Punch (Japan) (Translated En).zip",
+      "label": "King Kong 2 - Ikari no Megaton Punch (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/King of Kings (Japan) (Translated En).zip",
+      "label": "King of Kings (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kinnikuman - Muscle Tag Match (Japan) (Translated En).zip",
+      "label": "Kinnikuman - Muscle Tag Match (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kouryuu Densetsu Villgust Gaiden (Japan) (Translated En).zip",
+      "label": "Kouryuu Densetsu Villgust Gaiden (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kujaku Ou (Japan) (Translated En).zip",
+      "label": "Kujaku Ou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kujaku Ou II (Japan) (Translated En).zip",
+      "label": "Kujaku Ou II (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kunio-kun no Nekketsu Soccer League (Japan) (Translated En).zip",
+      "label": "Kunio-kun no Nekketsu Soccer League (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kyatto Ninden Teyandee (Japan) (Translated En).zip",
+      "label": "Kyatto Ninden Teyandee (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Kyouryuu Sentai Zyuranger (Japan) (Translated En).zip",
+      "label": "Kyouryuu Sentai Zyuranger (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Labyrinth - Maou no Meikyuu (Japan) (Translated En).zip",
+      "label": "Labyrinth - Maou no Meikyuu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Lagrange Point (Japan) (Translated En).zip",
+      "label": "Lagrange Point (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Layla (Japan).zip",
+      "label": "Layla (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Lost Word of Jenny - Ushinawareta Message (Japan) (Translated En).zip",
+      "label": "Lost Word of Jenny - Ushinawareta Message (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Lot Lot (Japan).zip",
+      "label": "Lot Lot (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Lupin Sansei - Pandora no Isan (Japan) (Translated En).zip",
+      "label": "Lupin Sansei - Pandora no Isan (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Mad City (Japan) (Translated En).zip",
+      "label": "Mad City (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Madoola no Tsubasa (Japan).zip",
+      "label": "Madoola no Tsubasa (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Magic Candle, The (Japan) (Translated En).zip",
+      "label": "Magic Candle, The (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Magic John (Japan) (Translated En).zip",
+      "label": "Magic John (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Magical Doropie (Japan) (Translated En).zip",
+      "label": "Magical Doropie (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Magnum Kikiippatsu - Empire City - 1931 (Japan).zip",
+      "label": "Magnum Kikiippatsu - Empire City - 1931 (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/MahaRaja (Japan) (Translated En).zip",
+      "label": "MahaRaja (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Majin Eiyuuden Wataru Gaiden (Japan) (Translated En).zip",
+      "label": "Majin Eiyuuden Wataru Gaiden (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Majou Densetsu II - Daimashikyou Galious (Japan) (Translated En).zip",
+      "label": "Majou Densetsu II - Daimashikyou Galious (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Mappy (Japan).zip",
+      "label": "Mappy (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Mappy Kids (Japan) (Translated En).zip",
+      "label": "Mappy Kids (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Matendouji (Japan) (Translated En).zip",
+      "label": "Matendouji (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Metro-Cross (Japan).zip",
+      "label": "Metro-Cross (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Mickey Mouse 3 - Yume Fuusen (Japan) (Translated En).zip",
+      "label": "Mickey Mouse 3 - Yume Fuusen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Minelvaton Saga - Ragon no Fukkatsu (Japan) (Translated En).zip",
+      "label": "Minelvaton Saga - Ragon no Fukkatsu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Mini Putt (Japan) (Translated En).zip",
+      "label": "Mini Putt (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Minna no Taabou no Nakayoshi Daisakusen (Japan) (Translated En).zip",
+      "label": "Minna no Taabou no Nakayoshi Daisakusen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Miracle Ropit's Adventure in 2100 (Japan).zip",
+      "label": "Miracle Ropit's Adventure in 2100 (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Mirai Senshi - Lios (Japan) (Translated En).zip",
+      "label": "Mirai Senshi - Lios (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Mirai Shinwa Jarvas (Japan) (Translated En).zip",
+      "label": "Mirai Shinwa Jarvas (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Mitsume ga Tooru (Japan) (Translated En).zip",
+      "label": "Mitsume ga Tooru (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Moai-Kun (Japan) (Translated En).zip",
+      "label": "Moai-Kun (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan) (Translated En).zip",
+      "label": "Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Momotarou Densetsu (Japan) (Translated En).zip",
+      "label": "Momotarou Densetsu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Moon Crystal (Japan) (Translated En).zip",
+      "label": "Moon Crystal (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Mother (Japan) (Translated En).zip",
+      "label": "Mother (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Motocross Champion (Japan) (Translated En).zip",
+      "label": "Motocross Champion (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Mottomo Abunai Deka (Japan) (Translated En).zip",
+      "label": "Mottomo Abunai Deka (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Mouryou Senki Madara (Japan) (Translated En).zip",
+      "label": "Mouryou Senki Madara (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Musashi no Bouken (Japan) (Translated En).zip",
+      "label": "Musashi no Bouken (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Musashi no Ken - Tadaima Shugyou Chuu (Japan) (Translated En).zip",
+      "label": "Musashi no Ken - Tadaima Shugyou Chuu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Nagagutsu o Haita Neko - Sekai Isshuu 80 Nichi Daibouken (Japan).zip",
+      "label": "Nagagutsu o Haita Neko - Sekai Isshuu 80 Nichi Daibouken (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Nakayoshi to Issho (Japan) (Translated En).zip",
+      "label": "Nakayoshi to Issho (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Nankoku Shirei!! Spy vs. Spy (Japan) (Translated En).zip",
+      "label": "Nankoku Shirei!! Spy vs. Spy (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Nekketsu Kakutou Densetsu (Japan) (Translated En).zip",
+      "label": "Nekketsu Kakutou Densetsu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Nekketsu Kouha Kunio-Kun (Japan) (Translated En).zip",
+      "label": "Nekketsu Kouha Kunio-Kun (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan) (Translated En).zip",
+      "label": "Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Niji no Silk Road (Japan) (Translated En).zip",
+      "label": "Niji no Silk Road (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ninja Hattori-kun - Ninja wa Syugyou de Gozaru (Japan) (Translated En).zip",
+      "label": "Ninja Hattori-kun - Ninja wa Syugyou de Gozaru (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ninja Jajamaru - Ginga Daisakusen (Japan) (Translated En).zip",
+      "label": "Ninja Jajamaru - Ginga Daisakusen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ninja Jajamaru Kun (Japan) (Translated En).zip",
+      "label": "Ninja Jajamaru Kun (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ninja-kun - Ashura no Shou (Japan) (Translated En).zip",
+      "label": "Ninja-kun - Ashura no Shou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ninja-kun - Majou no Bouken (Japan) (Translated En).zip",
+      "label": "Ninja-kun - Majou no Bouken (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ninjara Hoi! (Japan) (Translated En).zip",
+      "label": "Ninjara Hoi! (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Nuts & Milk (Japan).zip",
+      "label": "Nuts & Milk (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Obake no Q Tarou - Wan Wan Panic (Japan) (Translated En).zip",
+      "label": "Obake no Q Tarou - Wan Wan Panic (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Oishinbo - Kyukyoku no Menu 3bon Syoubu (Japan) (Translated En).zip",
+      "label": "Oishinbo - Kyukyoku no Menu 3bon Syoubu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Onyanko Town (Japan) (Translated En).zip",
+      "label": "Onyanko Town (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Paaman Part 2 - Himitsu Kessha Madoodan o Taose! (Japan) (Translated En).zip",
+      "label": "Paaman Part 2 - Himitsu Kessha Madoodan o Taose! (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Pac-Land (Japan).zip",
+      "label": "Pac-Land (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Pachicom (Japan).zip",
+      "label": "Pachicom (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Pachinko Daisakusen (Japan) (Translated En).zip",
+      "label": "Pachinko Daisakusen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Pachinko Daisakusen 2 (Japan) (Translated En).zip",
+      "label": "Pachinko Daisakusen 2 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Palamedes II - Star Twinkles (Japan) (Translated En).zip",
+      "label": "Palamedes II - Star Twinkles (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Parallel World (Japan) (Translated En).zip",
+      "label": "Parallel World (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Paris-Dakar Rally Special (Japan) (Translated En).zip",
+      "label": "Paris-Dakar Rally Special (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Parodius Da! (Japan) (Translated En).zip",
+      "label": "Parodius Da! (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Parody World - Monster Party (Japan) (Proto) (Translated En).zip",
+      "label": "Parody World - Monster Party (Japan) (Proto) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Peepar Time (Japan).zip",
+      "label": "Peepar Time (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Penguin-Kun Wars (Japan) (Translated En).zip",
+      "label": "Penguin-Kun Wars (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Perfect Bowling (Japan).zip",
+      "label": "Perfect Bowling (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Pescatore (Japan) (Proto) (Translated En).zip",
+      "label": "Pescatore (Japan) (Proto) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Pizza Pop! (Japan).zip",
+      "label": "Pizza Pop! (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Pooyan (Japan).zip",
+      "label": "Pooyan (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Popeye no Eigo Asobi (Japan) (Translated En).zip",
+      "label": "Popeye no Eigo Asobi (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Portopia Renzoku Satsujin Jiken (Japan) (Translated En).zip",
+      "label": "Portopia Renzoku Satsujin Jiken (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Power Blazer (Japan) (Translated En).zip",
+      "label": "Power Blazer (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Power Soccer (Japan).zip",
+      "label": "Power Soccer (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Puyo Puyo (Japan) (Translated En).zip",
+      "label": "Puyo Puyo (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Puzslot (Japan).zip",
+      "label": "Puzslot (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Quarth (Japan).zip",
+      "label": "Quarth (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Radia Senki - Reimei Hen (Japan) (Translated En).zip",
+      "label": "Radia Senki - Reimei Hen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Robocco Wars (Japan) (Translated En).zip",
+      "label": "Robocco Wars (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Rockman 2 - Dr. Wily no Nazo (Japan) (Translated En).zip",
+      "label": "Rockman 2 - Dr. Wily no Nazo (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Romancia (Japan) (Translated En).zip",
+      "label": "Romancia (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Route-16 Turbo (Japan).zip",
+      "label": "Route-16 Turbo (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Saint Seiya - Ougon Densetsu (Japan) (Translated En).zip",
+      "label": "Saint Seiya - Ougon Densetsu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Saint Seiya - Ougon Densetsu Kanketsu Hen (Japan) (Translated En).zip",
+      "label": "Saint Seiya - Ougon Densetsu Kanketsu Hen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Saiyuuki World 2 - Tenjoukai no Majin (Japan) (Translated En).zip",
+      "label": "Saiyuuki World 2 - Tenjoukai no Majin (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Sanrio Carnival 2 (Japan) (Translated En).zip",
+      "label": "Sanrio Carnival 2 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Sanrio Cup - Pon Pon Volley (Japan) (Translated En).zip",
+      "label": "Sanrio Cup - Pon Pon Volley (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Sansara Naga (Japan) (Translated En).zip",
+      "label": "Sansara Naga (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/SD Hero Soukessen - Taose! Aku no Gundan (Japan) (Translated En).zip",
+      "label": "SD Hero Soukessen - Taose! Aku no Gundan (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/SD Keiji - Blader (Japan) (Translated En).zip",
+      "label": "SD Keiji - Blader (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Seirei Gari (Japan) (Translated En).zip",
+      "label": "Seirei Gari (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Shanghai (Japan).zip",
+      "label": "Shanghai (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Shanghai II (Japan).zip",
+      "label": "Shanghai II (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Shikinjou (Japan) (Translated En).zip",
+      "label": "Shikinjou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Shinsenden (Japan) (Translated En).zip",
+      "label": "Shinsenden (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Shufflepuck Cafe (Japan) (Translated En).zip",
+      "label": "Shufflepuck Cafe (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Silva Saga (Japan) (Translated En).zip",
+      "label": "Silva Saga (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Sky Destroyer (Japan).zip",
+      "label": "Sky Destroyer (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Softball Tengoku (Japan) (Translated En).zip",
+      "label": "Softball Tengoku (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Son Son (Japan).zip",
+      "label": "Son Son (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Space Harrier (Japan).zip",
+      "label": "Space Harrier (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Space Invaders (Japan).zip",
+      "label": "Space Invaders (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Space Shadow (Japan).zip",
+      "label": "Space Shadow (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Spartan X 2 (Japan) (Translated En).zip",
+      "label": "Spartan X 2 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Spelunker II - Yuusha e no Chousen (Japan) (Translated En).zip",
+      "label": "Spelunker II - Yuusha e no Chousen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Splatterhouse - Wanpaku Graffiti (Japan) (Translated En).zip",
+      "label": "Splatterhouse - Wanpaku Graffiti (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Sqoon (Japan) (Translated En).zip",
+      "label": "Sqoon (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Star Luster (Japan).zip",
+      "label": "Star Luster (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Star Wars (Japan) (Namco) (Translated En).zip",
+      "label": "Star Wars (Japan) (Namco) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Sted - Iseki Wakusei no Yabou (Japan) (Translated En).zip",
+      "label": "Sted - Iseki Wakusei no Yabou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Stick Hunter - Exciting Ice Hockey (Japan).zip",
+      "label": "Stick Hunter - Exciting Ice Hockey (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Sugoro Quest - Dice no Senshitachi (Japan) (Translated En).zip",
+      "label": "Sugoro Quest - Dice no Senshitachi (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Summer Carnival '92 - Recca (Japan) (Translated En).zip",
+      "label": "Summer Carnival '92 - Recca (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Super Arabian (Japan).zip",
+      "label": "Super Arabian (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Super Black Onyx (Japan).zip",
+      "label": "Super Black Onyx (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Super Contra 7 (China) (Unl) (Translated En).zip",
+      "label": "Super Contra 7 (China) (Unl) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Super Donkey Kong - Xiang Jiao Chuan (China) (Unl) (Translated En).zip",
+      "label": "Super Donkey Kong - Xiang Jiao Chuan (China) (Unl) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Super Dyna'mix Badminton (Japan).zip",
+      "label": "Super Dyna'mix Badminton (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Super Mario Bros (25 Anniversary Edition) (Japan).zip",
+      "label": "Super Mario Bros (25 Anniversary Edition) (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Super Maruo (Japan) (Unl) (Translated En).zip",
+      "label": "Super Maruo (Japan) (Unl) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Super Pinball (Japan).zip",
+      "label": "Super Pinball (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Super Star Force (Japan) (Translated En).zip",
+      "label": "Super Star Force (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Super Xevious - Gump no Nazo (Japan).zip",
+      "label": "Super Xevious - Gump no Nazo (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Superstar Pro Wrestling (Japan) (Translated En).zip",
+      "label": "Superstar Pro Wrestling (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Sweet Home (Japan) (Translated En).zip",
+      "label": "Sweet Home (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Taito Chase H.Q. (Japan) (Translated En).zip",
+      "label": "Taito Chase H.Q. (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Taito Grand Prix - Eikou e no License (Japan) (Translated En).zip",
+      "label": "Taito Grand Prix - Eikou e no License (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Taiyou no Yuusha Fighbird (Japan) (Translated En).zip",
+      "label": "Taiyou no Yuusha Fighbird (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Takahashi Meijin no Bouken Jima IV (Japan) (Translated En).zip",
+      "label": "Takahashi Meijin no Bouken Jima IV (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Takahashi Meijin no Bugutte Honey (Japan).zip",
+      "label": "Takahashi Meijin no Bugutte Honey (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Takeshi no Chousenjou (Japan) (Translated En).zip",
+      "label": "Takeshi no Chousenjou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Tao (Japan) (Translated En).zip",
+      "label": "Tao (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Tashiro Masashi no Princess ga Ippai (Japan) (Translated En).zip",
+      "label": "Tashiro Masashi no Princess ga Ippai (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Tenchi wo Kurau II - Shokatsu Koumei Den (Japan) (Translated En).zip",
+      "label": "Tenchi wo Kurau II - Shokatsu Koumei Den (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Tetrastar - The Fighter (Japan) (Translated En).zip",
+      "label": "Tetrastar - The Fighter (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Tetris (Bulletproof) (Japan).zip",
+      "label": "Tetris (Bulletproof) (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Tetris 2 + Bombliss (Japan).zip",
+      "label": "Tetris 2 + Bombliss (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Thexder (Japan).zip",
+      "label": "Thexder (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Time Zone (Japan) (Translated En).zip",
+      "label": "Time Zone (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Titan (Japan).zip",
+      "label": "Titan (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Tokkyuu Shirei Solbrain (Japan) (Translated En).zip",
+      "label": "Tokkyuu Shirei Solbrain (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Top Rider (Japan).zip",
+      "label": "Top Rider (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Toukon Club (Japan) (Translated En).zip",
+      "label": "Toukon Club (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Tower of Druaga, The (Japan).zip",
+      "label": "Tower of Druaga, The (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Transformers - Convoy no Nazo (Japan) (Translated En).zip",
+      "label": "Transformers - Convoy no Nazo (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Triathron, The (Japan).zip",
+      "label": "Triathron, The (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Tsuri Kichi Sanpei - Blue Marlin Hen (Japan) (Translated En).zip",
+      "label": "Tsuri Kichi Sanpei - Blue Marlin Hen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/TwinBee (Japan).zip",
+      "label": "TwinBee (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/TwinBee 3 - Poko Poko Daimaou (Japan) (Translated En).zip",
+      "label": "TwinBee 3 - Poko Poko Daimaou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Uchuu Keibitai SDF (Japan).zip",
+      "label": "Uchuu Keibitai SDF (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Urusei Yatsura - Lum no Wedding Bell (Japan) (Translated En).zip",
+      "label": "Urusei Yatsura - Lum no Wedding Bell (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Valis - The Fantastic Soldier (Japan) (Translated En).zip",
+      "label": "Valis - The Fantastic Soldier (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Valkyrie no Bouken - Toki no Kagi Densetsu (Japan) (Translated En).zip",
+      "label": "Valkyrie no Bouken - Toki no Kagi Densetsu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Volguard II (Japan).zip",
+      "label": "Volguard II (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Wagyan Land (Japan) (Translated En).zip",
+      "label": "Wagyan Land (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Wagyan Land 2 (Japan) (Translated En).zip",
+      "label": "Wagyan Land 2 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Wai Wai World (Japan) (Translated En).zip",
+      "label": "Wai Wai World (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Wai Wai World 2 - SOS!! Paseri Jou (Japan) (Translated En).zip",
+      "label": "Wai Wai World 2 - SOS!! Paseri Jou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Wanpaku Kokkun no Gourmet World (Japan) (Translated En).zip",
+      "label": "Wanpaku Kokkun no Gourmet World (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Warpman (Japan).zip",
+      "label": "Warpman (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Wily & Light no Rockboard - That's Paradise (Japan) (Translated En).zip",
+      "label": "Wily & Light no Rockboard - That's Paradise (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Wit's (Japan) (Translated En).zip",
+      "label": "Wit's (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Wizardry II - Llylgamyn no Densetsu (Japan) (Translated En).zip",
+      "label": "Wizardry II - Llylgamyn no Densetsu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Woody Poko (Japan) (Translated En).zip",
+      "label": "Woody Poko (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Yie Ar Kung-Fu (Japan).zip",
+      "label": "Yie Ar Kung-Fu (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Youkai Club (Japan) (Translated En).zip",
+      "label": "Youkai Club (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ys (Japan) (Translated En).zip",
+      "label": "Ys (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ys II - Ancient Ys Vanished - The Final Chapter (Japan) (Translated En).zip",
+      "label": "Ys II - Ancient Ys Vanished - The Final Chapter (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Ys III - Wanderers from Ys (Japan) (Translated En).zip",
+      "label": "Ys III - Wanderers from Ys (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Yume Penguin Monogatari (Japan) (Translated En).zip",
+      "label": "Yume Penguin Monogatari (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Zippy Race (Japan).zip",
+      "label": "Zippy Race (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Zoids - Mokushiroku (Japan) (Translated En).zip",
+      "label": "Zoids - Mokushiroku (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Zombie Hunter (Japan) (Translated En).zip",
+      "label": "Zombie Hunter (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Famicom/Zunou Senkan Galg (Japan).zip",
+      "label": "Zunou Senkan Galg (Japan)",
+      "core_path": ".config/retroarch/cores/fceumm_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Famicom.lpl"
+    }
+  ]
+}

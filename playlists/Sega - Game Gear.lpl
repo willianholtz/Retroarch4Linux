@@ -1,0 +1,2564 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/5 in 1 Funpak (USA).zip",
+      "label": "5 in 1 Funpak (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Aa Harimanada (Japan).zip",
+      "label": "Aa Harimanada (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Addams Family, The (World).zip",
+      "label": "Addams Family, The (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Adventures of Batman & Robin, The (USA, Europe).zip",
+      "label": "Adventures of Batman & Robin, The (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Aerial Assault (World).zip",
+      "label": "Aerial Assault (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Aladdin (USA, Europe).zip",
+      "label": "Aladdin (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Alien 3 (USA, Europe).zip",
+      "label": "Alien 3 (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Andre Agassi Tennis (USA).zip",
+      "label": "Andre Agassi Tennis (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Arcade Classics (USA).zip",
+      "label": "Arcade Classics (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Arch Rivals (USA).zip",
+      "label": "Arch Rivals (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Arena (USA, Europe).zip",
+      "label": "Arena (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Ariel the Little Mermaid (USA, Europe).zip",
+      "label": "Ariel the Little Mermaid (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Asterix and the Great Rescue (USA).zip",
+      "label": "Asterix and the Great Rescue (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Ax Battler - A Legend of Golden Axe (USA, Europe).zip",
+      "label": "Ax Battler - A Legend of Golden Axe (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Ayrton Senna's Super Monaco GP II (USA, Europe).zip",
+      "label": "Ayrton Senna's Super Monaco GP II (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Baku Baku Animal (USA).zip",
+      "label": "Baku Baku Animal (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Barbie Super Model (USA) (Proto).zip",
+      "label": "Barbie Super Model (USA) (Proto)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Bartman Meets Radioactive Man (USA, Europe).zip",
+      "label": "Bartman Meets Radioactive Man (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Batman Forever (World).zip",
+      "label": "Batman Forever (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Batman Returns (World).zip",
+      "label": "Batman Returns (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Batter Up (USA, Europe).zip",
+      "label": "Batter Up (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Battleship (USA, Europe).zip",
+      "label": "Battleship (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Battletoads (USA).zip",
+      "label": "Battletoads (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Beavis and Butt-head (USA).zip",
+      "label": "Beavis and Butt-head (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Berenstain Bears' Camping Adventure, The (USA).zip",
+      "label": "Berenstain Bears' Camping Adventure, The (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Berlin no Kabe (Japan).zip",
+      "label": "Berlin no Kabe (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Bishoujo Senshi Sailor Moon S (Japan).zip",
+      "label": "Bishoujo Senshi Sailor Moon S (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Bonkers Wax Up! (USA, Europe).zip",
+      "label": "Bonkers Wax Up! (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Bram Stoker's Dracula (USA).zip",
+      "label": "Bram Stoker's Dracula (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Bubble Bobble (USA, Europe).zip",
+      "label": "Bubble Bobble (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Bugs Bunny in Double Trouble (USA, Europe).zip",
+      "label": "Bugs Bunny in Double Trouble (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Bust-A-Move (USA, Europe).zip",
+      "label": "Bust-A-Move (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Buster Ball (Japan).zip",
+      "label": "Buster Ball (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Buster Fight (Japan).zip",
+      "label": "Buster Fight (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Caesars Palace (USA).zip",
+      "label": "Caesars Palace (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Captain America and the Avengers (USA, Europe).zip",
+      "label": "Captain America and the Avengers (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Casino Funpak (USA).zip",
+      "label": "Casino Funpak (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Castle of Illusion Starring Mickey Mouse (USA, Europe).zip",
+      "label": "Castle of Illusion Starring Mickey Mouse (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Chakan (USA, Europe).zip",
+      "label": "Chakan (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Chase H.Q. (USA).zip",
+      "label": "Chase H.Q. (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Cheese Cat-Astrophe - Starring Speedy Gonzales (Europe).zip",
+      "label": "Cheese Cat-Astrophe - Starring Speedy Gonzales (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Chessmaster, The (USA, Europe).zip",
+      "label": "Chessmaster, The (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Chicago Syndicate (USA, Europe).zip",
+      "label": "Chicago Syndicate (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Choplifter III (USA, Europe).zip",
+      "label": "Choplifter III (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Chuck Rock (World).zip",
+      "label": "Chuck Rock (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Chuck Rock II - Son of Chuck (USA).zip",
+      "label": "Chuck Rock II - Son of Chuck (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/CJ Elephant Fugitive (Europe).zip",
+      "label": "CJ Elephant Fugitive (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Cliffhanger (USA, Europe).zip",
+      "label": "Cliffhanger (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Clutch Hitter (USA).zip",
+      "label": "Clutch Hitter (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Coca-Cola Kid (Japan) (Translated En).zip",
+      "label": "Coca-Cola Kid (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Cool Spot (USA).zip",
+      "label": "Cool Spot (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Cosmic Spacehead (USA).zip",
+      "label": "Cosmic Spacehead (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan).zip",
+      "label": "Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Crazy Faces (USA) (Proto).zip",
+      "label": "Crazy Faces (USA) (Proto)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Crystal Warriors (USA, Europe).zip",
+      "label": "Crystal Warriors (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Cutthroat Island (USA, Europe).zip",
+      "label": "Cutthroat Island (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Deep Duck Trouble Starring Donald Duck (USA, Europe).zip",
+      "label": "Deep Duck Trouble Starring Donald Duck (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Defenders of Oasis (USA, Europe).zip",
+      "label": "Defenders of Oasis (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Desert Speedtrap (USA).zip",
+      "label": "Desert Speedtrap (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Desert Strike - Return to the Gulf (USA, Europe).zip",
+      "label": "Desert Strike - Return to the Gulf (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Devilish (USA).zip",
+      "label": "Devilish (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Donald no Magical World (Japan).zip",
+      "label": "Donald no Magical World (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Doraemon - Noranosuke no Yabou (Japan).zip",
+      "label": "Doraemon - Noranosuke no Yabou (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Doraemon - Waku Waku Pocket Paradise (Japan).zip",
+      "label": "Doraemon - Waku Waku Pocket Paradise (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Double Dragon (USA, Europe).zip",
+      "label": "Double Dragon (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Dr. Robotnik's Mean Bean Machine (USA, Europe).zip",
+      "label": "Dr. Robotnik's Mean Bean Machine (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Dragon - The Bruce Lee Story (USA).zip",
+      "label": "Dragon - The Bruce Lee Story (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Dragon Crystal (USA, Europe).zip",
+      "label": "Dragon Crystal (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Dropzone (Europe).zip",
+      "label": "Dropzone (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Dunk Kids (Japan).zip",
+      "label": "Dunk Kids (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Dynamite Headdy (USA, Europe).zip",
+      "label": "Dynamite Headdy (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Earthworm Jim (USA).zip",
+      "label": "Earthworm Jim (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Ecco II - The Tides of Time (USA, Europe).zip",
+      "label": "Ecco II - The Tides of Time (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Ecco the Dolphin (USA, Europe).zip",
+      "label": "Ecco the Dolphin (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Ernie Els Golf (Europe).zip",
+      "label": "Ernie Els Golf (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Evander Holyfield Boxing (USA, Europe).zip",
+      "label": "Evander Holyfield Boxing (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Excellent Dizzy Collection, The (Europe).zip",
+      "label": "Excellent Dizzy Collection, The (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/F-15 Strike Eagle (USA, Europe).zip",
+      "label": "F-15 Strike Eagle (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/F1 (USA, Europe).zip",
+      "label": "F1 (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/F1 - World Championship Edition (Europe).zip",
+      "label": "F1 - World Championship Edition (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Faceball 2000 (Japan).zip",
+      "label": "Faceball 2000 (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Factory Panic (Europe).zip",
+      "label": "Factory Panic (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Fantastic Dizzy (USA).zip",
+      "label": "Fantastic Dizzy (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Fantasy Zone (USA).zip",
+      "label": "Fantasy Zone (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Fatal Fury Special (USA).zip",
+      "label": "Fatal Fury Special (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/FIFA International Soccer (USA, Europe).zip",
+      "label": "FIFA International Soccer (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/FIFA Soccer 96 (USA, Europe).zip",
+      "label": "FIFA Soccer 96 (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Foreman for Real (World).zip",
+      "label": "Foreman for Real (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Frank Thomas Big Hurt Baseball (USA).zip",
+      "label": "Frank Thomas Big Hurt Baseball (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Fred Couples' Golf (USA).zip",
+      "label": "Fred Couples' Golf (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Frogger (USA) (Proto).zip",
+      "label": "Frogger (USA) (Proto)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/From TV Animation - Slam Dunk - Shouri e no Starting 5 (Japan).zip",
+      "label": "From TV Animation - Slam Dunk - Shouri e no Starting 5 (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/G-LOC Air Battle (USA, Europe).zip",
+      "label": "G-LOC Air Battle (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Galaga 2 (Europe).zip",
+      "label": "Galaga 2 (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Gamble Panic (Japan).zip",
+      "label": "Gamble Panic (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Gambler Jiko Chuushinha (Japan).zip",
+      "label": "Gambler Jiko Chuushinha (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Ganbare Gorby! (Japan).zip",
+      "label": "Ganbare Gorby! (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Garfield - Caught in the Act (USA, Europe).zip",
+      "label": "Garfield - Caught in the Act (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Gear Works (USA).zip",
+      "label": "Gear Works (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/George Foreman's KO Boxing (USA, Europe).zip",
+      "label": "George Foreman's KO Boxing (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/GG Aleste (Japan).zip",
+      "label": "GG Aleste (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/GP Rider (USA, Europe).zip",
+      "label": "GP Rider (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Greendog (USA, Europe).zip",
+      "label": "Greendog (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Griffin (Japan).zip",
+      "label": "Griffin (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Gunstar Heroes (Japan).zip",
+      "label": "Gunstar Heroes (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Halley Wars (USA, Europe).zip",
+      "label": "Halley Wars (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Head Buster (Japan) (Translated En).zip",
+      "label": "Head Buster (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Home Alone (USA, Europe).zip",
+      "label": "Home Alone (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Hook (USA, Europe).zip",
+      "label": "Hook (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Hurricanes (Europe).zip",
+      "label": "Hurricanes (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Hyokkori Hyoutan-Jima - Hyoutan-Jima no Daikoukai (Japan).zip",
+      "label": "Hyokkori Hyoutan-Jima - Hyoutan-Jima no Daikoukai (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Ichidant/home/willianR GG (Japan).zip",
+      "label": "Ichidant/home/willianR GG (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Incredible Crash Dummies, The (USA, Europe).zip",
+      "label": "Incredible Crash Dummies, The (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Incredible Hulk, The (USA, Europe).zip",
+      "label": "Incredible Hulk, The (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Indiana Jones and the Last Crusade (USA, Europe).zip",
+      "label": "Indiana Jones and the Last Crusade (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Iron Man X-O Manowar in Heavy Metal (USA, Europe).zip",
+      "label": "Iron Man X-O Manowar in Heavy Metal (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Itchy & Scratchy Game, The (USA, Europe).zip",
+      "label": "Itchy & Scratchy Game, The (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/J-League GG Pro Striker '94 (Japan).zip",
+      "label": "J-League GG Pro Striker '94 (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/J-League Soccer - Dream Eleven (Japan).zip",
+      "label": "J-League Soccer - Dream Eleven (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/James Pond 3 - Operation Starfi5h (Europe).zip",
+      "label": "James Pond 3 - Operation Starfi5h (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/James Pond II - Codename RoboCod (USA).zip",
+      "label": "James Pond II - Codename RoboCod (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Jang Pung II (Korea) (Unl).zip",
+      "label": "Jang Pung II (Korea) (Unl)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Jeopardy! (USA).zip",
+      "label": "Jeopardy! (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Jeopardy! - Sports Edition (USA, Europe).zip",
+      "label": "Jeopardy! - Sports Edition (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Joe Montana's Football (USA, Europe).zip",
+      "label": "Joe Montana's Football (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Journey from Darkness - Strider Returns (USA, Europe).zip",
+      "label": "Journey from Darkness - Strider Returns (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Judge Dredd (USA, Europe).zip",
+      "label": "Judge Dredd (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Junction (USA, Europe).zip",
+      "label": "Junction (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Jungle Book, The (USA).zip",
+      "label": "Jungle Book, The (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Jungle Strike (USA).zip",
+      "label": "Jungle Strike (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Jurassic Park (USA, Europe).zip",
+      "label": "Jurassic Park (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Kaitou Saint Tail (Japan).zip",
+      "label": "Kaitou Saint Tail (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Kawasaki Superbike Challenge (USA, Europe).zip",
+      "label": "Kawasaki Superbike Challenge (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Kenyuu Densetsu Yaiba (Japan).zip",
+      "label": "Kenyuu Densetsu Yaiba (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Kinetic Connection (Japan).zip",
+      "label": "Kinetic Connection (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Kishin Douji Zenki (Japan).zip",
+      "label": "Kishin Douji Zenki (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Klax (USA, Europe).zip",
+      "label": "Klax (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Krusty's Fun House (USA, Europe).zip",
+      "label": "Krusty's Fun House (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Land of Illusion Starring Mickey Mouse (USA, Europe).zip",
+      "label": "Land of Illusion Starring Mickey Mouse (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Last Action Hero (USA).zip",
+      "label": "Last Action Hero (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Legend of Illusion Starring Mickey Mouse (USA, Europe).zip",
+      "label": "Legend of Illusion Starring Mickey Mouse (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Lemmings (World).zip",
+      "label": "Lemmings (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Lemmings 2 - The Tribes (Europe) (Proto).zip",
+      "label": "Lemmings 2 - The Tribes (Europe) (Proto)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Lion King, The (USA).zip",
+      "label": "Lion King, The (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Lost World, The - Jurassic Park (USA).zip",
+      "label": "Lost World, The - Jurassic Park (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Lucky Dime Caper, The (USA, Europe).zip",
+      "label": "Lucky Dime Caper, The (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Lunar - Sanposuru Gakuen (Japan) (Translated En).zip",
+      "label": "Lunar - Sanposuru Gakuen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Madden NFL '95 (USA).zip",
+      "label": "Madden NFL '95 (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Madden NFL '96 (USA, Europe).zip",
+      "label": "Madden NFL '96 (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Madou Monogatari I - 3-Tsu no Madoukyuu (Japan) (Translated En).zip",
+      "label": "Madou Monogatari I - 3-Tsu no Madoukyuu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Magical Puzzle Popils (World).zip",
+      "label": "Magical Puzzle Popils (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Magical Taruruuto-kun (Japan).zip",
+      "label": "Magical Taruruuto-kun (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Majors Pro Baseball, The (USA).zip",
+      "label": "Majors Pro Baseball, The (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Mappy (Japan).zip",
+      "label": "Mappy (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Marble Madness (USA, Europe).zip",
+      "label": "Marble Madness (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Marko's Magic Football (Europe).zip",
+      "label": "Marko's Magic Football (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Mega Man (USA, Europe).zip",
+      "label": "Mega Man (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Mick & Mack as the Global Gladiators (USA, Europe).zip",
+      "label": "Mick & Mack as the Global Gladiators (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Mickey's Ultimate Challenge (USA, Europe).zip",
+      "label": "Mickey's Ultimate Challenge (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Micro Machines 2 - Turbo Tournament (Europe).zip",
+      "label": "Micro Machines 2 - Turbo Tournament (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Mighty Morphin Power Rangers (USA, Europe).zip",
+      "label": "Mighty Morphin Power Rangers (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Mighty Morphin Power Rangers - The Movie (USA, Europe).zip",
+      "label": "Mighty Morphin Power Rangers - The Movie (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/MLBPA Baseball (USA).zip",
+      "label": "MLBPA Baseball (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Monster Truck Wars (USA, Europe).zip",
+      "label": "Monster Truck Wars (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Mortal Kombat (USA, Europe).zip",
+      "label": "Mortal Kombat (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Mortal Kombat 3 (Europe).zip",
+      "label": "Mortal Kombat 3 (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Mortal Kombat II (World).zip",
+      "label": "Mortal Kombat II (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Ms. Pac-Man (USA).zip",
+      "label": "Ms. Pac-Man (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/NBA Action (USA).zip",
+      "label": "NBA Action (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/NBA Jam (USA).zip",
+      "label": "NBA Jam (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/NBA Jam Tournament Edition (USA, Europe).zip",
+      "label": "NBA Jam Tournament Edition (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/NFL '95 (USA).zip",
+      "label": "NFL '95 (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/NFL Quarterback Club '96 (USA, Europe).zip",
+      "label": "NFL Quarterback Club '96 (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/NFL Quarterback Club (World).zip",
+      "label": "NFL Quarterback Club (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/NHL All-Star Hockey (USA).zip",
+      "label": "NHL All-Star Hockey (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/NHL Hockey (USA, Europe).zip",
+      "label": "NHL Hockey (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Ninja Gaiden (USA, Europe).zip",
+      "label": "Ninja Gaiden (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Olympic Gold (USA).zip",
+      "label": "Olympic Gold (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/OutRun (USA, Europe).zip",
+      "label": "OutRun (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/OutRun Europa (USA, Europe).zip",
+      "label": "OutRun Europa (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Pac-Attack (USA, Europe).zip",
+      "label": "Pac-Attack (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Pac-In-Time (USA) (Proto).zip",
+      "label": "Pac-In-Time (USA) (Proto)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Pac-Man (USA).zip",
+      "label": "Pac-Man (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Panzer Dragoon Mini (Japan).zip",
+      "label": "Panzer Dragoon Mini (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Paperboy (USA, Europe).zip",
+      "label": "Paperboy (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Paperboy II (USA, Europe).zip",
+      "label": "Paperboy II (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Pengo (USA, Europe).zip",
+      "label": "Pengo (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Pete Sampras Tennis (Europe).zip",
+      "label": "Pete Sampras Tennis (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/PGA Tour 96 (USA, Europe).zip",
+      "label": "PGA Tour 96 (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/PGA Tour Golf (USA).zip",
+      "label": "PGA Tour Golf (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/PGA Tour Golf II (USA, Europe).zip",
+      "label": "PGA Tour Golf II (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Phantasy Star Adventure (Japan) (Translated En).zip",
+      "label": "Phantasy Star Adventure (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Phantasy Star Gaiden (Japan) (Translated En).zip",
+      "label": "Phantasy Star Gaiden (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Phantom 2040 (USA, Europe).zip",
+      "label": "Phantom 2040 (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Pinball Dreams (USA).zip",
+      "label": "Pinball Dreams (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Pocket Jansou (Japan).zip",
+      "label": "Pocket Jansou (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Poker Faced Paul's Blackjack (USA).zip",
+      "label": "Poker Faced Paul's Blackjack (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Poker Faced Paul's Gin (USA).zip",
+      "label": "Poker Faced Paul's Gin (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Poker Faced Paul's Poker (USA).zip",
+      "label": "Poker Faced Paul's Poker (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Poker Faced Paul's Solitaire (USA).zip",
+      "label": "Poker Faced Paul's Solitaire (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Pop Breaker (Japan).zip",
+      "label": "Pop Breaker (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Popeye no Beach Volleyball (Japan).zip",
+      "label": "Popeye no Beach Volleyball (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Power Drive (Europe).zip",
+      "label": "Power Drive (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Power Strike II (Japan, Europe).zip",
+      "label": "Power Strike II (Japan, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Predator 2 (USA, Europe).zip",
+      "label": "Predator 2 (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Primal Rage (USA, Europe).zip",
+      "label": "Primal Rage (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Prince of Persia (USA, Europe).zip",
+      "label": "Prince of Persia (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Psychic World (USA, Europe).zip",
+      "label": "Psychic World (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Putt & Putter (USA, Europe).zip",
+      "label": "Putt & Putter (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Puyo Puyo (Japan).zip",
+      "label": "Puyo Puyo (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Puyo Puyo 2 (Japan).zip",
+      "label": "Puyo Puyo 2 (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Quest for the Shaven Yak Starring Ren Hoek & Stimpy (USA, Europe).zip",
+      "label": "Quest for the Shaven Yak Starring Ren Hoek & Stimpy (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/R.B.I. Baseball '94 (USA).zip",
+      "label": "R.B.I. Baseball '94 (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Rastan Saga (Japan).zip",
+      "label": "Rastan Saga (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Revenge of Drancon (USA).zip",
+      "label": "Revenge of Drancon (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Riddick Bowe Boxing (USA).zip",
+      "label": "Riddick Bowe Boxing (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Rise of the Robots (USA, Europe).zip",
+      "label": "Rise of the Robots (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Ristar - The Shooting Star (World).zip",
+      "label": "Ristar - The Shooting Star (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Road Rash (USA).zip",
+      "label": "Road Rash (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/RoboCop 3 (USA, Europe).zip",
+      "label": "RoboCop 3 (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/RoboCop versus The Terminator (USA, Europe).zip",
+      "label": "RoboCop versus The Terminator (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Royal Stone - Hirakareshi Toki no Tobira (Japan) (Translated En).zip",
+      "label": "Royal Stone - Hirakareshi Toki no Tobira (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/S.S. Lucifer - Man Overboard! (Europe).zip",
+      "label": "S.S. Lucifer - Man Overboard! (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Samurai Shodown (USA).zip",
+      "label": "Samurai Shodown (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Scratch Golf (USA).zip",
+      "label": "Scratch Golf (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/SD Gundam - Winner's History (Japan) (Translated En).zip",
+      "label": "SD Gundam - Winner's History (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Sega Game Pack 4 in 1 (Europe).zip",
+      "label": "Sega Game Pack 4 in 1 (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Sensible Soccer - European Champions (Europe).zip",
+      "label": "Sensible Soccer - European Champions (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Shanghai II (Japan).zip",
+      "label": "Shanghai II (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Shaq Fu (USA, Europe).zip",
+      "label": "Shaq Fu (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Shikinjou (Japan).zip",
+      "label": "Shikinjou (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Shining Force Gaiden - Final Conflict (Japan) (Translated En).zip",
+      "label": "Shining Force Gaiden - Final Conflict (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Shining Force II - The Sword of Hajya (USA, Europe).zip",
+      "label": "Shining Force II - The Sword of Hajya (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Shinobi II - The Silent Fury (World).zip",
+      "label": "Shinobi II - The Silent Fury (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Side Pocket (USA).zip",
+      "label": "Side Pocket (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Simpsons, The - Bart vs. The Space Mutants (USA, Europe).zip",
+      "label": "Simpsons, The - Bart vs. The Space Mutants (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Simpsons, The - Bart vs. The World (USA, Europe).zip",
+      "label": "Simpsons, The - Bart vs. The World (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Slider (USA, Europe).zip",
+      "label": "Slider (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Solitaire Funpak (USA).zip",
+      "label": "Solitaire Funpak (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Solitaire Poker (USA, Europe).zip",
+      "label": "Solitaire Poker (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Sonic Blast (World).zip",
+      "label": "Sonic Blast (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Sonic Chaos (USA, Europe).zip",
+      "label": "Sonic Chaos (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Sonic Drift (Japan).zip",
+      "label": "Sonic Drift (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Sonic Drift 2 (Japan, USA).zip",
+      "label": "Sonic Drift 2 (Japan, USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Sonic Labyrinth (World).zip",
+      "label": "Sonic Labyrinth (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Sonic Spinball (USA, Europe).zip",
+      "label": "Sonic Spinball (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Sonic The Hedgehog (World).zip",
+      "label": "Sonic The Hedgehog (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Sonic The Hedgehog - Triple Trouble (USA, Europe).zip",
+      "label": "Sonic The Hedgehog - Triple Trouble (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Sonic The Hedgehog 2 (World).zip",
+      "label": "Sonic The Hedgehog 2 (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Soukoban (Japan).zip",
+      "label": "Soukoban (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Space Harrier (World).zip",
+      "label": "Space Harrier (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Spider-Man - Return of the Sinister Six (USA, Europe).zip",
+      "label": "Spider-Man - Return of the Sinister Six (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Spider-Man and the X-Men in Arcade's Revenge (USA).zip",
+      "label": "Spider-Man and the X-Men in Arcade's Revenge (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Spirou (Europe) (Proto).zip",
+      "label": "Spirou (Europe) (Proto)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Sports Illustrated Championship Football & Baseball (USA, Europe).zip",
+      "label": "Sports Illustrated Championship Football & Baseball (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Sports Trivia (USA).zip",
+      "label": "Sports Trivia (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Sports Trivia - Championship Edition (USA, Europe).zip",
+      "label": "Sports Trivia - Championship Edition (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA).zip",
+      "label": "Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Star Trek Generations - Beyond the Nexus (USA, Europe).zip",
+      "label": "Star Trek Generations - Beyond the Nexus (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Star Wars (USA).zip",
+      "label": "Star Wars (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Stargate (World).zip",
+      "label": "Stargate (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Street Hero (USA) (Proto).zip",
+      "label": "Street Hero (USA) (Proto)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Streets of Rage (World).zip",
+      "label": "Streets of Rage (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Streets of Rage II (World).zip",
+      "label": "Streets of Rage II (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Striker (Europe).zip",
+      "label": "Striker (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Super Battletank (USA).zip",
+      "label": "Super Battletank (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Super Columns (USA, Europe).zip",
+      "label": "Super Columns (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Super Golf (Japan).zip",
+      "label": "Super Golf (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Super Kick Off (Europe, Japan).zip",
+      "label": "Super Kick Off (Europe, Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Super Monaco GP (USA, Europe).zip",
+      "label": "Super Monaco GP (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Super Off Road (USA, Europe).zip",
+      "label": "Super Off Road (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Super Return of the Jedi (USA, Europe).zip",
+      "label": "Super Return of the Jedi (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Super Smash T.V. (World).zip",
+      "label": "Super Smash T.V. (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Super Space Invaders (USA, Europe).zip",
+      "label": "Super Space Invaders (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Surf Ninjas (USA).zip",
+      "label": "Surf Ninjas (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Sylvan Tale (Japan) (Translated En).zip",
+      "label": "Sylvan Tale (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/T2 - The Arcade Game (USA, Europe).zip",
+      "label": "T2 - The Arcade Game (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Tails Adventures (World).zip",
+      "label": "Tails Adventures (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Tails no Sky Patrol (Japan).zip",
+      "label": "Tails no Sky Patrol (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Taisen Mahjong HaoPai (Japan).zip",
+      "label": "Taisen Mahjong HaoPai (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Taisen Mahjong HaoPai 2 (Japan).zip",
+      "label": "Taisen Mahjong HaoPai 2 (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Tale Spin (USA, Europe).zip",
+      "label": "Tale Spin (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Tarzan - Lord of the Jungle (Europe).zip",
+      "label": "Tarzan - Lord of the Jungle (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Taz in Escape from Mars (USA, Europe).zip",
+      "label": "Taz in Escape from Mars (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Taz-Mania - The Search for the Lost Seabirds (USA, Europe).zip",
+      "label": "Taz-Mania - The Search for the Lost Seabirds (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Tempo Jr. (World).zip",
+      "label": "Tempo Jr. (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Tengen World Cup Soccer (USA, Europe).zip",
+      "label": "Tengen World Cup Soccer (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Terminator 2 - Judgment Day (USA, Europe).zip",
+      "label": "Terminator 2 - Judgment Day (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Terminator, The (USA, Europe).zip",
+      "label": "Terminator, The (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Tesserae (USA, Europe).zip",
+      "label": "Tesserae (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Tintin in Tibet (Europe).zip",
+      "label": "Tintin in Tibet (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Tom and Jerry - The Movie (USA).zip",
+      "label": "Tom and Jerry - The Movie (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/True Lies (World).zip",
+      "label": "True Lies (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Ultimate Soccer (Japan, Europe).zip",
+      "label": "Ultimate Soccer (Japan, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Urban Strike (USA, Europe).zip",
+      "label": "Urban Strike (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Vampire - Master of Darkness (USA).zip",
+      "label": "Vampire - Master of Darkness (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Virtua Fighter Animation (USA, Europe).zip",
+      "label": "Virtua Fighter Animation (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/VR Troopers (USA, Europe).zip",
+      "label": "VR Troopers (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Wagan Land (Japan).zip",
+      "label": "Wagan Land (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Wheel of Fortune (USA).zip",
+      "label": "Wheel of Fortune (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Wild Snake (USA) (Proto).zip",
+      "label": "Wild Snake (USA) (Proto)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Wimbledon (World).zip",
+      "label": "Wimbledon (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Winter Olympics - Lillehammer '94 (USA, Europe).zip",
+      "label": "Winter Olympics - Lillehammer '94 (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Wizard Pinball (Europe).zip",
+      "label": "Wizard Pinball (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Wonder Boy - The Dragon's Trap (Europe).zip",
+      "label": "Wonder Boy - The Dragon's Trap (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Woody Pop (USA, Europe).zip",
+      "label": "Woody Pop (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/World Class Leader Board (USA, Europe).zip",
+      "label": "World Class Leader Board (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/World Cup USA 94 (USA, Europe).zip",
+      "label": "World Cup USA 94 (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/World Series Baseball '95 (USA).zip",
+      "label": "World Series Baseball '95 (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/World Series Baseball (USA).zip",
+      "label": "World Series Baseball (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/WWF Raw (USA, Europe).zip",
+      "label": "WWF Raw (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/WWF Wrestlemania Steel Cage Challenge (USA).zip",
+      "label": "WWF Wrestlemania Steel Cage Challenge (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/X-Men (USA).zip",
+      "label": "X-Men (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/X-Men - Gamemaster's Legacy (USA, Europe).zip",
+      "label": "X-Men - Gamemaster's Legacy (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/X-Men - Mojo World (USA, Europe).zip",
+      "label": "X-Men - Mojo World (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Yogi Bear in Yogi Bear's Goldrush (USA) (Proto).zip",
+      "label": "Yogi Bear in Yogi Bear's Goldrush (USA) (Proto)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan).zip",
+      "label": "Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Yu Yu Hakusho 2 - Gekitou! Nanakyou no Tatakai (Japan) (Translated En).zip",
+      "label": "Yu Yu Hakusho 2 - Gekitou! Nanakyou no Tatakai (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Zool - Ninja of the Nth Dimension (USA).zip",
+      "label": "Zool - Ninja of the Nth Dimension (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Game Gear/Zoop (USA).zip",
+      "label": "Zoop (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    }
+  ]
+}

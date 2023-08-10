@@ -1,0 +1,180 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Armor..Attack (World).zip",
+      "label": "Armor..Attack (World)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Bedlam (USA, Europe).zip",
+      "label": "Bedlam (USA, Europe)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Berzerk (World).zip",
+      "label": "Berzerk (World)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Blitz! - Action Football (USA, Europe).zip",
+      "label": "Blitz! - Action Football (USA, Europe)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Clean Sweep (World).zip",
+      "label": "Clean Sweep (World)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Cosmic Chasm (World).zip",
+      "label": "Cosmic Chasm (World)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Fortress of Narzod (USA, Europe).zip",
+      "label": "Fortress of Narzod (USA, Europe)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Heads-Up - Action Soccer (USA).zip",
+      "label": "Heads-Up - Action Soccer (USA)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/HyperChase - Auto Race (World).zip",
+      "label": "HyperChase - Auto Race (World)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Mine Storm (World).zip",
+      "label": "Mine Storm (World)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Mine Storm II (USA) (Rev 2).zip",
+      "label": "Mine Storm II (USA) (Rev 2)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Polar Rescue (USA).zip",
+      "label": "Polar Rescue (USA)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Pole Position (USA).zip",
+      "label": "Pole Position (USA)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Rip Off (World).zip",
+      "label": "Rip Off (World)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Scramble (USA, Europe).zip",
+      "label": "Scramble (USA, Europe)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Solar Quest (World).zip",
+      "label": "Solar Quest (World)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Space Wars (World).zip",
+      "label": "Space Wars (World)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Spike (USA, Europe).zip",
+      "label": "Spike (USA, Europe)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Spin ball (USA).zip",
+      "label": "Spin ball (USA)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Star Castle (USA).zip",
+      "label": "Star Castle (USA)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/Star Trek - The Motion Picture (USA).zip",
+      "label": "Star Trek - The Motion Picture (USA)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/GCE - Vectrex/StarHawk (World).zip",
+      "label": "StarHawk (World)",
+      "core_path": ".config/retroarch/cores/vecx_libretro.so",
+      "core_name": "vecx",
+      "crc32": "00000000|crc",
+      "db_name": "GCE - Vectrex.lpl"
+    }
+  ]
+}

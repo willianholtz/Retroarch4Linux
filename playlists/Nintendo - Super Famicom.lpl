@@ -1,0 +1,4140 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Accele Brid (Japan) (Translated En).zip",
+      "label": "Accele Brid (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ace o Nerae! (Japan) (Translated En).zip",
+      "label": "Ace o Nerae! (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Acrobat Mission (Japan).zip",
+      "label": "Acrobat Mission (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Action Pachio (Japan).zip",
+      "label": "Action Pachio (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/ActRaiser (Japan) (Translated En).zip",
+      "label": "ActRaiser (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Alcahest (Japan) (Translated En).zip",
+      "label": "Alcahest (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Aliens vs. Predator (Japan).zip",
+      "label": "Aliens vs. Predator (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Amazing Spider-Man, The - Lethal Foes (Japan) (Translated En).zip",
+      "label": "Amazing Spider-Man, The - Lethal Foes (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/American Battle Dome (Japan).zip",
+      "label": "American Battle Dome (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ancient Magic - Bazoe! Mahou Sekai (Japan) (Translated En).zip",
+      "label": "Ancient Magic - Bazoe! Mahou Sekai (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Aoki Densetsu Shoot! (Japan).zip",
+      "label": "Aoki Densetsu Shoot! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Appleseed - Prometheus no Shintaku (Japan).zip",
+      "label": "Appleseed - Prometheus no Shintaku (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Arabian Nights - Sabaku no Seirei Ou (Japan) (Translated En).zip",
+      "label": "Arabian Nights - Sabaku no Seirei Ou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Araiguma Rascal (Japan).zip",
+      "label": "Araiguma Rascal (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Arcus Spirits (Japan).zip",
+      "label": "Arcus Spirits (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Aryol (Japan).zip",
+      "label": "Aryol (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Asameshimae Nyanko (Japan).zip",
+      "label": "Asameshimae Nyanko (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ashita no Joe (Japan) (Translated En).zip",
+      "label": "Ashita no Joe (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Assault Suits Valken (Japan) (Translated En).zip",
+      "label": "Assault Suits Valken (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Bahamut Lagoon (Japan) (Translated En).zip",
+      "label": "Bahamut Lagoon (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Bakukyuu Renpatsu!! Super B-Daman (Japan).zip",
+      "label": "Bakukyuu Renpatsu!! Super B-Daman (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Bakutou Dochers - Bumps-jima wa Oosawagi (Japan).zip",
+      "label": "Bakutou Dochers - Bumps-jima wa Oosawagi (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ball Bullet Gun - Survival Game Simulation (Japan) (Translated En).zip",
+      "label": "Ball Bullet Gun - Survival Game Simulation (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Bastard!! Ankoku no Hakaishin (Japan) (Translated En).zip",
+      "label": "Bastard!! Ankoku no Hakaishin (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Battle Cross (Japan).zip",
+      "label": "Battle Cross (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Battle Dodge Ball - Toukyuu Daigekitotsu! (Japan).zip",
+      "label": "Battle Dodge Ball - Toukyuu Daigekitotsu! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Battle Dodge Ball II (Japan).zip",
+      "label": "Battle Dodge Ball II (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Battle Jockey (Japan).zip",
+      "label": "Battle Jockey (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Battle Master - Kyuukyoku no Senshi-tachi (Japan).zip",
+      "label": "Battle Master - Kyuukyoku no Senshi-tachi (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Battle Pinball (Japan).zip",
+      "label": "Battle Pinball (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Battle Racers (Japan).zip",
+      "label": "Battle Racers (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Battle Soccer - Field no Hasha (Japan) (Translated En).zip",
+      "label": "Battle Soccer - Field no Hasha (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Battle Soccer 2 (Japan).zip",
+      "label": "Battle Soccer 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Battle Tycoon - Flash Hiders SFX (Japan).zip",
+      "label": "Battle Tycoon - Flash Hiders SFX (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Battle Zeque Den (Japan).zip",
+      "label": "Battle Zeque Den (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Bike Daisuki! Hashiriya Tamashii (Japan).zip",
+      "label": "Bike Daisuki! Hashiriya Tamashii (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Bing Bing! Bingo (Japan).zip",
+      "label": "Bing Bing! Bingo (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Bishin Densetsu Zoku (Japan).zip",
+      "label": "Bishin Densetsu Zoku (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Bishoujo Senshi Sailor Moon - Another Story (Japan) (Translated En).zip",
+      "label": "Bishoujo Senshi Sailor Moon - Another Story (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Bishoujo Senshi Sailor Moon R (Japan) (Translated En).zip",
+      "label": "Bishoujo Senshi Sailor Moon R (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Bishoujo Senshi Sailor Moon S - Jougai Rantou! Shuyaku Soudatsusen (Japan).zip",
+      "label": "Bishoujo Senshi Sailor Moon S - Jougai Rantou! Shuyaku Soudatsusen (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Bishoujo Senshi Sailor Moon S - Kondo wa Puzzle de Oshioki yo! (Japan).zip",
+      "label": "Bishoujo Senshi Sailor Moon S - Kondo wa Puzzle de Oshioki yo! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Bishoujo Senshi Sailor Moon S - Kurukkurin (Japan).zip",
+      "label": "Bishoujo Senshi Sailor Moon S - Kurukkurin (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Bishoujo Senshi Sailor Moon Super S - Fuwafuwa Panic (Japan).zip",
+      "label": "Bishoujo Senshi Sailor Moon Super S - Fuwafuwa Panic (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Bishoujo Senshi Sailor Moon Super S - Zenin Sanka!! Shuyaku Soudatsusen (Japan).zip",
+      "label": "Bishoujo Senshi Sailor Moon Super S - Zenin Sanka!! Shuyaku Soudatsusen (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Block Kuzushi (Japan).zip",
+      "label": "Block Kuzushi (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Bomber Man B-Daman (Japan).zip",
+      "label": "Bomber Man B-Daman (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Brandish 2 - The Planet Buster (Japan) (Translated En).zip",
+      "label": "Brandish 2 - The Planet Buster (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Captain Tsubasa III - Koutei no Chousen (Japan) (Translated En).zip",
+      "label": "Captain Tsubasa III - Koutei no Chousen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Captain Tsubasa IV - Pro no Rival-tachi (Japan).zip",
+      "label": "Captain Tsubasa IV - Pro no Rival-tachi (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Captain Tsubasa J - The Way to World Youth (Japan).zip",
+      "label": "Captain Tsubasa J - The Way to World Youth (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Captain Tsubasa V - Hasha no Shougou Campione (Japan) (Translated Pt).zip",
+      "label": "Captain Tsubasa V - Hasha no Shougou Campione (Japan) (Translated Pt)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Caravan Shooting Collection (Japan).zip",
+      "label": "Caravan Shooting Collection (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/CB Chara Wars - Ushinawareta Gag (Japan).zip",
+      "label": "CB Chara Wars - Ushinawareta Gag (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Chaos Seed - Fuusui Kairouki (Japan) (Translated En).zip",
+      "label": "Chaos Seed - Fuusui Kairouki (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Chibi Maruko-chan - Mezase! Minami no Island!! (Japan).zip",
+      "label": "Chibi Maruko-chan - Mezase! Minami no Island!! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Chinhai (Japan).zip",
+      "label": "Chinhai (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Chou Aniki - Bakuretsu Rantou Hen (Japan).zip",
+      "label": "Chou Aniki - Bakuretsu Rantou Hen (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Chou Genjin 2 (Japan) (Translated En).zip",
+      "label": "Chou Genjin 2 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Chou-Mahou Tairiku Wozz (Japan) (Translated En).zip",
+      "label": "Chou-Mahou Tairiku Wozz (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Choujikuu Yousai Macross - Scrambled Valkyrie (Japan).zip",
+      "label": "Choujikuu Yousai Macross - Scrambled Valkyrie (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Clock Tower (Japan) (Translated En).zip",
+      "label": "Clock Tower (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Clockwerx (Japan) (Translated En).zip",
+      "label": "Clockwerx (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Columns (Japan).zip",
+      "label": "Columns (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Coron Land (Japan).zip",
+      "label": "Coron Land (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Cosmo Gang - The Puzzle (Japan).zip",
+      "label": "Cosmo Gang - The Puzzle (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Cosmo Gang - The Video (Japan).zip",
+      "label": "Cosmo Gang - The Video (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Cosmo Police Galivan II - Arrow of Justice (Japan).zip",
+      "label": "Cosmo Police Galivan II - Arrow of Justice (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Crayon Shin-chan - Arashi o Yobu Enji (Japan).zip",
+      "label": "Crayon Shin-chan - Arashi o Yobu Enji (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Crayon Shin-chan 2 - Daimaou no Gyakushuu (Japan).zip",
+      "label": "Crayon Shin-chan 2 - Daimaou no Gyakushuu (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Crystal Beans from Dungeon Explorer (Japan) (Translated En).zip",
+      "label": "Crystal Beans from Dungeon Explorer (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Cu-On-Pa SFC (Japan) (Translated En).zip",
+      "label": "Cu-On-Pa SFC (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Cyber Knight (Japan) (Translated En).zip",
+      "label": "Cyber Knight (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Cyber Knight II - Chikyuu Teikoku no Yabou (Japan) (Translated En).zip",
+      "label": "Cyber Knight II - Chikyuu Teikoku no Yabou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Cyborg 009 (Japan) (Translated En).zip",
+      "label": "Cyborg 009 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dai-3-Ji Super Robot Taisen (Japan) (Translated En).zip",
+      "label": "Dai-3-Ji Super Robot Taisen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Daikaijuu Monogatari (Japan) (Translated En).zip",
+      "label": "Daikaijuu Monogatari (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dark Half (Japan) (Translated En).zip",
+      "label": "Dark Half (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dark Law - Meaning of Death (Japan) (Translated En).zip",
+      "label": "Dark Law - Meaning of Death (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Date Kimiko no Virtual Tennis (Japan).zip",
+      "label": "Date Kimiko no Virtual Tennis (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Deae Tonosama - Appare Ichiban (Japan).zip",
+      "label": "Deae Tonosama - Appare Ichiban (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dear Boys (Japan).zip",
+      "label": "Dear Boys (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Death Brade (Japan).zip",
+      "label": "Death Brade (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Der Langrisser (Japan) (Translated En).zip",
+      "label": "Der Langrisser (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dharma Doujou (Japan).zip",
+      "label": "Dharma Doujou (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Do-Re-Mi Fantasy - Milon no Dokidoki Daibouken (Japan) (Translated En).zip",
+      "label": "Do-Re-Mi Fantasy - Milon no Dokidoki Daibouken (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dolucky no A.League Soccer (Japan).zip",
+      "label": "Dolucky no A.League Soccer (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dolucky no Kusayakiu (Japan).zip",
+      "label": "Dolucky no Kusayakiu (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dolucky no Puzzle Tour '94 (Japan).zip",
+      "label": "Dolucky no Puzzle Tour '94 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Donald Duck no Mahou no Boushi (Japan).zip",
+      "label": "Donald Duck no Mahou no Boushi (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Doraemon - Nobita to Yousei no Kuni (Japan).zip",
+      "label": "Doraemon - Nobita to Yousei no Kuni (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Doraemon 2 - Nobita no Toys Land Daibouken (Japan).zip",
+      "label": "Doraemon 2 - Nobita no Toys Land Daibouken (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Doraemon 3 - Nobita to Toki no Hougyoku (Japan).zip",
+      "label": "Doraemon 3 - Nobita to Toki no Hougyoku (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Doraemon 4 - Nobita to Tsuki no Oukoku (Japan) (Translated En).zip",
+      "label": "Doraemon 4 - Nobita to Tsuki no Oukoku (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dossun! Ganseki Battle (Japan) (Translated En).zip",
+      "label": "Dossun! Ganseki Battle (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Downtown - Nekketsu Baseball Monogatari - Yakyuu de Shoubu da! Kunio-kun (Japan).zip",
+      "label": "Downtown - Nekketsu Baseball Monogatari - Yakyuu de Shoubu da! Kunio-kun (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dr. Mario (Japan).zip",
+      "label": "Dr. Mario (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dragon Ball Z - Hyper Dimension (Japan) (Translated En).zip",
+      "label": "Dragon Ball Z - Hyper Dimension (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dragon Ball Z - Super Saiya Densetsu (Japan) (Translated En).zip",
+      "label": "Dragon Ball Z - Super Saiya Densetsu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dragon Quest I & II (Japan) (Translated En).zip",
+      "label": "Dragon Quest I & II (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dragon Quest III - Soshite Densetsu e... (Japan) (Translated En).zip",
+      "label": "Dragon Quest III - Soshite Densetsu e... (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dragon Quest V - Tenkuu no Hanayome (Japan) (Translated En).zip",
+      "label": "Dragon Quest V - Tenkuu no Hanayome (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dragon Quest VI - Maboroshi no Daichi (Japan) (Translated En).zip",
+      "label": "Dragon Quest VI - Maboroshi no Daichi (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dream Basketball - Dunk & Hoop (Japan).zip",
+      "label": "Dream Basketball - Dunk & Hoop (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Drift King Shutokou Battle 2 - Tsuchiya Keiichi & Bandou Masaaki (Japan).zip",
+      "label": "Drift King Shutokou Battle 2 - Tsuchiya Keiichi & Bandou Masaaki (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dual Orb II (Japan) (Translated En).zip",
+      "label": "Dual Orb II (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dynamaite the Las Vegas (Japan).zip",
+      "label": "Dynamaite the Las Vegas (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Dynamic Stadium (Japan).zip",
+      "label": "Dynamic Stadium (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Edono Kiba (Japan).zip",
+      "label": "Edono Kiba (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Eien no Filena (Japan) (Translated En).zip",
+      "label": "Eien no Filena (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Emerald Dragon (Japan) (Translated En).zip",
+      "label": "Emerald Dragon (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Energy Breaker (Japan) (Translated En).zip",
+      "label": "Energy Breaker (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/F-1 Grand Prix (Japan).zip",
+      "label": "F-1 Grand Prix (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/F-1 Grand Prix - Part II (Japan).zip",
+      "label": "F-1 Grand Prix - Part II (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/F-1 Grand Prix - Part III (Japan).zip",
+      "label": "F-1 Grand Prix - Part III (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (Translated En).zip",
+      "label": "Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Feda - The Emblem of Justice (Japan) (Translated En).zip",
+      "label": "Feda - The Emblem of Justice (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Fighter's History - Mizoguchi Kikiippatsu!! (Japan).zip",
+      "label": "Fighter's History - Mizoguchi Kikiippatsu!! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Final Fantasy IV (Japan) (Translated En).zip",
+      "label": "Final Fantasy IV (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Final Fantasy V (Japan) (Translated En).zip",
+      "label": "Final Fantasy V (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Final Fantasy VI (Japan) (Translated En).zip",
+      "label": "Final Fantasy VI (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Final Stretch (Japan).zip",
+      "label": "Final Stretch (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Finalset (Japan).zip",
+      "label": "Finalset (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Fire Emblem - Monshou no Nazo (Japan) (Translated En).zip",
+      "label": "Fire Emblem - Monshou no Nazo (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Fire Pro Joshi - All Star Dream Slam (Japan).zip",
+      "label": "Fire Pro Joshi - All Star Dream Slam (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Fishing Koushien (Japan).zip",
+      "label": "Fishing Koushien (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Flying Hero - Bugyuru no Daibouken (Japan) (Translated En).zip",
+      "label": "Flying Hero - Bugyuru no Daibouken (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/From TV Animation Slam Dunk - Dream Team - Shuueisha Limited (Japan).zip",
+      "label": "From TV Animation Slam Dunk - Dream Team - Shuueisha Limited (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/From TV Animation Slam Dunk - SD Heat Up!! (Japan).zip",
+      "label": "From TV Animation Slam Dunk - SD Heat Up!! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/From TV Animation Slam Dunk - Yonkyou Gekitotsu!! (Japan).zip",
+      "label": "From TV Animation Slam Dunk - Yonkyou Gekitotsu!! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/From TV Animation Slam Dunk 2 - IH Yosen Kanzen Ban!! (Japan).zip",
+      "label": "From TV Animation Slam Dunk 2 - IH Yosen Kanzen Ban!! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Front Mission (Japan) (Translated En).zip",
+      "label": "Front Mission (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Front Mission - Gun Hazard (Japan) (Translated En).zip",
+      "label": "Front Mission - Gun Hazard (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Funaki Masakatsu Hybrid Wrestler - Tougi Denshou (Japan) (Translated En).zip",
+      "label": "Funaki Masakatsu Hybrid Wrestler - Tougi Denshou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (Translated En).zip",
+      "label": "Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Galaxy Robo (Japan) (Translated En).zip",
+      "label": "Galaxy Robo (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Galaxy Wars (Japan).zip",
+      "label": "Galaxy Wars (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Game no Tetsujin - The Shanghai (Japan).zip",
+      "label": "Game no Tetsujin - The Shanghai (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ganbare Goemon 2 - Kiteretsu Shougun Magginesu (Japan).zip",
+      "label": "Ganbare Goemon 2 - Kiteretsu Shougun Magginesu (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan).zip",
+      "label": "Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan).zip",
+      "label": "Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ganbare! Daiku no Gen-san (Japan).zip",
+      "label": "Ganbare! Daiku no Gen-san (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Gangan Gan-chan (Japan).zip",
+      "label": "Gangan Gan-chan (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ganpuru - Gunman's Proof (Japan) (Translated En).zip",
+      "label": "Ganpuru - Gunman's Proof (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Gegege no Kitarou - Fukkatsu! Tenma Daiou (Japan).zip",
+      "label": "Gegege no Kitarou - Fukkatsu! Tenma Daiou (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan).zip",
+      "label": "Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Gekitou Burning Pro Wrestling (Japan) (Translated En).zip",
+      "label": "Gekitou Burning Pro Wrestling (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Genocide 2 (Japan).zip",
+      "label": "Genocide 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ghost Chaser Densei (Japan).zip",
+      "label": "Ghost Chaser Densei (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Go Go Ackman (Japan) (Translated En).zip",
+      "label": "Go Go Ackman (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Go Go Ackman 2 (Japan).zip",
+      "label": "Go Go Ackman 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Go Go Ackman 3 (Japan).zip",
+      "label": "Go Go Ackman 3 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Go! Go! Dodge League (Japan).zip",
+      "label": "Go! Go! Dodge League (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Godzilla - Kaijuu Daikessen (Japan).zip",
+      "label": "Godzilla - Kaijuu Daikessen (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Gokujou Parodius (Japan).zip",
+      "label": "Gokujou Parodius (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Gon (Japan).zip",
+      "label": "Gon (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Gourmet Sentai Barayarou (Japan) (Translated En).zip",
+      "label": "Gourmet Sentai Barayarou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Great Battle Gaiden 2, The - Matsuri da Wasshoi (Japan).zip",
+      "label": "Great Battle Gaiden 2, The - Matsuri da Wasshoi (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Great Battle II, The - Last Fighter Twin (Japan).zip",
+      "label": "Great Battle II, The - Last Fighter Twin (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Great Battle III, The (Japan).zip",
+      "label": "Great Battle III, The (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Great Battle IV, The (Japan).zip",
+      "label": "Great Battle IV, The (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Great Battle V, The (Japan).zip",
+      "label": "Great Battle V, The (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/GS Mikami - Joreishi wa Nice Body (Japan).zip",
+      "label": "GS Mikami - Joreishi wa Nice Body (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/GT Racing (Japan).zip",
+      "label": "GT Racing (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Hakunetsu Pro Yakyuu '93 - Ganba League (Japan).zip",
+      "label": "Hakunetsu Pro Yakyuu '93 - Ganba League (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Hakunetsu Pro Yakyuu '94 - Ganba League 3 (Japan).zip",
+      "label": "Hakunetsu Pro Yakyuu '94 - Ganba League 3 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Hameln no Violin Hiki (Japan) (Translated En).zip",
+      "label": "Hameln no Violin Hiki (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Harukanaru Augusta (Japan).zip",
+      "label": "Harukanaru Augusta (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Hashire Hebereke (Japan).zip",
+      "label": "Hashire Hebereke (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Hat Trick Hero 2 (Japan).zip",
+      "label": "Hat Trick Hero 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Hatayama Hatch no Pro Yakyuu News! - Jitsumei Ban (Japan).zip",
+      "label": "Hatayama Hatch no Pro Yakyuu News! - Jitsumei Ban (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Heisei Inu Monogatari Bow - Pop'n Smash!! (Japan).zip",
+      "label": "Heisei Inu Monogatari Bow - Pop'n Smash!! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Heracles no Eikou III - Kamigami no Chinmoku (Japan) (Translated En).zip",
+      "label": "Heracles no Eikou III - Kamigami no Chinmoku (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Hiouden - Mamono-tachi to no Chikai (Japan) (Translated En).zip",
+      "label": "Hiouden - Mamono-tachi to no Chikai (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Hiryuu no Ken S - Golden Fighter (Japan).zip",
+      "label": "Hiryuu no Ken S - Golden Fighter (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Hiryuu no Ken S - Hyper Version (Japan).zip",
+      "label": "Hiryuu no Ken S - Hyper Version (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Hokuto no Ken 6 - Gekitou Denshouken Haou e no Michi (Japan).zip",
+      "label": "Hokuto no Ken 6 - Gekitou Denshouken Haou e no Michi (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Hokuto no Ken 7 - Seiken Retsuden Denshousha e no Michi (Japan).zip",
+      "label": "Hokuto no Ken 7 - Seiken Retsuden Denshousha e no Michi (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Holy Umbrella - Dondera no Mubou!! (Japan) (Translated En).zip",
+      "label": "Holy Umbrella - Dondera no Mubou!! (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Honoo no Toukyuuji - Dodge Danpei (Japan).zip",
+      "label": "Honoo no Toukyuuji - Dodge Danpei (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Hourai Gakuen no Bouken! (Japan) (Translated En).zip",
+      "label": "Hourai Gakuen no Bouken! (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Human Baseball (Japan).zip",
+      "label": "Human Baseball (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Human Grand Prix III - F1 Triple Battle (Japan).zip",
+      "label": "Human Grand Prix III - F1 Triple Battle (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Human Grand Prix IV - F1 Dream Battle (Japan).zip",
+      "label": "Human Grand Prix IV - F1 Dream Battle (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Hyper Iria (Japan).zip",
+      "label": "Hyper Iria (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Inazuma Serve da! Super Beach Volley (Japan).zip",
+      "label": "Inazuma Serve da! Super Beach Volley (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Iron Commando - Koutetsu no Senshi (Japan).zip",
+      "label": "Iron Commando - Koutetsu no Senshi (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Isozuri - Ritou Hen (Japan).zip",
+      "label": "Isozuri - Ritou Hen (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Itadaki Street 2 (Japan) (Proto).zip",
+      "label": "Itadaki Street 2 (Japan) (Proto)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/J.League '96 Dream Stadium (Japan).zip",
+      "label": "J.League '96 Dream Stadium (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/J.League Excite Stage '94 (Japan).zip",
+      "label": "J.League Excite Stage '94 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/J.League Excite Stage '95 (Japan).zip",
+      "label": "J.League Excite Stage '95 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/J.League Excite Stage '96 (Japan).zip",
+      "label": "J.League Excite Stage '96 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/J.League Soccer Prime Goal (Japan).zip",
+      "label": "J.League Soccer Prime Goal (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/J.League Soccer Prime Goal 2 (Japan).zip",
+      "label": "J.League Soccer Prime Goal 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/J.League Soccer Prime Goal 3 (Japan).zip",
+      "label": "J.League Soccer Prime Goal 3 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/J.League Super Soccer '95 - Jikkyou Stadium (Japan).zip",
+      "label": "J.League Super Soccer '95 - Jikkyou Stadium (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/J.League Super Soccer (Japan).zip",
+      "label": "J.League Super Soccer (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Jaleco Rally Big Run - The Supreme 4WD Challenge (Japan).zip",
+      "label": "Jaleco Rally Big Run - The Supreme 4WD Challenge (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Jammes (Japan).zip",
+      "label": "Jammes (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Jelly Boy 2 (Japan) (Proto) (Translated En).zip",
+      "label": "Jelly Boy 2 (Japan) (Proto) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Jerry Boy (Japan) (Translated En).zip",
+      "label": "Jerry Boy (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Jikkyou Oshaberi Parodius (Japan).zip",
+      "label": "Jikkyou Oshaberi Parodius (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Jikkyou Power Pro Wrestling '96 - Max Voltage (Japan) (Translated En).zip",
+      "label": "Jikkyou Power Pro Wrestling '96 - Max Voltage (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Jikkyou Powerful Pro Yakyuu '94 (Japan).zip",
+      "label": "Jikkyou Powerful Pro Yakyuu '94 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Jikkyou Powerful Pro Yakyuu '96 - Kaimaku Ban (Japan).zip",
+      "label": "Jikkyou Powerful Pro Yakyuu '96 - Kaimaku Ban (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Jikkyou Powerful Pro Yakyuu - Basic Ban '98 (Japan).zip",
+      "label": "Jikkyou Powerful Pro Yakyuu - Basic Ban '98 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Jikkyou Powerful Pro Yakyuu 2 (Japan).zip",
+      "label": "Jikkyou Powerful Pro Yakyuu 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Jikkyou Powerful Pro Yakyuu 3 (Japan).zip",
+      "label": "Jikkyou Powerful Pro Yakyuu 3 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Jikkyou Powerful Pro Yakyuu 3 - '97 Haru (Japan).zip",
+      "label": "Jikkyou Powerful Pro Yakyuu 3 - '97 Haru (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/JoJo no Kimyou na Bouken (Japan) (Translated En).zip",
+      "label": "JoJo no Kimyou na Bouken (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Jungle no Ouja Tar-chan - Sekaimanyuu Daikakutou no Maki (Japan).zip",
+      "label": "Jungle no Ouja Tar-chan - Sekaimanyuu Daikakutou no Maki (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Jutei Senki (Japan) (Translated En).zip",
+      "label": "Jutei Senki (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/JWP Joshi Pro Wres - Pure Wrestle Queens (Japan).zip",
+      "label": "JWP Joshi Pro Wres - Pure Wrestle Queens (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kaite Tsukutte Asoberu Dezaemon (Japan) (Translated En).zip",
+      "label": "Kaite Tsukutte Asoberu Dezaemon (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kamen Rider (Japan).zip",
+      "label": "Kamen Rider (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kamen Rider SD - Shutsugeki!! Rider Machine (Japan).zip",
+      "label": "Kamen Rider SD - Shutsugeki!! Rider Machine (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kat's Run - Zen-Nihon K-Car Senshuken (Japan).zip",
+      "label": "Kat's Run - Zen-Nihon K-Car Senshuken (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Keeper (Japan).zip",
+      "label": "Keeper (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kidou Butouden G Gundam (Japan) (Translated En).zip",
+      "label": "Kidou Butouden G Gundam (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kidou Senshi Gundam - Cross Dimension 0079 (Japan) (Translated En).zip",
+      "label": "Kidou Senshi Gundam - Cross Dimension 0079 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kidou Senshi Gundam F91 - Formula Senki 0122 (Japan) (Translated En).zip",
+      "label": "Kidou Senshi Gundam F91 - Formula Senki 0122 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kidou Senshi V Gundam (Japan) (Translated En).zip",
+      "label": "Kidou Senshi V Gundam (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kikou Keisatsu Metal Jack (Japan).zip",
+      "label": "Kikou Keisatsu Metal Jack (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/King of Rally, The (Japan).zip",
+      "label": "King of Rally, The (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kingyo Chuuihou! - Tobidase! Game Gakuen (Japan).zip",
+      "label": "Kingyo Chuuihou! - Tobidase! Game Gakuen (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kinnikuman - Dirty Challenger (Japan).zip",
+      "label": "Kinnikuman - Dirty Challenger (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kirby no Kirakira Kids (Japan).zip",
+      "label": "Kirby no Kirakira Kids (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kishin Douji Zenki - Battle Raiden (Japan).zip",
+      "label": "Kishin Douji Zenki - Battle Raiden (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kishin Douji Zenki - Denei Raibu (Japan).zip",
+      "label": "Kishin Douji Zenki - Denei Raibu (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kishin Douji Zenki - Tenchi Meidou (Japan).zip",
+      "label": "Kishin Douji Zenki - Tenchi Meidou (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Koryu no Mimi (Japan) (Translated En).zip",
+      "label": "Koryu no Mimi (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kouryuu Densetsu Villgust - Kieta Shoujo (Japan) (Translated En).zip",
+      "label": "Kouryuu Densetsu Villgust - Kieta Shoujo (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Koushien 2 (Japan).zip",
+      "label": "Koushien 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Koushien 3 (Japan).zip",
+      "label": "Koushien 3 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Koushien 4 (Japan).zip",
+      "label": "Koushien 4 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kunio no Oden (Japan).zip",
+      "label": "Kunio no Oden (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kunio-kun no Dodge Ball Da yo Zenin Shuugou! (Japan) (Translated En).zip",
+      "label": "Kunio-kun no Dodge Ball Da yo Zenin Shuugou! (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kuusou Kagaku Sekai Gulliver Boy (Japan) (Translated En).zip",
+      "label": "Kuusou Kagaku Sekai Gulliver Boy (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Kyuuyaku Megami Tensei (Japan) (Translated En).zip",
+      "label": "Kyuuyaku Megami Tensei (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Lennus II - Fuuin no Shito (Japan) (Translated En).zip",
+      "label": "Lennus II - Fuuin no Shito (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Libble Rabble (Japan).zip",
+      "label": "Libble Rabble (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Little Magic (Japan) (Translated En).zip",
+      "label": "Little Magic (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Live A Live (Japan) (Translated En).zip",
+      "label": "Live A Live (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Lode Runner Twin - Justy to Liberty no Daibouken (Japan).zip",
+      "label": "Lode Runner Twin - Justy to Liberty no Daibouken (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Lodoss-tou Senki (Japan) (Translated En).zip",
+      "label": "Lodoss-tou Senki (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Lupin Sansei - Densetsu no Hihou o Oe! (Japan).zip",
+      "label": "Lupin Sansei - Densetsu no Hihou o Oe! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Madou Monogatari - Hanamaru Daiyouchienji (Japan) (Translated En).zip",
+      "label": "Madou Monogatari - Hanamaru Daiyouchienji (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Maerchen Adventure Cotton 100 Percent (Japan).zip",
+      "label": "Maerchen Adventure Cotton 100 Percent (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Magical Drop (Japan) (Translated En).zip",
+      "label": "Magical Drop (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Magical Drop 2 (Japan).zip",
+      "label": "Magical Drop 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Magical Pop'n (Japan) (Translated En).zip",
+      "label": "Magical Pop'n (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Magna Braban - Henreki no Yuusha (Japan) (Translated En).zip",
+      "label": "Magna Braban - Henreki no Yuusha (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Mahjong Gokuu Tenjiku (Japan).zip",
+      "label": "Mahjong Gokuu Tenjiku (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Mahou Kishi Rayearth (Japan) (Translated En).zip",
+      "label": "Mahou Kishi Rayearth (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Mahou Poi Poi Poitto! (Japan) (Translated En).zip",
+      "label": "Mahou Poi Poi Poitto! (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Majuu Ou (Japan) (Translated En).zip",
+      "label": "Majuu Ou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Makeruna! Makendou 2 - Kimero! Youkai Souridaijin (Japan).zip",
+      "label": "Makeruna! Makendou 2 - Kimero! Youkai Souridaijin (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Mario no Super Picross (Japan).zip",
+      "label": "Mario no Super Picross (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Mario to Wario (Japan).zip",
+      "label": "Mario to Wario (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Marvelous - Mouhitotsu no Takarajima (Japan) (Translated En).zip",
+      "label": "Marvelous - Mouhitotsu no Takarajima (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Masters - Harukanaru Augusta 2 (Japan).zip",
+      "label": "Masters - Harukanaru Augusta 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Masters New - Harukanaru Augusta 3 (Japan).zip",
+      "label": "Masters New - Harukanaru Augusta 3 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Matsumura Kunihiro Den - Saikyou no Rekishi o Nurikaero! (Japan).zip",
+      "label": "Matsumura Kunihiro Den - Saikyou no Rekishi o Nurikaero! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Mazinger Z (Japan).zip",
+      "label": "Mazinger Z (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Melfand Stories (Japan).zip",
+      "label": "Melfand Stories (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Metal Max Returns (Japan) (Translated En).zip",
+      "label": "Metal Max Returns (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Mickey no Tokyo Disneyland Daibouken (Japan).zip",
+      "label": "Mickey no Tokyo Disneyland Daibouken (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Mickey to Donald - Magical Adventure 3 (Japan) (Translated En).zip",
+      "label": "Mickey to Donald - Magical Adventure 3 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Miracle Girls (Japan) (Translated En).zip",
+      "label": "Miracle Girls (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Monstania (Japan) (Translated En).zip",
+      "label": "Monstania (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Multi Play Volleyball (Japan).zip",
+      "label": "Multi Play Volleyball (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Mystery Circle (Japan).zip",
+      "label": "Mystery Circle (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Mystic Ark (Japan) (Translated En).zip",
+      "label": "Mystic Ark (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Nakajima Satoru Kanshuu - F-1 Hero '94 (Japan).zip",
+      "label": "Nakajima Satoru Kanshuu - F-1 Hero '94 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Nakajima Satoru Kanshuu - Super F-1 Hero (Japan).zip",
+      "label": "Nakajima Satoru Kanshuu - Super F-1 Hero (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Nangoku Shounen Papuwa-kun (Japan) (Translated En).zip",
+      "label": "Nangoku Shounen Papuwa-kun (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Natsuki Crisis Battle (Japan).zip",
+      "label": "Natsuki Crisis Battle (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Naxat Super Pinball - Jaki Hakai (Japan).zip",
+      "label": "Naxat Super Pinball - Jaki Hakai (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Nekketsu Tairiku Burning Heroes (Japan) (Translated En).zip",
+      "label": "Nekketsu Tairiku Burning Heroes (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Neugier - Umi to Kaze no Kodou (Japan) (Translated En).zip",
+      "label": "Neugier - Umi to Kaze no Kodou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/New Yatterman - Nandai Kandai Yajirobee (Japan).zip",
+      "label": "New Yatterman - Nandai Kandai Yajirobee (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Nice de Shot (Japan).zip",
+      "label": "Nice de Shot (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Nichibutsu Arcade Classics (Japan).zip",
+      "label": "Nichibutsu Arcade Classics (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Nichibutsu Arcade Classics 2 - Heiankyou Alien (Japan).zip",
+      "label": "Nichibutsu Arcade Classics 2 - Heiankyou Alien (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Nintama Rantarou (Japan).zip",
+      "label": "Nintama Rantarou (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Nintama Rantarou 2 (Japan).zip",
+      "label": "Nintama Rantarou 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Nintama Rantarou 3 (Japan).zip",
+      "label": "Nintama Rantarou 3 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Nintama Rantarou Special (Japan).zip",
+      "label": "Nintama Rantarou Special (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Nontan to Issho - Kurukuru Puzzle (Japan).zip",
+      "label": "Nontan to Issho - Kurukuru Puzzle (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ochan no Oekaki Logic (Japan).zip",
+      "label": "Ochan no Oekaki Logic (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Oekaki Logic (Japan).zip",
+      "label": "Oekaki Logic (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Oekaki Logic 2 (Japan).zip",
+      "label": "Oekaki Logic 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Okamoto Ayako to Match Play Golf (Japan) (Translated En).zip",
+      "label": "Okamoto Ayako to Match Play Golf (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Olivia no Mystery (Japan).zip",
+      "label": "Olivia no Mystery (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Onizuka Katsuya Super Virtual Boxing - Shin Kentou Ou Densetsu (Japan).zip",
+      "label": "Onizuka Katsuya Super Virtual Boxing - Shin Kentou Ou Densetsu (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Oonita Atsushi FMW (Japan).zip",
+      "label": "Oonita Atsushi FMW (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Oozumou Spirits (Japan).zip",
+      "label": "Oozumou Spirits (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Oraga Land Shusai - Best Farmer Shuukakusai (Japan).zip",
+      "label": "Oraga Land Shusai - Best Farmer Shuukakusai (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ossu!! Karate-bu (Japan).zip",
+      "label": "Ossu!! Karate-bu (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Othello World (Japan).zip",
+      "label": "Othello World (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Otoboke Ninja Colosseum (Japan).zip",
+      "label": "Otoboke Ninja Colosseum (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Panel de Pon (Japan) (Translated En).zip",
+      "label": "Panel de Pon (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Panic in Nakayoshi World (Japan) (Translated En).zip",
+      "label": "Panic in Nakayoshi World (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Pebble Beach no Hatou New - Tournament Edition (Japan).zip",
+      "label": "Pebble Beach no Hatou New - Tournament Edition (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Pikiinya! (Japan).zip",
+      "label": "Pikiinya! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Pipe Dream (Japan).zip",
+      "label": "Pipe Dream (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Pokonyan! - Henpokorin Adventure (Japan).zip",
+      "label": "Pokonyan! - Henpokorin Adventure (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Popeye - Ijiwaru Majo Sea Hag no Maki (Japan) (Translated En).zip",
+      "label": "Popeye - Ijiwaru Majo Sea Hag no Maki (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Popful Mail (Japan).zip",
+      "label": "Popful Mail (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Power Lode Runner (Japan).zip",
+      "label": "Power Lode Runner (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Power Soukoban (Japan).zip",
+      "label": "Power Soukoban (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Pro Mahjong Kiwame (Japan).zip",
+      "label": "Pro Mahjong Kiwame (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Pro Mahjong Kiwame II (Japan).zip",
+      "label": "Pro Mahjong Kiwame II (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Pro Mahjong Kiwame III (Japan).zip",
+      "label": "Pro Mahjong Kiwame III (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Pro Yakyuu Nettou Puzzle Stadium (Japan).zip",
+      "label": "Pro Yakyuu Nettou Puzzle Stadium (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Pro Yakyuu Star (Japan).zip",
+      "label": "Pro Yakyuu Star (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Psycho Dream (Japan).zip",
+      "label": "Psycho Dream (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Puzzle Nintama Rantarou - Ninjutsu Gakuen Puzzle Taikai no Dan (Japan).zip",
+      "label": "Puzzle Nintama Rantarou - Ninjutsu Gakuen Puzzle Taikai no Dan (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Puzzle'n Desu! (Japan).zip",
+      "label": "Puzzle'n Desu! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ranma 1-2 - Akanekodan Teki Hihou (Japan) (Translated En).zip",
+      "label": "Ranma 1-2 - Akanekodan Teki Hihou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ranma 1-2 - Bakuretsu Rantou Hen (Japan).zip",
+      "label": "Ranma 1-2 - Bakuretsu Rantou Hen (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ranma 1-2 - Chougi Ranbu Hen (Japan).zip",
+      "label": "Ranma 1-2 - Chougi Ranbu Hen (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ranma 1-2 - Chounai Gekitou Hen (Japan).zip",
+      "label": "Ranma 1-2 - Chounai Gekitou Hen (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ranma 1-2 - Ougi Jaanken (Japan).zip",
+      "label": "Ranma 1-2 - Ougi Jaanken (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Rendering Ranger R2 (Japan).zip",
+      "label": "Rendering Ranger R2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Return of Double Dragon (Japan).zip",
+      "label": "Return of Double Dragon (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ring ni Kakero (Japan).zip",
+      "label": "Ring ni Kakero (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Rockman & Forte (Japan) (Translated En).zip",
+      "label": "Rockman & Forte (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Rockman 7 - Shukumei no Taiketsu! (Japan) (Translated En).zip",
+      "label": "Rockman 7 - Shukumei no Taiketsu! (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Rokudenashi Blues - Taiketsu! Tokyo Shitennou (Japan).zip",
+      "label": "Rokudenashi Blues - Taiketsu! Tokyo Shitennou (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Romancing Saga (Japan) (Translated En).zip",
+      "label": "Romancing Saga (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Romancing SaGa 3 (Japan) (Translated En).zip",
+      "label": "Romancing SaGa 3 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Rudra no Hihou (Japan) (Translated En).zip",
+      "label": "Rudra no Hihou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Rushing Beat Shura (Japan).zip",
+      "label": "Rushing Beat Shura (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ryuuki Heidan Danzarb (Japan) (Translated En).zip",
+      "label": "Ryuuki Heidan Danzarb (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ryuuko no Ken 2 (Japan).zip",
+      "label": "Ryuuko no Ken 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Saikyou - Takada Nobuhiko (Japan).zip",
+      "label": "Saikyou - Takada Nobuhiko (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Same Game (Japan).zip",
+      "label": "Same Game (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Sanrio Shanghai (Japan).zip",
+      "label": "Sanrio Shanghai (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Sanrio World Smash Ball! (Japan) (Translated En).zip",
+      "label": "Sanrio World Smash Ball! (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/SD F-1 Grand Prix (Japan).zip",
+      "label": "SD F-1 Grand Prix (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/SD Gundam - Power Formation Puzzle (Japan).zip",
+      "label": "SD Gundam - Power Formation Puzzle (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/SD Hiryuu no Ken (Japan).zip",
+      "label": "SD Hiryuu no Ken (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/SD Kidou Senshi Gundam - V Sakusen Shidou (Japan).zip",
+      "label": "SD Kidou Senshi Gundam - V Sakusen Shidou (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/SD Kidou Senshi Gundam 2 (Japan).zip",
+      "label": "SD Kidou Senshi Gundam 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/SD The Great Battle - Aratanaru Chousen (Japan).zip",
+      "label": "SD The Great Battle - Aratanaru Chousen (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Seifuku Densetsu Pretty Fighter (Japan).zip",
+      "label": "Seifuku Densetsu Pretty Fighter (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Seiken Densetsu 3 (Japan) (Translated En).zip",
+      "label": "Seiken Densetsu 3 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Sengoku Denshou (Japan) (Translated En).zip",
+      "label": "Sengoku Denshou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Shanghai - Banri no Choujou (Japan).zip",
+      "label": "Shanghai - Banri no Choujou (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Shanghai III (Japan).zip",
+      "label": "Shanghai III (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Shijou Saikyou League Serie A - Ace Striker (Japan).zip",
+      "label": "Shijou Saikyou League Serie A - Ace Striker (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Shin Kidou Senki Gundam W - Endless Duel (Japan) (Translated En).zip",
+      "label": "Shin Kidou Senki Gundam W - Endless Duel (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Shin Megami Tensei (Japan) (Translated En).zip",
+      "label": "Shin Megami Tensei (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Shin Megami Tensei II (Japan) (Translated En).zip",
+      "label": "Shin Megami Tensei II (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) (Translated En).zip",
+      "label": "Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Shin Nihon Pro Wrestling - Chou Senshi in Tokyo Dome - Fantastic Story (Japan).zip",
+      "label": "Shin Nihon Pro Wrestling - Chou Senshi in Tokyo Dome - Fantastic Story (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Shin Nihon Pro Wrestling Kounin - '94 Battlefield in Tokyo Dome (Japan).zip",
+      "label": "Shin Nihon Pro Wrestling Kounin - '94 Battlefield in Tokyo Dome (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Shin Nihon Pro Wrestling Kounin - '95 Tokyo Dome Battle 7 (Japan).zip",
+      "label": "Shin Nihon Pro Wrestling Kounin - '95 Tokyo Dome Battle 7 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Shodai Nekketsu Kouha Kunio-kun (Japan) (Translated En).zip",
+      "label": "Shodai Nekketsu Kouha Kunio-kun (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Shounen Ashibe - Goma-chan no Yuuenchi Daibouken (Japan).zip",
+      "label": "Shounen Ashibe - Goma-chan no Yuuenchi Daibouken (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Shounen Ninja Sasuke (Japan).zip",
+      "label": "Shounen Ninja Sasuke (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Silva Saga II - The Legend of Light and Darkness (Japan) (Translated En).zip",
+      "label": "Silva Saga II - The Legend of Light and Darkness (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Slayers (Japan) (Translated En).zip",
+      "label": "Slayers (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Snoopy Concert (Japan) (Translated En).zip",
+      "label": "Snoopy Concert (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon no Nazo!! (Japan).zip",
+      "label": "Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon no Nazo!! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Sougou Kakutougi - Astral Bout (Japan).zip",
+      "label": "Sougou Kakutougi - Astral Bout (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Sougou Kakutougi - Astral Bout 2 - The Total Fighters (Japan).zip",
+      "label": "Sougou Kakutougi - Astral Bout 2 - The Total Fighters (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Sougou Kakutougi Rings - Astral Bout 3 (Japan).zip",
+      "label": "Sougou Kakutougi Rings - Astral Bout 3 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Soukou Kihei Votoms - The Battling Road (Japan).zip",
+      "label": "Soukou Kihei Votoms - The Battling Road (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Sound Factory (Japan) (Proto).zip",
+      "label": "Sound Factory (Japan) (Proto)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Spark World (Japan).zip",
+      "label": "Spark World (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Spriggan Powered (Japan).zip",
+      "label": "Spriggan Powered (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/St. Andrews - Eikou to Rekishi no Old Course (Japan).zip",
+      "label": "St. Andrews - Eikou to Rekishi no Old Course (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Star Fox 2 (Japan) (Proto) (Translated En).zip",
+      "label": "Star Fox 2 (Japan) (Proto) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Star Ocean (Japan) (Translated En).zip",
+      "label": "Star Ocean (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Stardust Suplex (Japan).zip",
+      "label": "Stardust Suplex (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Sugoi Hebereke (Japan).zip",
+      "label": "Sugoi Hebereke (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Supapoon (Japan).zip",
+      "label": "Supapoon (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Supapoon DX (Japan).zip",
+      "label": "Supapoon DX (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Air Diver 2 (Japan).zip",
+      "label": "Super Air Diver 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Aleste (Japan).zip",
+      "label": "Super Aleste (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Back to the Future Part II (Japan) (Translated En).zip",
+      "label": "Super Back to the Future Part II (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Bikkuriman (Japan).zip",
+      "label": "Super Bikkuriman (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Bomberman - Panic Bomber W (Japan).zip",
+      "label": "Super Bomberman - Panic Bomber W (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Bomberman 4 (Japan) (Translated En).zip",
+      "label": "Super Bomberman 4 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Bomberman 5 (Japan).zip",
+      "label": "Super Bomberman 5 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Bombliss (Japan).zip",
+      "label": "Super Bombliss (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Chinese Fighter (Japan).zip",
+      "label": "Super Chinese Fighter (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Drift Out - World Rally Championships (Japan).zip",
+      "label": "Super Drift Out - World Rally Championships (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Dunk Shot (Japan).zip",
+      "label": "Super Dunk Shot (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Dunk Star (Japan).zip",
+      "label": "Super Dunk Star (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super F1 Circus (Japan).zip",
+      "label": "Super F1 Circus (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super F1 Circus 2 (Japan).zip",
+      "label": "Super F1 Circus 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super F1 Circus 3 (Japan).zip",
+      "label": "Super F1 Circus 3 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super F1 Circus Gaiden (Japan).zip",
+      "label": "Super F1 Circus Gaiden (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super F1 Circus Limited (Japan).zip",
+      "label": "Super F1 Circus Limited (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Family Gelaende (Japan).zip",
+      "label": "Super Family Gelaende (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Famista (Japan).zip",
+      "label": "Super Famista (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Famista 2 (Japan).zip",
+      "label": "Super Famista 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Famista 3 (Japan).zip",
+      "label": "Super Famista 3 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Famista 4 (Japan).zip",
+      "label": "Super Famista 4 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Famista 5 (Japan).zip",
+      "label": "Super Famista 5 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Final Match Tennis (Japan).zip",
+      "label": "Super Final Match Tennis (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Fire Pro Wrestling (Japan).zip",
+      "label": "Super Fire Pro Wrestling (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Fire Pro Wrestling - Queen's Special (Japan) (Translated En).zip",
+      "label": "Super Fire Pro Wrestling - Queen's Special (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Fire Pro Wrestling 2 (Japan).zip",
+      "label": "Super Fire Pro Wrestling 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Fire Pro Wrestling III - Easy Type (Japan).zip",
+      "label": "Super Fire Pro Wrestling III - Easy Type (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Fire Pro Wrestling III - Final Bout (Japan).zip",
+      "label": "Super Fire Pro Wrestling III - Final Bout (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Fire Pro Wrestling Special (Japan).zip",
+      "label": "Super Fire Pro Wrestling Special (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Fire Pro Wrestling X (Japan).zip",
+      "label": "Super Fire Pro Wrestling X (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Fire Pro Wrestling X Premium (Japan) (Translated En).zip",
+      "label": "Super Fire Pro Wrestling X Premium (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Fishing Big Fight (Japan).zip",
+      "label": "Super Fishing Big Fight (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Formation Soccer 94 - World Cup Edition (Japan).zip",
+      "label": "Super Formation Soccer 94 - World Cup Edition (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Formation Soccer 94 - World Cup Final Data (Japan).zip",
+      "label": "Super Formation Soccer 94 - World Cup Final Data (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Formation Soccer 95 della Serie A (Japan).zip",
+      "label": "Super Formation Soccer 95 della Serie A (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Formation Soccer 96 - World Club Edition (Japan).zip",
+      "label": "Super Formation Soccer 96 - World Club Edition (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Formation Soccer II (Japan).zip",
+      "label": "Super Formation Soccer II (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Gachapon World - SD Gundam X (Japan) (Translated En).zip",
+      "label": "Super Gachapon World - SD Gundam X (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Gomoku Narabe - Renju (Japan).zip",
+      "label": "Super Gomoku Narabe - Renju (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Gussun Oyoyo (Japan).zip",
+      "label": "Super Gussun Oyoyo (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Gussun Oyoyo 2 (Japan) (Translated En).zip",
+      "label": "Super Gussun Oyoyo 2 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Indy Champ (Japan).zip",
+      "label": "Super Indy Champ (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Koukou Yakyuu - Ikkyuu Nyuukon (Japan).zip",
+      "label": "Super Koukou Yakyuu - Ikkyuu Nyuukon (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Kyuukyoku Harikiri Stadium (Japan).zip",
+      "label": "Super Kyuukyoku Harikiri Stadium (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Kyuukyoku Harikiri Stadium 2 (Japan).zip",
+      "label": "Super Kyuukyoku Harikiri Stadium 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Loopz (Japan).zip",
+      "label": "Super Loopz (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Mad Champ (Japan).zip",
+      "label": "Super Mad Champ (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Naxat Open - Golf de Shoubu da Dorabocchan (Japan).zip",
+      "label": "Super Naxat Open - Golf de Shoubu da Dorabocchan (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Nazo Puyo - Rulue no Roux (Japan).zip",
+      "label": "Super Nazo Puyo - Rulue no Roux (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan).zip",
+      "label": "Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Ninja-kun (Japan).zip",
+      "label": "Super Ninja-kun (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Oozumou - Nessen Ooichiban (Japan).zip",
+      "label": "Super Oozumou - Nessen Ooichiban (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Pinball II - The Amazing Odyssey (Japan).zip",
+      "label": "Super Pinball II - The Amazing Odyssey (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Power League (Japan).zip",
+      "label": "Super Power League (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Power League 2 (Japan).zip",
+      "label": "Super Power League 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Power League 3 (Japan).zip",
+      "label": "Super Power League 3 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Power League 4 (Japan).zip",
+      "label": "Super Power League 4 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Professional Baseball (Japan).zip",
+      "label": "Super Professional Baseball (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Professional Baseball II (Japan).zip",
+      "label": "Super Professional Baseball II (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Puyo Puyo (Japan).zip",
+      "label": "Super Puyo Puyo (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Puyo Puyo Tsuu (Japan) (Translated En).zip",
+      "label": "Super Puyo Puyo Tsuu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Puyo Puyo Tsuu Remix (Japan).zip",
+      "label": "Super Puyo Puyo Tsuu Remix (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Real Mahjong PIV (Japan).zip",
+      "label": "Super Real Mahjong PIV (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Real Mahjong PV Paradise - All-Star 4-nin Uchi (Japan).zip",
+      "label": "Super Real Mahjong PV Paradise - All-Star 4-nin Uchi (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Rugby (Japan).zip",
+      "label": "Super Rugby (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Soukoban (Japan).zip",
+      "label": "Super Soukoban (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Tekkyuu Fight! (Japan).zip",
+      "label": "Super Tekkyuu Fight! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Tetris 2 + Bombliss (Japan).zip",
+      "label": "Super Tetris 2 + Bombliss (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Tetris 3 (Japan).zip",
+      "label": "Super Tetris 3 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Trump Collection (Japan).zip",
+      "label": "Super Trump Collection (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Trump Collection 2 (Japan).zip",
+      "label": "Super Trump Collection 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Ultra Baseball (Japan).zip",
+      "label": "Super Ultra Baseball (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Ultra Baseball 2 (Japan) (Translated En).zip",
+      "label": "Super Ultra Baseball 2 (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Uno (Japan).zip",
+      "label": "Super Uno (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Super Variable Geo (Japan).zip",
+      "label": "Super Variable Geo (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Sutobasu Yarou Show (Japan).zip",
+      "label": "Sutobasu Yarou Show (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Sutte Hakkun (Japan).zip",
+      "label": "Sutte Hakkun (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Tactical Soccer (Japan).zip",
+      "label": "Tactical Soccer (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Tactics Ogre - Let Us Cling Together (Japan) (Translated En).zip",
+      "label": "Tactics Ogre - Let Us Cling Together (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Taekwon-Do (Japan).zip",
+      "label": "Taekwon-Do (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Taikyoku Igo - Goliath (Japan).zip",
+      "label": "Taikyoku Igo - Goliath (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Taikyoku Igo - Idaten (Japan).zip",
+      "label": "Taikyoku Igo - Idaten (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Takeda Nobuhiro no Super League Soccer (Japan).zip",
+      "label": "Takeda Nobuhiro no Super League Soccer (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Tales of Phantasia (Japan) (Translated En).zip",
+      "label": "Tales of Phantasia (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Tenchi Muyou! - Game Hen (Japan) (Translated En).zip",
+      "label": "Tenchi Muyou! - Game Hen (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Tetris Battle Gaiden (Japan).zip",
+      "label": "Tetris Battle Gaiden (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Tetsuwan Atom (Japan).zip",
+      "label": "Tetsuwan Atom (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Thunderbirds - Kokusai Kyuujotai Shutsudou seyo! (Japan).zip",
+      "label": "Thunderbirds - Kokusai Kyuujotai Shutsudou seyo! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Tokoro's Mahjong (Japan).zip",
+      "label": "Tokoro's Mahjong (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Toride (Japan).zip",
+      "label": "Toride (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Torneko no Daibouken - Fushigi no Dungeon (Japan) (Translated En).zip",
+      "label": "Torneko no Daibouken - Fushigi no Dungeon (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Touge Densetsu - Saisoku Battle (Japan).zip",
+      "label": "Touge Densetsu - Saisoku Battle (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Treasure Hunter G (Japan) (Translated En).zip",
+      "label": "Treasure Hunter G (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Tsuppari Oozumou - Risshinshusse Hen (Japan).zip",
+      "label": "Tsuppari Oozumou - Risshinshusse Hen (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Tsuyoshi Shikkari Shinasai - Taisen Puzzle Dama (Japan).zip",
+      "label": "Tsuyoshi Shikkari Shinasai - Taisen Puzzle Dama (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/TwinBee - Rainbow Bell Adventure (Japan) (Translated En).zip",
+      "label": "TwinBee - Rainbow Bell Adventure (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/U.F.O. Kamen Yakisoban - Kettler no Kuroi Inbou (Japan).zip",
+      "label": "U.F.O. Kamen Yakisoban - Kettler no Kuroi Inbou (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Uchuu no Kishi Tekkaman Blade (Japan) (Translated En).zip",
+      "label": "Uchuu no Kishi Tekkaman Blade (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Uchuu Race - Astro Go! Go! (Japan).zip",
+      "label": "Uchuu Race - Astro Go! Go! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ultra Baseball Jitsumei Ban (Japan) (Translated En).zip",
+      "label": "Ultra Baseball Jitsumei Ban (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ultra Baseball Jitsumei Ban 2 (Japan).zip",
+      "label": "Ultra Baseball Jitsumei Ban 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ultra Baseball Jitsumei Ban 3 (Japan).zip",
+      "label": "Ultra Baseball Jitsumei Ban 3 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ultra League - Moero! Soccer Daikessen!! (Japan).zip",
+      "label": "Ultra League - Moero! Soccer Daikessen!! (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ultra Seven (Japan).zip",
+      "label": "Ultra Seven (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Umihara Kawase (Japan) (Translated En).zip",
+      "label": "Umihara Kawase (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Umizuri Meijin - Suzuki Hen (Japan).zip",
+      "label": "Umizuri Meijin - Suzuki Hen (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Undake 30 Same Game Daisakusen - Mario Version (Japan).zip",
+      "label": "Undake 30 Same Game Daisakusen - Mario Version (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Undercover Cops (Japan).zip",
+      "label": "Undercover Cops (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ushio to Tora (Japan).zip",
+      "label": "Ushio to Tora (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Vs. Collection (Japan).zip",
+      "label": "Vs. Collection (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Wagyan Paradise (Japan).zip",
+      "label": "Wagyan Paradise (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Wakataka Oozumou - Yume no Kyoudai Taiketsu (Japan).zip",
+      "label": "Wakataka Oozumou - Yume no Kyoudai Taiketsu (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Wakuwaku Ski Wonder Spur (Japan).zip",
+      "label": "Wakuwaku Ski Wonder Spur (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Wizardry I-II-III - Story of Llylgamyn (Japan) (Translated En).zip",
+      "label": "Wizardry I-II-III - Story of Llylgamyn (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Wizardry VI - Bane of the Cosmic Forge (Japan) (Translated En).zip",
+      "label": "Wizardry VI - Bane of the Cosmic Forge (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Wonder Project J - Kikai no Shounen Pino (Japan) (Translated En).zip",
+      "label": "Wonder Project J - Kikai no Shounen Pino (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/World Class Rugby 2 - Kokunai Gekitou Hen '93 (Japan).zip",
+      "label": "World Class Rugby 2 - Kokunai Gekitou Hen '93 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Wrecking Crew '98 (Japan).zip",
+      "label": "Wrecking Crew '98 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Yoshi no Cookie - Kuruppon Oven de Cookie (Japan).zip",
+      "label": "Yoshi no Cookie - Kuruppon Oven de Cookie (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ys IV - Mask of the Sun (Japan) (Translated En).zip",
+      "label": "Ys IV - Mask of the Sun (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Ys V - Ushinawareta Suna no Miyako Kefin (Japan) (Translated En).zip",
+      "label": "Ys V - Ushinawareta Suna no Miyako Kefin (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Yu Yu Hakusho (Japan).zip",
+      "label": "Yu Yu Hakusho (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Yu Yu Hakusho - Tokubetsu Hen (Japan).zip",
+      "label": "Yu Yu Hakusho - Tokubetsu Hen (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Yu Yu Hakusho 2 - Kakutou no Shou (Japan).zip",
+      "label": "Yu Yu Hakusho 2 - Kakutou no Shou (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Yu Yu Hakusho Final - Makai Saikyou Retsuden (Japan).zip",
+      "label": "Yu Yu Hakusho Final - Makai Saikyou Retsuden (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Yume Meikyuu - Kigurumi Daibouken (Japan) (Translated En).zip",
+      "label": "Yume Meikyuu - Kigurumi Daibouken (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Zen-Nihon GT Senshuken (Japan).zip",
+      "label": "Zen-Nihon GT Senshuken (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Zen-Nihon Pro Wres (Japan).zip",
+      "label": "Zen-Nihon Pro Wres (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Zen-Nihon Pro Wres 2 - 3-4 Budoukan (Japan).zip",
+      "label": "Zen-Nihon Pro Wres 2 - 3-4 Budoukan (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Zen-Nihon Pro Wres' - Sekai Saikyou Tag (Japan).zip",
+      "label": "Zen-Nihon Pro Wres' - Sekai Saikyou Tag (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Zenkoku Koukou Soccer (Japan).zip",
+      "label": "Zenkoku Koukou Soccer (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Zenkoku Koukou Soccer 2 (Japan).zip",
+      "label": "Zenkoku Koukou Soccer 2 (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Zero 4 Champ RR (Japan).zip",
+      "label": "Zero 4 Champ RR (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Zero 4 Champ RR-Z (Japan).zip",
+      "label": "Zero 4 Champ RR-Z (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Famicom/Zico Soccer (Japan).zip",
+      "label": "Zico Soccer (Japan)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Famicom.lpl"
+    }
+  ]
+}

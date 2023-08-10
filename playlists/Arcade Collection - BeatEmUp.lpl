@@ -1,0 +1,2188 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/aerofgt.zip",
+      "label": "Aero Fighters",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/afighter.zip",
+      "label": "Action Fighter, FD1089A 317-0018",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/aliencha.zip",
+      "label": "Alien Challenge (World) [Imperfect sound]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/altbeast.zip",
+      "label": "Altered Beast (set 8, 8751 317-0078)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/aodk.zip",
+      "label": "Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku (ADM-008)(ADH-008)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/aof.zip",
+      "label": "Art of Fighting / Ryuuko no Ken (NGM-044)(NGH-044)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/aof2.zip",
+      "label": "Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/aof3.zip",
+      "label": "Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/armwar.zip",
+      "label": "Armored Warriors (941024 Europe)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/asurabld.zip",
+      "label": "Asura Blade - Sword of Dynasty (Japan) [Imperfect GFX]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/asurabus.zip",
+      "label": "Asura Buster - Eternal Warriors (Japan) [Imperfect SND, freezes on first boss]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/avengers.zip",
+      "label": "Avengers (US set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/avsp.zip",
+      "label": "Alien vs Predator (940520 Euro)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/baddudes.zip",
+      "label": "Bad Dudes vs. Dragonninja (US)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/batcir.zip",
+      "label": "Battle Circuit (970319 Euro)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/bestbest.zip",
+      "label": "Best Of Best",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/bigkarnk.zip",
+      "label": "Big Karnak",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/bjourney.zip",
+      "label": "Blue's Journey / Raguy (ALM-001)(ALH-001)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/blandia.zip",
+      "label": "Blandia",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/blkpnthr.zip",
+      "label": "Black Panther",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/blktiger.zip",
+      "label": "Black Tiger",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/bloodwar.zip",
+      "label": "Blood Warrior",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/bmaster.zip",
+      "label": "Blade Master (World) [Imperfect sound and graphics]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/bombkick.zip",
+      "label": "Bomb Kick (set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/breakers.zip",
+      "label": "Breakers",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/breakrev.zip",
+      "label": "Breakers Revenge",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/btlkroad.zip",
+      "label": "Battle K-Road",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/buccanrs.zip",
+      "label": "Buccaneers (set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/burningf.zip",
+      "label": "Burning Fight (NGM-018)(NGH-018)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/cadash.zip",
+      "label": "Cadash (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/captcomm.zip",
+      "label": "Captain Commando (911202 other country)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/cbuster.zip",
+      "label": "Crude Buster (World FX version)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/crimfght.zip",
+      "label": "Crime Fighters (US 4 players)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/crsword.zip",
+      "label": "Crossed Swords (ALM-002)(ALH-002)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/crusherm.zip",
+      "label": "Crusher Makochan (Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/csilver.zip",
+      "label": "Captain Silver (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ctribe.zip",
+      "label": "The Combatribes (US)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/cybots.zip",
+      "label": "Cyberbots - fullmetal madness (950424 Euro)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/daraku.zip",
+      "label": "Daraku Tenshi - The Fallen Angels",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/darkmist.zip",
+      "label": "The Lost Castle In Darkmist",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/darkseal.zip",
+      "label": "Dark Seal (World revision 3)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ddcrew.zip",
+      "label": "D. D. Crew (set 4, World, 3 Players, FD1094 317-0190)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ddragon.zip",
+      "label": "Double Dragon (Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ddragon2.zip",
+      "label": "Double Dragon II - The Revenge (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ddragon3.zip",
+      "label": "Double Dragon 3 - The Rosetta Stone (US)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ddsom.zip",
+      "label": "Dungeons _ Dragons - shadow over mystara (960619 Euro)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ddtod.zip",
+      "label": "Dungeons _ Dragons - tower of doom (940412 Euro)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ddux.zip",
+      "label": "Dynamite Dux (set 2, FD1094 317-0096)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/dino.zip",
+      "label": "Cadillacs _ Dinosaurs (930201 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/dinorex.zip",
+      "label": "Dino Rex (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/doubledr.zip",
+      "label": "Double Dragon (Neo-Geo)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/downtown.zip",
+      "label": "DownTown / Mokugeki (Set 1) [No sound, imperfect inputs]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/drgnbowl.zip",
+      "label": "Dragon Bowl",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/drgnbstr.zip",
+      "label": "Dragon Buster [Missing sounds]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/drgnmst.zip",
+      "label": "Dragon Master",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/drgnunit.zip",
+      "label": "Dragon Unit / Castle of Dragon",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/dstlk.zip",
+      "label": "Darkstalkers - the night warriors (940705 Euro)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/dynwar.zip",
+      "label": "Dynasty Wars (US set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ecofghtr.zip",
+      "label": "Eco Fighters (931203 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/edrandy.zip",
+      "label": "The Cliffhanger - Edward Randy (World ver 3)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/eightman.zip",
+      "label": "Eight Man (NGM-025)(NGH-025)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/fatfursp.zip",
+      "label": "Fatal Fury Special / Garou Densetsu Special (set 1)(NGM-058)(NGH-058)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/fatfury1.zip",
+      "label": "Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai (NGM-033)(NGH-033)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/fatfury2.zip",
+      "label": "Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai (NGM-047)(NGH-047)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/fatfury3.zip",
+      "label": "Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai (NGM-069)(NGH-069)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ffight.zip",
+      "label": "Final Fight (World, set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/fightfev.zip",
+      "label": "Fight Fever (set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/flashgal.zip",
+      "label": "Flashgal (set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/gaia.zip",
+      "label": "Gaia Crusaders",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/galaxyfg.zip",
+      "label": "Galaxy Fight - Universal Warriors",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ganryu.zip",
+      "label": "Ganryu / Musashi Ganryuki",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/garou.zip",
+      "label": "Garou - Mark of the Wolves (NGM-2530)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ghouls.zip",
+      "label": "Ghouls'n Ghosts (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ginganin.zip",
+      "label": "Ginga NinkyouDen (set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/gng.zip",
+      "label": "Ghosts'n Goblins (World? set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/goldnaxe.zip",
+      "label": "Golden Axe (set 6, US, 8751 317-123A)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/gowcaizr.zip",
+      "label": "Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/grdian.zip",
+      "label": "Guardian",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/grdians.zip",
+      "label": "Guardians",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/growl.zip",
+      "label": "Growl (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/gundamex.zip",
+      "label": "Mobile Suit Gundam EX Revue",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/gwarrior.zip",
+      "label": "Galactic Warriors",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/hachamf.zip",
+      "label": "Hacha Mecha Fighter (19th Sep. 1991)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/hcastle.zip",
+      "label": "Haunted Castle (ver. M)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/hharry.zip",
+      "label": "Hammerin' Harry (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/hippodrm.zip",
+      "label": "Hippodrome (US)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/hook.zip",
+      "label": "Hook (World) [Imperfect sound and graphics]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/hsf2.zip",
+      "label": "Hyper Street Fighter 2: The Anniversary Edition (040202 USA)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ikki.zip",
+      "label": "Ikki (Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/jchan.zip",
+      "label": "Jackie Chan - The Kung-Fu Master",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/jchan2.zip",
+      "label": "Jackie Chan in Fists of Fire",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/jojo.zip",
+      "label": "JoJo's Venture / JoJo no Kimyou na Bouken (USA 990128)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/jojoba.zip",
+      "label": "JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kabukikl.zip",
+      "label": "Far East of Eden - Kabuki Klash / Tengai Makyou - Shin Den",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kageki.zip",
+      "label": "Kageki (US) [Imperfect Sound]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/karatblz.zip",
+      "label": "Karate Blazers (World?)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/karnovr.zip",
+      "label": "Karnov's Revenge / Fighter's History Dynamite",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kbash.zip",
+      "label": "Knuckle Bash",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kbash2.zip",
+      "label": "Knuckle Bash 2 (bootleg)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kf2k3pcb.zip",
+      "label": "The King of Fighters 2003 [dedicated PCB version, Japan region]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kidniki.zip",
+      "label": "Kid Niki - Radical Ninja (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/killbld.zip",
+      "label": "The Killing Blade (V109, China)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/killbldp.zip",
+      "label": "The Killing Blade Plus (V300) [Incomplete Dump]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kizuna.zip",
+      "label": "Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/knights.zip",
+      "label": "Knights of the Round (911127 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kod.zip",
+      "label": "The King of Dragons (910805 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof2000.zip",
+      "label": "The King of Fighters 2000 (NGM-2570) (NGH-2570)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof2001.zip",
+      "label": "The King of Fighters 2001 (NGM-262?)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof2002.zip",
+      "label": "The King of Fighters 2002 (NGM-2650)(NGH-2650)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof2003.zip",
+      "label": "The King of Fighters 2003 (NGM-2710)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof94.zip",
+      "label": "The King of Fighters '94 (NGM-055)(NGH-055)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof95.zip",
+      "label": "The King of Fighters '95 (NGM-084)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof96.zip",
+      "label": "The King of Fighters '96 (NGM-214)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof97.zip",
+      "label": "The King of Fighters '97 (NGM-2320)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof98.zip",
+      "label": "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (NGM-2420)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof99.zip",
+      "label": "The King of Fighters '99 - Millennium Battle (NGM-2510)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kotm.zip",
+      "label": "King of the Monsters (set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kotm2.zip",
+      "label": "King of the Monsters 2 - The Next Thing (NGM-039)(NGH-039)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kov.zip",
+      "label": "Knights of Valour - Sangoku Senki (V117)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kov2.zip",
+      "label": "Knights of Valour 2 (V107, 102, 100, Hong Kong)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kov2p.zip",
+      "label": "Knights of Valour 2 Plus - Nine Dragons (VM205XX, China)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kovplus.zip",
+      "label": "Knights of Valour Plus - Sangoku Senki Plus (V119)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kovsh.zip",
+      "label": "Knights of Valour Superheroes / Sangoku Senki Superheroes (V104, China)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kozure.zip",
+      "label": "Kozure Ookami (Japan) [Imperfect Graphics]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kungfum.zip",
+      "label": "Kung-Fu Master",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/lastblad.zip",
+      "label": "The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/lastbld2.zip",
+      "label": "The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (NGM-2430)(NGH-2430)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/legend.zip",
+      "label": "Legend",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/legendos.zip",
+      "label": "Legend of Success Joe / Ashitano Joe Densetsu",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/lgtnfght.zip",
+      "label": "Lightning Fighters (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/liquidk.zip",
+      "label": "Liquid Kids (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/lkage.zip",
+      "label": "The Legend of Kage",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/loht.zip",
+      "label": "Legend of Hero Tonma",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/martmast.zip",
+      "label": "Martial Masters (V104, 102, 102, USA)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/matrim.zip",
+      "label": "Matrimelee / Shin Gouketsuji Ichizoku Toukon (NGM-2660) (NGH-2660)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/megaman.zip",
+      "label": "Mega Man - the power battle (951006 USA)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/megaman2.zip",
+      "label": "Mega Man 2 - the power fighters (960708 USA)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/metmqstr.zip",
+      "label": "Metamoqester (International)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mia.zip",
+      "label": "M.I.A. - Missing in Action (ver. T)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mikie.zip",
+      "label": "Mikie",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mrgoemon.zip",
+      "label": "Mr. Goemon (Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/msgundam.zip",
+      "label": "Mobile Suit Gundam",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/msh.zip",
+      "label": "Marvel Super Heroes (951024 Euro)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mshvsf.zip",
+      "label": "Marvel Super Heroes vs Street Fighter (970625 Euro)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/msword.zip",
+      "label": "Magic Sword - heroic fantasy (25.07.1990 other country)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mtwins.zip",
+      "label": "Mega Twins (chiki chiki boys 900619 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mugsmash.zip",
+      "label": "Mug Smashers",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mutantf.zip",
+      "label": "Mutant Fighter (World ver EM-5)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mutnat.zip",
+      "label": "Mutation Nation (NGM-014)(NGH-014)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mvsc.zip",
+      "label": "Marvel vs Capcom - clash of super heroes (980123 Euro)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mwalk.zip",
+      "label": "Michael Jackson's Moonwalker (set 3, World, FD1094/8751 317-0159)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mwarr.zip",
+      "label": "Mighty Warriors",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/myhero.zip",
+      "label": "My Hero (US, not encrypted)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/nastar.zip",
+      "label": "Nastar (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ncombat.zip",
+      "label": "Ninja Combat (NGM-009)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/nemo.zip",
+      "label": "Nemo (90 11 30 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ninjak.zip",
+      "label": "The Ninja Kids (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ninjamas.zip",
+      "label": "Ninja Master's - haoh-ninpo-cho",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ninjaw.zip",
+      "label": "The Ninja Warriors (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/nspirit.zip",
+      "label": "Ninja Spirit",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/nwarr.zip",
+      "label": "Night Warriors - darkstalkers' revenge (950316 Euro)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/olds.zip",
+      "label": "Oriental Legend Super (V101, Korea) [Imperfect Protection Emulation]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/omegaf.zip",
+      "label": "Omega Fighter",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/onna34ro.zip",
+      "label": "Onna Sansirou - Typhoon Gal (set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/orlegend.zip",
+      "label": "Oriental Legend - Xi Yo Gi Shi Re Zuang (V126)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/osman.zip",
+      "label": "Osman (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/plegends.zip",
+      "label": "Gouketsuji Gaiden Legends (USA, ver. 95/06/20)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/pow.zip",
+      "label": "P.O.W. - Prisoners of War (US version 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/powerins.zip",
+      "label": "Power Instinct (USA)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/pulirula.zip",
+      "label": "PuLiRuLa (World) [Some priority problems]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/punisher.zip",
+      "label": "The Punisher (930422 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/pwrinst2.zip",
+      "label": "Power Instinct 2 (USA, ver. 94/04/08) [Bad Music from first MSM6295]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ragnagrd.zip",
+      "label": "Ragnagard / Shin-Oh-Ken",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/rastan.zip",
+      "label": "Rastan (World Rev 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/rbff1.zip",
+      "label": "Real Bout Fatal Fury / Real Bout Garou Densetsu (NGM-095)(NGH-095)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/rbff2.zip",
+      "label": "Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (NGM-2400)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/rbffspec.zip",
+      "label": "Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/redearth.zip",
+      "label": "Red Earth / War-Zard (Euro 961121)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/renegade.zip",
+      "label": "Renegade (US)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/riotcity.zip",
+      "label": "Riot City (Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/roboarmy.zip",
+      "label": "Robo Army",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/robocop2.zip",
+      "label": "Robocop 2 (Euro/Asia v0.10)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/rotd.zip",
+      "label": "Rage of the Dragons (NGM-264?)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/rygar.zip",
+      "label": "Rygar (US set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sailormn.zip",
+      "label": "Pretty Soldier Sailor Moon (ver. 95/03/22B, Europe)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/samsh5sp.zip",
+      "label": "Samurai Shodown V Special / Samurai Spirits Zero Special (NGM-2720)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/samsho.zip",
+      "label": "Samurai Shodown / Samurai Spirits (NGM-045)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/samsho2.zip",
+      "label": "Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/samsho3.zip",
+      "label": "Samurai Shodown III / Samurai Spirits - Zankurou Musouken (NGM-087)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/samsho4.zip",
+      "label": "Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin (NGM-222)(NGH-222)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/samsho5.zip",
+      "label": "Samurai Shodown V / Samurai Spirits Zero (NGM-2700)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/savagere.zip",
+      "label": "Savage Reign / Fu'un Mokushiroku - kakutou sousei",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/schmeisr.zip",
+      "label": "Schmeiser Robo (Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sdfight.zip",
+      "label": "SD Fighters (Korea)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sengoku.zip",
+      "label": "Sengoku / Sengoku Denshou (NGM-017)(NGH-017)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sengoku2.zip",
+      "label": "Sengoku 2 / Sengoku Denshou 2",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sengoku3.zip",
+      "label": "Sengoku 3 / Sengoku Densho 2001",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sf2.zip",
+      "label": "Street Fighter II - The World Warrior (910522 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sf2ce.zip",
+      "label": "Street Fighter II' - Champion Edition (street fighter 2' 920513 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sf2hf.zip",
+      "label": "Street Fighter II' - Hyper Fighting (street fighter 2' T 921209 ETC)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfa.zip",
+      "label": "Street Fighter Alpha - warriors' dreams (950727 Euro)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfa2.zip",
+      "label": "Street Fighter Alpha 2 (960229 Euro)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfa3.zip",
+      "label": "Street Fighter Alpha 3 (980904 Euro)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfiii.zip",
+      "label": "Street Fighter III: New Generation (Euro 970204)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfiii2.zip",
+      "label": "Street Fighter III 2nd Impact: Giant Attack (USA 970930)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfiii3.zip",
+      "label": "Street Fighter III 3rd Strike: Fight for the Future (Euro 990608)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfz2al.zip",
+      "label": "Street Fighter Zero 2 Alpha (960826 Asia)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfzch.zip",
+      "label": "Street Fighter Zero (CPS Changer, 951020 Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sgemf.zip",
+      "label": "Super Gem Fighter Mini Mix (970904 USA)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/shadfrce.zip",
+      "label": "Shadow Force (US Version 2)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/shadoww.zip",
+      "label": "Shadow Warriors (World, set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/shdancer.zip",
+      "label": "Shadow Dancer (set 3, US)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/shinfz.zip",
+      "label": "Shinobi / FZ-2006 (Korean System 16 bootleg) (ISG Selection Master Type 2006)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/shinobi.zip",
+      "label": "Shinobi (set 6, System 16A, unprotected)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/shocking.zip",
+      "label": "Shocking",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/silentd.zip",
+      "label": "Silent Dragon (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/silkroad.zip",
+      "label": "The Legend of Silkroad",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/simpsons.zip",
+      "label": "The Simpsons (4 Players World, set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/simpsons2p.zip",
+      "label": "The Simpsons (2 Players World, set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/solfigtr.zip",
+      "label": "Solitary Fighter (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sonicwi2.zip",
+      "label": "Aero Fighters 2 / Sonic Wings 2",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sonicwi3.zip",
+      "label": "Aero Fighters 3 / Sonic Wings 3",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/spf2t.zip",
+      "label": "Super Puzzle Fighter II Turbo (Super Puzzle Fighter 2 Turbo 960620 USA)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/spinmast.zip",
+      "label": "Spin Master / Miracle Adventure",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/spy.zip",
+      "label": "S.P.Y. - Special Project Y (World ver. N)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ssf2.zip",
+      "label": "Super Street Fighter II - the new challengers (super street fighter 2 930911 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ssf2t.zip",
+      "label": "Super Street Fighter II Turbo (super street fighter 2 X 940223 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ssoldier.zip",
+      "label": "Superior Soldiers (US) [Imperfect sound and graphics]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/stratof.zip",
+      "label": "Raiga - Strato Fighter (US)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/streetsm.zip",
+      "label": "Street Smart (US version 2)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/strider.zip",
+      "label": "Strider (US set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/strkfgtr.zip",
+      "label": "Strike Fighter (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/superman.zip",
+      "label": "Superman (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/superspy.zip",
+      "label": "The Super Spy (NGM-011)(NGH-011)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/svc.zip",
+      "label": "SNK vs. Capcom - SVC Chaos (NGM-2690)(NGH-2690)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/svcpcb.zip",
+      "label": "SNK vs. Capcom - SVC Chaos (JAMMA PCB, set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/svg.zip",
+      "label": "S.V.G. - Spectral vs Generation (V200, China) [Incomplete Dump]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/taotaido.zip",
+      "label": "Tao Taido (set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/theglad.zip",
+      "label": "The Gladiator - Road Of The Sword / Shen Jian (V101) [Incomplete Dump]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/theroes.zip",
+      "label": "Thunder Heroes",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/thundfox.zip",
+      "label": "Thunder Fox (World) [NULL]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/tigeroad.zip",
+      "label": "Tiger Road (US)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/tkdensho.zip",
+      "label": "Toukidenshou - Angel Eyes (VER. 960614) [No sound]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/tmnt.zip",
+      "label": "Teenage Mutant Ninja Turtles (World 4 Players)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/tmnt2.zip",
+      "label": "Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver. UAA)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/tmnt22pu.zip",
+      "label": "Teenage Mutant Ninja Turtles - Turtles in Time (2 Players ver. UDA)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/tmnt2po.zip",
+      "label": "Teenage Mutant Ninja Turtles (Oceania 2 Players)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/tophuntr.zip",
+      "label": "Top Hunter - Roddy _ Cathy (NGM-046)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/triothep.zip",
+      "label": "Trio The Punch - Never Forget Me... (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/trojan.zip",
+      "label": "Trojan (US set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/tturf.zip",
+      "label": "Tough Turf (set 2, Japan, 8751 317-0104) [No Sound, Missing Z80 Program]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/uccops.zip",
+      "label": "Undercover Cops (World) [Imperfect sound and graphics]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ultraman.zip",
+      "label": "Ultraman (Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/utoukond.zip",
+      "label": "Ultra Toukon Densetsu (Japan) [No sound]",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/vandyke.zip",
+      "label": "Vandyke (Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/vendetta.zip",
+      "label": "Vendetta (World 4 Players ver. T)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/vhunt2.zip",
+      "label": "Vampire Hunter 2 - darkstalkers revenge (970929 Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/vigilant.zip",
+      "label": "Vigilante (World, set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/viofight.zip",
+      "label": "Violence Fight (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/vsav.zip",
+      "label": "Vampire Savior - the lord of vampire (970519 Euro)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/vsav2.zip",
+      "label": "Vampire Savior 2 - the lord of vampire (970913 Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/wakuwak7.zip",
+      "label": "Waku Waku 7",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/warriorb.zip",
+      "label": "Warrior Blade - Rastan Saga Episode III (Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/wh1.zip",
+      "label": "World Heroes (ALM-005)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/wh2.zip",
+      "label": "World Heroes 2 (ALM-006)(ALH-006)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/wh2j.zip",
+      "label": "World Heroes 2 Jet (ADM-007)(ADH-007)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/whp.zip",
+      "label": "World Heroes Perfect",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/wildfang.zip",
+      "label": "Wild Fang / Tecmo Knight",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/wizdfire.zip",
+      "label": "Wizard Fire (Over Sea v2.1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/wof.zip",
+      "label": "Warriors of Fate (921031 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/xmcota.zip",
+      "label": "X-Men - children of the atom (950331 Euro)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/xmen.zip",
+      "label": "X-Men (4 Players ver UBB)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/xmvsf.zip",
+      "label": "X-Men vs Street Fighter (961004 Euro)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - BeatEmUp.lpl"
+    }
+  ]
+}

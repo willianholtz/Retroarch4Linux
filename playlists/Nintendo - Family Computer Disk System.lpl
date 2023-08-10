@@ -1,0 +1,1676 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/19 - Neunzehn (Japan) (Translated En).zip",
+      "label": "19 - Neunzehn (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Adian no Tsue (Japan).zip",
+      "label": "Adian no Tsue (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Ai Senshi Nicol (Japan).zip",
+      "label": "Ai Senshi Nicol (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Akara Senki Raijin (Japan).zip",
+      "label": "Akara Senki Raijin (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl).zip",
+      "label": "Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Akumajou Dracula (Japan).zip",
+      "label": "Akumajou Dracula (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Akumajou Dracula II - Noroi no Fuuin (Japan).zip",
+      "label": "Akumajou Dracula II - Noroi no Fuuin (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Aliens (Japan) (Proto).zip",
+      "label": "Aliens (Japan) (Proto)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/All Night Nippon Super Mario Bros. (Japan).zip",
+      "label": "All Night Nippon Super Mario Bros. (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Apple Town Monogatari - Little Computer People (Japan).zip",
+      "label": "Apple Town Monogatari - Little Computer People (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Armana no Kiseki (Japan) (Translated En).zip",
+      "label": "Armana no Kiseki (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Aspic - Mahebiou no Noroi (Japan).zip",
+      "label": "Aspic - Mahebiou no Noroi (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Backgammon (Japan).zip",
+      "label": "Backgammon (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Bakutoushi Patton-kun (Japan).zip",
+      "label": "Bakutoushi Patton-kun (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Baseball (Japan).zip",
+      "label": "Baseball (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Big Challenge! Dogfight Spirit (Japan).zip",
+      "label": "Big Challenge! Dogfight Spirit (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Big Challenge! Go! Go! Bowling (Japan).zip",
+      "label": "Big Challenge! Go! Go! Bowling (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Big Challenge! Gun Fighter (Japan).zip",
+      "label": "Big Challenge! Gun Fighter (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Big Challenge! Judou Senshuken (Japan).zip",
+      "label": "Big Challenge! Judou Senshuken (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Bio Miracle Bokutte Upa (Japan).zip",
+      "label": "Bio Miracle Bokutte Upa (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Bishoujo Control (Japan) (Unl).zip",
+      "label": "Bishoujo Control (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Bishoujo Hanafuda Club Vol.1 - Oityokabu Hen (Japan) (Unl).zip",
+      "label": "Bishoujo Hanafuda Club Vol.1 - Oityokabu Hen (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen (Japan) (Unl).zip",
+      "label": "Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Bishoujo Kachinuki Renju - Gomokunarabe (Japan) (Unl).zip",
+      "label": "Bishoujo Kachinuki Renju - Gomokunarabe (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Bishoujo Mahjong Club (Japan) (Unl).zip",
+      "label": "Bishoujo Mahjong Club (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Bishoujo Sexy Derby (Japan) (Unl) (Translated En).zip",
+      "label": "Bishoujo Sexy Derby (Japan) (Unl) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Bishoujo Sexy Puzzle (Japan) (Unl).zip",
+      "label": "Bishoujo Sexy Puzzle (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Bishoujo Sexy Slot (Japan) (Unl).zip",
+      "label": "Bishoujo Sexy Slot (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Bishoujo SF Alien Battle (Japan) (Unl).zip",
+      "label": "Bishoujo SF Alien Battle (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/BodyConQuest I - Abakareshi Musume Tachi (Japan) (Unl) (Translated En).zip",
+      "label": "BodyConQuest I - Abakareshi Musume Tachi (Japan) (Unl) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Bomberman (Japan).zip",
+      "label": "Bomberman (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Breeder (Japan).zip",
+      "label": "Breeder (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Bubble Bobble (Japan).zip",
+      "label": "Bubble Bobble (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Burger Time (Japan).zip",
+      "label": "Burger Time (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Casino de Pink (Japan) (Unl).zip",
+      "label": "Casino de Pink (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Chiteitairiku Orudola (Japan).zip",
+      "label": "Chiteitairiku Orudola (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/City Connection (Japan) (Unl).zip",
+      "label": "City Connection (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Clox (Japan).zip",
+      "label": "Clox (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Clu Clu Land - Welcome to New Clu Clu Land (Japan).zip",
+      "label": "Clu Clu Land - Welcome to New Clu Clu Land (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Cocona World (Japan).zip",
+      "label": "Cocona World (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Comic Sakka Series Touma Senki #1 - Mashoujo Gakuen Evil (Japan) (Unl).zip",
+      "label": "Comic Sakka Series Touma Senki #1 - Mashoujo Gakuen Evil (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Comic Sakka Series Touma Senki #2 - Mermaid no Gyakushuu (Japan) (Unl).zip",
+      "label": "Comic Sakka Series Touma Senki #2 - Mermaid no Gyakushuu (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Comic Sakka Series Touma Senki #3 - Ryuujin Sensei Kikiippatsu (Japan) (Unl).zip",
+      "label": "Comic Sakka Series Touma Senki #3 - Ryuujin Sensei Kikiippatsu (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Comic Sakka Series Touma Senki #4 - Tenkuu Ryuumaou Fukkatsu (Japan) (Unl).zip",
+      "label": "Comic Sakka Series Touma Senki #4 - Tenkuu Ryuumaou Fukkatsu (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Comic Sakka Series Touma Senki #5 - Youjuu Rudo no Chousen (Japan) (Unl).zip",
+      "label": "Comic Sakka Series Touma Senki #5 - Youjuu Rudo no Chousen (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Dandy - Zeuon No Fukkatsu (Japan).zip",
+      "label": "Dandy - Zeuon No Fukkatsu (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Date de Blackjack (Japan) (Unl).zip",
+      "label": "Date de Blackjack (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Deep Dungeon - Madou Senki (Japan) (Translated En).zip",
+      "label": "Deep Dungeon - Madou Senki (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Deep Dungeon II - Yushi no Monshou (Japan) (Translated En).zip",
+      "label": "Deep Dungeon II - Yushi no Monshou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Dig Dug (Japan).zip",
+      "label": "Dig Dug (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Dig Dug II (Japan).zip",
+      "label": "Dig Dug II (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Dirty Pair - Project Eden (Japan) (Translated En).zip",
+      "label": "Dirty Pair - Project Eden (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Donkey Kong (Japan).zip",
+      "label": "Donkey Kong (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Donkey Kong Jr. (Japan).zip",
+      "label": "Donkey Kong Jr. (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Doremikko (Japan).zip",
+      "label": "Doremikko (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Dr. Chaos - Jigoku no Tobira (Japan).zip",
+      "label": "Dr. Chaos - Jigoku no Tobira (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Druid - Kyoufu no Tobira (Japan).zip",
+      "label": "Druid - Kyoufu no Tobira (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Eggerland (Japan) (Translated En).zip",
+      "label": "Eggerland (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Eggerland - Souzou heno Tabidachi (Japan).zip",
+      "label": "Eggerland - Souzou heno Tabidachi (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Electrician (Japan) (Translated En).zip",
+      "label": "Electrician (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Emi-chan no Moero Yakyuuken! (Japan) (Unl) (Translated En).zip",
+      "label": "Emi-chan no Moero Yakyuuken! (Japan) (Unl) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Esper Dream (Japan) (Translated En).zip",
+      "label": "Esper Dream (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Exciting Baseball (Japan).zip",
+      "label": "Exciting Baseball (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Exciting Basket (Japan).zip",
+      "label": "Exciting Basket (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Exciting Billiard (Japan).zip",
+      "label": "Exciting Billiard (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Exciting Soccer - Konami Cup (Japan).zip",
+      "label": "Exciting Soccer - Konami Cup (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl).zip",
+      "label": "Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Fairytale (Japan).zip",
+      "label": "Fairytale (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Falsion (Japan).zip",
+      "label": "Falsion (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Famicom Grand Prix - F1 Race (Japan).zip",
+      "label": "Famicom Grand Prix - F1 Race (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Famicom Grand Prix II - 3D Hot Rally (Japan).zip",
+      "label": "Famicom Grand Prix II - 3D Hot Rally (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Family Composer (Japan).zip",
+      "label": "Family Composer (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Family Computer Golf - Japan Course (Japan).zip",
+      "label": "Family Computer Golf - Japan Course (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Family Computer Golf - Special Course (Japan).zip",
+      "label": "Family Computer Golf - Special Course (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Family Computer Golf - U.S. Course (Japan).zip",
+      "label": "Family Computer Golf - U.S. Course (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Family Computer Golf Tournament - Japan Course (Japan).zip",
+      "label": "Family Computer Golf Tournament - Japan Course (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Family Computer Othello (Japan).zip",
+      "label": "Family Computer Othello (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Final Commando - Akai Yousai (Japan).zip",
+      "label": "Final Commando - Akai Yousai (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Fire Bam (Japan).zip",
+      "label": "Fire Bam (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Fire Rock (Japan).zip",
+      "label": "Fire Rock (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Fuun Shorinji (Japan).zip",
+      "label": "Fuun Shorinji (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Fuun Shorinji - Ankoku no Maou (Japan).zip",
+      "label": "Fuun Shorinji - Ankoku no Maou (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Galaga (Japan).zip",
+      "label": "Galaga (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Galaxian (Japan).zip",
+      "label": "Galaxian (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Gall Force - Eternal Story (Japan) (Translated En).zip",
+      "label": "Gall Force - Eternal Story (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Game Tengoku (Japan).zip",
+      "label": "Game Tengoku (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Ginga Denshou - Galaxy Odyssey (Japan).zip",
+      "label": "Ginga Denshou - Galaxy Odyssey (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Golf (Japan).zip",
+      "label": "Golf (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Golf, The - Bishoujo Classic (Japan) (Unl).zip",
+      "label": "Golf, The - Bishoujo Classic (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Goonies, The (Japan).zip",
+      "label": "Goonies, The (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Green Beret (Japan).zip",
+      "label": "Green Beret (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Gun.Smoke (Japan).zip",
+      "label": "Gun.Smoke (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Gyruss (Japan).zip",
+      "label": "Gyruss (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Halley Wars (Japan).zip",
+      "label": "Halley Wars (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Hao-kun no Fushigina Tabi (Japan).zip",
+      "label": "Hao-kun no Fushigina Tabi (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Hikari Shinwa - Palthena no Kagami (Japan).zip",
+      "label": "Hikari Shinwa - Palthena no Kagami (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Hong Kong (Japan).zip",
+      "label": "Hong Kong (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Ice Climber (Japan).zip",
+      "label": "Ice Climber (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Ice Hockey (Japan).zip",
+      "label": "Ice Hockey (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Igo - Kyuroban Taikyoku (Japan).zip",
+      "label": "Igo - Kyuroban Taikyoku (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Ishido (Japan) (Translated En).zip",
+      "label": "Ishido (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Janken Disk Shiro (Japan).zip",
+      "label": "Janken Disk Shiro (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Jikai Shounen Met Mag (Japan).zip",
+      "label": "Jikai Shounen Met Mag (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Kaettekita Mario Bros. (Japan).zip",
+      "label": "Kaettekita Mario Bros. (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Kalin no Tsurugi (Japan) (Translated En).zip",
+      "label": "Kalin no Tsurugi (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Kamen Rider Black - Taiketsu Shadow Moon (Japan).zip",
+      "label": "Kamen Rider Black - Taiketsu Shadow Moon (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Karate Champ (Japan).zip",
+      "label": "Karate Champ (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Kick and Run (Japan).zip",
+      "label": "Kick and Run (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Kick Challenger Air Foot - Yasai no Kuni no Ashi Senshi (Japan).zip",
+      "label": "Kick Challenger Air Foot - Yasai no Kuni no Ashi Senshi (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Kidou Keisatsu Patlabor - Dai 2 Shoutai Shutsudou Seyo! (Japan) (Translated En).zip",
+      "label": "Kidou Keisatsu Patlabor - Dai 2 Shoutai Shutsudou Seyo! (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Kieta Princess (Japan).zip",
+      "label": "Kieta Princess (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Kiki Kaikai - Dotou Hen (Japan).zip",
+      "label": "Kiki Kaikai - Dotou Hen (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Kineko - Kinetic Connection - The Monitor Puzzle (Japan).zip",
+      "label": "Kineko - Kinetic Connection - The Monitor Puzzle (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Kineko Vol. II - Kinetic Connection - The Monitor Puzzle (Japan).zip",
+      "label": "Kineko Vol. II - Kinetic Connection - The Monitor Puzzle (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Kinnikuman - Kinniku Ookurai Soudatsusen (Japan).zip",
+      "label": "Kinnikuman - Kinniku Ookurai Soudatsusen (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Knight Lore (Japan).zip",
+      "label": "Knight Lore (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Knight Move (Japan) (Translated En).zip",
+      "label": "Knight Move (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Kobayashi Hitomi Shocking Tennis (Japan) (Unl).zip",
+      "label": "Kobayashi Hitomi Shocking Tennis (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Konamic Ice Hockey (Japan).zip",
+      "label": "Konamic Ice Hockey (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Konamic Tennis (Japan).zip",
+      "label": "Konamic Tennis (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Koneko Monogatari - The Adventures of Chatran (Japan).zip",
+      "label": "Koneko Monogatari - The Adventures of Chatran (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Legend of Zelda 2, The - Link no Bouken (Japan).zip",
+      "label": "Legend of Zelda 2, The - Link no Bouken (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Lipstick #.1 - Lolita Hen (Japan) (Unl).zip",
+      "label": "Lipstick #.1 - Lolita Hen (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Lipstick #.2 - Joshi Gakusei Hen (Japan) (Unl).zip",
+      "label": "Lipstick #.2 - Joshi Gakusei Hen (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Lipstick #.3 - OL Hen (Japan) (Unl).zip",
+      "label": "Lipstick #.3 - OL Hen (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Lipstick #.4 - Hakui no Tenshi Hen (Japan) (Unl).zip",
+      "label": "Lipstick #.4 - Hakui no Tenshi Hen (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Lipstick #.5 - Stewardess Hen (Japan) (Unl).zip",
+      "label": "Lipstick #.5 - Stewardess Hen (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Lutter (Japan) (Translated En).zip",
+      "label": "Lutter (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Mahjong (Japan).zip",
+      "label": "Mahjong (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Mahjong Goraku - Bishoujo Meijinsen (Japan) (Unl).zip",
+      "label": "Mahjong Goraku - Bishoujo Meijinsen (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Mahjong Kazoku (Japan).zip",
+      "label": "Mahjong Kazoku (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Marchen Veil (Japan).zip",
+      "label": "Marchen Veil (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Matou no Houkai (Japan).zip",
+      "label": "Matou no Houkai (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Meikyujin Dababa (Japan).zip",
+      "label": "Meikyujin Dababa (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Metroid (Japan) (Translated En).zip",
+      "label": "Metroid (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Michael English Daibouken (Japan).zip",
+      "label": "Michael English Daibouken (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan).zip",
+      "label": "Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Monty on the Run - Monty no Doki Doki Dai Dassou (Japan) (Translated En).zip",
+      "label": "Monty on the Run - Monty no Doki Doki Dai Dassou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Moonball Magic (Japan).zip",
+      "label": "Moonball Magic (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Namida no Soukoban Special (Japan) (Translated En).zip",
+      "label": "Namida no Soukoban Special (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Nazo no Kabe - Block Kuzushi (Japan).zip",
+      "label": "Nazo no Kabe - Block Kuzushi (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Nazo no Murasame Jou (Japan) (Translated En).zip",
+      "label": "Nazo no Murasame Jou (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Nazoler Land Dai 2 Gou (Japan).zip",
+      "label": "Nazoler Land Dai 2 Gou (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Nazoler Land Dai 3 Gou (Japan).zip",
+      "label": "Nazoler Land Dai 3 Gou (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Nazoler Land Soukan Gou (Japan).zip",
+      "label": "Nazoler Land Soukan Gou (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Omoikkiri Tanteidan Haado Gumi - Matenrou no Chousenjou (Japan).zip",
+      "label": "Omoikkiri Tanteidan Haado Gumi - Matenrou no Chousenjou (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Oru 1 (Japan).zip",
+      "label": "Oru 1 (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Otocky (Japan).zip",
+      "label": "Otocky (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Pac-Man (Japan).zip",
+      "label": "Pac-Man (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Pachi Com (Japan).zip",
+      "label": "Pachi Com (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Pachinko Grand Prix (Japan).zip",
+      "label": "Pachinko Grand Prix (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Panic Space (Japan).zip",
+      "label": "Panic Space (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Pinball (Japan).zip",
+      "label": "Pinball (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Pro Golfer Saru - Kage no Tournament (Japan).zip",
+      "label": "Pro Golfer Saru - Kage no Tournament (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Pro Wrestling - Famicom Wrestling Association (Japan).zip",
+      "label": "Pro Wrestling - Famicom Wrestling Association (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Professional Mahjong Goku (Japan).zip",
+      "label": "Professional Mahjong Goku (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Putt Putt Golf (Japan).zip",
+      "label": "Putt Putt Golf (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Puyo Puyo (Japan).zip",
+      "label": "Puyo Puyo (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Puzzle Boys (Japan) (Translated En).zip",
+      "label": "Puzzle Boys (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Radical Bomber!! Jirai-kun (Japan).zip",
+      "label": "Radical Bomber!! Jirai-kun (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Reflect World (Japan).zip",
+      "label": "Reflect World (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Relics - Ankoku Yousai (Japan).zip",
+      "label": "Relics - Ankoku Yousai (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Replicart (Japan).zip",
+      "label": "Replicart (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Roger Rabbit (Japan).zip",
+      "label": "Roger Rabbit (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Sailor Fuku Bishoujo Zukan Vol. 1 (Japan) (Unl).zip",
+      "label": "Sailor Fuku Bishoujo Zukan Vol. 1 (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Sailor Fuku Bishoujo Zukan Vol. 2 (Japan) (Unl).zip",
+      "label": "Sailor Fuku Bishoujo Zukan Vol. 2 (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Sailor Fuku Bishoujo Zukan Vol. 3 (Japan) (Unl).zip",
+      "label": "Sailor Fuku Bishoujo Zukan Vol. 3 (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Sailor Fuku Bishoujo Zukan Vol. 4 (Japan) (Unl).zip",
+      "label": "Sailor Fuku Bishoujo Zukan Vol. 4 (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Sailor Fuku Bishoujo Zukan Vol. 5 (Japan) (Unl).zip",
+      "label": "Sailor Fuku Bishoujo Zukan Vol. 5 (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Sailor Fuku Bishoujo Zukan Vol. 6 (Japan) (Unl).zip",
+      "label": "Sailor Fuku Bishoujo Zukan Vol. 6 (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Samurai Sword (Japan) (Translated En).zip",
+      "label": "Samurai Sword (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Santa Claus no Takarabako (Japan) (Translated En).zip",
+      "label": "Santa Claus no Takarabako (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/SD Gundam World - Gachapon Senshi - Scramble Wars (Japan).zip",
+      "label": "SD Gundam World - Gachapon Senshi - Scramble Wars (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/SD Gundam World - Gachapon Senshi - Scramble Wars Map Collection (Japan).zip",
+      "label": "SD Gundam World - Gachapon Senshi - Scramble Wars Map Collection (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Section-Z (Japan).zip",
+      "label": "Section-Z (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Seiken Psycho Calibur - Maju no Mori Densetsu (Japan) (Translated En).zip",
+      "label": "Seiken Psycho Calibur - Maju no Mori Densetsu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Sexy Invaders (Japan) (Unl).zip",
+      "label": "Sexy Invaders (Japan) (Unl)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Silvania - Ai Ippai no Boukensha (Japan) (Translated En).zip",
+      "label": "Silvania - Ai Ippai no Boukensha (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Smash Ping Pong (Japan).zip",
+      "label": "Smash Ping Pong (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Soccer (Japan).zip",
+      "label": "Soccer (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Solomon no Kagi (Japan).zip",
+      "label": "Solomon no Kagi (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Suishou no Ryuu (Japan) (Translated En).zip",
+      "label": "Suishou no Ryuu (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Super Boy Allan (Japan).zip",
+      "label": "Super Boy Allan (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Super Lode Runner (Japan).zip",
+      "label": "Super Lode Runner (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Super Lode Runner II (Japan).zip",
+      "label": "Super Lode Runner II (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Super Mario Bros. (Japan).zip",
+      "label": "Super Mario Bros. (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Super Mario Bros. 2 (Japan).zip",
+      "label": "Super Mario Bros. 2 (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Tama & Friends - 3 Choume Dai Bouken (Japan).zip",
+      "label": "Tama & Friends - 3 Choume Dai Bouken (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Tanigawa Kouji no Shougi Shinan II - Meijin heno Michi (Japan).zip",
+      "label": "Tanigawa Kouji no Shougi Shinan II - Meijin heno Michi (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Tennis (Japan).zip",
+      "label": "Tennis (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Tobidase Daisakusen (Japan).zip",
+      "label": "Tobidase Daisakusen (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Topple Zip (Japan).zip",
+      "label": "Topple Zip (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Transformers - The Headmasters (Japan).zip",
+      "label": "Transformers - The Headmasters (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/TwinBee (Japan).zip",
+      "label": "TwinBee (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Ultraman - Kaijuteikoku no Gyakusyu (Japan).zip",
+      "label": "Ultraman - Kaijuteikoku no Gyakusyu (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Ultraman 2 - Shutsugeki Katokutai!! (Japan).zip",
+      "label": "Ultraman 2 - Shutsugeki Katokutai!! (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Volleyball (Japan).zip",
+      "label": "Volleyball (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Vs. Excitebike (Japan).zip",
+      "label": "Vs. Excitebike (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Wakusei Aton Gaiden (Japan).zip",
+      "label": "Wakusei Aton Gaiden (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Wardner no Mori (Japan).zip",
+      "label": "Wardner no Mori (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Winter Games (Japan).zip",
+      "label": "Winter Games (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Wrecking Crew (Japan).zip",
+      "label": "Wrecking Crew (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Xevious (Japan).zip",
+      "label": "Xevious (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Yakyuuken Part II - Gal's Dungeon (Japan) (Unl) (Translated En).zip",
+      "label": "Yakyuuken Part II - Gal's Dungeon (Japan) (Unl) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Youkai Yashiki (Japan) (Translated En).zip",
+      "label": "Youkai Yashiki (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Yu Maze (Japan).zip",
+      "label": "Yu Maze (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Yumekoujou - Doki Doki Panic (Japan) (Translated En).zip",
+      "label": "Yumekoujou - Doki Doki Panic (Japan) (Translated En)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Zanac (Japan).zip",
+      "label": "Zanac (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Family Computer Disk System/Zelda no Densetsu - The Hyrule Fantasy (Japan).zip",
+      "label": "Zelda no Densetsu - The Hyrule Fantasy (Japan)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "nestopia",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/4 in 1 Super CD (USA).cue",
+      "label": "4 in 1 Super CD (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Addams Family, The (USA).cue",
+      "label": "Addams Family, The (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Beyond Shadowgate (USA).cue",
+      "label": "Beyond Shadowgate (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Bonk 3 - Bonk's Big Adventure (USA).cue",
+      "label": "Bonk 3 - Bonk's Big Adventure (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Buster Bros. (USA).cue",
+      "label": "Buster Bros. (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Camp California (USA).cue",
+      "label": "Camp California (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Cosmic Fantasy 2 (USA).cue",
+      "label": "Cosmic Fantasy 2 (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Cotton - Fantastic Night Dreams (USA).cue",
+      "label": "Cotton - Fantastic Night Dreams (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Dragon Slayer - The Legend of Heroes (USA).cue",
+      "label": "Dragon Slayer - The Legend of Heroes (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Dungeon Explorer II (USA).cue",
+      "label": "Dungeon Explorer II (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Dungeon Master - Theron's Quest (USA).cue",
+      "label": "Dungeon Master - Theron's Quest (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Dynastic Hero, The (USA).cue",
+      "label": "Dynastic Hero, The (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Exile (USA).cue",
+      "label": "Exile (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Exile 2 - Wicked Phenomenon (USA).cue",
+      "label": "Exile 2 - Wicked Phenomenon (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Fantasy Star Soldier (USA).cue",
+      "label": "Fantasy Star Soldier (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Fighting Street (USA).cue",
+      "label": "Fighting Street (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Final Zone II (USA).cue",
+      "label": "Final Zone II (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Forgotten Worlds (USA).cue",
+      "label": "Forgotten Worlds (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Godzilla (USA).cue",
+      "label": "Godzilla (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Implode (USA).cue",
+      "label": "Implode (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/It Came From The Desert (USA).cue",
+      "label": "It Came From The Desert (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/J. B. Harold Murder Club (USA).cue",
+      "label": "J. B. Harold Murder Club (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Jack Nicklaus Turbo Golf (USA).cue",
+      "label": "Jack Nicklaus Turbo Golf (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/John Madden Duo CD Football (USA).cue",
+      "label": "John Madden Duo CD Football (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Last Alert (USA).cue",
+      "label": "Last Alert (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Loom (USA).cue",
+      "label": "Loom (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Lords of the Rising Sun (USA).cue",
+      "label": "Lords of the Rising Sun (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Lords of Thunder (USA).cue",
+      "label": "Lords of Thunder (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Magical Dinosaur Tour (USA).cue",
+      "label": "Magical Dinosaur Tour (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Might and Magic III - Isles of Terra (USA).cue",
+      "label": "Might and Magic III - Isles of Terra (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Prince of Persia (USA).cue",
+      "label": "Prince of Persia (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Riot Zone (USA).cue",
+      "label": "Riot Zone (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Shadow of the Beast (USA).cue",
+      "label": "Shadow of the Beast (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Shape Shifter (USA).cue",
+      "label": "Shape Shifter (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Sherlock Holmes Consulting Detective (USA).cue",
+      "label": "Sherlock Holmes Consulting Detective (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Sherlock Holmes Consulting Detective Vol 2 (USA).cue",
+      "label": "Sherlock Holmes Consulting Detective Vol 2 (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Sim Earth - The Living Planet (USA).cue",
+      "label": "Sim Earth - The Living Planet (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Splash Lake (USA).cue",
+      "label": "Splash Lake (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Super Air Zonk (USA).cue",
+      "label": "Super Air Zonk (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Syd Mead's Terra Forming (USA).cue",
+      "label": "Syd Mead's Terra Forming (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Valis II (USA).cue",
+      "label": "Valis II (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Valis III (USA).cue",
+      "label": "Valis III (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Vasteel (USA).cue",
+      "label": "Vasteel (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Wonder Boy III - Monster Lair (USA).cue",
+      "label": "Wonder Boy III - Monster Lair (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Ys Book I & II - Ancient Ys Vanished (USA).cue",
+      "label": "Ys Book I & II - Ancient Ys Vanished (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Ys III - Wanderers from Ys (USA).cue",
+      "label": "Ys III - Wanderers from Ys (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx CD.lpl"
+    }
+  ]
+}

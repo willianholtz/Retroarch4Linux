@@ -1,0 +1,236 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/1941.zip",
+      "label": "1941 - Counter Attack (900227 World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/3wonders.zip",
+      "label": "Three Wonders (wonder 3 910520 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/captcomm.zip",
+      "label": "Captain Commando (911202 other country)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/cawing.zip",
+      "label": "Carrier Air Wing (U.S. navy 901012 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/cworld2j.zip",
+      "label": "Capcom World 2 (920611 Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/dino.zip",
+      "label": "Cadillacs _ Dinosaurs (930201 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/dynwar.zip",
+      "label": "Dynasty Wars (US set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ffight.zip",
+      "label": "Final Fight (World, set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/forgottn.zip",
+      "label": "Forgotten Worlds (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ghouls.zip",
+      "label": "Ghouls'n Ghosts (World)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/knights.zip",
+      "label": "Knights of the Round (911127 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kod.zip",
+      "label": "The King of Dragons (910805 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mbombrd.zip",
+      "label": "Muscle Bomber Duo - ultimate team battle (931206 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/megaman.zip",
+      "label": "Mega Man - the power battle (951006 USA)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mercs.zip",
+      "label": "Mercs (900302 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/msword.zip",
+      "label": "Magic Sword - heroic fantasy (25.07.1990 other country)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mtwins.zip",
+      "label": "Mega Twins (chiki chiki boys 900619 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/nemo.zip",
+      "label": "Nemo (90 11 30 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/pnickj.zip",
+      "label": "Pnickies (940608 Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/punisher.zip",
+      "label": "The Punisher (930422 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sf2.zip",
+      "label": "Street Fighter II - The World Warrior (910522 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sf2ce.zip",
+      "label": "Street Fighter II' - Champion Edition (street fighter 2' 920513 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sf2hf.zip",
+      "label": "Street Fighter II' - Hyper Fighting (street fighter 2' T 921209 ETC)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/slammast.zip",
+      "label": "Saturday Night Slam Masters (Slam Masters 930713 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/strider.zip",
+      "label": "Strider (US set 1)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/unsquad.zip",
+      "label": "U.N. Squadron (US)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/varth.zip",
+      "label": "Varth - operation thunderstorm (920714 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/willow.zip",
+      "label": "Willow (US)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/wof.zip",
+      "label": "Warriors of Fate (921031 etc)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System I.lpl"
+    }
+  ]
+}

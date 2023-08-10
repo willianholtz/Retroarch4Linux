@@ -1,0 +1,420 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Armor Battle.mgw",
+      "label": "Armor Battle",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Banana.mgw",
+      "label": "Banana",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Baseball.mgw",
+      "label": "Baseball",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Bomb Fight.mgw",
+      "label": "Bomb Fight",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Caccia al Ladro.mgw",
+      "label": "Caccia al Ladro",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Cessate il Fuoco.mgw",
+      "label": "Cessate il Fuoco",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Chicky Woggy.mgw",
+      "label": "Chicky Woggy",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Chicky Woggy Tini Arcade.mgw",
+      "label": "Chicky Woggy Tini Arcade",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Condor.mgw",
+      "label": "Condor",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Crazy Chewy.mgw",
+      "label": "Crazy Chewy",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Defendo.mgw",
+      "label": "Defendo",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Donkey Kong Coleco.mgw",
+      "label": "Donkey Kong Coleco",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Donkey Kong II Multi Screen.mgw",
+      "label": "Donkey Kong II Multi Screen",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Donkey Kong Jr Coleco.mgw",
+      "label": "Donkey Kong Jr Coleco",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Donkey Kong Jr Nintendo Table Top.mgw",
+      "label": "Donkey Kong Jr Nintendo Table Top",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Donkey Kong Multi Screen.mgw",
+      "label": "Donkey Kong Multi Screen",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Dungeons and Dragons Computer Fantasy Game.mgw",
+      "label": "Dungeons and Dragons Computer Fantasy Game",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Egg.mgw",
+      "label": "Egg",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Engine Room.mgw",
+      "label": "Engine Room",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Escape.mgw",
+      "label": "Escape",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Explorers of Space.mgw",
+      "label": "Explorers of Space",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Fowling.mgw",
+      "label": "Fowling",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Frog Boaster.mgw",
+      "label": "Frog Boaster",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Galaxy II.mgw",
+      "label": "Galaxy II",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Grab Man.mgw",
+      "label": "Grab Man",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Hippo Teeth.mgw",
+      "label": "Hippo Teeth",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Hippo Teeth VTech.mgw",
+      "label": "Hippo Teeth VTech",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Hot Line Mini Time.mgw",
+      "label": "Hot Line Mini Time",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Hot Line Sporty Time.mgw",
+      "label": "Hot Line Sporty Time",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Las Vegas.mgw",
+      "label": "Las Vegas",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Lifeboat.mgw",
+      "label": "Lifeboat",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Mario Bros.mgw",
+      "label": "Mario Bros",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Mickey Mouse Panorama Screen.mgw",
+      "label": "Mickey Mouse Panorama Screen",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Mickey Mouse Wide Screen.mgw",
+      "label": "Mickey Mouse Wide Screen",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Monkey.mgw",
+      "label": "Monkey",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Monkey Jump.mgw",
+      "label": "Monkey Jump",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Motor Cross.mgw",
+      "label": "Motor Cross",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Pac Man.mgw",
+      "label": "Pac Man",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Pancake.mgw",
+      "label": "Pancake",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Parachute.mgw",
+      "label": "Parachute",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Pirate.mgw",
+      "label": "Pirate",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Roller Coaster.mgw",
+      "label": "Roller Coaster",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Safari.mgw",
+      "label": "Safari",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Sleep Walker.mgw",
+      "label": "Sleep Walker",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Snoopy.mgw",
+      "label": "Snoopy",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Snoopy Tennis.mgw",
+      "label": "Snoopy Tennis",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Sub Chase.mgw",
+      "label": "Sub Chase",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Tennis Menace.mgw",
+      "label": "Tennis Menace",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Towering Rescue.mgw",
+      "label": "Towering Rescue",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Tron.mgw",
+      "label": "Tron",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Turtle Bridge.mgw",
+      "label": "Turtle Bridge",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Handheld Electronic Game/Wild Man Jump.mgw",
+      "label": "Wild Man Jump",
+      "core_path": ".config/retroarch/cores/gw_libretro.so",
+      "core_name": "gw",
+      "crc32": "00000000|crc",
+      "db_name": "Handheld Electronic Game.lpl"
+    }
+  ]
+}

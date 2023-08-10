@@ -1,0 +1,2332 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Ace of Aces (Europe).zip",
+      "label": "Ace of Aces (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Action Fighter (USA, Europe).zip",
+      "label": "Action Fighter (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Addams Family, The (Europe).zip",
+      "label": "Addams Family, The (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Aerial Assault (USA).zip",
+      "label": "Aerial Assault (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/After Burner (World).zip",
+      "label": "After Burner (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Air Rescue (Europe).zip",
+      "label": "Air Rescue (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Aladdin (Europe).zip",
+      "label": "Aladdin (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Alex Kidd - High-Tech World (USA, Europe).zip",
+      "label": "Alex Kidd - High-Tech World (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Alex Kidd - The Lost Stars (World).zip",
+      "label": "Alex Kidd - The Lost Stars (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Alex Kidd in Miracle World (USA, Europe).zip",
+      "label": "Alex Kidd in Miracle World (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Alex Kidd in Shinobi World (USA, Europe).zip",
+      "label": "Alex Kidd in Shinobi World (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Alf (USA).zip",
+      "label": "Alf (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Alien 3 (Europe).zip",
+      "label": "Alien 3 (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Alien Storm (Europe).zip",
+      "label": "Alien Storm (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Alien Syndrome (USA, Europe).zip",
+      "label": "Alien Syndrome (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Altered Beast (USA, Europe).zip",
+      "label": "Altered Beast (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Andre Agassi Tennis (Europe).zip",
+      "label": "Andre Agassi Tennis (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Arcade Smash Hits (Europe).zip",
+      "label": "Arcade Smash Hits (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Ariel - The Little Mermaid (Brazil).zip",
+      "label": "Ariel - The Little Mermaid (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Assault City (Europe).zip",
+      "label": "Assault City (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Asterix (Europe).zip",
+      "label": "Asterix (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Asterix and the Great Rescue (Europe).zip",
+      "label": "Asterix and the Great Rescue (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Asterix and the Secret Mission (Europe).zip",
+      "label": "Asterix and the Secret Mission (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Astro Warrior & Pit Pot (Europe).zip",
+      "label": "Astro Warrior & Pit Pot (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Astro Warrior (Japan, USA).zip",
+      "label": "Astro Warrior (Japan, USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Aztec Adventure - The Golden Road to Paradise (World).zip",
+      "label": "Aztec Adventure - The Golden Road to Paradise (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Back to the Future Part II (Europe).zip",
+      "label": "Back to the Future Part II (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Back to the Future Part III (Europe).zip",
+      "label": "Back to the Future Part III (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Bank Panic (Europe).zip",
+      "label": "Bank Panic (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Basketball Nightmare (Europe).zip",
+      "label": "Basketball Nightmare (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Batman Returns (Europe).zip",
+      "label": "Batman Returns (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Battle OutRun (Europe).zip",
+      "label": "Battle OutRun (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Battlemaniacs (Brazil).zip",
+      "label": "Battlemaniacs (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Black Belt (USA, Europe).zip",
+      "label": "Black Belt (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Blade Eagle (World).zip",
+      "label": "Blade Eagle (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Bomber Raid (World).zip",
+      "label": "Bomber Raid (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Bonanza Bros. (Europe).zip",
+      "label": "Bonanza Bros. (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Bonkers Wax Up! (Brazil).zip",
+      "label": "Bonkers Wax Up! (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Bram Stoker's Dracula (Europe).zip",
+      "label": "Bram Stoker's Dracula (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Bubble Bobble (Europe).zip",
+      "label": "Bubble Bobble (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Buggy Run (Europe).zip",
+      "label": "Buggy Run (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/California Games (USA, Europe).zip",
+      "label": "California Games (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/California Games II (Europe).zip",
+      "label": "California Games II (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Captain Silver (USA).zip",
+      "label": "Captain Silver (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Casino Games (USA, Europe).zip",
+      "label": "Casino Games (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Castelo Ra-Tim-Bum (Brazil).zip",
+      "label": "Castelo Ra-Tim-Bum (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Castle of Illusion Starring Mickey Mouse (USA).zip",
+      "label": "Castle of Illusion Starring Mickey Mouse (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Champions of Europe (Europe).zip",
+      "label": "Champions of Europe (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Championship Hockey (Europe).zip",
+      "label": "Championship Hockey (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Cheese Cat-astrophe Starring Speedy Gonzales (Europe).zip",
+      "label": "Cheese Cat-astrophe Starring Speedy Gonzales (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Choplifter (USA, Europe).zip",
+      "label": "Choplifter (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Chuck Rock (Europe).zip",
+      "label": "Chuck Rock (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Chuck Rock II - Son of Chuck (Europe).zip",
+      "label": "Chuck Rock II - Son of Chuck (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Cloud Master (USA, Europe).zip",
+      "label": "Cloud Master (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Columns (USA, Europe).zip",
+      "label": "Columns (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Cool Spot (Europe).zip",
+      "label": "Cool Spot (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Cosmic Spacehead (Europe).zip",
+      "label": "Cosmic Spacehead (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Cyber Shinobi, The (Europe).zip",
+      "label": "Cyber Shinobi, The (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Cyborg Hunter (USA, Europe).zip",
+      "label": "Cyborg Hunter (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Daffy Duck in Hollywood (Europe).zip",
+      "label": "Daffy Duck in Hollywood (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Danan - The Jungle Fighter (Europe).zip",
+      "label": "Danan - The Jungle Fighter (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Dead Angle (USA, Europe).zip",
+      "label": "Dead Angle (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Deep Duck Trouble Starring Donald Duck (Europe).zip",
+      "label": "Deep Duck Trouble Starring Donald Duck (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe).zip",
+      "label": "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Desert Strike (Europe).zip",
+      "label": "Desert Strike (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Dick Tracy (USA, Europe).zip",
+      "label": "Dick Tracy (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Double Dragon (World).zip",
+      "label": "Double Dragon (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Double Hawk (Europe).zip",
+      "label": "Double Hawk (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Dr. Robotnik's Mean Bean Machine (Europe).zip",
+      "label": "Dr. Robotnik's Mean Bean Machine (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Dragon - The Bruce Lee Story (Europe).zip",
+      "label": "Dragon - The Bruce Lee Story (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Dragon Crystal (Europe).zip",
+      "label": "Dragon Crystal (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Dynamite Duke (Europe).zip",
+      "label": "Dynamite Duke (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Dynamite Dux (Europe).zip",
+      "label": "Dynamite Dux (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Dynamite Headdy (Brazil).zip",
+      "label": "Dynamite Headdy (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/E-SWAT - City Under Siege (USA, Europe).zip",
+      "label": "E-SWAT - City Under Siege (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Earthworm Jim (Brazil).zip",
+      "label": "Earthworm Jim (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Ecco - The Tides of Time (Brazil).zip",
+      "label": "Ecco - The Tides of Time (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Ecco the Dolphin (Europe).zip",
+      "label": "Ecco the Dolphin (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Enduro Racer (USA, Europe).zip",
+      "label": "Enduro Racer (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/F-16 Fighting Falcon (USA).zip",
+      "label": "F-16 Fighting Falcon (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/F1 (Europe).zip",
+      "label": "F1 (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Fantastic Dizzy (Europe).zip",
+      "label": "Fantastic Dizzy (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Fantasy Zone (World).zip",
+      "label": "Fantasy Zone (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Fantasy Zone - The Maze (USA, Europe).zip",
+      "label": "Fantasy Zone - The Maze (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Fantasy Zone II - The Tears of Opa-Opa (USA, Europe).zip",
+      "label": "Fantasy Zone II - The Tears of Opa-Opa (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Fire & Forget II (Europe).zip",
+      "label": "Fire & Forget II (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Fire & Ice (Brazil).zip",
+      "label": "Fire & Ice (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Flash, The (Europe).zip",
+      "label": "Flash, The (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Flintstones, The (Europe).zip",
+      "label": "Flintstones, The (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Forgotten Worlds (Europe).zip",
+      "label": "Forgotten Worlds (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/G-LOC Air Battle (Europe).zip",
+      "label": "G-LOC Air Battle (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Gain Ground (Europe).zip",
+      "label": "Gain Ground (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Galaxy Force (USA).zip",
+      "label": "Galaxy Force (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Gangster Town (USA, Europe).zip",
+      "label": "Gangster Town (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Gauntlet (Europe).zip",
+      "label": "Gauntlet (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/George Foreman's KO Boxing (Europe).zip",
+      "label": "George Foreman's KO Boxing (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Ghost House (USA, Europe).zip",
+      "label": "Ghost House (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Ghostbusters (USA, Europe).zip",
+      "label": "Ghostbusters (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Ghouls'n Ghosts (USA, Europe).zip",
+      "label": "Ghouls'n Ghosts (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Global Defense (USA, Europe).zip",
+      "label": "Global Defense (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Golden Axe (USA, Europe).zip",
+      "label": "Golden Axe (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Golden Axe Warrior (USA, Europe).zip",
+      "label": "Golden Axe Warrior (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Golfamania (Europe).zip",
+      "label": "Golfamania (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Golvellius (USA, Europe).zip",
+      "label": "Golvellius (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/GP Rider (Europe).zip",
+      "label": "GP Rider (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Great Baseball (Japan).zip",
+      "label": "Great Baseball (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Great Basketball (World).zip",
+      "label": "Great Basketball (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Great Football (World).zip",
+      "label": "Great Football (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Great Golf (Japan).zip",
+      "label": "Great Golf (Japan)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Great Ice Hockey (Japan, USA).zip",
+      "label": "Great Ice Hockey (Japan, USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Great Soccer (Europe).zip",
+      "label": "Great Soccer (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Great Soccer (USA).zip",
+      "label": "Great Soccer (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Great Volleyball (USA, Europe).zip",
+      "label": "Great Volleyball (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Hang-On & Safari Hunt (USA).zip",
+      "label": "Hang-On & Safari Hunt (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Hang-On (Europe).zip",
+      "label": "Hang-On (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Heroes of the Lance (Europe).zip",
+      "label": "Heroes of the Lance (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Home Alone (Europe).zip",
+      "label": "Home Alone (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Impossible Mission (Europe).zip",
+      "label": "Impossible Mission (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Incredible Crash Dummies, The (Europe).zip",
+      "label": "Incredible Crash Dummies, The (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Incredible Hulk, The (Europe).zip",
+      "label": "Incredible Hulk, The (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Indiana Jones and the Last Crusade (Europe).zip",
+      "label": "Indiana Jones and the Last Crusade (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/James 'Buster' Douglas Knockout Boxing (USA).zip",
+      "label": "James 'Buster' Douglas Knockout Boxing (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/James Bond 007 - The Duel (Europe).zip",
+      "label": "James Bond 007 - The Duel (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/James Pond 2 - Codename RoboCod (Europe).zip",
+      "label": "James Pond 2 - Codename RoboCod (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Joe Montana Football (USA, Europe).zip",
+      "label": "Joe Montana Football (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Jungle Book, The (Europe).zip",
+      "label": "Jungle Book, The (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Jurassic Park (Europe).zip",
+      "label": "Jurassic Park (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Kenseiden (USA, Europe).zip",
+      "label": "Kenseiden (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/King's Quest - Quest for the Crown (USA).zip",
+      "label": "King's Quest - Quest for the Crown (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Klax (Europe).zip",
+      "label": "Klax (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Krusty's Fun House (Europe).zip",
+      "label": "Krusty's Fun House (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Kung Fu Kid (USA, Europe).zip",
+      "label": "Kung Fu Kid (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Land of Illusion Starring Mickey Mouse (Europe).zip",
+      "label": "Land of Illusion Starring Mickey Mouse (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Laser Ghost (Europe).zip",
+      "label": "Laser Ghost (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Legend of Illusion Starring Mickey Mouse (Brazil).zip",
+      "label": "Legend of Illusion Starring Mickey Mouse (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Lemmings (Europe).zip",
+      "label": "Lemmings (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Line of Fire (Europe).zip",
+      "label": "Line of Fire (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Lion King, The (Europe).zip",
+      "label": "Lion King, The (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Lord of the Sword (USA, Europe).zip",
+      "label": "Lord of the Sword (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Lucky Dime Caper Starring Donald Duck, The (Europe).zip",
+      "label": "Lucky Dime Caper Starring Donald Duck, The (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Marble Madness (Europe).zip",
+      "label": "Marble Madness (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Marksman Shooting & Trap Shooting (USA).zip",
+      "label": "Marksman Shooting & Trap Shooting (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Master of Darkness (Europe).zip",
+      "label": "Master of Darkness (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Masters of Combat (Europe).zip",
+      "label": "Masters of Combat (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Maze Hunter 3-D (USA, Europe).zip",
+      "label": "Maze Hunter 3-D (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Mercs (Europe).zip",
+      "label": "Mercs (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Michael Jackson's Moonwalker (USA, Europe).zip",
+      "label": "Michael Jackson's Moonwalker (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Mick & Mack as the Global Gladiators (Europe).zip",
+      "label": "Mick & Mack as the Global Gladiators (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Mickey's Ultimate Challenge (Brazil).zip",
+      "label": "Mickey's Ultimate Challenge (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Micro Machines (Europe).zip",
+      "label": "Micro Machines (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Miracle Warriors - Seal of the Dark Lord (USA, Europe).zip",
+      "label": "Miracle Warriors - Seal of the Dark Lord (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Missile Defense 3-D (USA, Europe).zip",
+      "label": "Missile Defense 3-D (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Monopoly (USA).zip",
+      "label": "Monopoly (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Montezuma's Revenge Featuring Panama Joe (USA).zip",
+      "label": "Montezuma's Revenge Featuring Panama Joe (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Mortal Kombat (Europe).zip",
+      "label": "Mortal Kombat (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Mortal Kombat 3 (Brazil).zip",
+      "label": "Mortal Kombat 3 (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Mortal Kombat II (Europe).zip",
+      "label": "Mortal Kombat II (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Ms. Pac-Man (Europe).zip",
+      "label": "Ms. Pac-Man (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/My Hero (USA, Europe).zip",
+      "label": "My Hero (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/New Zealand Story, The (Europe).zip",
+      "label": "New Zealand Story, The (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Ninja Gaiden (Europe).zip",
+      "label": "Ninja Gaiden (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Ninja, The (USA, Europe).zip",
+      "label": "Ninja, The (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Olympic Gold (Europe).zip",
+      "label": "Olympic Gold (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Operation Wolf (Europe).zip",
+      "label": "Operation Wolf (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Ottifants, The (Europe).zip",
+      "label": "Ottifants, The (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/OutRun (World).zip",
+      "label": "OutRun (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/OutRun 3-D (Europe).zip",
+      "label": "OutRun 3-D (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/OutRun Europa (Europe).zip",
+      "label": "OutRun Europa (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Pac-Mania (Europe).zip",
+      "label": "Pac-Mania (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Paperboy (USA).zip",
+      "label": "Paperboy (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Parlour Games (USA, Europe).zip",
+      "label": "Parlour Games (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Penguin Land (USA, Europe).zip",
+      "label": "Penguin Land (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/PGA Tour Golf (Europe).zip",
+      "label": "PGA Tour Golf (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Phantasy Star (USA, Europe).zip",
+      "label": "Phantasy Star (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Pit Fighter (Europe).zip",
+      "label": "Pit Fighter (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Populous (Europe).zip",
+      "label": "Populous (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Poseidon Wars 3-D (USA, Europe).zip",
+      "label": "Poseidon Wars 3-D (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Power Strike (USA, Europe).zip",
+      "label": "Power Strike (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Power Strike II (Europe).zip",
+      "label": "Power Strike II (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Predator 2 (Europe).zip",
+      "label": "Predator 2 (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Prince of Persia (Europe).zip",
+      "label": "Prince of Persia (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Pro Wrestling (USA, Europe).zip",
+      "label": "Pro Wrestling (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Psychic World (Europe).zip",
+      "label": "Psychic World (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Psycho Fox (USA, Europe).zip",
+      "label": "Psycho Fox (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Putt & Putter (Europe).zip",
+      "label": "Putt & Putter (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Quartet (USA, Europe).zip",
+      "label": "Quartet (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil).zip",
+      "label": "Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/R-Type (World).zip",
+      "label": "R-Type (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/R.C. Grand Prix (USA, Europe).zip",
+      "label": "R.C. Grand Prix (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Rainbow Islands - The Story of Bubble Bobble 2 (Europe).zip",
+      "label": "Rainbow Islands - The Story of Bubble Bobble 2 (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Rambo - First Blood Part II (USA).zip",
+      "label": "Rambo - First Blood Part II (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Rambo III (USA, Europe).zip",
+      "label": "Rambo III (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Rampage (USA, Europe).zip",
+      "label": "Rampage (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Rampart (Europe).zip",
+      "label": "Rampart (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Rastan (USA, Europe).zip",
+      "label": "Rastan (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Reggie Jackson Baseball (USA).zip",
+      "label": "Reggie Jackson Baseball (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Renegade (Europe).zip",
+      "label": "Renegade (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Rescue Mission (USA, Europe).zip",
+      "label": "Rescue Mission (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Road Rash (Europe).zip",
+      "label": "Road Rash (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/RoboCop 3 (Europe).zip",
+      "label": "RoboCop 3 (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/RoboCop versus The Terminator (Europe).zip",
+      "label": "RoboCop versus The Terminator (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Rocky (World).zip",
+      "label": "Rocky (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Running Battle (Europe).zip",
+      "label": "Running Battle (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Sagaia (Europe).zip",
+      "label": "Sagaia (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Scramble Spirits (Europe).zip",
+      "label": "Scramble Spirits (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Sega Chess (Europe).zip",
+      "label": "Sega Chess (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Sega World Tournament Golf (Europe).zip",
+      "label": "Sega World Tournament Golf (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Sensible Soccer (Europe).zip",
+      "label": "Sensible Soccer (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Shadow Dancer - The Secret of Shinobi (Europe).zip",
+      "label": "Shadow Dancer - The Secret of Shinobi (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Shadow of the Beast (Europe).zip",
+      "label": "Shadow of the Beast (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Shanghai (USA, Europe).zip",
+      "label": "Shanghai (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Shinobi (USA, Europe).zip",
+      "label": "Shinobi (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Shooting Gallery (USA, Europe).zip",
+      "label": "Shooting Gallery (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Simpsons, The - Bart vs. The Space Mutants (Europe).zip",
+      "label": "Simpsons, The - Bart vs. The Space Mutants (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Simpsons, The - Bart vs. The World (Europe).zip",
+      "label": "Simpsons, The - Bart vs. The World (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Slap Shot (USA).zip",
+      "label": "Slap Shot (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Smurfs Travel the World, The (Europe).zip",
+      "label": "Smurfs Travel the World, The (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Smurfs, The (Europe).zip",
+      "label": "Smurfs, The (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Sonic Blast (Brazil).zip",
+      "label": "Sonic Blast (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Sonic Chaos (Europe).zip",
+      "label": "Sonic Chaos (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Sonic Spinball (Europe).zip",
+      "label": "Sonic Spinball (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Sonic The Hedgehog (USA, Europe).zip",
+      "label": "Sonic The Hedgehog (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Sonic The Hedgehog 2 (Europe).zip",
+      "label": "Sonic The Hedgehog 2 (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Space Gun (Europe).zip",
+      "label": "Space Gun (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Space Harrier (USA, Europe).zip",
+      "label": "Space Harrier (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Space Harrier 3-D (USA, Europe).zip",
+      "label": "Space Harrier 3-D (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Special Criminal Investigation (Europe).zip",
+      "label": "Special Criminal Investigation (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Speedball (Europe).zip",
+      "label": "Speedball (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Speedball 2 (Europe).zip",
+      "label": "Speedball 2 (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/SpellCaster (USA, Europe).zip",
+      "label": "SpellCaster (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Spider-Man - Return of the Sinister Six (Europe).zip",
+      "label": "Spider-Man - Return of the Sinister Six (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Spider-Man vs. The Kingpin (USA, Europe).zip",
+      "label": "Spider-Man vs. The Kingpin (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Sports Pad Football (USA).zip",
+      "label": "Sports Pad Football (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Spy vs. Spy (USA, Europe).zip",
+      "label": "Spy vs. Spy (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Star Wars (Europe).zip",
+      "label": "Star Wars (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Street Fighter II (Brazil).zip",
+      "label": "Street Fighter II (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Streets of Rage (Europe).zip",
+      "label": "Streets of Rage (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Streets of Rage II (Europe).zip",
+      "label": "Streets of Rage II (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Strider (USA, Europe).zip",
+      "label": "Strider (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Strider II (Europe).zip",
+      "label": "Strider II (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Submarine Attack (Europe).zip",
+      "label": "Submarine Attack (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Summer Games (Europe).zip",
+      "label": "Summer Games (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Super Kick Off (Europe).zip",
+      "label": "Super Kick Off (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Super Monaco GP (USA).zip",
+      "label": "Super Monaco GP (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Super Off Road (Europe).zip",
+      "label": "Super Off Road (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Super Smash T.V. (Europe).zip",
+      "label": "Super Smash T.V. (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Super Space Invaders (Europe).zip",
+      "label": "Super Space Invaders (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Super Tennis (USA, Europe).zip",
+      "label": "Super Tennis (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Superman - The Man of Steel (Europe).zip",
+      "label": "Superman - The Man of Steel (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/T2 - The Arcade Game (Europe).zip",
+      "label": "T2 - The Arcade Game (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Taito Chase H.Q. (Europe).zip",
+      "label": "Taito Chase H.Q. (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Taz in Escape from Mars (Brazil).zip",
+      "label": "Taz in Escape from Mars (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Taz-Mania (Europe).zip",
+      "label": "Taz-Mania (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Tecmo World Cup '93 (Europe).zip",
+      "label": "Tecmo World Cup '93 (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Teddy Boy (USA, Europe).zip",
+      "label": "Teddy Boy (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Tennis Ace (Europe).zip",
+      "label": "Tennis Ace (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Terminator 2 - Judgment Day (Europe).zip",
+      "label": "Terminator 2 - Judgment Day (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Terminator, The (Europe).zip",
+      "label": "Terminator, The (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Thunder Blade (USA, Europe).zip",
+      "label": "Thunder Blade (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Time Soldiers (USA, Europe).zip",
+      "label": "Time Soldiers (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Tom and Jerry - The Movie (Europe).zip",
+      "label": "Tom and Jerry - The Movie (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/TransBot (USA, Europe).zip",
+      "label": "TransBot (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Trivial Pursuit - Genus Edition (Europe).zip",
+      "label": "Trivial Pursuit - Genus Edition (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Ultima IV - Quest of the Avatar (Europe).zip",
+      "label": "Ultima IV - Quest of the Avatar (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Ultimate Soccer (Europe).zip",
+      "label": "Ultimate Soccer (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Vigilante (USA, Europe).zip",
+      "label": "Vigilante (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Virtua Fighter Animation (Brazil).zip",
+      "label": "Virtua Fighter Animation (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Walter Payton Football (USA).zip",
+      "label": "Walter Payton Football (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Wanted (USA, Europe).zip",
+      "label": "Wanted (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Where in the World is Carmen Sandiego (USA).zip",
+      "label": "Where in the World is Carmen Sandiego (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Wimbledon (Europe).zip",
+      "label": "Wimbledon (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Wimbledon II (Europe).zip",
+      "label": "Wimbledon II (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Winter Olympics - Lillehammer '94 (Europe).zip",
+      "label": "Winter Olympics - Lillehammer '94 (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Wolfchild (Europe).zip",
+      "label": "Wolfchild (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Wonder Boy (USA, Europe).zip",
+      "label": "Wonder Boy (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Wonder Boy III - The Dragon's Trap (USA, Europe).zip",
+      "label": "Wonder Boy III - The Dragon's Trap (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Wonder Boy in Monster Land (USA, Europe).zip",
+      "label": "Wonder Boy in Monster Land (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Wonder Boy in Monster World (Europe).zip",
+      "label": "Wonder Boy in Monster World (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/World Class Leader Board (Europe).zip",
+      "label": "World Class Leader Board (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/World Cup Italia '90 (Europe).zip",
+      "label": "World Cup Italia '90 (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/World Cup USA 94 (Europe).zip",
+      "label": "World Cup USA 94 (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/World Games (Europe).zip",
+      "label": "World Games (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/World Grand Prix (USA).zip",
+      "label": "World Grand Prix (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/WWF Wrestlemania - Steel Cage Challenge (Europe).zip",
+      "label": "WWF Wrestlemania - Steel Cage Challenge (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/X-Men - Mojo World (Brazil).zip",
+      "label": "X-Men - Mojo World (Brazil)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Xenon 2 - Megablast (Europe).zip",
+      "label": "Xenon 2 - Megablast (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Ys - The Vanished Omens (USA, Europe).zip",
+      "label": "Ys - The Vanished Omens (USA, Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Zaxxon 3-D (World).zip",
+      "label": "Zaxxon 3-D (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Zillion (USA).zip",
+      "label": "Zillion (USA)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Zillion II - The Tri Formation (World).zip",
+      "label": "Zillion II - The Tri Formation (World)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Sega - Master System - Mark III/Zool - Ninja of the 'Nth' Dimension (Europe).zip",
+      "label": "Zool - Ninja of the 'Nth' Dimension (Europe)",
+      "core_path": ".config/retroarch/cores/gearsystem_libretro.so",
+      "core_name": "gearsystem",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    }
+  ]
+}

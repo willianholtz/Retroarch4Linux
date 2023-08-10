@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/3-D Tetris (USA).zip",
+      "label": "3-D Tetris (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Galactic Pinball (Japan, USA).zip",
+      "label": "Galactic Pinball (Japan, USA)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Golf (USA).zip",
+      "label": "Golf (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Innsmouth no Yakata (Japan).zip",
+      "label": "Innsmouth no Yakata (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Jack Bros. (USA).zip",
+      "label": "Jack Bros. (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Mario Clash (Japan, USA).zip",
+      "label": "Mario Clash (Japan, USA)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Mario's Tennis (Japan, USA).zip",
+      "label": "Mario's Tennis (Japan, USA)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Nester's Funky Bowling (USA).zip",
+      "label": "Nester's Funky Bowling (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Panic Bomber (USA).zip",
+      "label": "Panic Bomber (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Red Alarm (USA).zip",
+      "label": "Red Alarm (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/SD Gundam - Dimension War (Japan).zip",
+      "label": "SD Gundam - Dimension War (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Space Invaders - Virtual Collection (Japan).zip",
+      "label": "Space Invaders - Virtual Collection (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Teleroboxer (Japan, USA).zip",
+      "label": "Teleroboxer (Japan, USA)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/V-Tetris (Japan).zip",
+      "label": "V-Tetris (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Vertical Force (USA).zip",
+      "label": "Vertical Force (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Virtual Bowling (Japan).zip",
+      "label": "Virtual Bowling (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Virtual Boy Wario Land (Japan, USA).zip",
+      "label": "Virtual Boy Wario Land (Japan, USA)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Virtual Lab (Japan).zip",
+      "label": "Virtual Lab (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Virtual League Baseball (USA).zip",
+      "label": "Virtual League Baseball (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Virtual Boy/Waterworld (USA).zip",
+      "label": "Waterworld (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_vb_libretro.so",
+      "core_name": "mednafen_vb",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Virtual Boy.lpl"
+    }
+  ]
+}

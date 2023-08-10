@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine SuperGrafx/1941 - Counter Attack (Japan).zip",
+      "label": "1941 - Counter Attack (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_supergrafx_libretro.so",
+      "core_name": "mednafen_supergrafx",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine SuperGrafx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine SuperGrafx/Aldynes (Japan).zip",
+      "label": "Aldynes (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_supergrafx_libretro.so",
+      "core_name": "mednafen_supergrafx",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine SuperGrafx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine SuperGrafx/Battle Ace (Japan).zip",
+      "label": "Battle Ace (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_supergrafx_libretro.so",
+      "core_name": "mednafen_supergrafx",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine SuperGrafx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine SuperGrafx/Dai Makaimura (Japan).zip",
+      "label": "Dai Makaimura (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_supergrafx_libretro.so",
+      "core_name": "mednafen_supergrafx",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine SuperGrafx.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine SuperGrafx/Madou Ou Granzort (Japan).zip",
+      "label": "Madou Ou Granzort (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_supergrafx_libretro.so",
+      "core_name": "mednafen_supergrafx",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine SuperGrafx.lpl"
+    }
+  ]
+}

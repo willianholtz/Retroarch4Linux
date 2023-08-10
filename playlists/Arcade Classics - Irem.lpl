@@ -1,0 +1,412 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/airduel.zip",
+      "label": "Air Duel (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/battroad.zip",
+      "label": "The Battle-Road",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bbmanw.zip",
+      "label": "Bomber Man World (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bchopper.zip",
+      "label": "Battle Chopper",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bmaster.zip",
+      "label": "Blade Master (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/cosmccop.zip",
+      "label": "Cosmic Cop (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/dbreed.zip",
+      "label": "Dragon Breed",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/dsoccr94.zip",
+      "label": "Dream Soccer '94",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/dynablst.zip",
+      "label": "Dynablaster (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/gunforc2.zip",
+      "label": "Gunforce 2 (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/gunforce.zip",
+      "label": "Gunforce - Battle Fire Engulfed Terror Island (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/hharry.zip",
+      "label": "Hammerin' Harry (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/hook.zip",
+      "label": "Hook (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/horizon.zip",
+      "label": "Horizon",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/imgfight.zip",
+      "label": "Image Fight (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/inthunt.zip",
+      "label": "In The Hunt (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/kengo.zip",
+      "label": "Ken-Go",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/kidniki.zip",
+      "label": "Kid Niki - Radical Ninja (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/kikcubic.zip",
+      "label": "Meikyu Jima (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/kungfum.zip",
+      "label": "Kung-Fu Master",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ldrun.zip",
+      "label": "Lode Runner (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ldrun2.zip",
+      "label": "Lode Runner II - The Bungeling Strikes Back",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ldrun3.zip",
+      "label": "Lode Runner III - The Golden Labyrinth",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ldrun4.zip",
+      "label": "Lode Runner IV - Teikoku Karano Dasshutsu",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/lethalth.zip",
+      "label": "Lethal Thunder (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/loht.zip",
+      "label": "Legend of Hero Tonma",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/lotlot.zip",
+      "label": "Lot Lot",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/majtitl2.zip",
+      "label": "Major Title 2 (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/majtitle.zip",
+      "label": "Major Title (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mpatrol.zip",
+      "label": "Moon Patrol",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mysticri.zip",
+      "label": "Mystic Riders (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/nbbatman.zip",
+      "label": "Ninja Baseball Batman (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/nspirit.zip",
+      "label": "Ninja Spirit",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/olibochu.zip",
+      "label": "Oli-Boo-Chu",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/poundfor.zip",
+      "label": "Pound for Pound (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/redalert.zip",
+      "label": "Red Alert",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/rtype.zip",
+      "label": "R-Type (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/rtype2.zip",
+      "label": "R-Type II",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/rtypeleo.zip",
+      "label": "R-Type Leo (World rev. C)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/skychut.zip",
+      "label": "Sky Chuter",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/spacbeam.zip",
+      "label": "Space Beam",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/spelunk2.zip",
+      "label": "Spelunker II",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/spelunkr.zip",
+      "label": "Spelunker",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ssoldier.zip",
+      "label": "Superior Soldiers (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/travrusa.zip",
+      "label": "Traverse USA / Zippy Race",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/troangel.zip",
+      "label": "Tropical Angel",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/uccops.zip",
+      "label": "Undercover Cops (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/uniwars.zip",
+      "label": "UniWar S",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/vigilant.zip",
+      "label": "Vigilante (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/xmultipl.zip",
+      "label": "X Multiply (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/youjyudn.zip",
+      "label": "Youjyuden (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Irem.lpl"
+    }
+  ]
+}

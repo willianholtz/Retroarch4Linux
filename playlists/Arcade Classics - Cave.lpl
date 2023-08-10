@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ddonpach.zip",
+      "label": "DoDonPachi (International, master ver. 97/02/05)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Cave.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ddpdoj.zip",
+      "label": "DoDonPachi Dai-Ou-Jou (V101, Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Cave.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/donpachi.zip",
+      "label": "DonPachi (USA, ver. 1.12, 95/05/2x)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Cave.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/espgal.zip",
+      "label": "Espgaluda (V100, Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Cave.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/esprade.zip",
+      "label": "ESP Ra.De. - A.D.2018 Tokyo (International, ver. 98/04/22)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Cave.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/feversos.zip",
+      "label": "Fever SOS (International, ver. 98/09/25)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Cave.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/guwange.zip",
+      "label": "Guwange (Japan, Master Ver. 99/06/24)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Cave.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ket.zip",
+      "label": "Ketsui Kizuna Jigoku Tachi (Revision 2?, Japan)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Cave.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/progear.zip",
+      "label": "Progear (010117 USA)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Cave.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/uopoko.zip",
+      "label": "Puzzle Uo Poko (International, ver. 98/02/06)",
+      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
+      "core_name": "fbalpha2012",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Cave.lpl"
+    }
+  ]
+}

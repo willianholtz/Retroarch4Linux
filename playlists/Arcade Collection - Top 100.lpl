@@ -1,0 +1,804 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/1942.zip",
+      "label": "1942 (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/1943.zip",
+      "label": "1943 - The Battle of Midway (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/aburner2.zip",
+      "label": "After Burner II",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/airwolf.zip",
+      "label": "Airwolf",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/altbeast.zip",
+      "label": "Altered Beast (Version 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/arkanoid.zip",
+      "label": "Arkanoid (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/asteroid.zip",
+      "label": "Asteroids (rev 2)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/baddudes.zip",
+      "label": "Bad Dudes vs. Dragonninja (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/berzerk.zip",
+      "label": "Berzerk (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bionicc.zip",
+      "label": "Bionic Commando (US set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bombjack.zip",
+      "label": "Bomb Jack (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/btime.zip",
+      "label": "Burger Time (Data East set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bublbobl.zip",
+      "label": "Bubble Bobble",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bzone.zip",
+      "label": "Battle Zone (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/captcomm.zip",
+      "label": "Captain Commando (World 911014)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ccastles.zip",
+      "label": "Crystal Castles (version 4)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/centiped.zip",
+      "label": "Centipede (revision 3)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/circusc.zip",
+      "label": "Circus Charlie",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/commando.zip",
+      "label": "Commando (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/contra.zip",
+      "label": "Contra (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ddonpach.zip",
+      "label": "DoDonPachi (International)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ddragon.zip",
+      "label": "Double Dragon (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/defender.zip",
+      "label": "Defender (Red label)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/digdug.zip",
+      "label": "Dig Dug (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/dino.zip",
+      "label": "Cadillacs and Dinosaurs (World 930201)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/dkong.zip",
+      "label": "Donkey Kong (US set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/dkong3.zip",
+      "label": "Donkey Kong 3 (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/dkongjr.zip",
+      "label": "Donkey Kong Junior (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/elevator.zip",
+      "label": "Elevator Action",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/elvactr.zip",
+      "label": "Elevator Action Returns (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ffight.zip",
+      "label": "Final Fight (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/foodf.zip",
+      "label": "Food Fight (rev 3)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/frogger.zip",
+      "label": "Frogger",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/frontlin.zip",
+      "label": "Front Line",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/galaga.zip",
+      "label": "Galaga (Namco)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/galaxian.zip",
+      "label": "Galaxian (Namco set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/gauntlet.zip",
+      "label": "Gauntlet (rev 14)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/gng.zip",
+      "label": "Ghosts'n Goblins (World? set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/goldnaxe.zip",
+      "label": "Golden Axe (Version 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/gorf.zip",
+      "label": "Gorf",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/gunbird.zip",
+      "label": "Gunbird (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/gyruss.zip",
+      "label": "Gyruss (Konami)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/hharry.zip",
+      "label": "Hammerin' Harry (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/hogalley.zip",
+      "label": "Vs. Hogan's Alley",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ikari.zip",
+      "label": "Ikari Warriors (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/joust.zip",
+      "label": "Joust (White/Green label)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/kangaroo.zip",
+      "label": "Kangaroo",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/kchamp.zip",
+      "label": "Karate Champ (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/klax.zip",
+      "label": "Klax (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/kof94.zip",
+      "label": "The King of Fighters '94",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/kungfum.zip",
+      "label": "Kung-Fu Master",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ladybug.zip",
+      "label": "Lady Bug",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ldrun.zip",
+      "label": "Lode Runner (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/llander.zip",
+      "label": "Lunar Lander (rev 2)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mappy.zip",
+      "label": "Mappy (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/marble.zip",
+      "label": "Marble Madness (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mario.zip",
+      "label": "Mario Bros. (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mercs.zip",
+      "label": "Mercs (World 900302)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/milliped.zip",
+      "label": "Millipede",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/missile.zip",
+      "label": "Missile Command (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mk.zip",
+      "label": "Mortal Kombat (rev 5.0 T-Unit 03/19/93)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mk2.zip",
+      "label": "Mortal Kombat II (rev L3.1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mpatrol.zip",
+      "label": "Moon Patrol",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mrdo.zip",
+      "label": "Mr. Do!",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mslug.zip",
+      "label": "Metal Slug - Super Vehicle-001",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mspacman.zip",
+      "label": "Ms. Pac-Man",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/nbajam.zip",
+      "label": "NBA Jam (rev 3.01 04/07/93)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/outrun.zip",
+      "label": "Out Run (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pacman.zip",
+      "label": "Pac-Man (Midway)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/paperboy.zip",
+      "label": "Paperboy (rev 3)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pengo.zip",
+      "label": "Pengo (set 1 rev c)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/phoenix.zip",
+      "label": "Phoenix (Amstar)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/polepos.zip",
+      "label": "Pole Position",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/popeye.zip",
+      "label": "Popeye (revision D)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pow.zip",
+      "label": "P.O.W. - Prisoners of War (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/punchout.zip",
+      "label": "Punch-Out!!",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/punisher.zip",
+      "label": "The Punisher (World 930422)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/qbert.zip",
+      "label": "Q*bert (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/rampage.zip",
+      "label": "Rampage (revision 3)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/robotron.zip",
+      "label": "Robotron (Solid Blue label)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/sbrkout.zip",
+      "label": "Super Breakout",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/scobra.zip",
+      "label": "Super Cobra",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/scramble.zip",
+      "label": "Scramble",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/sf2.zip",
+      "label": "Street Fighter II - The World Warrior (World 910522)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/sf2ce.zip",
+      "label": "Street Fighter II' - Champion Edition (World 920313)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/shadoww.zip",
+      "label": "Shadow Warriors (World set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/spnchout.zip",
+      "label": "Super Punch-Out!!",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/spyhunt.zip",
+      "label": "Spy Hunter",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ssriders.zip",
+      "label": "Sunset Riders (World 4 Players ver. EAC)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/stargate.zip",
+      "label": "Stargate",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/starwars.zip",
+      "label": "Star Wars (rev 2)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/superpac.zip",
+      "label": "Super Pac-Man",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/suprmrio.zip",
+      "label": "Vs. Super Mario Bros.",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/tempest.zip",
+      "label": "Tempest (rev 3)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/timeplt.zip",
+      "label": "Time Pilot",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/trackfld.zip",
+      "label": "Track _ Field",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/tron.zip",
+      "label": "Tron (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/xevious.zip",
+      "label": "Xevious (Namco)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/xmen.zip",
+      "label": "X-Men (US 4 Players)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/zaxxon.zip",
+      "label": "Zaxxon (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Top 100.lpl"
+    }
+  ]
+}

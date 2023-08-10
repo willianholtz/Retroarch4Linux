@@ -1,0 +1,1428 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/2020bb.zip",
+      "label": "2020 Super Baseball (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/3countb.zip",
+      "label": "3 Count Bout / Fire Suplex",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/88games.zip",
+      "label": "'88 Games",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/8ball.zip",
+      "label": "Video Eight Ball",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/alleymas.zip",
+      "label": "Alley Master",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/alpine.zip",
+      "label": "Alpine Ski (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/archrivl.zip",
+      "label": "Arch Rivals (rev 4.0)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/arlingtn.zip",
+      "label": "Arlington Horse Racing (v1.21-D)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/armwrest.zip",
+      "label": "Arm Wrestling",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ashnojoe.zip",
+      "label": "Ashita no Joe (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bangbead.zip",
+      "label": "Bang Bead",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bbbxing.zip",
+      "label": "Best Bout Boxing",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bigprowr.zip",
+      "label": "The Big Pro Wrestling!",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bigstrik.zip",
+      "label": "Big Striker",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/birdtry.zip",
+      "label": "Birdie Try (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/blzntrnd.zip",
+      "label": "Blazing Tornado",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bottom9.zip",
+      "label": "Bottom of the Ninth (version T)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bowlrama.zip",
+      "label": "Bowl-O-Rama",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/boxer.zip",
+      "label": "Boxer (prototype)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bssoccer.zip",
+      "label": "Back Street Soccer",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bstars.zip",
+      "label": "Baseball Stars Professional",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bstars2.zip",
+      "label": "Baseball Stars 2",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/bullfgt.zip",
+      "label": "Bullfight",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/capbowl.zip",
+      "label": "Capcom Bowling (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/cbasebal.zip",
+      "label": "Capcom Baseball (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/champwr.zip",
+      "label": "Champion Wrestler (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/cprobowl.zip",
+      "label": "Cassette: Pro Bowling",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/cptennis.zip",
+      "label": "Cassette: Pro Tennis",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/csclub.zip",
+      "label": "Capcom Sports Club (Euro 970722)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/cscrtry.zip",
+      "label": "Cassette: Scrum Try (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/cupfinal.zip",
+      "label": "Taito Cup Finals (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/dblplay.zip",
+      "label": "Super Baseball Double Play Home Run Derby",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ddribble.zip",
+      "label": "Double Dribble",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/dsoccr94.zip",
+      "label": "Dream Soccer '94",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/extdwnhl.zip",
+      "label": "Extreme Downhill (v1.5)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/fbfrenzy.zip",
+      "label": "Football Frenzy",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/finalb.zip",
+      "label": "Final Blow (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/flipshot.zip",
+      "label": "Battle Flip Shot",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/footchmp.zip",
+      "label": "Football Champ (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/fround.zip",
+      "label": "The Final Round (version M)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/goalx3.zip",
+      "label": "Goal! Goal! Goal!",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/gstrik2.zip",
+      "label": "Grand Striker 2 (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/gsword.zip",
+      "label": "Great Swordsman",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/hattrick.zip",
+      "label": "Hat Trick",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/hiimpact.zip",
+      "label": "High Impact Football (rev LA3 12/27/90)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/hitice.zip",
+      "label": "Hit the Ice (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/hoccer.zip",
+      "label": "Hoccer (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/homerun.zip",
+      "label": "Moero Pro Yakyuu Homerun",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/hstennis.zip",
+      "label": "Hot Shots Tennis (V1.1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/hustler.zip",
+      "label": "Video Hustler",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/hyperspt.zip",
+      "label": "Hyper Sports",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/jitsupro.zip",
+      "label": "Jitsuryoku!! Pro Yakyuu (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/jumpshot.zip",
+      "label": "Jump Shot",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/kickgoal.zip",
+      "label": "Kick Goal",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/kicknrun.zip",
+      "label": "Kick and Run",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/kickoff.zip",
+      "label": "Kick Off (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/kingofb.zip",
+      "label": "King of Boxer (English)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/koshien.zip",
+      "label": "Ah Eikou no Koshien (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/krzybowl.zip",
+      "label": "Krazy Bowl",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/kyukaidk.zip",
+      "label": "Kyuukai Douchuuki (Japan new version)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/kyustrkr.zip",
+      "label": "Last Striker / Kyuukyoku no Striker",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ladygolf.zip",
+      "label": "Vs. Stroke and Match Golf (Ladies Version)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/lbowling.zip",
+      "label": "League Bowling",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/legendos.zip",
+      "label": "Legend of Success Joe / Ashitano Joe Densetsu",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/machbrkr.zip",
+      "label": "Mach Breakers (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mainevt.zip",
+      "label": "The Main Event (4 Players ver. Y)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mainsnk.zip",
+      "label": "Main Event (1984)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/majtitl2.zip",
+      "label": "Major Title 2 (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/majtitle.zip",
+      "label": "Major Title (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/maniach.zip",
+      "label": "Mania Challenge (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/matmania.zip",
+      "label": "Mat Mania",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mayhem.zip",
+      "label": "Mayhem 2002",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mbombrd.zip",
+      "label": "Muscle Bomber Duo - Ultimate Team Battle (World 931206)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/medlanes.zip",
+      "label": "Meadows Lanes",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mjleague.zip",
+      "label": "Major League",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mvp.zip",
+      "label": "MVP",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mysticm.zip",
+      "label": "Mystic Marathon",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/nbahangt.zip",
+      "label": "NBA Hangtime (rev L1.1 04/16/96)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/nbajam.zip",
+      "label": "NBA Jam (rev 3.01 04/07/93)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/neckneck.zip",
+      "label": "Neck-n-Neck (v1.2)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/neocup98.zip",
+      "label": "Neo-Geo Cup '98 - The Road to the Victory",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/numanath.zip",
+      "label": "Numan Athletics (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/openice.zip",
+      "label": "2 On 2 Open Ice Challenge (rev 1.21)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/otwalls.zip",
+      "label": "Off the Wall (Sente)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/paddlema.zip",
+      "label": "Paddle Mania",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/passsht.zip",
+      "label": "Passing Shot (2 Players)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pbillian.zip",
+      "label": "Prebillian",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pbillrd.zip",
+      "label": "Perfect Billiard",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pbobble.zip",
+      "label": "Puzzle Bobble (Japan, B-System)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pbobble2.zip",
+      "label": "Puzzle Bobble 2 (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pgoal.zip",
+      "label": "Pleasure Goal / Futsal - 5 on 5 Mini Soccer",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pigskin.zip",
+      "label": "Pigskin 621AD",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pingpong.zip",
+      "label": "Ping Pong",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pkunwar.zip",
+      "label": "Penguin-Kun Wars (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/poolshrk.zip",
+      "label": "Poolshark",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/poundfor.zip",
+      "label": "Pound for Pound (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/powrplay.zip",
+      "label": "Power Play",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/prmrsocr.zip",
+      "label": "Premier Soccer (Europe ver. EAB)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pspikes.zip",
+      "label": "Power Spikes (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pspikes2.zip",
+      "label": "Power Spikes II",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/punchout.zip",
+      "label": "Punch-Out!!",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/punkshot.zip",
+      "label": "Punk Shot (US 4 Players)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/pwrgoal.zip",
+      "label": "Taito Power Goal (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/quarterb.zip",
+      "label": "Quarterback",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/rbibb.zip",
+      "label": "Vs. Atari R.B.I. Baseball (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/recordbr.zip",
+      "label": "Recordbreaker (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/relief.zip",
+      "label": "Relief Pitcher (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/rimrockn.zip",
+      "label": "Rim Rockin' Basketball (V2.2)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ringdest.zip",
+      "label": "Ring of Destruction: Slammasters II (Euro 940902)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ringrage.zip",
+      "label": "Ring Rage (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/robotbwl.zip",
+      "label": "Robot Bowl",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/rollerg.zip",
+      "label": "Rollergames (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/rungun.zip",
+      "label": "Run and Gun (World ver. EAA)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/sbasebal.zip",
+      "label": "Super Champion Baseball (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/sbasketb.zip",
+      "label": "Super Basketball (version G)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/scfinals.zip",
+      "label": "Super Cup Finals (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/sdodgeb.zip",
+      "label": "Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/sdtennis.zip",
+      "label": "Super Doubles Tennis",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/sfootbal.zip",
+      "label": "Street Football",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/sidepckt.zip",
+      "label": "Side Pocket (World)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/slammast.zip",
+      "label": "Saturday Night Slam Masters (World 930713)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/slapshot.zip",
+      "label": "Slap Shot (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/smgolf.zip",
+      "label": "Vs. Stroke and Match Golf (Men Version)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/socbrawl.zip",
+      "label": "Soccer Brawl",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/spdball.zip",
+      "label": "Speed Ball (prototype)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/spdodgeb.zip",
+      "label": "Super Dodge Ball (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/speedspn.zip",
+      "label": "Speed Spin",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/spiker.zip",
+      "label": "Spiker",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/spnchout.zip",
+      "label": "Super Punch-Out!!",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ssideki.zip",
+      "label": "Super Sidekicks / Tokuten Ou",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ssideki2.zip",
+      "label": "Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - real fight football",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ssideki3.zip",
+      "label": "Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikoue no michi",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ssideki4.zip",
+      "label": "Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero, The",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/sslam.zip",
+      "label": "Super Slam",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/stadhero.zip",
+      "label": "Stadium Hero (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/stakwin.zip",
+      "label": "Stakes Winner / Stakes Winner - GI kinzen seihae no michi",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/stakwin2.zip",
+      "label": "Stakes Winner 2",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/stonebal.zip",
+      "label": "Stone Ball (4 Players)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/strhoop.zip",
+      "label": "Street Hoop / Street Slam / Dunk Dream",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/strkzone.zip",
+      "label": "Strike Zone Baseball",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/strnskil.zip",
+      "label": "Strength _ Skill",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/suprleag.zip",
+      "label": "Super League",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/suprslam.zip",
+      "label": "Super Slams",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/svf.zip",
+      "label": "Super Visual Football: European Sega Cup",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/svolley.zip",
+      "label": "Super Volleyball (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/swcourt.zip",
+      "label": "Super World Court (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/swimmer.zip",
+      "label": "Swimmer (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/tbowl.zip",
+      "label": "Tecmo Bowl (World?)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/teamqb.zip",
+      "label": "John Elway's Team Quarterback",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/teedoff.zip",
+      "label": "Tee'd Off (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/thehustl.zip",
+      "label": "The Hustler (Japan version M)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/tkoboxng.zip",
+      "label": "Vs. TKO Boxing",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/toobin.zip",
+      "label": "Toobin' (rev 3)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/tpgolf.zip",
+      "label": "Top Player's Golf",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/trackfld.zip",
+      "label": "Track _ Field",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/tripool.zip",
+      "label": "Tri-Pool (Casino Tech)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/troangel.zip",
+      "label": "Tropical Angel",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/trstar.zip",
+      "label": "Top Ranking Stars (World new version)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/turfmast.zip",
+      "label": "Neo Turf Masters / Big Tournament Golf",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/tws96.zip",
+      "label": "Tecmo World Soccer '96",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/ultennis.zip",
+      "label": "Ultimate Tennis",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/vball.zip",
+      "label": "U.S. Championship V'ball (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/vsbball.zip",
+      "label": "Vs. BaseBall",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/vsgongf.zip",
+      "label": "VS Gong Fight",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/vshoot.zip",
+      "label": "J-League Soccer V-Shoot",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/vsslalom.zip",
+      "label": "Vs. Slalom",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/vssoccer.zip",
+      "label": "Vs. Soccer",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/vstennis.zip",
+      "label": "Vs. Tennis",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/waterski.zip",
+      "label": "Water Ski",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/wc90.zip",
+      "label": "Tecmo World Cup '90 (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/wjammers.zip",
+      "label": "Windjammers / Flying Power Disc",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/wldcourt.zip",
+      "label": "World Court (Japan)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/wmatch.zip",
+      "label": "Water Match",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/wrestwar.zip",
+      "label": "Wrestle War",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/wtennis.zip",
+      "label": "World Tennis",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/wwfmania.zip",
+      "label": "WWF: Wrestlemania (rev 1.30 08/10/95)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/wwfsstar.zip",
+      "label": "WWF Superstars (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/wwfwfest.zip",
+      "label": "WWF WrestleFest (US)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Sports.lpl"
+    }
+  ]
+}

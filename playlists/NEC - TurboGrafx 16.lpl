@@ -1,0 +1,756 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Aero Blasters (USA).zip",
+      "label": "Aero Blasters (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Air Zonk (USA).zip",
+      "label": "Air Zonk (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Alien Crush (USA).zip",
+      "label": "Alien Crush (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Ballistix (USA).zip",
+      "label": "Ballistix (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Battle Royale (USA).zip",
+      "label": "Battle Royale (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Blazing Lazers (USA).zip",
+      "label": "Blazing Lazers (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Bloody Wolf (USA).zip",
+      "label": "Bloody Wolf (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Bomberman '93 (USA).zip",
+      "label": "Bomberman '93 (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Bomberman (USA).zip",
+      "label": "Bomberman (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Bonk III - Bonk's Big Adventure (USA).zip",
+      "label": "Bonk III - Bonk's Big Adventure (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Bonk's Adventure (USA).zip",
+      "label": "Bonk's Adventure (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Bonk's Revenge (USA).zip",
+      "label": "Bonk's Revenge (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Boxyboy (USA).zip",
+      "label": "Boxyboy (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Bravoman (USA).zip",
+      "label": "Bravoman (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Cadash (USA).zip",
+      "label": "Cadash (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Champions Forever Boxing (USA).zip",
+      "label": "Champions Forever Boxing (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Chew Man Fu (USA).zip",
+      "label": "Chew Man Fu (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/China Warrior (USA).zip",
+      "label": "China Warrior (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Cratermaze (USA).zip",
+      "label": "Cratermaze (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Cyber Core (USA).zip",
+      "label": "Cyber Core (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Darkwing Duck (USA).zip",
+      "label": "Darkwing Duck (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Davis Cup Tennis (USA).zip",
+      "label": "Davis Cup Tennis (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Dead Moon (USA).zip",
+      "label": "Dead Moon (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Deep Blue (USA).zip",
+      "label": "Deep Blue (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Devil's Crush - Naxat Pinball (USA).zip",
+      "label": "Devil's Crush - Naxat Pinball (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Double Dungeons - W (USA).zip",
+      "label": "Double Dungeons - W (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Dragon Spirit (USA).zip",
+      "label": "Dragon Spirit (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Dragon's Curse (USA).zip",
+      "label": "Dragon's Curse (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Drop.Off (USA).zip",
+      "label": "Drop.Off (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Dungeon Explorer (USA).zip",
+      "label": "Dungeon Explorer (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Falcon (USA).zip",
+      "label": "Falcon (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Fantasy Zone (USA).zip",
+      "label": "Fantasy Zone (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Final Lap Twin (USA).zip",
+      "label": "Final Lap Twin (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Galaga '90 (USA).zip",
+      "label": "Galaga '90 (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Ghost Manor (USA).zip",
+      "label": "Ghost Manor (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Gunboat (USA).zip",
+      "label": "Gunboat (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Hit the Ice - VHL the Official Video Hockey League (USA).zip",
+      "label": "Hit the Ice - VHL the Official Video Hockey League (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Impossamole (USA).zip",
+      "label": "Impossamole (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/J.J. & Jeff (USA).zip",
+      "label": "J.J. & Jeff (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Jack Nicklaus' Turbo Golf (USA).zip",
+      "label": "Jack Nicklaus' Turbo Golf (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Jackie Chan's Action Kung Fu (USA).zip",
+      "label": "Jackie Chan's Action Kung Fu (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Keith Courage in Alpha Zones (USA).zip",
+      "label": "Keith Courage in Alpha Zones (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/King of Casino (USA).zip",
+      "label": "King of Casino (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Klax (USA).zip",
+      "label": "Klax (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Legend of Hero Tonma (USA).zip",
+      "label": "Legend of Hero Tonma (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Legendary Axe II, The (USA).zip",
+      "label": "Legendary Axe II, The (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Legendary Axe, The (USA).zip",
+      "label": "Legendary Axe, The (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Magical Chase (USA).zip",
+      "label": "Magical Chase (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Military Madness (USA).zip",
+      "label": "Military Madness (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Moto Roader (USA).zip",
+      "label": "Moto Roader (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Neutopia (USA).zip",
+      "label": "Neutopia (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Neutopia II (USA).zip",
+      "label": "Neutopia II (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/New Adventure Island (USA).zip",
+      "label": "New Adventure Island (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Night Creatures (USA).zip",
+      "label": "Night Creatures (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Ninja Spirit (USA).zip",
+      "label": "Ninja Spirit (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Order of the Griffon (USA).zip",
+      "label": "Order of the Griffon (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Ordyne (USA).zip",
+      "label": "Ordyne (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Pac-Land (USA).zip",
+      "label": "Pac-Land (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Panza Kick Boxing (USA).zip",
+      "label": "Panza Kick Boxing (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Parasol Stars - The Story of Bubble Bobble III (USA).zip",
+      "label": "Parasol Stars - The Story of Bubble Bobble III (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Power Golf (USA).zip",
+      "label": "Power Golf (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Psychosis (USA).zip",
+      "label": "Psychosis (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/R-Type (USA).zip",
+      "label": "R-Type (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Raiden (USA).zip",
+      "label": "Raiden (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Samurai-Ghost (USA).zip",
+      "label": "Samurai-Ghost (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Shockman (USA).zip",
+      "label": "Shockman (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/SideArms - Hyper Dyne (USA).zip",
+      "label": "SideArms - Hyper Dyne (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Silent Debuggers (USA).zip",
+      "label": "Silent Debuggers (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Sinistron (USA).zip",
+      "label": "Sinistron (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Soldier Blade (USA).zip",
+      "label": "Soldier Blade (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Somer Assault (USA).zip",
+      "label": "Somer Assault (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Sonic Spike - World Championship Beach Volleyball (USA).zip",
+      "label": "Sonic Spike - World Championship Beach Volleyball (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Space Harrier (USA).zip",
+      "label": "Space Harrier (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Splatterhouse (USA).zip",
+      "label": "Splatterhouse (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Super Star Soldier (USA).zip",
+      "label": "Super Star Soldier (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Super Volleyball (USA).zip",
+      "label": "Super Volleyball (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Taito Chase H.Q. (USA).zip",
+      "label": "Taito Chase H.Q. (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Takin' It to the Hoop (USA).zip",
+      "label": "Takin' It to the Hoop (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/TaleSpin (USA).zip",
+      "label": "TaleSpin (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Tiger Road (USA).zip",
+      "label": "Tiger Road (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Time Cruise (USA).zip",
+      "label": "Time Cruise (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Timeball (USA).zip",
+      "label": "Timeball (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Tricky Kick (USA).zip",
+      "label": "Tricky Kick (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Turrican (USA).zip",
+      "label": "Turrican (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/TV Sports Basketball (USA).zip",
+      "label": "TV Sports Basketball (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/TV Sports Football (USA).zip",
+      "label": "TV Sports Football (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/TV Sports Hockey (USA).zip",
+      "label": "TV Sports Hockey (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Veigues - Tactical Gladiator (USA).zip",
+      "label": "Veigues - Tactical Gladiator (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Victory Run (USA).zip",
+      "label": "Victory Run (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Vigilante (USA).zip",
+      "label": "Vigilante (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/World Class Baseball (USA).zip",
+      "label": "World Class Baseball (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/World Court Tennis (USA).zip",
+      "label": "World Court Tennis (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/World Sports Competition (USA).zip",
+      "label": "World Sports Competition (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - TurboGrafx 16/Yo, Bro (USA).zip",
+      "label": "Yo, Bro (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - TurboGrafx 16.lpl"
+    }
+  ]
+}

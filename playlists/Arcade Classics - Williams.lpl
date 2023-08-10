@@ -1,0 +1,108 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/defender.zip",
+      "label": "Defender (Red label)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Williams.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/hiimpact.zip",
+      "label": "High Impact Football (rev LA3 12/27/90)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Williams.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/joust.zip",
+      "label": "Joust (White/Green label)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Williams.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/joust2.zip",
+      "label": "Joust 2 - Survival of the Fittest (set 1)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Williams.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/mysticm.zip",
+      "label": "Mystic Marathon",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Williams.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/narc.zip",
+      "label": "Narc (rev 7.00)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Williams.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/playball.zip",
+      "label": "PlayBall! (prototype)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Williams.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/robotron.zip",
+      "label": "Robotron (Solid Blue label)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Williams.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/sinistar.zip",
+      "label": "Sinistar (revision 3)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Williams.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/smashtv.zip",
+      "label": "Smash T.V. (rev 8.00)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Williams.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/spdball.zip",
+      "label": "Speed Ball (prototype)",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Williams.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/splat.zip",
+      "label": "Splat!",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Williams.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/stargate.zip",
+      "label": "Stargate",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Williams.lpl"
+    }
+  ]
+}

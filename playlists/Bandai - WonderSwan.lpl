@@ -1,0 +1,884 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Anchorz Field (Japan).zip",
+      "label": "Anchorz Field (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Armored Unit (Japan).zip",
+      "label": "Armored Unit (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Bakusou Dekotora Densetsu for WonderSwan (Japan).zip",
+      "label": "Bakusou Dekotora Densetsu for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Beatmania for WonderSwan (Japan).zip",
+      "label": "Beatmania for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Buffers Evolution (Japan).zip",
+      "label": "Buffers Evolution (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan).zip",
+      "label": "Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Chaos Gear - Michibikareshi Mono (Japan).zip",
+      "label": "Chaos Gear - Michibikareshi Mono (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Chocobo no Fushigi na Dungeon for WonderSwan (Japan).zip",
+      "label": "Chocobo no Fushigi na Dungeon for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Chou Aniki - Otoko no Tamafuda (Japan).zip",
+      "label": "Chou Aniki - Otoko no Tamafuda (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Chou Denki Card Game - Youfu Makai - Kikuchi Shuukou (Japan).zip",
+      "label": "Chou Denki Card Game - Youfu Makai - Kikuchi Shuukou (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Clock Tower for WonderSwan (Japan).zip",
+      "label": "Clock Tower for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Crazy Climber (Japan).zip",
+      "label": "Crazy Climber (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).zip",
+      "label": "D's Garage 21 Koubo Game - Tane o Maku Tori (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Densha de Go! (Japan).zip",
+      "label": "Densha de Go! (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Densha de Go! 2 (Japan).zip",
+      "label": "Densha de Go! 2 (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Digimon Adventure - Anode Tamer (Japan).zip",
+      "label": "Digimon Adventure - Anode Tamer (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Digimon Adventure - Cathode Tamer (Japan).zip",
+      "label": "Digimon Adventure - Cathode Tamer (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Digimon Adventure 02 - Tag Tamers (Japan).zip",
+      "label": "Digimon Adventure 02 - Tag Tamers (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Digital Monster - Ver. WonderSwan (Japan).zip",
+      "label": "Digital Monster - Ver. WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Digital Partner (Japan).zip",
+      "label": "Digital Partner (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Dokodemo Hamster (Japan).zip",
+      "label": "Dokodemo Hamster (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Engacho! for WonderSwan (Japan).zip",
+      "label": "Engacho! for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan).zip",
+      "label": "Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Final Lap 2000 (Japan).zip",
+      "label": "Final Lap 2000 (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Fire Pro Wrestling for WonderSwan (Japan).zip",
+      "label": "Fire Pro Wrestling for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Fishing Freaks - Bass Rise for WonderSwan (Japan).zip",
+      "label": "Fishing Freaks - Bass Rise for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/From TV Animation One Piece - Mezase Kaizoku Ou! (Japan).zip",
+      "label": "From TV Animation One Piece - Mezase Kaizoku Ou! (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Ganso Jajamaru-kun (Japan).zip",
+      "label": "Ganso Jajamaru-kun (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Glocal Hexcite (Japan).zip",
+      "label": "Glocal Hexcite (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Gomoku Narabe & Reversi - Touryuumon (Japan).zip",
+      "label": "Gomoku Narabe & Reversi - Touryuumon (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Goraku Ou Tango! (Japan).zip",
+      "label": "Goraku Ou Tango! (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/GunPey (Japan).zip",
+      "label": "GunPey (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Hanafuda Shiyouyo (Japan).zip",
+      "label": "Hanafuda Shiyouyo (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Harobots (Japan).zip",
+      "label": "Harobots (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Hunter X Hunter - Ishi o Tsugu Mono (Japan).zip",
+      "label": "Hunter X Hunter - Ishi o Tsugu Mono (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Itou Junji Uzumaki - Noroi Simulation (Japan).zip",
+      "label": "Itou Junji Uzumaki - Noroi Simulation (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).zip",
+      "label": "Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Kaze no Klonoa - Moonlight Museum (Japan).zip",
+      "label": "Kaze no Klonoa - Moonlight Museum (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Keiba Yosou Shien Soft - Yosou Shinkaron (Japan).zip",
+      "label": "Keiba Yosou Shien Soft - Yosou Shinkaron (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Kiss Yori... - Seaside Serenade (Japan).zip",
+      "label": "Kiss Yori... - Seaside Serenade (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Kosodate Quiz Dokodemo - My Angel (Japan).zip",
+      "label": "Kosodate Quiz Dokodemo - My Angel (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Kyousouba Ikusei Simulation - Keiba (Japan).zip",
+      "label": "Kyousouba Ikusei Simulation - Keiba (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Langrisser Millennium WS - The Last Century (Japan).zip",
+      "label": "Langrisser Millennium WS - The Last Century (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Last Stand (Japan).zip",
+      "label": "Last Stand (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Lode Runner for WonderSwan (Japan).zip",
+      "label": "Lode Runner for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Macross - True Love Song (Japan).zip",
+      "label": "Macross - True Love Song (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Magical Drop for WonderSwan (Japan).zip",
+      "label": "Magical Drop for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Mahjong Touryuumon (Japan).zip",
+      "label": "Mahjong Touryuumon (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Makaimura for WonderSwan (Japan).zip",
+      "label": "Makaimura for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Medarot Perfect Edition - Kabuto Version (Japan).zip",
+      "label": "Medarot Perfect Edition - Kabuto Version (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Medarot Perfect Edition - Kuwagata Version (Japan).zip",
+      "label": "Medarot Perfect Edition - Kuwagata Version (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Meitantei Conan - Majutsushi no Chousenjou! (Japan).zip",
+      "label": "Meitantei Conan - Majutsushi no Chousenjou! (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan).zip",
+      "label": "Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Metakomi Theraphy - Nee Kiite! (Japan).zip",
+      "label": "Metakomi Theraphy - Nee Kiite! (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Mingle Magnet (Japan).zip",
+      "label": "Mingle Magnet (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Mobile Suit Gundam MSVS (Japan).zip",
+      "label": "Mobile Suit Gundam MSVS (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/MobileWonderGate (Japan).zip",
+      "label": "MobileWonderGate (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Moero!! Pro Yakyuu Rookies (Japan).zip",
+      "label": "Moero!! Pro Yakyuu Rookies (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Morita Shougi for WonderSwan (Japan).zip",
+      "label": "Morita Shougi for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Nazo Ou Pocket (Japan).zip",
+      "label": "Nazo Ou Pocket (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Neon Genesis Evangelion - Shito Ikusei (Japan).zip",
+      "label": "Neon Genesis Evangelion - Shito Ikusei (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Nice On (Japan).zip",
+      "label": "Nice On (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan).zip",
+      "label": "Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Nobunaga no Yabou for WonderSwan (Japan).zip",
+      "label": "Nobunaga no Yabou for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Ou-chan no Oekaki Logic (Japan).zip",
+      "label": "Ou-chan no Oekaki Logic (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Pocket Fighter (Japan).zip",
+      "label": "Pocket Fighter (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Pro Mahjong Kiwame for WonderSwan (Japan).zip",
+      "label": "Pro Mahjong Kiwame for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Puyo Puyo Tsuu (Japan).zip",
+      "label": "Puyo Puyo Tsuu (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Puzzle Bobble (Japan).zip",
+      "label": "Puzzle Bobble (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Rainbow Islands - Putty's Party (Japan).zip",
+      "label": "Rainbow Islands - Putty's Party (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Ring Infinity (Japan).zip",
+      "label": "Ring Infinity (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Robot Works (Asia) (En,Ja).zip",
+      "label": "Robot Works (Asia) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Rockman & Forte - Mirai Kara no Chousensha (Japan).zip",
+      "label": "Rockman & Forte - Mirai Kara no Chousensha (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/San Goku Shi for WonderSwan (Japan).zip",
+      "label": "San Goku Shi for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/San Goku Shi II for WonderSwan (Japan).zip",
+      "label": "San Goku Shi II for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/SD Gundam - Emotional Jam (Japan).zip",
+      "label": "SD Gundam - Emotional Jam (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/SD Gundam G-Generation - Gather Beat (Japan).zip",
+      "label": "SD Gundam G-Generation - Gather Beat (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/SD Gundam Gashapon Senki - Episode 1 (Japan).zip",
+      "label": "SD Gundam Gashapon Senki - Episode 1 (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan).zip",
+      "label": "Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Sennou Millennium (Japan).zip",
+      "label": "Sennou Millennium (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Shanghai Pocket (Japan).zip",
+      "label": "Shanghai Pocket (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Shin Nihon Pro Wrestling - Toukon Retsuden (Japan).zip",
+      "label": "Shin Nihon Pro Wrestling - Toukon Retsuden (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Shougi Touryuumon (Japan).zip",
+      "label": "Shougi Touryuumon (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Side Pocket for WonderSwan (Japan).zip",
+      "label": "Side Pocket for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Slither Link (Japan).zip",
+      "label": "Slither Link (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Soccer Yarou! - Challenge the World (Japan).zip",
+      "label": "Soccer Yarou! - Challenge the World (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Sotsugyou for WonderSwan (Japan).zip",
+      "label": "Sotsugyou for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Space Invaders (Japan).zip",
+      "label": "Space Invaders (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Super Robot Taisen Compact (Japan).zip",
+      "label": "Super Robot Taisen Compact (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan).zip",
+      "label": "Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan).zip",
+      "label": "Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan).zip",
+      "label": "Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Taikyoku Igo - Heisei Kiin (Japan).zip",
+      "label": "Taikyoku Igo - Heisei Kiin (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Tanjou Debut for WonderSwan (Japan).zip",
+      "label": "Tanjou Debut for WonderSwan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Tare Panda no GunPey (Japan).zip",
+      "label": "Tare Panda no GunPey (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Tekken Card Challenge (Japan).zip",
+      "label": "Tekken Card Challenge (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Terrors (Japan).zip",
+      "label": "Terrors (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Tetsujin 28 Gou (Japan).zip",
+      "label": "Tetsujin 28 Gou (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Time Bokan Series - Bokan Densetsu - Butamo Odaterya Doronbou (Japan).zip",
+      "label": "Time Bokan Series - Bokan Densetsu - Butamo Odaterya Doronbou (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Tokyo Majin Gakuen - Fuju Houroku (Japan).zip",
+      "label": "Tokyo Majin Gakuen - Fuju Houroku (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan).zip",
+      "label": "Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan).zip",
+      "label": "Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Turntablist - DJ Battle (Japan).zip",
+      "label": "Turntablist - DJ Battle (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Umizuri ni Ikou! (Japan).zip",
+      "label": "Umizuri ni Ikou! (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Uzumaki - Denshi Kaiki Hen (Japan).zip",
+      "label": "Uzumaki - Denshi Kaiki Hen (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Vaitz Blade (Japan).zip",
+      "label": "Vaitz Blade (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Wasabi Produce - Street Dancer (Japan).zip",
+      "label": "Wasabi Produce - Street Dancer (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Wonder Stadium '99 (Japan).zip",
+      "label": "Wonder Stadium '99 (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/Wonder Stadium (Japan).zip",
+      "label": "Wonder Stadium (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Bandai - WonderSwan/WonderSwan Handy Sonar (Japan).zip",
+      "label": "WonderSwan Handy Sonar (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_wswan_libretro.so",
+      "core_name": "mednafen_wswan",
+      "crc32": "00000000|crc",
+      "db_name": "Bandai - WonderSwan.lpl"
+    }
+  ]
+}

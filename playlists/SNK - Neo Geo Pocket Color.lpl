@@ -1,0 +1,324 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Baseball Stars Color (World) (En,Ja).zip",
+      "label": "Baseball Stars Color (World) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Biomotor Unitron (USA, Europe).zip",
+      "label": "Biomotor Unitron (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Bust-A-Move Pocket (USA).zip",
+      "label": "Bust-A-Move Pocket (USA)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Cool Boarders Pocket (Japan, Europe) (En,Ja).zip",
+      "label": "Cool Boarders Pocket (Japan, Europe) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Crush Roller (World) (En,Ja).zip",
+      "label": "Crush Roller (World) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Dark Arms - Beast Buster 1999 (World) (En,Ja).zip",
+      "label": "Dark Arms - Beast Buster 1999 (World) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Dive Alert - Becky's Version (USA, Europe).zip",
+      "label": "Dive Alert - Becky's Version (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Dive Alert - Matt's Version (USA, Europe).zip",
+      "label": "Dive Alert - Matt's Version (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Dynamite Slugger (Japan, Europe) (En,Ja).zip",
+      "label": "Dynamite Slugger (Japan, Europe) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Evolution - Eternal Dungeons (Europe).zip",
+      "label": "Evolution - Eternal Dungeons (Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Fantastic Night Dreams Cotton (Europe).zip",
+      "label": "Fantastic Night Dreams Cotton (Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Faselei! (Europe).zip",
+      "label": "Faselei! (Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Fatal Fury F-Contact (World) (En,Ja).zip",
+      "label": "Fatal Fury F-Contact (World) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/King of Fighters R-2 (World) (En,Ja).zip",
+      "label": "King of Fighters R-2 (World) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Last Blade, The - Beyond the Destiny (Europe).zip",
+      "label": "Last Blade, The - Beyond the Destiny (Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Magical Drop Pocket (USA, Europe).zip",
+      "label": "Magical Drop Pocket (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Metal Slug - 1st Mission (World) (En,Ja).zip",
+      "label": "Metal Slug - 1st Mission (World) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Metal Slug - 2nd Mission (World) (En,Ja).zip",
+      "label": "Metal Slug - 2nd Mission (World) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Neo 21 - Real Casino Series (World).zip",
+      "label": "Neo 21 - Real Casino Series (World)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Neo Baccarat - Real Casino Series (World).zip",
+      "label": "Neo Baccarat - Real Casino Series (World)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Neo Cherry Master Color - Real Casino Series (World) (En,Ja).zip",
+      "label": "Neo Cherry Master Color - Real Casino Series (World) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).zip",
+      "label": "Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Neo Geo Cup '98 Plus (World) (En,Ja).zip",
+      "label": "Neo Geo Cup '98 Plus (World) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Neo Mystery Bonus - Real Casino Series (World) (En,Ja).zip",
+      "label": "Neo Mystery Bonus - Real Casino Series (World) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Neo Turf Masters (World) (En,Ja).zip",
+      "label": "Neo Turf Masters (World) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Pac-Man (World) (En,Ja).zip",
+      "label": "Pac-Man (World) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Picture Puzzle (USA, Europe).zip",
+      "label": "Picture Puzzle (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Pocket Reversi (Europe).zip",
+      "label": "Pocket Reversi (Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).zip",
+      "label": "Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Puyo Pop (World) (En,Ja) (v1.06).zip",
+      "label": "Puyo Pop (World) (En,Ja) (v1.06)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Puzzle Bobble Mini (Japan, Europe) (v1.10).zip",
+      "label": "Puzzle Bobble Mini (Japan, Europe) (v1.10)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Puzzle Link (Europe).zip",
+      "label": "Puzzle Link (Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Puzzle Link 2 (USA, Europe).zip",
+      "label": "Puzzle Link 2 (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).zip",
+      "label": "Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Shanghai Mini (World) (En,Ja).zip",
+      "label": "Shanghai Mini (World) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/SNK Gals' Fighters (USA, Europe).zip",
+      "label": "SNK Gals' Fighters (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).zip",
+      "label": "SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).zip",
+      "label": "SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).zip",
+      "label": "SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/SNK - Neo Geo Pocket Color/Sonic the Hedgehog - Pocket Adventure (World).zip",
+      "label": "Sonic the Hedgehog - Pocket Adventure (World)",
+      "core_path": ".config/retroarch/cores/mednafen_ngp_libretro.so",
+      "core_name": "mednafen_ngp",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket Color.lpl"
+    }
+  ]
+}

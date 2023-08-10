@@ -1,0 +1,364 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/1942 (Japan).zip",
+      "label": "1942 (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/AcroJet (Japan).zip",
+      "label": "AcroJet (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Aleste (Japan).zip",
+      "label": "Aleste (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Arkanoid II - Revenge of Doh (Japan).zip",
+      "label": "Arkanoid II - Revenge of Doh (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Bubble Bobble (Japan).zip",
+      "label": "Bubble Bobble (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Contra (Japan).zip",
+      "label": "Contra (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Darwin 4078 (Japan).zip",
+      "label": "Darwin 4078 (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Dires - Giger Loop (Japan).zip",
+      "label": "Dires - Giger Loop (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Dragon Buster (Japan).zip",
+      "label": "Dragon Buster (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Dragon Slayer IV - Drasle Family (Japan).zip",
+      "label": "Dragon Slayer IV - Drasle Family (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Druid (Japan).zip",
+      "label": "Druid (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Dynamite Bowl (Japan).zip",
+      "label": "Dynamite Bowl (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Famicle Parodic (Japan).zip",
+      "label": "Famicle Parodic (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Family Billiards (Japan).zip",
+      "label": "Family Billiards (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Family Boxing - MSX Title Match (Japan).zip",
+      "label": "Family Boxing - MSX Title Match (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Fire Ball (Japan).zip",
+      "label": "Fire Ball (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Garyuu Ou (Japan).zip",
+      "label": "Garyuu Ou (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan).zip",
+      "label": "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Girly Block (Japan).zip",
+      "label": "Girly Block (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Han Seimei Senki Andorogynus (Japan).zip",
+      "label": "Han Seimei Senki Andorogynus (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Heroes of the Lance (Japan).zip",
+      "label": "Heroes of the Lance (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Hinotori - Houou Hen (Japan).zip",
+      "label": "Hinotori - Houou Hen (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Hole in One Special (Japan).zip",
+      "label": "Hole in One Special (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Hydlide 3 - The Space Memories (Japan).zip",
+      "label": "Hydlide 3 - The Space Memories (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Ikari (Japan).zip",
+      "label": "Ikari (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Mad Rider (Japan).zip",
+      "label": "Mad Rider (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Metal Gear (Europe).zip",
+      "label": "Metal Gear (Europe)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Mirai (Japan).zip",
+      "label": "Mirai (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Ninja-kun - Asura no Shou (Japan).zip",
+      "label": "Ninja-kun - Asura no Shou (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Out Run (Japan).zip",
+      "label": "Out Run (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Pac-Mania (Japan).zip",
+      "label": "Pac-Mania (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Penguin-kun Wars 2 (Japan).zip",
+      "label": "Penguin-kun Wars 2 (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Quarth (Japan).zip",
+      "label": "Quarth (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Rastan Saga (Japan).zip",
+      "label": "Rastan Saga (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Return of Ishtar, The (Japan).zip",
+      "label": "Return of Ishtar, The (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Scramble Formation (Japan).zip",
+      "label": "Scramble Formation (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Space Manbow (Japan).zip",
+      "label": "Space Manbow (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Strategic Mars (Japan).zip",
+      "label": "Strategic Mars (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Super Daisenryaku (Japan).zip",
+      "label": "Super Daisenryaku (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Super Load Runner (Japan).zip",
+      "label": "Super Load Runner (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Super Rambo Special (Japan).zip",
+      "label": "Super Rambo Special (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Super Tritorn (Japan).zip",
+      "label": "Super Tritorn (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Tetris (Japan).zip",
+      "label": "Tetris (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Treasure of Usas, The (Japan, Europe).zip",
+      "label": "Treasure of Usas, The (Japan, Europe)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Microsoft - MSX2/Xevious - Fardraut Saga (Japan).zip",
+      "label": "Xevious - Fardraut Saga (Japan)",
+      "core_path": ".config/retroarch/cores/bluemsx_libretro.so",
+      "core_name": "bluemsx",
+      "crc32": "00000000|crc",
+      "db_name": "Microsoft - MSX2.lpl"
+    }
+  ]
+}

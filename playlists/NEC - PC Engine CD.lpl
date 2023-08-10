@@ -1,0 +1,948 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Advanced Variable Geo (Japan).cue",
+      "label": "Advanced Variable Geo (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Ai Chou Aniki (Japan).cue",
+      "label": "Ai Chou Aniki (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Akumajou Dracula X - Chi no Rondo (Japan).cue",
+      "label": "Akumajou Dracula X - Chi no Rondo (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Asuka 120% Maxima Burning Fest (Japan).cue",
+      "label": "Asuka 120% Maxima Burning Fest (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Avenger (Japan).cue",
+      "label": "Avenger (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Baby Jo the Super Hero (Japan).cue",
+      "label": "Baby Jo the Super Hero (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Bakushou Yoshimoto Shinkigeki (Japan).cue",
+      "label": "Bakushou Yoshimoto Shinkigeki (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Battle Field '94 in Tokyo Dome (Japan).cue",
+      "label": "Battle Field '94 in Tokyo Dome (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Bazaru Degozaru no Game Degozaru (Japan).cue",
+      "label": "Bazaru Degozaru no Game Degozaru (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Bomberman - Panic Bomber (Japan).cue",
+      "label": "Bomberman - Panic Bomber (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Bonanza Bros (Japan).cue",
+      "label": "Bonanza Bros (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Browning (Japan).cue",
+      "label": "Browning (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Builderland - The Story of Melba (Japan).cue",
+      "label": "Builderland - The Story of Melba (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Cardangels (Japan).cue",
+      "label": "Cardangels (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Chiki Chiki Boys (Japan).cue",
+      "label": "Chiki Chiki Boys (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Chou Aniki - Super Big Brothers (Japan).cue",
+      "label": "Chou Aniki - Super Big Brothers (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Choujikuu Yousai Macross 2036 (Japan).cue",
+      "label": "Choujikuu Yousai Macross 2036 (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Color Wars (Japan).cue",
+      "label": "Color Wars (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Daisenpuu Custom (Japan).cue",
+      "label": "Daisenpuu Custom (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Davis Cup Tennis, The (Japan).cue",
+      "label": "Davis Cup Tennis, The (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Dekoboko Densetsu - Hashiru Wagamanma (Japan).cue",
+      "label": "Dekoboko Densetsu - Hashiru Wagamanma (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Doraemon - Nobita no Dorabian Night (Japan).cue",
+      "label": "Doraemon - Nobita no Dorabian Night (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Double Dragon 2 - The Revenge (Japan).cue",
+      "label": "Double Dragon 2 - The Revenge (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Download 2 (Japan).cue",
+      "label": "Download 2 (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan).cue",
+      "label": "Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Dragon Ball Z - Idainaru Son Gokuu Densetsu (Japan).cue",
+      "label": "Dragon Ball Z - Idainaru Son Gokuu Densetsu (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/F1 Circus Special - Pole to Win (Japan).cue",
+      "label": "F1 Circus Special - Pole to Win (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Faceball (Japan).cue",
+      "label": "Faceball (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Faussete Amour (Japan).cue",
+      "label": "Faussete Amour (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Fiend Hunter (Japan).cue",
+      "label": "Fiend Hunter (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Fire Pro Jyoshi - Shoumu Choujyo Taisen - Zenjo vs JWP (Japan).cue",
+      "label": "Fire Pro Jyoshi - Shoumu Choujyo Taisen - Zenjo vs JWP (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Flash Hiders (Japan).cue",
+      "label": "Flash Hiders (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Gain Ground SX (Japan).cue",
+      "label": "Gain Ground SX (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Galaxy Keiji Gayvan (Japan).cue",
+      "label": "Galaxy Keiji Gayvan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Garou Densetsu 2 - Aratanaru Tatakai (Japan).cue",
+      "label": "Garou Densetsu 2 - Aratanaru Tatakai (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Garou Densetsu Special (Japan).cue",
+      "label": "Garou Densetsu Special (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Gate of Thunder (Japan).cue",
+      "label": "Gate of Thunder (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Genocide (Japan).cue",
+      "label": "Genocide (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Ginga Fukei Densetsu - Sapphire (Japan).cue",
+      "label": "Ginga Fukei Densetsu - Sapphire (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/God Panic - Shijou Saikyou Gundan (Japan).cue",
+      "label": "God Panic - Shijou Saikyou Gundan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Golden Axe (Japan).cue",
+      "label": "Golden Axe (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/GoTzenDiener (Japan).cue",
+      "label": "GoTzenDiener (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Gradius 2 - Gofer no Yabou (Japan).cue",
+      "label": "Gradius 2 - Gofer no Yabou (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Hawk F-123 (Japan).cue",
+      "label": "Hawk F-123 (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Hellfire S - The Another Story (Japan).cue",
+      "label": "Hellfire S - The Another Story (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Hihou Densetsu - Chris no Bouken (Japan).cue",
+      "label": "Hihou Densetsu - Chris no Bouken (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Horror Story (Japan).cue",
+      "label": "Horror Story (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Human Sports Festival (Japan).cue",
+      "label": "Human Sports Festival (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Hyper Dyne SideArms Special (Japan).cue",
+      "label": "Hyper Dyne SideArms Special (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Hyper Wars (Japan).cue",
+      "label": "Hyper Wars (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Iga Ninden Gaiou (Japan).cue",
+      "label": "Iga Ninden Gaiou (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Image Fight 2 - Operation Deepstriker (Japan).cue",
+      "label": "Image Fight 2 - Operation Deepstriker (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/J League Tremendous Soccer '94 (Japan).cue",
+      "label": "J League Tremendous Soccer '94 (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Jim Power - In Mutant Planet (Japan).cue",
+      "label": "Jim Power - In Mutant Planet (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Juuouki (Japan).cue",
+      "label": "Juuouki (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan).cue",
+      "label": "Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Kakutou Haou Densetsu Algunos (Japan).cue",
+      "label": "Kakutou Haou Densetsu Algunos (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Kaze Kiri - Ninja Action (Japan).cue",
+      "label": "Kaze Kiri - Ninja Action (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Kiaidan 00 (Japan).cue",
+      "label": "Kiaidan 00 (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Kick Boxing, The (Japan).cue",
+      "label": "Kick Boxing, The (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/L-Dis (Japan).cue",
+      "label": "L-Dis (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Legion (Japan).cue",
+      "label": "Legion (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Lemmings (Japan).cue",
+      "label": "Lemmings (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Mad Stalker - Full Metal Force (Japan).cue",
+      "label": "Mad Stalker - Full Metal Force (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Manhole, The (Japan).cue",
+      "label": "Manhole, The (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Martial Champion (Japan).cue",
+      "label": "Martial Champion (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Metamor Jupiter (Japan).cue",
+      "label": "Metamor Jupiter (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Mine Sweeper (Japan).cue",
+      "label": "Mine Sweeper (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Mirai Shounen Conan (Japan).cue",
+      "label": "Mirai Shounen Conan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Motoroader MC (Japan).cue",
+      "label": "Motoroader MC (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Motteke Tamago (Japan) (Translated).cue",
+      "label": "Motteke Tamago (Japan) (Translated)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Mugen Senshi Valis - Legend of a Fantasm Soldier (Japan).cue",
+      "label": "Mugen Senshi Valis - Legend of a Fantasm Soldier (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Mystic Formula (Japan).cue",
+      "label": "Mystic Formula (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Nekketsu Koukou Dodgeball Bu - Soccer Hen (Japan).cue",
+      "label": "Nekketsu Koukou Dodgeball Bu - Soccer Hen (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Nexzr (Japan).cue",
+      "label": "Nexzr (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Pop'n Magic (Japan).cue",
+      "label": "Pop'n Magic (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Popful Mail (Japan).cue",
+      "label": "Popful Mail (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Populous - The Promised Lands (Japan).cue",
+      "label": "Populous - The Promised Lands (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Psychic Storm (Japan).cue",
+      "label": "Psychic Storm (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Puyo Puyo CD (Japan).cue",
+      "label": "Puyo Puyo CD (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Puyo Puyo CD Tsuu (Japan).cue",
+      "label": "Puyo Puyo CD Tsuu (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/R-Type Complete (Japan).cue",
+      "label": "R-Type Complete (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Rainbow Islands (Japan).cue",
+      "label": "Rainbow Islands (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Ranma � - Datou, Ganso Musabetsu Kakutou-Ryuu! (Japan).cue",
+      "label": "Ranma � - Datou, Ganso Musabetsu Kakutou-Ryuu! (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Ranma � - Ni Bun no Ichi (Japan).cue",
+      "label": "Ranma � - Ni Bun no Ichi (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Rayxanber II (Japan).cue",
+      "label": "Rayxanber II (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Rayxanber III (Japan).cue",
+      "label": "Rayxanber III (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Renny Blaster (Japan).cue",
+      "label": "Renny Blaster (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Road Spirits (Japan).cue",
+      "label": "Road Spirits (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Ryuuko no Ken (Japan).cue",
+      "label": "Ryuuko no Ken (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Seirei Senshi Spriggan (Japan).cue",
+      "label": "Seirei Senshi Spriggan (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Shanghai II (Japan).cue",
+      "label": "Shanghai II (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Shanghai III - Dragon's Eye (Japan).cue",
+      "label": "Shanghai III - Dragon's Eye (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Slime World (Japan).cue",
+      "label": "Slime World (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Space Fantasy Zone (Japan).cue",
+      "label": "Space Fantasy Zone (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Space Invaders - The Original Game (Japan).cue",
+      "label": "Space Invaders - The Original Game (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Spriggan Mark 2 - Re-Terraform Project (Japan).cue",
+      "label": "Spriggan Mark 2 - Re-Terraform Project (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Star Mobile (Japan).cue",
+      "label": "Star Mobile (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Star Parodia (Japan).cue",
+      "label": "Star Parodia (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Steam Heart's (Japan).cue",
+      "label": "Steam Heart's (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Strider Hiryuu (Japan).cue",
+      "label": "Strider Hiryuu (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Summer Carnival '93 - Nexzr Special (Japan).cue",
+      "label": "Summer Carnival '93 - Nexzr Special (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Super Albatross (Japan).cue",
+      "label": "Super Albatross (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Super Darius (Japan).cue",
+      "label": "Super Darius (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Super Darius 2 (Japan).cue",
+      "label": "Super Darius 2 (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Super Raiden (Japan).cue",
+      "label": "Super Raiden (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Sylphia (Japan).cue",
+      "label": "Sylphia (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Tecmo World Cup Super Soccer (Japan).cue",
+      "label": "Tecmo World Cup Super Soccer (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Tenchi wo Kurau (Japan).cue",
+      "label": "Tenchi wo Kurau (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Travel Epuru (Japan).cue",
+      "label": "Travel Epuru (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/TV Show, The (Japan).cue",
+      "label": "TV Show, The (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Valis IV (Japan).cue",
+      "label": "Valis IV (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Where in the World is Carmen Sandiego (Japan).cue",
+      "label": "Where in the World is Carmen Sandiego (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/World Heroes 2 (Japan).cue",
+      "label": "World Heroes 2 (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Xak III - The Eternal Recurrence (Japan) (Translated).cue",
+      "label": "Xak III - The Eternal Recurrence (Japan) (Translated)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Ys IV - Dawn of Ys (Japan) (Translated).cue",
+      "label": "Ys IV - Dawn of Ys (Japan) (Translated)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Yuu Yuu Hakusho - Anshoubu!! Ankoku Bujutsukai (Japan).cue",
+      "label": "Yuu Yuu Hakusho - Anshoubu!! Ankoku Bujutsukai (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/NEC - PC Engine CD/Zero Wing (Japan).cue",
+      "label": "Zero Wing (Japan)",
+      "core_path": ".config/retroarch/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "mednafen_pce_fast",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine CD.lpl"
+    }
+  ]
+}
