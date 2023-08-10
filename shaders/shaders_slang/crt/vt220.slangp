@@ -1,0 +1,25 @@
+shaders = 4
+
+shader0 = ../stock.slang
+alias0 = vt220_refpass
+
+shader1 = ../ntsc/shaders/ntsc-adaptive/ntsc-pass1.slang
+scale_type1 = source
+scale_x1 = 4.0
+filter_linear1 = false
+scale_y1 = 1.0
+float_framebuffer1 = true
+
+shader2 = ../ntsc/shaders/ntsc-adaptive/ntsc-pass2.slang
+scale_type2 = source
+scale_x2 = 0.5
+scale_y2 = 1.0
+filter_linear2 = false
+
+shader3 = shaders/vt220/vt220.slang
+mipmap_input3 = true
+wrap_mode3 = mirrored_repeat
+scale_type3 = viewport
+
+parameters = "quality"
+quality = 1.0
