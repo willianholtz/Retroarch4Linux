@@ -1,0 +1,59 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Crazy Taxi (USA).zip#Crazy Taxi (USA) (Track 3).bin",
+      "label": "Crazy Taxi (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "6107883|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Crazy Taxi 2 (USA).zip#Crazy Taxi 2 (USA) (Track 3).bin",
+      "label": "Crazy Taxi 2 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "6107883|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Disneys 102 Dalmatians - Puppies to the Rescue (USA).chd",
+      "label": "Disney's 102 Dalmatians - Puppies to the Rescue (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "T-36803N|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Resident Evil 3 - Nemesis (USA).chd",
+      "label": "Resident Evil 3 - Nemesis (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "T-1220N|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Street Fighter Alpha 3 (USA).chd",
+      "label": "Street Fighter Alpha 3 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "T-1203N|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Vampire Chronicle for Matching Service (Japan).chd",
+      "label": "Vampire Chronicle for Matching Service (Japan)",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "T-1235M|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    }
+  ]
+}

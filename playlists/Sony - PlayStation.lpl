@@ -8,10 +8,18 @@
   "sort_mode": 0,
   "items": [
     {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Biohazard 1.5.chd",
+      "label": "Biohazard 1.5",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "SLUS 90009|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Dino Crisis (USA).chd",
       "label": "Dino Crisis (Europe)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "SLES-02211|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
@@ -42,16 +50,16 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mega Man X6 (USA).chd",
       "label": "Megaman X6 (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "SLUS-01395|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mortal Kombat Trilogy (USA).chd",
       "label": "Mortal Kombat Trilogy (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "SLUS-00330|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
@@ -61,14 +69,6 @@
       "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
       "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "SLUS-00551|serial",
-      "db_name": "Sony - PlayStation.lpl"
-    },
-        {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Biohazard 1.5.chd",
-      "label": "Biohazard 1.5",
-      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
-      "core_name": "Sony - PlayStation (PCSX ReARMed)",
-      "crc32": "SLUS 90009|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {

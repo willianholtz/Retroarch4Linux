@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Sega - Dreamcast/Vampire Chronicle for Matching Service (Japan).cdi",
+      "label": "Vampire Chronicle for Matching Service (Japan)",
+      "core_path": ".config/retroarch/cores/flycast_libretro.so",
+      "core_name": "dreamcast",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Dreamcast.lpl"
+    }
+  ]
+}
