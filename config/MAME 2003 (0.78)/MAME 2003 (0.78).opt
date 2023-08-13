@@ -1,6 +1,7 @@
 mame2003_art_resolution = "1"
 mame2003_autosave_hiscore = "default"
 mame2003_brightness = "1.0"
+mame2003_cheat_input_ports = "disabled"
 mame2003_core_save_subfolder = "enabled"
 mame2003_core_sys_subfolder = "enabled"
 mame2003_cpu_clock_scale = "default"
