@@ -8,19 +8,11 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Crazy Taxi (USA).zip#Crazy Taxi (USA) (Track 3).bin",
-      "label": "Crazy Taxi (USA)",
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Capcom vs. SNK (USA).chd",
+      "label": "Capcom vs. SNK (USA)",
       "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
       "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "6107883|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Crazy Taxi 2 (USA).zip#Crazy Taxi 2 (USA) (Track 3).bin",
-      "label": "Crazy Taxi 2 (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "6107883|serial",
+      "crc32": "T-1218N|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
@@ -32,10 +24,18 @@
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Resident Evil 3 - Nemesis (USA).chd",
-      "label": "Resident Evil 3 - Nemesis (USA)",
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Ikaruga (Japan).chd",
+      "label": "Ikaruga (Japan)",
       "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
       "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "T-38706M|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Resident Evil 3 - Nemesis (USA).chd",
+      "label": "Resident Evil 3 - Nemesis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
       "crc32": "T-1220N|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },

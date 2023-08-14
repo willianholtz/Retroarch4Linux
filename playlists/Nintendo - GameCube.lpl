@@ -8,18 +8,26 @@
   "sort_mode": 0,
   "items": [
     {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - Gamecube/Need for Speed - Hot Pursuit 2 (USA).rvz",
+      "label": "Need for Speed - Hot Pursuit 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DL-DOL-GH2E-USA|serial",
+      "db_name": "Nintendo - GameCube.lpl"
+    },
+    {
       "path": "/home/willian/.config/retroarch/roms/Nintendo - Gamecube/Resident Evil 3 - Nemesis (USA).iso",
       "label": "Resident Evil 3 - Nemesis (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/dolphin_libretro.so",
-      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
       "crc32": "DL-DOL-GLEE-USA|serial",
       "db_name": "Nintendo - GameCube.lpl"
     },
     {
       "path": "/home/willian/.config/retroarch/roms/Nintendo - Gamecube/Super Mario Sunshine (USA).rvz",
       "label": "Super Mario Sunshine (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/dolphin_libretro.so",
-      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
       "crc32": "DL-DOL-GMSE-USA|serial",
       "db_name": "Nintendo - GameCube.lpl"
     }

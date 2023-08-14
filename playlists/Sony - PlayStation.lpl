@@ -8,91 +8,131 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Biohazard 1.5.chd",
-      "label": "Biohazard 1.5",
-      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
-      "core_name": "Sony - PlayStation (PCSX ReARMed)",
-      "crc32": "SLUS 90009|serial",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Dino Crisis (USA) (Rev 1).chd",
+      "label": "Dino Crisis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00922|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Dino Crisis (USA).chd",
-      "label": "Dino Crisis (Europe)",
-      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
-      "core_name": "Sony - PlayStation (PCSX ReARMed)",
-      "crc32": "SLES-02211|serial",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Dino Crisis 2 (USA).chd",
+      "label": "Dino Crisis 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-01279|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Castlevania - Symphony of the Night (USA).chd",
-      "label": "Dracula X: Nocturne in the Moonlight (Japan)",
-      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
-      "core_name": "Sony - PlayStation (PCSX ReARMed)",
-      "crc32": "SLPM-86023|serial",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Darkstalkers 3 (USA).chd",
+      "label": "Darkstalkers 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00745|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Darkstalkers - The Night Warriors (USA).chd",
+      "label": "Darkstalkers - The Night Warriors (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00036|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mega Man X4 (USA).chd",
-      "label": "Megaman X4 (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
-      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "label": "Mega Man X4 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
       "crc32": "SLUS-00561|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mega Man X5 (USA).chd",
-      "label": "Megaman X5 (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
-      "core_name": "Sony - PlayStation (PCSX ReARMed)",
-      "crc32": "SLUS-01334|serial",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Alone in the Dark - The New Nightmare (USA) (Disc 2).chd",
+      "label": "Alone in the Dark - The New Nightmare (USA) (Disc 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-01377-1|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mega Man X6 (USA).chd",
-      "label": "Megaman X6 (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
-      "core_name": "Sony - PlayStation (PCSX ReARMed)",
-      "crc32": "SLUS-01395|serial",
-      "db_name": "Sony - PlayStation.lpl"
-    },
-    {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mortal Kombat Trilogy (USA).chd",
-      "label": "Mortal Kombat Trilogy (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
-      "core_name": "Sony - PlayStation (PCSX ReARMed)",
-      "crc32": "SLUS-00330|serial",
-      "db_name": "Sony - PlayStation.lpl"
-    },
-    {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Resident Evil - Director's Cut (USA).chd",
-      "label": "Resident Evil - Director's Cut (USA) (Disc 1 of 2)",
-      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
-      "core_name": "Sony - PlayStation (PCSX ReARMed)",
-      "crc32": "SLUS-00551|serial",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Alone in the Dark - The New Nightmare (USA) (Disc 1).chd",
+      "label": "Alone in the Dark - The New Nightmare (USA) (Disc 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-01201-0|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Resident Evil 3 - Nemesis (USA).chd",
       "label": "Resident Evil 3 - Nemesis (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
-      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
       "crc32": "SLUS-00923|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Silent Hill (USA).chd",
-      "label": "Silent Hill (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
-      "core_name": "Sony - PlayStation (PCSX ReARMed)",
-      "crc32": "SLUS-00707|serial",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Resident Evil 2 (USA) (Disc 2).chd",
+      "label": "Resident Evil 2 (USA) (Disc 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00592-1|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Resident Evil 2 (USA) (Disc 1).chd",
+      "label": "Resident Evil 2 (USA) (Disc 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00421-0|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mega Man X6 (USA).chd",
+      "label": "Mega Man X6 (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-01395|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mortal Kombat Trilogy (USA).chd",
+      "label": "Mortal Kombat Trilogy (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00330|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mega Man X5 (USA).chd",
+      "label": "Mega Man X5 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-01334|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Castlevania - Symphony of the Night (USA).chd",
+      "label": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLPM-86023|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Tony Hawk's Pro Skater 3 (USA).chd",
       "label": "Tony Hawk's Pro Skater 3 (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
-      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
       "crc32": "SLUS-01419|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Silent Hill (USA).chd",
+      "label": "Silent Hill (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00707|serial",
       "db_name": "Sony - PlayStation.lpl"
     }
   ]
