@@ -16,11 +16,27 @@
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Capcom vs. SNK - Millennium Fight 2000 (Japan).chd",
+      "label": "Capcom vs. SNK - Millennium Fight 2000 (Japan) (Rev A)",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "T-1217M|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
       "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Disneys 102 Dalmatians - Puppies to the Rescue (USA).chd",
       "label": "Disney's 102 Dalmatians - Puppies to the Rescue (USA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "T-36803N|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Fatal Fury - Mark of the Wolves (USA).chd",
+      "label": "Fatal Fury - Mark of the Wolves (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "T-44306N|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
@@ -32,10 +48,34 @@
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Resident Evil 3 - Nemesis (USA).chd",
-      "label": "Resident Evil 3 - Nemesis (USA)",
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/King of Fighters 2000, The (Japan).chd",
+      "label": "King of Fighters 2000, The (Japan)",
       "core_path": "DETECT",
       "core_name": "DETECT",
+      "crc32": "T-47303M|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/King of Fighters, The - Dream Match 1999 (USA) (En,Ja,Es,Pt).chd",
+      "label": "King of Fighters, The - Dream Match 1999 (USA) (En,Ja,Es,Pt)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "T-3101N|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/King of Fighters, The - Evolution (USA) (En,Ja,Es,Pt).chd",
+      "label": "King of Fighters, The - Evolution (USA) (En,Ja,Es,Pt)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "T-44302N|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Resident Evil 3 - Nemesis (USA).chd",
+      "label": "Resident Evil 3 - Nemesis (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1220N|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
@@ -45,6 +85,14 @@
       "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
       "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1203N|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Street Fighter III - 3rd Strike (USA).chd",
+      "label": "Street Fighter III - 3rd Strike (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "T-1213N|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
     {

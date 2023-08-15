@@ -1,21 +1,36 @@
 ![Retroarch para ArchLinux](IMG/Retroarch.png)
 
-# Retroarch_ArchLinux Project
-Retroarch configurado para Arch Linux
+![Retroarch para ArchLinux](IMG/01.png)
 
-## Configuração inicial
-Baixe o retroarch em seu Arch Linux, as configurações padrões do sistema ficam sempre em /home/user/.config/retroarch.
-A configuração desse repositório já vem toda pré configurada para apontar diretmente pra .config independente do usuário ativo.
+![Retroarch para ArchLinux](IMG/02.png)
+
+# The best of Retroarch for Linux Project
+Retroarch configurado para Arch Linux e Linux em geral
+
+# Initial setting
+Download retroarch on your Linux, the default system settings are always in /home/user/.config/retroarch.
+The configuration of this repository is already pre-configured to point directly to ~/.config regardless of the active user.
+
+# Be part of the project
+Do you want to be part of the project and make the retroarch linux version even more complete and beautiful? Get in touch with me or you can also create a fork for another project parallel to mine!
+
 
 ## Modificação Arch
-O retroarch foi configurado do zero, utilizando alguns pacotes encontrados na net, como:
-- wallpapers do projeto CRAZYMAC (2020) para wii U
-- Bezzels para todos os games
-- Pacote Mega Bezels para shaders (CRT) e configurado sem curvatura da TV ( O padrão vem com curvatura )
+Retroarch was configured from scratch, using some packages found on the net, such as:
+- Project CRAZYMAC (2020) wallpapers for wii U
+- Bezzels for all games
+- Mega Bezels pack for shaders (CRT) and configured without TV curvature (Default comes with curvature)
 
 ## Games (Roms)
-Todas as roms são do projeto CRAZYMAC [2020], embora games de Gamecube e PSX podem ser encontrados nos links abaixo sem necessidade de ter que renomear ou
-algo do tipo, apenas colocando nas pastas correspondentes, veja na pasta IMG a imagem com os nomes de todas as pastas.
+All roms are from the [CRAZYMAC 2020](https://www.arcadepunks.com/wii-u-retro-gaming-pack-for-modified-wii-u-from-crazymac/) project, so you can use the same ones here, although Gamecube and PSX games can be found at the links below without having to rename or
+something like that, just putting it in the corresponding folders, see in the IMG folder the image with the names of all the folders.
 
-Gamecube roms: https://archive.org/download/gamecubeusaredump
-PSX roms: https://archive.org/download/chd_psx/CHD-PSX-USA/
+However, the project does not contain the roms, obviously.
+
+[Gamecube](https://archive.org/download/gamecubeusaredump)
+[Playstation 1](https://archive.org/download/chd_psx/CHD-PSX-USA/)
+
+All roms should be redump preferably, thus making retro arch configuration files with playlists.lpl and core configs (Overlays) defaults.
+
+## BIOS
+The system folder, where the bios are located, were also not available here in the repository, but they are files that are easy to find on [google](www.google.com)
