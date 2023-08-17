@@ -22,13 +22,12 @@ Retroarch was configured from scratch, using some packages found on the net, suc
 - All roms (games) have their overlays
 
 ## Games (Roms)
-All roms are from the [CRAZYMAC 2020](https://www.arcadepunks.com/wii-u-retro-gaming-pack-for-modified-wii-u-from-crazymac/) project, so you can use the same ones here, although Gamecube and PSX games can be found at the links below without having to rename or
-something like that, just putting it in the corresponding folders, see in the IMG folder the image with the names of all the folders.
+All roms are from [CRAZYMAC 2020](https://www.arcadepunks.com/wii-u-retro-gaming-pack-for-modified-wii-u-from-crazymac/) project, so you can use the the same ones here, although several other consoles are missing like the Gamecube, Wii, PS1, PS2 etc.
 
-However, the project does not contain the roms, obviously.
+But you can access the link below to have fun!
 
-[Gamecube](https://archive.org/download/gamecubeusaredump)
-[Playstation 1](https://archive.org/download/chd_psx/CHD-PSX-USA/)
+Redump and NO-Intro project:
+[myrient](https://myrient.erista.me/)
 
 All roms should be REDUMP preferably, thus making retro arch configuration files with playlists.lpl and core configs (OVERLAYS) defaults.
 
