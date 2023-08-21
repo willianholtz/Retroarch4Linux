@@ -23,8 +23,6 @@
    
 */ 
 
-#include "../../base/common/globals-and-screen-scale-params.inc"
-
 layout(push_constant) uniform Push
 {
 	vec4 SourceSize;
@@ -36,7 +34,6 @@ layout(push_constant) uniform Push
 	float HSM_DREZ_HSHARP0;
 	float HSM_DREZ_HAR;
 	float HSM_DREZ_SHAR;
-	float HSM_DREZ_THRESHOLD_RATIO;
 } params;
 
 #pragma parameter HSM_GSHARP_DREZ_EMPTY_LINE		" " 0 0 0.001 0.001
@@ -44,10 +41,6 @@ layout(push_constant) uniform Push
 
 #pragma parameter HSM_DREZ_GSHARP_ON 	"          G-SHARP ON" 	  1 0 1 1
 #define HSM_DREZ_GSHARP_ON params.HSM_DREZ_GSHARP_ON
-
-#pragma parameter HSM_DREZ_THRESHOLD_RATIO 	"         Downsample Threshold (Original Res Vs Downsampled Res)" 	  1.5 1 4 0.1
-#define HSM_DREZ_THRESHOLD_RATIO params.HSM_DREZ_THRESHOLD_RATIO
-
 
 // Default was 1.2, now set to 2.3 to match smoothing in Hyllian b-spline
 #pragma parameter HSM_DREZ_HSHARP0 		"          Filter Range"  2.3 1.0 6.0 0.1
@@ -65,6 +58,10 @@ layout(push_constant) uniform Push
 #pragma parameter HSM_DREZ_HAR 			"          Anti-Ringing" 0.5 0.0 1.0 0.10
 #define HSM_DREZ_HAR params.HSM_DREZ_HAR
 
+layout(std140, set = 0, binding = 0) uniform UBO
+{
+	mat4 MVP;
+} global;
 
 #pragma stage vertex
 layout(location = 0) in vec4 Position;
@@ -80,12 +77,10 @@ void main()
 #pragma stage fragment
 layout(location = 0) in vec2 vTexCoord;
 layout(location = 0) out vec4 FragColor;
-layout(set = 0, binding = 2) uniform sampler2D Original;
+layout(set = 0, binding = 2) uniform sampler2D Source;
 
 #define COMPAT_TEXTURE(c,d) texture(c,d)
-#define SourceSize params.OriginalSize
-#define OutputSize params.OutputSize
-#define Source Original
+#define SourceSize params.SourceSize
 
 float invsqrsigma_h = 1.0/(2.0*HSM_DREZ_SIGMA_HV*HSM_DREZ_SIGMA_HV);
 
@@ -96,7 +91,7 @@ float gaussian(float x, float y)
 
 void main()
 {
-	if (HSM_DREZ_GSHARP_ON == 0 || OutputSize.y / SourceSize.y < HSM_DREZ_THRESHOLD_RATIO)
+	if (HSM_DREZ_GSHARP_ON == 0)
 	{
 		FragColor = texture(Source, vTexCoord);
 		return;

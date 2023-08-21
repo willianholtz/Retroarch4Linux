@@ -11,7 +11,7 @@ blargg_ntsc_snes_tvtype = "custom"
 blargg_ntsc_snes_hue = 0
 # -1 = -180 degrees     +1 = +180 degrees
 
-blargg_ntsc_snes_saturation = 0.5
+blargg_ntsc_snes_saturation = 0.2
 # -1 = grayscale (0.0)  +1 = oversaturated colors (2.0)
 
 blargg_ntsc_snes_contrast = 0
@@ -23,7 +23,7 @@ blargg_ntsc_snes_brightness = 0.0
 blargg_ntsc_snes_sharpness = 0.4
 # edge contrast enhancement/blurring
 
-blargg_ntsc_snes_gamma = 0.4
+blargg_ntsc_snes_gamma = 0.5
 # -1 = dark (1.5)       +1 = light (0.5)
 
 blargg_ntsc_snes_resolution = -0.5

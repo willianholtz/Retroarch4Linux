@@ -26,8 +26,8 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Nintendo - Gamecube/Super Mario Sunshine (USA).rvz",
       "label": "Super Mario Sunshine (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/dolphin_libretro.so",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
       "crc32": "DL-DOL-GMSE-USA|serial",
       "db_name": "Nintendo - GameCube.lpl"
     }

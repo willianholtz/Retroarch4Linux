@@ -56,6 +56,7 @@ layout(push_constant) uniform Push
 	float wiggle_toggle;
  	float scanroll;
 	float vignette;
+	float ghosting;
 } params;
 
 #pragma parameter use_frame "Use Frame Image" 0.0 0.0 1.0 1.0
@@ -64,6 +65,7 @@ layout(push_constant) uniform Push
 #pragma parameter wiggle_toggle "Interference" 0.0 0.0 1.0 1.0
 #pragma parameter scanroll "Rolling Scanlines" 1.0 0.0 1.0 1.0
 #pragma parameter vignette "Vignette" 1.0 0.0 1.0 0.05
+#pragma parameter ghosting "Ghosting" 1.0 0.0 2.0 0.10
 #define gl_FragCoord (vTexCoord.xy * params.OutputSize.xy)
 #define backbuffer accum1
 #define blurbuffer blur2
@@ -154,7 +156,7 @@ void main()
     i = (1.0-i) * 0.85 + 0.15; 
     
     /* Ghosting */
-    float ghs = 0.15;
+    float ghs = 0.15 * params.ghosting;
     vec3 r = tsample(blurbuffer, vec2(x-0.014*1.0, -0.027)*0.85+0.007*vec2( 0.35*sin(1.0/7.0 + 15.0*curved_uv.y + 0.9*time), 
         0.35*sin( 2.0/7.0 + 10.0*curved_uv.y + 1.37*time) )+vec2(scuv.x+0.001,scuv.y+0.001),
         5.5+1.3*sin( 3.0/9.0 + 31.0*curved_uv.x + 1.70*time),resolution).xyz*vec3(0.5,0.25,0.25);

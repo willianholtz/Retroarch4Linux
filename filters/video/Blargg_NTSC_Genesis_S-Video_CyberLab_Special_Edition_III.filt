@@ -23,7 +23,7 @@ blargg_ntsc_snes_brightness = 0.0
 blargg_ntsc_snes_sharpness = 0.3
 # edge contrast enhancement/blurring
 
-blargg_ntsc_snes_gamma = 0.4
+blargg_ntsc_snes_gamma = 0.5
 # -1 = dark (1.5)       +1 = light (0.5)
 
 blargg_ntsc_snes_resolution = -0.3

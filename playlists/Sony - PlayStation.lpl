@@ -10,16 +10,16 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Castlevania - Symphony of the Night (USA).chd",
       "label": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (Rev 1)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "SLPM-86023|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Alone in the Dark - The New Nightmare (USA) (Disc 1).chd",
       "label": "Alone in the Dark - The New Nightmare (USA) (Disc 1)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "SLUS-01201-0|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
@@ -34,16 +34,16 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Darkstalkers - The Night Warriors (USA).chd",
       "label": "Darkstalkers - The Night Warriors (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
       "crc32": "SLUS-00036|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Darkstalkers 3 (USA).chd",
       "label": "Darkstalkers 3 (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "SLUS-00745|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
@@ -64,18 +64,34 @@
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mega Man X4 (USA).chd",
-      "label": "Mega Man X4 (USA)",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1).chd",
+      "label": "Final Fantasy Chronicles - Chrono Trigger (USA) (Beta)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (mednafen_psx_hw)",
+      "crc32": "SLUS-01363|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Looney Tunes - Sheep Raider (USA).chd",
+      "label": "Looney Tunes - Sheep Raider (USA) (En,Fr,Es,Pt)",
       "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
       "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-01369|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mega Man X4 (USA).chd",
+      "label": "Mega Man X4 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "SLUS-00561|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mega Man X5 (USA).chd",
       "label": "Mega Man X5 (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
       "crc32": "SLUS-01334|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
@@ -114,8 +130,8 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Resident Evil 3 - Nemesis (USA).chd",
       "label": "Resident Evil 3 - Nemesis (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
       "crc32": "SLUS-00923|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
@@ -128,10 +144,74 @@
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Tony Hawk's Pro Skater 3 (USA).chd",
-      "label": "Tony Hawk's Pro Skater 3 (USA)",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter Alpha - Warriors' Dreams (USA).chd",
+      "label": "Street Fighter Alpha - Warriors' Dreams (USA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
+      "crc32": "SLUS-00197|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter Alpha 2 (USA) (Rev 1).chd",
+      "label": "Street Fighter Alpha 2 (USA) (Rev 1)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00258|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter Alpha 3 (USA).chd",
+      "label": "Street Fighter Alpha 3 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00821|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter Collection (USA) (Disc 1) (Rev 1).chd",
+      "label": "Street Fighter Collection (USA) (Disc 1) (Rev 1)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00423-0|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter Collection (USA) (Disc 2) (Rev 1).chd",
+      "label": "Street Fighter Collection (USA) (Disc 2) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00584-1|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter Collection 2 (USA).chd",
+      "label": "Street Fighter Collection 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00746|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter EX Plus Alpha (USA).chd",
+      "label": "Street Fighter EX Plus Alpha (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00548|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter EX2 Plus (USA).chd",
+      "label": "Street Fighter EX2 Plus (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-01105|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Tony Hawk's Pro Skater 3 (USA).chd",
+      "label": "Tony Hawk's Pro Skater 3 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
       "crc32": "SLUS-01419|serial",
       "db_name": "Sony - PlayStation.lpl"
     }

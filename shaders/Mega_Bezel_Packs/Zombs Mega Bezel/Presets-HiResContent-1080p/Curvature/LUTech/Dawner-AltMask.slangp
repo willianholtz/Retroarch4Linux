@@ -1,0 +1,5 @@
+#reference "Dawner.slangp"
+//pre_bb = "0.810000"
+shadowMask = "10.000000"
+ntsc_scale = "2.100000"
+HSHARPNESS = "1.500000"

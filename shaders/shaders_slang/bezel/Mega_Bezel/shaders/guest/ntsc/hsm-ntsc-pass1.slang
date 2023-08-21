@@ -49,21 +49,11 @@ layout(location = 8) out float MERGE;
 void main()
 {
 	float res = min(global.ntsc_scale, 1.0);
-
-   /* HSM Removed
-	float OriginalSize = global.OriginalSize.x;
-   */
-
+	float OriginalSize = global.DerezedPassSize.x;
 	gl_Position = global.MVP * Position;
 	vTexCoord = TexCoord;
-
-   /* HSM Removed
 	pix_no = TexCoord * global.SourceSize.xy * (res * global.OutputSize.xy / global.SourceSize.xy);
 	phase = (global.ntsc_phase < 1.5) ? ((OriginalSize > 300.0) ? 2.0 : 3.0) : ((global.ntsc_phase > 2.5) ? 3.0 : 2.0);
-	*/
-
-	pix_no = TexCoord * global.DerezedPassSize.xy * (res * global.OutputSize.xy / global.DerezedPassSize.xy);
-	phase = (global.ntsc_phase < 1.5) ? ((global.DerezedPassSize.x > 300.0) ? 2.0 : 3.0) : ((global.ntsc_phase > 2.5) ? 3.0 : 2.0);
 	
 	CHROMA_MOD_FREQ = (phase < 2.5) ? (4.0 * PI / 15.0) : (PI / 3.0);
 	ARTIFACTING = (global.quality > -0.5) ? global.quality : global.cust_artifacting;

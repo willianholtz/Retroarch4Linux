@@ -1,0 +1,5 @@
+#reference "SCA1-Scanner.slangp"
+pre_bb = "1.140000"
+shadowMask = "10.000000"
+ntsc_scale = "1.950000"
+HSHARPNESS = "1.600000"

@@ -1,0 +1,7 @@
+#reference "..\..\CYP3-Cypher-AltMask.slangp"
+HSM_AMBIENT2_OPACITY = "0.000000"
+HSM_AMBIENT2_SATURATION = "0.000000"
+HSM_AMBIENT2_SCALE_INHERIT_MODE = "2.000000"
+HSM_BG_SCALE = "112.300041"
+HSM_BG_MIRROR_WRAP = "0.000000"
+BackgroundImage = "..\..\..\..\..\..\Mega_Bezel_Packs\Zombs Mega Bezel\Resources\Images\x68k\bg.png"

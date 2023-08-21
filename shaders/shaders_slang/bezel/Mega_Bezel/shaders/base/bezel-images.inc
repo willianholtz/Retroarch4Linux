@@ -175,32 +175,10 @@ vec2 HSM_GetScaledCoord(vec2 in_viewport_coord,
 						float split_preserve_center,
 						float split_repeat_width,
 						bool apply_default_scale_offset,
-						// float image_rotation_mode,
-						// float explicit_image_rotation,
 						inout vec2 out_placement_coord,
 						inout vec2 out_placement_scale)
 {
-	float texture_aspect = HSM_GetAspectRatioFromMode(texture_aspect_mode, explicit_texture_aspect);
-
-	/*
-	bool is_rotated = false;
-	// float image_rotation_mode = 1; // Modes, 0: explicit, 1: Rotate To Vertical Core Aspect, 2: Rotate To Vertical Viewport Aspect
-	// // vert core aspect rotation, vert vertical aspect rotation
-	// // rotate with tube ?
-	float explicit_image_rotation = 0;
-	float image_rotation = explicit_image_rotation;
-
-	// if (image_rotation_mode == 1.0)
-	// 	image_rotation = SCREEN_ASPECT < 1 ? 1 : 0;
-	
-	if (min(abs(image_rotation), 1) > 0.5)
-	{
-		texture_aspect = 1 / texture_aspect;
-		offset_pos = vec2(offset_pos.y, -offset_pos.x);
-		offset_scale = offset_scale.yx;
-		is_rotated = true;
-	}
-	*/
+	explicit_texture_aspect = HSM_GetAspectRatioFromMode(texture_aspect_mode, explicit_texture_aspect);
 
 	vec2 inherited_coord = in_viewport_coord / 0.5;
 	vec2 inherited_placement_coord = in_viewport_coord / 0.5;
@@ -228,58 +206,24 @@ vec2 HSM_GetScaledCoord(vec2 in_viewport_coord,
 	}
 	else if (layer_to_follow == FOLLOW_LAYER_TUBE_DIFFUSE)
 	{
-/*
-		if (is_rotated)
-		{
-			inherited_coord = TUBE_DIFFUSE_COORD;
-			inherited_placement_coord = TUBE_DIFFUSE_COORD;
-			inherited_final_coord = TUBE_DIFFUSE_CURVED_COORD;
+		inherited_coord = TUBE_DIFFUSE_COORD;
+		inherited_placement_coord = TUBE_DIFFUSE_COORD;
+		inherited_final_coord = TUBE_DIFFUSE_CURVED_COORD;
 
-			inherited_scale = TUBE_DIFFUSE_SCALE;
-
-			default_offset_scale = vec2(1) / DEFAULT_UNCORRECTED_SCREEN_SCALE.y;
-			default_offset_scale.x *= texture_aspect / (1 / DEFAULT_SCREEN_ASPECT);
-		}
-		else
-		{
-*/
-			inherited_coord = TUBE_DIFFUSE_COORD;
-			inherited_placement_coord = TUBE_DIFFUSE_COORD;
-			inherited_final_coord = TUBE_DIFFUSE_CURVED_COORD;
-
-			inherited_scale = TUBE_DIFFUSE_SCALE;
-
-			default_offset_scale = vec2(1) / (DEFAULT_UNCORRECTED_SCREEN_SCALE.y);
-			default_offset_scale.x *= texture_aspect / DEFAULT_SCREEN_ASPECT;
-		// }
-
+		inherited_scale = TUBE_DIFFUSE_SCALE;
+		default_offset_scale = vec2(1) / DEFAULT_UNCORRECTED_SCREEN_SCALE.y;
+		default_offset_scale.x *= explicit_texture_aspect / DEFAULT_SCREEN_ASPECT;
 	}
 	else if (layer_to_follow == FOLLOW_LAYER_BEZEL_OUTSIDE)
 	{
-/*
-		if (is_rotated)
-		{
-			inherited_coord = BEZEL_OUTSIDE_COORD;
-			inherited_placement_coord = BEZEL_OUTSIDE_COORD;
+		inherited_coord = BEZEL_OUTSIDE_COORD;
+		inherited_placement_coord = BEZEL_OUTSIDE_COORD;
 
-			inherited_scale = BEZEL_OUTSIDE_SCALE;
-			inherited_final_coord = BEZEL_OUTSIDE_CURVED_COORD;
+		inherited_scale = BEZEL_OUTSIDE_SCALE;
+		inherited_final_coord = BEZEL_OUTSIDE_CURVED_COORD;
 
-			default_offset_scale = vec2(1) / DEFAULT_UNCORRECTED_BEZEL_SCALE.y;
-			default_offset_scale.x *= texture_aspect / (1 / DEFAULT_BEZEL_ASPECT);
-		}
-		else
-		{
-*/
-			inherited_coord = BEZEL_OUTSIDE_COORD;
-			inherited_placement_coord = BEZEL_OUTSIDE_COORD;
-
-			inherited_scale = BEZEL_OUTSIDE_SCALE;
-			inherited_final_coord = BEZEL_OUTSIDE_CURVED_COORD;
-
-			default_offset_scale = vec2(1) / (DEFAULT_UNCORRECTED_BEZEL_SCALE.y);
-			default_offset_scale.x *= texture_aspect / DEFAULT_SCREEN_ASPECT;
-		// }
+		default_offset_scale = vec2(1) / DEFAULT_UNCORRECTED_BEZEL_SCALE.y;
+		default_offset_scale.x *= explicit_texture_aspect / DEFAULT_BEZEL_ASPECT;
 	}
 	else if (layer_to_follow == FOLLOW_LAYER_BG)
 	{
@@ -329,7 +273,7 @@ vec2 HSM_GetScaledCoord(vec2 in_viewport_coord,
 	
 	// Find the aspect difference so the image can be shown without distortion
 	// This is before the user edited scale offset
-	float inherited_aspect_difference = texture_aspect / inherited_aspect;
+	float inherited_aspect_difference = explicit_texture_aspect / inherited_aspect;
 
 	// Get the overall scale for the placement of the texture (No Split/Fill Yet)
 	out_placement_scale = inherited_scale;
@@ -350,13 +294,13 @@ vec2 HSM_GetScaledCoord(vec2 in_viewport_coord,
 		float abs_ctr_coord_x = abs(out_placement_coord.x - 0.5);
 		// Correct the aspect so it matches the texture and is never stretched
 		float placement_aspect = out_placement_scale.x / out_placement_scale.y * output_aspect;
-		float placement_aspect_difference = texture_aspect / placement_aspect;
+		float placement_aspect_difference = explicit_texture_aspect / placement_aspect;
 		drawing_scale.x *= placement_aspect_difference;
 
 		float center_width = split_preserve_center * placement_aspect_difference;
 		if ( abs_ctr_coord_x > center_width)
 		{
-			slide_x = ((placement_aspect - texture_aspect) / placement_aspect) / 2.0;
+			slide_x = ((placement_aspect - explicit_texture_aspect) / placement_aspect) / 2.0;
 		}
 
 		float repeat_width = split_repeat_width * placement_aspect_difference;
@@ -378,11 +322,7 @@ vec2 HSM_GetScaledCoord(vec2 in_viewport_coord,
 	// The inherited_coord is already the coord from the inherited space
 	// We only need to apply an offset from this
 	out_coord = HSM_AddPosScaleToCoord(inherited_coord, offset_pos, drawing_scale / inherited_scale);
-
-/*
-	if (is_rotated)
-		out_coord = HSM_RotateCoordinate(out_coord, image_rotation);
-*/
+	// out_coord.x -= slide_x;
 
 	return out_coord;
 }
@@ -637,6 +577,7 @@ void main()
 
 	float hmbz_bezel_edge_highlight_width = 0.8;
 	
+	float hmbz_bezel_brightness_frame_inner_edge = 0.014;
 	float hmbz_bezel_brightness_frame_outer_edge = 0.0;
 	float hmbz_brightness_shadow = 0;
 	float hmbz_frame_brightness = 100;
@@ -674,7 +615,6 @@ void main()
 	float edge_sides_highlight_mask 			= hmbz_bezel_highlight_sides * sides_mask * HHLP_QuadraticBezier(smoothstep(hmbz_bezel_edge_highlight_width, 0, abs(tube_curved_coord_ctr.y)), vec2(0.8, 0));
 
 	edge_highlight_mask = hmbz_bezel_highlight_edge * edge_mask * (edge_top_center_highlight_mask + edge_bottom_center_highlight_mask + edge_sides_highlight_mask);
-	edge_highlight_mask *= HSM_BZL_INNER_EDGE_HIGHLIGHT;
 
 	// Combine all the individual highlights into one mask
 	float combined_highlight_mask = (1 + 2.5 * HSM_BZL_NOISE) * (1 - noise_mask * 2.5 * HSM_BZL_NOISE) * (top_center_highlight_mask + bottom_center_highlight_mask + sides_highlight_mask);
@@ -682,7 +622,7 @@ void main()
 	vec3 bezel_color = bezel_diffuse_color * (1 + 15 * bezel_highlight_multiplier) + 1 * bezel_highlight_multiplier;
 
 	// Add the inner edge highlight on top of the bezel color which has it's own highlight
-	float inner_edge_highlight_multiplier = HSM_FRM_INNER_EDGE_HIGHLIGHT + HSM_BZL_HIGHLIGHT * 10 * HSM_FRM_INNER_EDGE_HIGHLIGHT;
+	float inner_edge_highlight_multiplier = hmbz_bezel_brightness_frame_inner_edge + HSM_BZL_HIGHLIGHT * 10 * hmbz_bezel_brightness_frame_inner_edge;
 	vec3 frame_inner_edge_color = frame_base_color * (1 + 15 * inner_edge_highlight_multiplier) +	0.5 * inner_edge_highlight_multiplier;
 
 	bezel_color = mix(bezel_color, frame_inner_edge_color, frame_inner_edge_mask);
