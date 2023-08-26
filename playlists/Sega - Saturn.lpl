@@ -1,0 +1,51 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (4MB RAM).chd",
+      "label": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (2M)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
+      "core_name": "Sega - Saturn (Beetle Saturn)",
+      "crc32": "T-9527G|serial",
+      "db_name": "Sega - Saturn.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (2M).cue",
+      "label": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (2M)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
+      "core_name": "Sega - Saturn (Beetle Saturn)",
+      "crc32": "T-9527G|serial",
+      "db_name": "Sega - Saturn.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Night Warriors - Darkstalkers' Revenge (USA).chd",
+      "label": "Night Warriors - Darkstalkers' Revenge (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
+      "core_name": "Sega - Saturn (Beetle Saturn)",
+      "crc32": "T-1208H|serial",
+      "db_name": "Sega - Saturn.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Nights Into Dreams... (USA).chd",
+      "label": "Nights Into Dreams... (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
+      "core_name": "Sega - Saturn (Beetle Saturn)",
+      "crc32": "T-1208H|serial",
+      "db_name": "Sega - Saturn.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Panzer Dragoon (USA).chd",
+      "label": "Panzer Dragoon (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
+      "core_name": "Sega - Saturn (Beetle Saturn)",
+      "crc32": "T-1208H|serial",
+      "db_name": "Sega - Saturn.lpl"
+    }
+  ]
+}

@@ -186,8 +186,8 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter Collection 2 (USA).chd",
       "label": "Street Fighter Collection 2 (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "SLUS-00746|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
@@ -205,6 +205,22 @@
       "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
       "core_name": "Sony - PlayStation (Beetle PSX HW)",
       "crc32": "SLUS-01105|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Strider (USA).chd",
+      "label": "Strider (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-01142|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Strider 2 (USA).chd",
+      "label": "Strider 2 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "SLUS-01163|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {

@@ -1,0 +1,2419 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/007 - The World Is Not Enough (USA).z64",
+      "label": "007 - The World Is Not Enough (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "26360987|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/1080 Snowboarding (Japan, USA) (En,Ja).z64",
+      "label": "1080 Snowboarding (Japan, USA) (En,Ja)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "08FE81C7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/40 Winks (USA) (Aftermarket) (Unl).z64",
+      "label": "40 Winks (USA) (Aftermarket) (Unl)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "31C19633|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/AeroFighters Assault (USA).z64",
+      "label": "AeroFighters Assault (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "4370D7E3|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/AeroGauge (USA).z64",
+      "label": "AeroGauge (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "198B9E0E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Aidyn Chronicles - The First Mage (USA).z64",
+      "label": "Aidyn Chronicles - The First Mage (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "D5051096|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/All Star Tennis 99 (USA).z64",
+      "label": "All Star Tennis 99 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A7DCF638|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/All-Star Baseball 2000 (USA).z64",
+      "label": "All-Star Baseball 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "69E88471|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/All-Star Baseball 2001 (USA).z64",
+      "label": "All-Star Baseball 2001 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "4D659E85|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/All-Star Baseball 99 (USA).z64",
+      "label": "All-Star Baseball 99 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "6D25B36F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Armorines - Project S.W.A.R.M. (USA).z64",
+      "label": "Armorines - Project S.W.A.R.M. (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "630A19E2|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Army Men - Air Combat (USA).z64",
+      "label": "Army Men - Air Combat (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "1952CC87|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Army Men - Sarge's Heroes (USA).z64",
+      "label": "Army Men - Sarge's Heroes (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "2FE786F6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Army Men - Sarge's Heroes 2 (USA).z64",
+      "label": "Army Men - Sarge's Heroes 2 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "79A71608|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Asteroids Hyper 64 (USA).z64",
+      "label": "Asteroids Hyper 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "F5CE3D91|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Automobili Lamborghini (USA).z64",
+      "label": "Automobili Lamborghini (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A4374EAC|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Banjo-Kazooie (USA) (Rev A).z64",
+      "label": "Banjo-Kazooie (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "FB7FFB10|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Banjo-Tooie (USA).z64",
+      "label": "Banjo-Tooie (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "BAB803EF|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Bassmasters 2000 (USA).z64",
+      "label": "Bassmasters 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "6B09092E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Batman Beyond - Return of the Joker (USA).z64",
+      "label": "Batman Beyond - Return of the Joker (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "35299F9C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/BattleTanx (USA).z64",
+      "label": "BattleTanx (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "6C230765|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/BattleTanx - Global Assault (USA).z64",
+      "label": "BattleTanx - Global Assault (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "31BEB053|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Battlezone - Rise of the Black Dogs (USA).z64",
+      "label": "Battlezone - Rise of the Black Dogs (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "736F9D5C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Beetle Adventure Racing! (USA) (En,Fr,De).z64",
+      "label": "Beetle Adventure Racing! (USA) (En,Fr,De)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "F4A97C73|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Big Mountain 2000 (USA).z64",
+      "label": "Big Mountain 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "3AC924BC|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Bio F.R.E.A.K.S. (USA).z64",
+      "label": "Bio F.R.E.A.K.S. (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "DFBF448C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Blast Corps (USA) (Rev A).z64",
+      "label": "Blast Corps (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "9CBBCCF1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Blues Brothers 2000 (USA).z64",
+      "label": "Blues Brothers 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "C6F49764|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Body Harvest (USA).z64",
+      "label": "Body Harvest (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "FABBDF02|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Bomberman 64 (USA).z64",
+      "label": "Bomberman 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "3ED0E0DC|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Bomberman 64 - The Second Attack! (USA).z64",
+      "label": "Bomberman 64 - The Second Attack! (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "57550007|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Bomberman Hero (USA).z64",
+      "label": "Bomberman Hero (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "2CC2E634|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Bottom of the 9th (USA).z64",
+      "label": "Bottom of the 9th (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "1844C8CA|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Brunswick Circuit Pro Bowling (USA).z64",
+      "label": "Brunswick Circuit Pro Bowling (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "80D70173|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Buck Bumble (USA).z64",
+      "label": "Buck Bumble (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "8EC937DB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Bug's Life, A (USA).z64",
+      "label": "Bug's Life, A (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "CF2EA0B6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Bust-A-Move '99 (USA).z64",
+      "label": "Bust-A-Move '99 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "C285FC69|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Bust-A-Move 2 - Arcade Edition (USA).z64",
+      "label": "Bust-A-Move 2 - Arcade Edition (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "9F54CD2D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/California Speed (USA).z64",
+      "label": "California Speed (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "6F6262CB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Carmageddon 64 (USA).z64",
+      "label": "Carmageddon 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "10C6A0A1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Castlevania (USA) (Rev B).z64",
+      "label": "Castlevania (USA) (Rev 2)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "83032D97|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Castlevania - Legacy of Darkness (USA).z64",
+      "label": "Castlevania - Legacy of Darkness (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "AB13028C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Chameleon Twist (USA) (Rev A).z64",
+      "label": "Chameleon Twist (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "7FF42FD0|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Chameleon Twist 2 (USA).z64",
+      "label": "Chameleon Twist 2 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "CDF26D67|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Charlie Blast's Territory (USA).z64",
+      "label": "Charlie Blast's Territory (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "531F98B5|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Chopper Attack (USA).z64",
+      "label": "Chopper Attack (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "AA5D76A9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Clay Fighter - Sculptor's Cut (USA).z64",
+      "label": "Clay Fighter - Sculptor's Cut (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "434DE656|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Clay Fighter 63 1-3 (USA).z64",
+      "label": "Clay Fighter 63 1-3 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "3FA647DD|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Command & Conquer (USA).z64",
+      "label": "Command & Conquer (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "3E9069EF|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Conker's Bad Fur Day (USA).z64",
+      "label": "Conker's Bad Fur Day (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "CE8CC172|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Cruis'n Exotica (USA).z64",
+      "label": "Cruis'n Exotica (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "867A2CED|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Cruis'n USA (USA) (Rev B).z64",
+      "label": "Cruis'n USA (USA) (Rev 2)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "C3B52701|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Cruis'n World (USA).z64",
+      "label": "Cruis'n World (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A123769F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/CyberTiger (USA).z64",
+      "label": "CyberTiger (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "10CC5F15|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Dark Rift (USA).z64",
+      "label": "Dark Rift (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "83FD222F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Deadly Arts (USA).z64",
+      "label": "Deadly Arts (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "3DB8130E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Destruction Derby 64 (USA).z64",
+      "label": "Destruction Derby 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "38F1B5D9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Diddy Kong Racing (USA) (En,Fr) (Rev A).z64",
+      "label": "Diddy Kong Racing (USA) (En,Fr) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "5ACCA298|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).z64",
+      "label": "Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "0075D32B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Donkey Kong 64 (USA).z64",
+      "label": "Donkey Kong 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "D44B4FC6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Doom 64 (USA).z64",
+      "label": "Doom 64 (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "1D3A17B5|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Dr. Mario 64 (USA).z64",
+      "label": "Dr. Mario 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A4701927|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Dual Heroes (USA).z64",
+      "label": "Dual Heroes (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "D09F4DA8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).z64",
+      "label": "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "3177A905|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Duke Nukem - Zero Hour (USA).z64",
+      "label": "Duke Nukem - Zero Hour (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "9A3258D7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Duke Nukem 64 (USA).z64",
+      "label": "Duke Nukem 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "DBFD5A53|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Earthworm Jim 3D (USA).z64",
+      "label": "Earthworm Jim 3D (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "9E6579C5|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/ECW Hardcore Revolution (USA).z64",
+      "label": "ECW Hardcore Revolution (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "36D368EF|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Excitebike 64 (USA).z64",
+      "label": "Excitebike 64 (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "143926CE|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Extreme-G (USA).z64",
+      "label": "Extreme-G (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "04CB74EC|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Extreme-G XG2 (USA).z64",
+      "label": "Extreme-G XG2 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "81A4C28B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/F-1 World Grand Prix (USA).z64",
+      "label": "F-1 World Grand Prix (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "7DC9EF2C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/F-1 World Grand Prix II (Europe) (En,Fr,De,Es).z64",
+      "label": "F-1 World Grand Prix II (Europe) (En,Fr,De,Es)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "803D33DF|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/F-Zero X (USA).z64",
+      "label": "F-Zero X (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "0B561FBA|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/F1 Pole Position 64 (USA) (En,Fr,De).z64",
+      "label": "F1 Pole Position 64 (USA) (En,Fr,De)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "30A24D89|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/F1 Racing Championship (Europe) (En,Fr,De,Es,It).z64",
+      "label": "F1 Racing Championship (Europe) (En,Fr,De,Es,It)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "2DA744F5|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).z64",
+      "label": "FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "28B1221C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv).z64",
+      "label": "FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "6B2473A9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/FIFA Soccer 64 (USA) (En,Fr,De).z64",
+      "label": "FIFA Soccer 64 (USA) (En,Fr,De)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "57DE7CAB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Fighter Destiny 2 (USA).z64",
+      "label": "Fighter Destiny 2 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "BB2563C6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Fighters Destiny (USA).z64",
+      "label": "Fighters Destiny (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "F45EA789|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Fighting Force 64 (USA).z64",
+      "label": "Fighting Force 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "8456841E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Flying Dragon (USA).z64",
+      "label": "Flying Dragon (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "91BC9AEB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Forsaken 64 (USA).z64",
+      "label": "Forsaken 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "76C4333D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Fox Sports College Hoops '99 (USA).z64",
+      "label": "Fox Sports College Hoops '99 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "67EAF0F3|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Gauntlet Legends (USA).z64",
+      "label": "Gauntlet Legends (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "64765E82|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Gex 3 - Deep Cover Gecko (USA).z64",
+      "label": "Gex 3 - Deep Cover Gecko (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "87A7D099|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Gex 64 - Enter the Gecko (USA).z64",
+      "label": "Gex 64 - Enter the Gecko (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "C545CE80|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Glover (USA).z64",
+      "label": "Glover (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "F874571C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Goemon's Great Adventure (USA).z64",
+      "label": "Goemon's Great Adventure (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "52D418E1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Golden Nugget 64 (USA).z64",
+      "label": "Golden Nugget 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "70594D3C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/GoldenEye 007 (USA).z64",
+      "label": "GoldenEye 007 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "B6330846|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/GT 64 - Championship Edition (USA).z64",
+      "label": "GT 64 - Championship Edition (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "BC627DA7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Harvest Moon 64 (USA).z64",
+      "label": "Harvest Moon 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "DECDC0AD|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Hercules - The Legendary Journeys (USA).z64",
+      "label": "Hercules - The Legendary Journeys (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "4948892B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Hexen (USA).z64",
+      "label": "Hexen (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "1D35E110|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Hey You, Pikachu! (USA).z64",
+      "label": "Hey You, Pikachu! (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "B18B2734|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Hot Wheels - Turbo Racing (USA).z64",
+      "label": "Hot Wheels - Turbo Racing (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A5C92148|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Hybrid Heaven (USA).z64",
+      "label": "Hybrid Heaven (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "15B57EF8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Hydro Thunder (USA).z64",
+      "label": "Hydro Thunder (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "E744456F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Iggy's Reckin' Balls (USA).z64",
+      "label": "Iggy's Reckin' Balls (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "6A6FBD5D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/In-Fisherman - Bass Hunter 64 (USA).z64",
+      "label": "In-Fisherman - Bass Hunter 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "D8EB5E6E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Indiana Jones and the Infernal Machine (USA).z64",
+      "label": "Indiana Jones and the Infernal Machine (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "4978EB57|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Indy Racing 2000 (USA).z64",
+      "label": "Indy Racing 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A5163F29|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/International Superstar Soccer '98 (USA).z64",
+      "label": "International Superstar Soccer '98 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "B85FA721|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/International Superstar Soccer 2000 (USA) (En,Es).z64",
+      "label": "International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "4C433FDD|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/International Superstar Soccer 64 (USA).z64",
+      "label": "International Superstar Soccer 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "0EA249B9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/International Track & Field 2000 (USA).z64",
+      "label": "International Track & Field 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "DA443F0B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Jeopardy! (USA).z64",
+      "label": "Jeopardy! (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "E739947C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Jeremy McGrath Supercross 2000 (USA).z64",
+      "label": "Jeremy McGrath Supercross 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "2A5C9A06|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Jet Force Gemini (USA).z64",
+      "label": "Jet Force Gemini (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "6753D5A3|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/John Romero's Daikatana (USA).z64",
+      "label": "John Romero's Daikatana (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "494950C6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Ken Griffey Jr.'s Slugfest (USA).z64",
+      "label": "Ken Griffey Jr.'s Slugfest (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "12D8F3E9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Killer Instinct Gold (USA) (Rev B).z64",
+      "label": "Killer Instinct Gold (USA) (Rev 2)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "0B5B5DF8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Kirby 64 - The Crystal Shards (USA).z64",
+      "label": "Kirby 64 - The Crystal Shards (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "20A1C120|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Knife Edge - Nose Gunner (USA).z64",
+      "label": "Knife Edge - Nose Gunner (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "255EE1DD|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Knockout Kings 2000 (USA).z64",
+      "label": "Knockout Kings 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "074690D6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Kobe Bryant's NBA Courtside (USA).z64",
+      "label": "Kobe Bryant in NBA Courtside (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "86360BFB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Legend of Zelda, The - Majora's Mask (USA).z64",
+      "label": "Legend of Zelda, The - Majora's Mask (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "B428D8A7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Legend of Zelda, The - Ocarina of Time (USA) (Rev B).z64",
+      "label": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "32120C23|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).z64",
+      "label": "LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "4D1E1897|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Lode Runner 3-D (USA).z64",
+      "label": "Lode Runner 3-D (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "4EA07453|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mace - The Dark Age (USA).z64",
+      "label": "Mace - The Dark Age (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "D2A363A6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Madden Football 64 (USA).z64",
+      "label": "Madden Football 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "42E5FAFA|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Madden NFL 2000 (USA).z64",
+      "label": "Madden NFL 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "EF5F997B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Madden NFL 2001 (USA).z64",
+      "label": "Madden NFL 2001 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "245EAEE8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Madden NFL 2002 (USA).z64",
+      "label": "Madden NFL 2002 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "F573F107|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Madden NFL 99 (USA) (Rev A).z64",
+      "label": "Madden NFL 99 (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "56769A44|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Magical Tetris Challenge (USA).z64",
+      "label": "Magical Tetris Challenge (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "22FE979C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Major League Baseball Featuring Ken Griffey Jr. (USA).z64",
+      "label": "Major League Baseball Featuring Ken Griffey Jr. (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "2EF1EA20|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mario Golf (USA).z64",
+      "label": "Mario Golf (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "2FC4C216|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mario Kart 64 (USA).z64",
+      "label": "Mario Kart 64 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "434389C1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mario Party (USA).z64",
+      "label": "Mario Party (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "4D60ABE5|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mario Party 2 (USA).z64",
+      "label": "Mario Party 2 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "E58A1955|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mario Party 3 (USA).z64",
+      "label": "Mario Party 3 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "B7445DDC|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mario Tennis (USA).z64",
+      "label": "Mario Tennis (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "4E9560F6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mega Man 64 (USA).z64",
+      "label": "Mega Man 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "1BFC71F0|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mia Hamm Soccer 64 (USA) (En,Es).z64",
+      "label": "Mia Hamm Soccer 64 (USA) (En,Es)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "2DB3D3D6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mickey's Speedway USA (USA).z64",
+      "label": "Mickey's Speedway USA (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "2D4F8F1B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Micro Machines 64 Turbo (USA).z64",
+      "label": "Micro Machines 64 Turbo (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A62A2763|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Midway's Greatest Arcade Hits - Volume 1 (USA).z64",
+      "label": "Midway's Greatest Arcade Hits - Volume 1 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "E5C1FEDC|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mike Piazza's Strike Zone (USA).z64",
+      "label": "Mike Piazza's Strike Zone (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "CC253CAB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Milo's Astro Lanes (USA).z64",
+      "label": "Milo's Astro Lanes (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "172FCA97|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mischief Makers (USA) (Rev A).z64",
+      "label": "Mischief Makers (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "C3300CEF|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mission Impossible (USA).z64",
+      "label": "Mission - Impossible (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "3677A8B8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Monaco Grand Prix (USA).z64",
+      "label": "Monaco Grand Prix (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "E2BBEAC1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Monopoly (USA).z64",
+      "label": "Monopoly (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "C8CAD8F6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Monster Truck Madness 64 (USA).z64",
+      "label": "Monster Truck Madness 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "3FD0604D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mortal Kombat 4 (USA).z64",
+      "label": "Mortal Kombat 4 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "B7F46516|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mortal Kombat Mythologies - Sub-Zero (USA).z64",
+      "label": "Mortal Kombat Mythologies - Sub-Zero (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "51A07FD9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mortal Kombat Trilogy (USA) (Rev B).z64",
+      "label": "Mortal Kombat Trilogy (USA) (Rev 2)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "0F323D00|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/MRC - Multi-Racing Championship (USA).z64",
+      "label": "MRC - Multi-Racing Championship (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "1DC1C812|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Ms. Pac-Man - Maze Madness (USA).z64",
+      "label": "Ms. Pac-Man - Maze Madness (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "E34C7060|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Mystical Ninja Starring Goemon (USA).z64",
+      "label": "Mystical Ninja Starring Goemon (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "4180C296|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Nagano Winter Olympics '98 (USA).z64",
+      "label": "Nagano Winter Olympics '98 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "EE8288D4|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Namco Museum 64 (USA).z64",
+      "label": "Namco Museum 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "CE361F92|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NASCAR 2000 (USA).z64",
+      "label": "NASCAR 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "02BF7C2D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NASCAR 99 (USA).z64",
+      "label": "NASCAR 99 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "3D8EB950|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NBA Courtside 2 featuring Kobe Bryant (USA).z64",
+      "label": "NBA Courtside 2 featuring Kobe Bryant (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A7CC4CE2|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NBA Hangtime (USA).z64",
+      "label": "NBA Hangtime (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "714CF532|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NBA in the Zone '98 (USA).z64",
+      "label": "NBA in the Zone '98 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A245D737|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NBA in the Zone '99 (USA).z64",
+      "label": "NBA in the Zone '99 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "EAB083B8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NBA in the Zone 2000 (USA).z64",
+      "label": "NBA in the Zone 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "CBB4B730|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NBA Jam 2000 (USA).z64",
+      "label": "NBA Jam 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "163DADF9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NBA Jam 99 (USA).z64",
+      "label": "NBA Jam 99 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "559CD6B1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NBA Live 2000 (USA) (En,Fr,De,Es).z64",
+      "label": "NBA Live 2000 (USA) (En,Fr,De,Es)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "7C3BC95E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NBA Live 99 (USA) (En,Fr,De,Es,It).z64",
+      "label": "NBA Live 99 (USA) (En,Fr,De,Es,It)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "9BE0A7AC|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NBA Showtime - NBA on NBC (USA).z64",
+      "label": "NBA Showtime - NBA on NBC (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A4E378F4|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/New Tetris, The (USA).z64",
+      "label": "New Tetris, The (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "528A07FA|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NFL Blitz (USA).z64",
+      "label": "NFL Blitz (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "9BCD670F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NFL Blitz - Special Edition (USA).z64",
+      "label": "NFL Blitz - Special Edition (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "5D1907F7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NFL Blitz 2000 (USA) (Rev A).z64",
+      "label": "NFL Blitz 2000 (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "B591CFEA|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NFL Blitz 2001 (USA).z64",
+      "label": "NFL Blitz 2001 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "18EEB41B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NFL QB Club 2001 (USA).z64",
+      "label": "NFL QB Club 2001 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "6D849E17|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NFL Quarterback Club 2000 (USA).z64",
+      "label": "NFL Quarterback Club 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "8F54F999|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NFL Quarterback Club 98 (USA).z64",
+      "label": "NFL Quarterback Club 98 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "ABF0E8F2|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NFL Quarterback Club 99 (USA).z64",
+      "label": "NFL Quarterback Club 99 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "44496B26|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NHL 99 (USA).z64",
+      "label": "NHL 99 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "E5DF2AFE|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NHL Blades of Steel '99 (USA).z64",
+      "label": "NHL Blades of Steel '99 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "1EE678FE|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NHL Breakaway 98 (USA).z64",
+      "label": "NHL Breakaway 98 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "49D86C00|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/NHL Breakaway 99 (USA).z64",
+      "label": "NHL Breakaway 99 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "75F75B9D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Nightmare Creatures (USA).z64",
+      "label": "Nightmare Creatures (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "6A1EB795|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Nuclear Strike 64 (USA).z64",
+      "label": "Nuclear Strike 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "D7467294|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Off Road Challenge (USA).z64",
+      "label": "Off Road Challenge (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "1A45C5AB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev A).z64",
+      "label": "Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "410F6510|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Olympic Hockey 98 (USA).z64",
+      "label": "Olympic Hockey 98 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "2D777652|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Paper Mario (USA).z64",
+      "label": "Paper Mario (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A7F5CD7E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Paperboy (USA).z64",
+      "label": "Paperboy (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "F27114E6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Penny Racers (USA).z64",
+      "label": "Penny Racers (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "C1E57337|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Perfect Dark (USA) (Rev A).z64",
+      "label": "Perfect Dark (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "4C1677F7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/PGA European Tour (USA).z64",
+      "label": "PGA European Tour (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "7CDFCDAA|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Pilotwings 64 (USA).z64",
+      "label": "Pilotwings 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "728807E7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Pokemon Puzzle League (USA).z64",
+      "label": "Pokemon Puzzle League (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "8B9C598F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Pokemon Snap (USA).z64",
+      "label": "Pokemon Snap (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "86A69756|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Pokemon Stadium (USA) (Rev B).z64",
+      "label": "Pokemon Stadium (USA) (Rev 2)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "235B1842|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Pokemon Stadium 2 (USA).z64",
+      "label": "Pokemon Stadium 2 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A9998E09|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Polaris SnoCross (USA).z64",
+      "label": "Polaris SnoCross (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "8DD735EF|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Power Rangers - Lightspeed Rescue (USA).z64",
+      "label": "Power Rangers - Lightspeed Rescue (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A5033311|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Powerpuff Girls, The - Chemical X-Traction (USA).z64",
+      "label": "Powerpuff Girls, The - Chemical X-Traction (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "9514DA0A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Quake 64 (USA).z64",
+      "label": "Quake (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "761F39D1|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Quake II (USA).z64",
+      "label": "Quake II (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "E6B34387|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Quest 64 (USA).z64",
+      "label": "Quest 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "D75B45C6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Rakuga Kids (Europe).z64",
+      "label": "Rakugakids (Europe)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "483129AA|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Rally Challenge 2000 (USA).z64",
+      "label": "Rally Challenge 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "3EDEC7B0|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Rampage - World Tour (USA).z64",
+      "label": "Rampage - World Tour (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "211119DD|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Rampage 2 - Universal Tour (USA).z64",
+      "label": "Rampage 2 - Universal Tour (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "7614EE0D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Rat Attack! (USA).z64",
+      "label": "Rat Attack! (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "2315FEA7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).z64",
+      "label": "Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "02BB4409|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Razor Freestyle Scooter (USA).z64",
+      "label": "Razor Freestyle Scooter (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "927CE621|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Re-Volt (USA).z64",
+      "label": "Re-Volt (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "FC0C86D0|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Ready 2 Rumble Boxing (USA).z64",
+      "label": "Ready 2 Rumble Boxing (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "2A554048|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Ready 2 Rumble Boxing - Round 2 (USA).z64",
+      "label": "Ready 2 Rumble Boxing - Round 2 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "052A0E04|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Resident Evil 2 (USA) (Rev A).z64",
+      "label": "Resident Evil 2 (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "848FBC0D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Road Rash 64 (USA).z64",
+      "label": "Road Rash 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "600B3988|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Roadsters (USA) (En,Fr,Es).z64",
+      "label": "Roadsters (USA) (En,Fr,Es)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "E4337B92|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Robotron 64 (USA).z64",
+      "label": "Robotron 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "3C95E84C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Rocket - Robot on Wheels (USA).z64",
+      "label": "Rocket - Robot on Wheels (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "E0399F23|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/RR64 - Ridge Racer 64 (USA).z64",
+      "label": "RR64 - Ridge Racer 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "3C2C2D1C|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Rugrats - Scavenger Hunt (USA).z64",
+      "label": "Rugrats - Scavenger Hunt (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A87FAF82|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Rugrats in Paris - The Movie (USA).z64",
+      "label": "Rugrats in Paris - The Movie (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A9CC2419|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Rush 2 - Extreme Racing USA (USA).z64",
+      "label": "Rush 2 - Extreme Racing USA (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "9EB14EA8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/S.C.A.R.S. (USA).z64",
+      "label": "S.C.A.R.S. (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "22916735|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/San Francisco Rush - Extreme Racing (USA) (En,Fr,De).z64",
+      "label": "San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "886C5753|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/San Francisco Rush 2049 (USA).z64",
+      "label": "San Francisco Rush 2049 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "10941439|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Scooby-Doo! - Classic Creep Capers (USA).z64",
+      "label": "Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "CDF86F5E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Sesame Street - Elmo's Letter Adventure (USA).z64",
+      "label": "Sesame Street - Elmo's Letter Adventure (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "92C3BA6F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Sesame Street - Elmo's Number Journey (USA).z64",
+      "label": "Sesame Street - Elmo's Number Journey (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "EA3B92D8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Shadow Man (USA).z64",
+      "label": "Shadow Man (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "5E20CC63|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Shadowgate 64 - Trials of the Four Towers (USA) (En,Es).z64",
+      "label": "Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "69983CC3|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Snowboard Kids (USA).z64",
+      "label": "Snowboard Kids (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "020FB906|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Snowboard Kids 2 (USA).z64",
+      "label": "Snowboard Kids 2 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "D0DC8A8E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/South Park (USA).z64",
+      "label": "South Park (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "7D666B9E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/South Park - Chef's Luv Shack (USA).z64",
+      "label": "South Park - Chef's Luv Shack (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "6B6B1D09|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/South Park Rally (USA).z64",
+      "label": "South Park Rally (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "CCDD322A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Space Invaders (USA).z64",
+      "label": "Space Invaders (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "60F7FF8E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/SpaceStation Silicon Valley (USA).z64",
+      "label": "SpaceStation Silicon Valley (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "E32D9E7B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Spider-Man (USA).z64",
+      "label": "Spider-Man (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "696CC2A4|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Star Fox 64 (USA) (Rev A).z64",
+      "label": "Star Fox 64 (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "B1B5FC46|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Star Soldier - Vanishing Earth (USA).z64",
+      "label": "Star Soldier - Vanishing Earth (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "EA650DEF|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Star Wars - Rogue Squadron (USA) (Rev A).z64",
+      "label": "Star Wars - Rogue Squadron (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "65A8FBA0|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Star Wars - Shadows of the Empire (USA) (Rev B).z64",
+      "label": "Star Wars - Shadows of the Empire (USA) (Rev 2)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "E8727549|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Star Wars Episode I - Battle for Naboo (USA).z64",
+      "label": "Star Wars Episode I - Battle for Naboo (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "99DEE3C0|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Star Wars Episode I - Racer (USA).z64",
+      "label": "Star Wars Episode I - Racer (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "C53C1035|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/StarCraft 64 (USA).z64",
+      "label": "StarCraft 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "4E4C7EC9|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Starshot - Space Circus Fever (USA) (En,Fr,Es).z64",
+      "label": "Starshot - Space Circus Fever (USA) (En,Fr,Es)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "7720E5F3|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Stunt Racer 64 (USA).z64",
+      "label": "Stunt Racer 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "3438B1AF|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Super Bowling (USA).z64",
+      "label": "Super Bowling (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "F6CCD04A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Super Mario 64 (USA).z64",
+      "label": "Super Mario 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "3CE60709|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Super Smash Bros. (USA).z64",
+      "label": "Super Smash Bros. (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "EB97929E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Supercross 2000 (USA).z64",
+      "label": "Supercross 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "094E2A48|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Superman (USA) (En,Fr,Es).z64",
+      "label": "Superman - The New Superman Aventures (USA) (En,Fr,Es)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "437E3677|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Tarzan (USA).z64",
+      "label": "Tarzan (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "C38CA641|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Taz Express (Europe) (En,Fr,De,Es,It,Nl).z64",
+      "label": "Taz Express (Europe) (En,Fr,De,Es,It,Nl)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "0712C306|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Tetrisphere (USA).z64",
+      "label": "Tetrisphere (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "70A3A5CE|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Tigger's Honey Hunt (USA).z64",
+      "label": "Tigger's Honey Hunt (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "68C2AC8F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Tom and Jerry in Fists of Furry (USA).z64",
+      "label": "Tom and Jerry in Fists of Furry (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "6D685B83|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Tom Clancy's Rainbow Six (USA).z64",
+      "label": "Tom Clancy's Rainbow Six (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "53B0CC13|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Tonic Trouble (USA) (Rev A).z64",
+      "label": "Tonic Trouble (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "1C04BA12|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Tony Hawk's Pro Skater (USA) (Rev A).z64",
+      "label": "Tony Hawk's Pro Skater (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "6182A092|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Tony Hawk's Pro Skater 2 (USA).z64",
+      "label": "Tony Hawk's Pro Skater 2 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "80AA83F3|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Tony Hawk's Pro Skater 3 (USA).z64",
+      "label": "Tony Hawk's Pro Skater 3 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "62A8CE7D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Top Gear Hyper-Bike (USA).z64",
+      "label": "Top Gear Hyper-Bike (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "6EEBC26A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Top Gear Overdrive (USA).z64",
+      "label": "Top Gear Overdrive (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "F3E0FF21|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Top Gear Rally (USA).z64",
+      "label": "Top Gear Rally (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "137287F5|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Top Gear Rally 2 (USA).z64",
+      "label": "Top Gear Rally 2 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "914CF9C4|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Toy Story 2 (USA).z64",
+      "label": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "C81F3321|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Transformers - Beast Wars Transmetals (USA).z64",
+      "label": "Transformers - Beast Wars Transmetals (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "85138B5A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Triple Play 2000 (USA).z64",
+      "label": "Triple Play 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "785DD0F8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Turok - Dinosaur Hunter (USA) (Rev B).z64",
+      "label": "Turok - Dinosaur Hunter (USA) (Rev 2)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "8C3BBC00|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Turok - Rage Wars (USA).z64",
+      "label": "Turok - Rage Wars (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "E28756F4|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Turok 2 - Seeds of Evil (USA) (Rev A).z64",
+      "label": "Turok 2 - Seeds of Evil (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "57F1FBF5|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Turok 3 - Shadow of Oblivion (USA).z64",
+      "label": "Turok 3 - Shadow of Oblivion (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "CB297224|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Twisted Edge - Extreme Snowboarding (USA).z64",
+      "label": "Twisted Edge - Extreme Snowboarding (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "BFBCC038|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/V-Rally Edition 99 (USA).z64",
+      "label": "V-Rally Edition 99 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "4803075E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Vigilante 8 (USA).z64",
+      "label": "Vigilante 8 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "330B73E6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Vigilante 8 - 2nd Offense (USA).z64",
+      "label": "Vigilante 8 - 2nd Offense (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "0293203F|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Virtual Chess 64 (USA) (En,Fr,Es).z64",
+      "label": "Virtual Chess 64 (USA) (En,Fr,Es)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "620DE0B7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Virtual Pool 64 (USA).z64",
+      "label": "Virtual Pool 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "AD628DED|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Waialae Country Club - True Golf Classics (USA) (Rev A).z64",
+      "label": "Waialae Country Club - True Golf Classics (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "C65EE122|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/War Gods (USA).z64",
+      "label": "War Gods (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "FFACF993|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Wave Race 64 (USA) (Rev A).z64",
+      "label": "Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "394948C4|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Wayne Gretzky's 3D Hockey '98 (USA).z64",
+      "label": "Wayne Gretzky's 3D Hockey '98 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "355FB089|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Wayne Gretzky's 3D Hockey (USA) (Rev A).z64",
+      "label": "Wayne Gretzky's 3D Hockey (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "C2678971|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/WCW Backstage Assault (USA).z64",
+      "label": "WCW Backstage Assault (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "5DCC2E4E|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/WCW Mayhem (USA).z64",
+      "label": "WCW Mayhem (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "F1F9B6EB|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/WCW Nitro (USA).z64",
+      "label": "WCW Nitro (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "455B0830|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/WCW vs. nWo - World Tour (USA) (Rev A).z64",
+      "label": "WCW vs. nWo - World Tour (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A74DA07A|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/WCW-nWo Revenge (USA).z64",
+      "label": "WCW-nWo Revenge (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "54CBAAA8|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Wetrix (USA) (En,Fr,De,Es,It,Nl).z64",
+      "label": "Wetrix (USA) (En,Fr,De,Es,It,Nl)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "50CD1F71|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Wheel of Fortune (USA).z64",
+      "label": "Wheel of Fortune (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "8D3EFA8D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/WinBack - Covert Operations (USA).z64",
+      "label": "WinBack - Covert Operations (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "64C817C5|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Wipeout 64 (USA).z64",
+      "label": "Wipeout 64 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "4888D0FE|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da).z64",
+      "label": "World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "13930C26|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/World Driver Championship (USA).z64",
+      "label": "World Driver Championship (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "5E4ACBFA|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Worms Armageddon (USA) (En,Fr,Es).z64",
+      "label": "Worms Armageddon (USA) (En,Fr,Es)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "5471AE3B|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/WWF Attitude (USA).z64",
+      "label": "WWF Attitude (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "7A4B3686|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/WWF No Mercy (USA) (Rev A).z64",
+      "label": "WWF No Mercy (USA) (Rev 1)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "BACEEA13|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/WWF War Zone (USA).z64",
+      "label": "WWF War Zone (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "2FBB5507|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/WWF WrestleMania 2000 (USA).z64",
+      "label": "WWF WrestleMania 2000 (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "0B50B4C6|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Xena - Warrior Princess - The Talisman of Fate (USA).z64",
+      "label": "Xena - Warrior Princess - The Talisman of Fate (USA)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "7DA93999|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - N64/Yoshi's Story (USA) (En,Ja).z64",
+      "label": "Yoshi's Story (USA) (En,Ja)",
+       "core_path": "/home/willian/.config/retroarch/cores/parallel_n64_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (ParaLLEl N64)",
+      "crc32": "A1453E0D|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    }
+  ]
+}

@@ -8,11 +8,27 @@
   "sort_mode": 0,
   "items": [
     {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - Gamecube/Eternal Darkness - Sanity_s Requiem (USA).rvz",
+      "label": "Eternal Darkness - Sanity's Requiem (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/dolphin_libretro.so",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "DL-DOL-GEDE-USA|serial",
+      "db_name": "Nintendo - GameCube.lpl"
+    },
+    {
       "path": "/home/willian/.config/retroarch/roms/Nintendo - Gamecube/Need for Speed - Hot Pursuit 2 (USA).rvz",
       "label": "Need for Speed - Hot Pursuit 2 (USA)",
       "core_path": "/home/willian/.config/retroarch/cores/dolphin_libretro.so",
       "core_name": "Nintendo - GameCube / Wii (Dolphin)",
       "crc32": "DL-DOL-GH2E-USA|serial",
+      "db_name": "Nintendo - GameCube.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - Gamecube/Resident Evil 2 (USA).rvz",
+      "label": "Resident Evil 2 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/dolphin_libretro.so",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "DL-DOL-GHAE-USA|serial",
       "db_name": "Nintendo - GameCube.lpl"
     },
     {

@@ -10,16 +10,16 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Capcom vs. SNK (USA).chd",
       "label": "Capcom vs. SNK (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1218N|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
       "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Capcom vs. SNK - Millennium Fight 2000 Pro (Japan).chd",
       "label": "Capcom vs. SNK - Millennium Fight 2000 (Japan) (Rev A)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1217M|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
@@ -98,8 +98,8 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Resident Evil Code - Veronica (USA) (Disc 1).chd",
       "label": "Resident Evil - Code - Veronica (USA) (Disc 1)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1204N-0|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
@@ -114,16 +114,16 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Resident Evil 2 (USA) (Disc 1).chd",
       "label": "Resident Evil 2 (USA) (Disc 1)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1205N-0|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
       "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Resident Evil 2 (USA) (Disc 2).chd",
       "label": "Resident Evil 2 (USA) (Disc 2)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1205N-1|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
@@ -146,8 +146,8 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Street Fighter III - 3rd Strike (USA).chd",
       "label": "Street Fighter III - 3rd Strike (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1213N|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
