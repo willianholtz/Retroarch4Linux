@@ -210,17 +210,9 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Nintendo - Super Nintendo Entertainment System/Aladdin (USA).smc",
       "label": "Aladdin (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
       "crc32": "124D8E4D|crc",
-      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System/Aladdin (USA).zip",
-      "label": "Aladdin (USA)",
-      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
-      "core_name": "snes9x",
-      "crc32": "00000000|crc",
       "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
     },
     {
@@ -3394,8 +3386,8 @@
     {
       "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System/Ninja Warriors, The (USA).zip",
       "label": "Ninja Warriors, The (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/snes9x_libretro.so",
-      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "core_path": "/home/willian/.config/retroarch/cores/snes9x2010_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x 2010)",
       "crc32": "00000000|crc",
       "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
     },
@@ -5026,8 +5018,8 @@
     {
       "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System/Super Mario World (USA).zip",
       "label": "Super Mario World (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/snes9x_libretro.so",
-      "core_name": "Nintendo - SNES / SFC (snes9x)",
+      "core_path": "/home/willian/.config/retroarch/cores/bsnes_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (bsnes)",
       "crc32": "00000000|crc",
       "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
     },

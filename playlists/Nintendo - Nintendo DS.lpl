@@ -1,0 +1,19 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - Nintendo DS/Mario Kart DS (USA) (En,Fr,De,Es,It).nds",
+      "label": "Mario Kart DS (USA, Australia) (En,Fr,De,Es,It)",
+      "core_path": "/home/willian/.config/retroarch/cores/desmume_libretro.so",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "D47555BE|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    }
+  ]
+}

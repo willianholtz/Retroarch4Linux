@@ -1,0 +1,27 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - Nintendo 3DS/Donkey Kong Country Returns 3D (USA) (En,Fr,Es).3ds",
+      "label": "Donkey Kong Country Returns 3D (USA) (En,Fr,Es)",
+      "core_path": "/home/willian/.config/retroarch/cores/citra_libretro.so",
+      "core_name": "Nintendo - 3DS (Citra)",
+      "crc32": "967611A4|crc",
+      "db_name": "Nintendo - Nintendo 3DS.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - Nintendo 3DS/Star Fox 64 3D (USA) (En,Fr,Es) (Rev 3).3ds",
+      "label": "Star Fox 64 3D (USA) (En,Fr,Es) (Rev 3)",
+      "core_path": "/home/willian/.config/retroarch/cores/citra_libretro.so",
+      "core_name": "Nintendo - 3DS (Citra)",
+      "crc32": "607E7C58|crc",
+      "db_name": "Nintendo - Nintendo 3DS.lpl"
+    }
+  ]
+}

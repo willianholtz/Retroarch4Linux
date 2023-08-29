@@ -16,18 +16,16 @@ Do you want to be part of the project and make the retroarch linux version even 
 
 ## Linux modification
 Retroarch was configured from scratch, using some packages found on the net, such as:
-- Project CRAZYMAC (2020) wallpapers for wii U
+- Wallpaper from Crazymac project
 - Bezzels for all games
 - Mega Bezels pack for shaders (CRT) and configured without TV curvature (Default comes with curvature)
-- All roms (games) have their overlays
+- All roms (games) have their overlays (roms not inclueses).
 
 ## Games (Roms)
-All roms are from [CRAZYMAC 2020](https://www.arcadepunks.com/wii-u-retro-gaming-pack-for-modified-wii-u-from-crazymac/) project, so you can use the the same ones here, although several other consoles are missing like the Gamecube, Wii, PS1, PS2 etc.
+Roms must all be NO-INTRO or REDUMP (RECOMMENDED), or edit all the roms you download.
 
-But you can access the link below to have fun!
-
-Redump and NO-Intro project:
-[myrient](https://myrient.erista.me/)
+- [Redump](http://redump.org)
+- [No-Intro](https://no-intro.org)
 
 All roms should be REDUMP preferably, thus making retro arch configuration files with playlists.lpl and core configs (OVERLAYS) defaults.
 

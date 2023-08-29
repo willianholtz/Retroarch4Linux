@@ -1,16 +1,23 @@
 {
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
   "items": [
     {
-      "path": ".config/retroarch/roms/MAME - 2003/gorf.zip",
-      "label": "Gorf",
+      "path": ".config/retroarch/roms/MAME - 2003/openice.zip",
+      "label": "2 On 2 Open Ice Challenge (rev 1.21)",
       "core_path": ".config/retroarch/cores/mame2003_libretro.so",
       "core_name": "mame2003",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Midway.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/invaders.zip",
-      "label": "Space Invaders",
+      "path": ".config/retroarch/roms/MAME - 2003/gorf.zip",
+      "label": "Gorf",
       "core_path": ".config/retroarch/cores/mame2003_libretro.so",
       "core_name": "mame2003",
       "crc32": "00000000|crc",
@@ -33,16 +40,16 @@
       "db_name": "Arcade Classics - Midway.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/mk2.zip",
-      "label": "Mortal Kombat II (rev L3.1)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "path": ".config/retroarch/roms/MAME - 2003/mk3.zip",
+      "label": "Mortal Kombat 3 (rev 2.1)",
+      "core_path": "/home/willian/.config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "Arcade (MAME 2003)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Midway.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/mk3.zip",
-      "label": "Mortal Kombat 3 (rev 2.1)",
+      "path": ".config/retroarch/roms/MAME - 2003/mk2.zip",
+      "label": "Mortal Kombat II (rev L3.1)",
       "core_path": ".config/retroarch/cores/mame2003_libretro.so",
       "core_name": "mame2003",
       "crc32": "00000000|crc",
@@ -73,14 +80,6 @@
       "db_name": "Arcade Classics - Midway.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/openice.zip",
-      "label": "2 On 2 Open Ice Challenge (rev 1.21)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Midway.lpl"
-    },
-    {
       "path": ".config/retroarch/roms/MAME - 2003/phantom2.zip",
       "label": "Phantom II",
       "core_path": ".config/retroarch/cores/mame2003_libretro.so",
@@ -105,16 +104,24 @@
       "db_name": "Arcade Classics - Midway.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/spacezap.zip",
-      "label": "Space Zap",
+      "path": ".config/retroarch/roms/MAME - 2003/spcenctr.zip",
+      "label": "Space Encounters",
       "core_path": ".config/retroarch/cores/mame2003_libretro.so",
       "core_name": "mame2003",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Midway.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/spcenctr.zip",
-      "label": "Space Encounters",
+      "path": ".config/retroarch/roms/MAME - 2003/invaders.zip",
+      "label": "Space Invaders",
+      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
+      "core_name": "mame2003",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Midway.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/MAME - 2003/spacezap.zip",
+      "label": "Space Zap",
       "core_path": ".config/retroarch/cores/mame2003_libretro.so",
       "core_name": "mame2003",
       "crc32": "00000000|crc",

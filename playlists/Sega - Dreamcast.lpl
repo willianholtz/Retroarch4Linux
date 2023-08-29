@@ -24,6 +24,22 @@
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Crazy Taxi (USA).chd",
+      "label": "Crazy Taxi (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "51035|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Crazy Taxi 2 (USA).chd",
+      "label": "Crazy Taxi 2 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "51136|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
       "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/102 Dalmatians - Puppies to the Rescue (USA).chd",
       "label": "Disney's 102 Dalmatians - Puppies to the Rescue (USA)",
       "core_path": "DETECT",
@@ -48,10 +64,18 @@
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Jet Grind Radio (USA).chd",
+      "label": "Jet Grind Radio (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "51058|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
       "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/King of Fighters 2000 (Japan).chd",
       "label": "King of Fighters 2000, The (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-47303M|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },

@@ -16,14 +16,6 @@
       "db_name": "Sega - Saturn.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (2M).cue",
-      "label": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (2M)",
-      "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
-      "core_name": "Sega - Saturn (Beetle Saturn)",
-      "crc32": "T-9527G|serial",
-      "db_name": "Sega - Saturn.lpl"
-    },
-    {
       "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Night Warriors - Darkstalkers' Revenge (USA).chd",
       "label": "Night Warriors - Darkstalkers' Revenge (USA)",
       "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
@@ -45,6 +37,22 @@
       "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
       "core_name": "Sega - Saturn (Beetle Saturn)",
       "crc32": "T-1208H|serial",
+      "db_name": "Sega - Saturn.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Rayman (USA).chd",
+      "label": "Rayman (USA) (R2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "T-17701H|serial",
+      "db_name": "Sega - Saturn.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Resident Evil (USA).chd",
+      "label": "Resident Evil (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
+      "core_name": "Sega - Saturn (Beetle Saturn)",
+      "crc32": "T-1221H|serial",
       "db_name": "Sega - Saturn.lpl"
     }
   ]
