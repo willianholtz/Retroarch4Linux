@@ -1,0 +1,6 @@
+Please, for better functioning of retroarch, download the roms from the "CrazyMac" project.
+And after downloading it, just move the roms to the retroarch directory, the other settings don't matter here;
+
+https://punkwhore.com/arcadepunks/2019/Wii.U.Retro.Ultimate.V2.0%20-CrazyMAC.torrent
+
+
