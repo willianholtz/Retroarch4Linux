@@ -1,434 +1,441 @@
 {
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
   "items": [
     {
-      "path": ".config/retroarch/roms/MAME - 2003/actfancr.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/actfancr.zip",
       "label": "Act-Fancer Cybernetick Hyper Weapon (World revision 2)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/battlera.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/battlera.zip",
       "label": "Battle Rangers (World)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/birdtry.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/birdtry.zip",
       "label": "Birdie Try (Japan)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/boomrang.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/boomrang.zip",
       "label": "Boomer Rang'r / Genesis",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/bouldash.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/bouldash.zip",
       "label": "Boulder Dash / Boulder Dash Part 2 (World)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/btime.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/btime.zip",
       "label": "Burger Time (Data East set 1)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/captaven.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/captaven.zip",
       "label": "Captain America and The Avengers (Asia Rev 1.9)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/cbuster.zip",
-      "label": "Crude Buster (World FX version)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Data East.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/chelnov.zip",
-      "label": "Chelnov - Atomic Runner (World)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Data East.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/clapapa.zip",
-      "label": "Cassette: Rootin' Tootin' (aka La.Pa.Pa)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Data East.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/clocknch.zip",
-      "label": "Cassette: Lock'n'Chase",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Data East.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/cmissnx.zip",
-      "label": "Cassette: Mission-X",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Data East.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/cnightst.zip",
-      "label": "Cassette: Night Star (set 1)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Data East.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/cninja.zip",
-      "label": "Caveman Ninja (World revision 3)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Data East.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/cobracom.zip",
-      "label": "Cobra-Command (World revision 5)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Data East.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/cprobowl.zip",
-      "label": "Cassette: Pro Bowling",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Data East.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/cptennis.zip",
-      "label": "Cassette: Pro Tennis",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Data East.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/cscrtry.zip",
-      "label": "Cassette: Scrum Try (set 1)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Data East.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/csilver.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/csilver.zip",
       "label": "Captain Silver (Japan)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/csuperas.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/clocknch.zip",
+      "label": "Cassette: Lock'n'Chase",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Data East.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/cmissnx.zip",
+      "label": "Cassette: Mission-X",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Data East.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/cnightst.zip",
+      "label": "Cassette: Night Star (set 1)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Data East.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/cprobowl.zip",
+      "label": "Cassette: Pro Bowling",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Data East.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/cptennis.zip",
+      "label": "Cassette: Pro Tennis",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Data East.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/clapapa.zip",
+      "label": "Cassette: Rootin' Tootin' (aka La.Pa.Pa)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Data East.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/cscrtry.zip",
+      "label": "Cassette: Scrum Try (set 1)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Data East.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/csuperas.zip",
       "label": "Cassette: Super Astro Fighter",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/cterrani.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/cterrani.zip",
       "label": "Cassette: Terranean",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/ctsttape.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/ctsttape.zip",
       "label": "Cassette: Test Tape",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/darkseal.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/cninja.zip",
+      "label": "Caveman Ninja (World revision 3)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Data East.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/chelnov.zip",
+      "label": "Chelnov - Atomic Runner (World)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Data East.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/cobracom.zip",
+      "label": "Cobra-Command (World revision 5)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Data East.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/cbuster.zip",
+      "label": "Crude Buster (World FX version)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Data East.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/darkseal.zip",
       "label": "Dark Seal (World revision 3)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/darwin.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/darwin.zip",
       "label": "Darwin 4078 (Japan)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/edrandy.zip",
-      "label": "The Cliffhanger - Edward Randy (World revision 2)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Data East.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/exprraid.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/exprraid.zip",
       "label": "Express Raider (US)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/garyoret.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/garyoret.zip",
       "label": "Garyo Retsuden (Japan)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/kamikcab.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/kamikcab.zip",
       "label": "Kamikaze Cabbie",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/karnovr.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/karnovr.zip",
       "label": "Karnov's Revenge / Fighter's History Dynamite",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/liberate.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/liberate.zip",
       "label": "Liberation",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/lnc.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/lnc.zip",
       "label": "Lock'n'Chase",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/magdrop2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/magdrop2.zip",
       "label": "Magical Drop II",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/magdrop3.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/magdrop3.zip",
       "label": "Magical Drop III",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/midres.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/midres.zip",
       "label": "Midnight Resistance (World)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/mutantf.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mutantf.zip",
       "label": "Mutant Fighter (World Rev 4, EM-5)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/nitrobal.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/nitrobal.zip",
       "label": "Nitro Ball (US)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/oscar.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/oscar.zip",
       "label": "Psycho-Nics Oscar (US)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/robocop.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/robocop.zip",
       "label": "Robocop (World revision 4)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/robocop2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/robocop2.zip",
       "label": "Robocop 2 (World)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/sdtennis.zip",
-      "label": "Super Doubles Tennis",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Data East.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/sidepckt.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sidepckt.zip",
       "label": "Side Pocket (World)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/spinmast.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/spinmast.zip",
       "label": "Spin Master / Miracle Adventure",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (MAME)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/srdarwin.zip",
-      "label": "Super Real Darwin (World)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Data East.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/stadhero.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/stadhero.zip",
       "label": "Stadium Hero (Japan)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/strhoop.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/strhoop.zip",
       "label": "Street Hoop / Street Slam / Dunk Dream",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/supbtime.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/supbtime.zip",
       "label": "Super Burger Time (World)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/thndzone.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sdtennis.zip",
+      "label": "Super Doubles Tennis",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Data East.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/srdarwin.zip",
+      "label": "Super Real Darwin (World)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Data East.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/edrandy.zip",
+      "label": "The Cliffhanger - Edward Randy (World revision 2)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Data East.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/thndzone.zip",
       "label": "Thunder Zone (World)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/triothep.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/triothep.zip",
       "label": "Trio The Punch - Never Forget Me... (Japan)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/tumblep.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/tumblep.zip",
       "label": "Tumble Pop (World)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/vaportra.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/vaportra.zip",
       "label": "Vapor Trail - Hyper Offence Formation (World revision 1)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/wizdfire.zip",
-      "label": "Wizard Fire (US v1.1)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Data East.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/wjammers.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/wjammers.zip",
       "label": "Windjammers / Flying Power Disc",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/wndrplnt.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/wizdfire.zip",
+      "label": "Wizard Fire (US v1.1)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Data East.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/wndrplnt.zip",
       "label": "Wonder Planet (Japan)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/zaviga.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/zaviga.zip",
       "label": "Zaviga",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"
     }

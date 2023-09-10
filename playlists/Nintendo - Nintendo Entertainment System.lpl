@@ -4627,7 +4627,7 @@
       "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System/Super C (USA).zip",
       "label": "Super C (USA)",
       "core_path": "/home/willian/.config/retroarch/cores/nestopia_libretro.so",
-      "core_name": "Nintendo - NES / Famicom (nestopia)",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
       "crc32": "00000000|crc",
       "db_name": "Nintendo - Nintendo Entertainment System.lpl"
     },

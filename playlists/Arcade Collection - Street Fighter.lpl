@@ -1,130 +1,130 @@
 {
   "items": [
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/hsf2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/hsf2.zip",
       "label": "Hyper Street Fighter 2: The Anniversary Edition (040202 USA)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Street Fighter.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mshvsf.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mshvsf.zip",
       "label": "Marvel Super Heroes vs Street Fighter (970625 Euro)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Street Fighter.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sf2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sf2.zip",
       "label": "Street Fighter II - The World Warrior (910522 etc)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Street Fighter.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sf2ce.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sf2ce.zip",
       "label": "Street Fighter II' - Champion Edition (street fighter 2' 920513 etc)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Street Fighter.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sf2hf.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sf2hf.zip",
       "label": "Street Fighter II' - Hyper Fighting (street fighter 2' T 921209 ETC)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Street Fighter.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfa.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sfa.zip",
       "label": "Street Fighter Alpha - warriors' dreams (950727 Euro)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Street Fighter.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfa2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sfa2.zip",
       "label": "Street Fighter Alpha 2 (960229 Euro)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Street Fighter.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfa3.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sfa3.zip",
       "label": "Street Fighter Alpha 3 (980904 Euro)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Street Fighter.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfiii.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sfiii.zip",
       "label": "Street Fighter III: New Generation (Euro 970204)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Street Fighter.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfiii2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sfiii2.zip",
       "label": "Street Fighter III 2nd Impact: Giant Attack (USA 970930)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Street Fighter.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfiii3.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sfiii3.zip",
       "label": "Street Fighter III 3rd Strike: Fight for the Future (Euro 990608)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Street Fighter.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfz2al.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sfz2al.zip",
       "label": "Street Fighter Zero 2 Alpha (960826 Asia)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Street Fighter.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfzch.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sfzch.zip",
       "label": "Street Fighter Zero (CPS Changer, 951020 Japan)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Street Fighter.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ssf2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/ssf2.zip",
       "label": "Super Street Fighter II - the new challengers (super street fighter 2 930911 etc)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Street Fighter.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ssf2t.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/ssf2t.zip",
       "label": "Super Street Fighter II Turbo (super street fighter 2 X 940223 etc)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Street Fighter.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/xmvsf.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/xmvsf.zip",
       "label": "X-Men vs Street Fighter (961004 Euro)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Street Fighter.lpl"
     }

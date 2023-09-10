@@ -1,242 +1,249 @@
 {
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
   "items": [
     {
-      "path": ".config/retroarch/roms/MAME - 2003/armwrest.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/armwrest.zip",
       "label": "Arm Wrestling",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/balonfgt.zip",
-      "label": "Vs. Balloon Fight",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Nintendo.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/bnglngby.zip",
-      "label": "Vs. Raid on Bungeling Bay (Japan)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Nintendo.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/cluclu.zip",
-      "label": "Vs. Clu Clu Land",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Nintendo.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/dkong.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/dkong.zip",
       "label": "Donkey Kong (US set 1)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/dkong3.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/dkong3.zip",
       "label": "Donkey Kong 3 (US)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/dkongjr.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/dkongjr.zip",
       "label": "Donkey Kong Junior (US)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/drmario.zip",
-      "label": "Vs. Dr. Mario",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Nintendo.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/duckhunt.zip",
-      "label": "Vs. Duck Hunt",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Nintendo.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/excitebk.zip",
-      "label": "Vs. Excitebike",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Nintendo.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/helifire.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/helifire.zip",
       "label": "HeliFire (revision B)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/hogalley.zip",
-      "label": "Vs. Hogan's Alley",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Nintendo.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/iceclimb.zip",
-      "label": "Vs. Ice Climber",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Nintendo.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/ladygolf.zip",
-      "label": "Vs. Stroke and Match Golf (Ladies Version)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Nintendo.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/machridr.zip",
-      "label": "Vs. Mach Rider (Endurance Course Version)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Nintendo.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/mario.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mario.zip",
       "label": "Mario Bros. (US)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/popeye.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/popeye.zip",
       "label": "Popeye (revision D)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/punchout.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/punchout.zip",
       "label": "Punch-Out!!",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/radarscp.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/radarscp.zip",
       "label": "Radar Scope",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/sheriff.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sheriff.zip",
       "label": "Sheriff",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/skyskipr.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/skyskipr.zip",
       "label": "Sky Skipper",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/smgolf.zip",
-      "label": "Vs. Stroke and Match Golf (Men Version)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - Nintendo.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/spacefev.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/spacefev.zip",
       "label": "Space Fever (color)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/spnchout.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/spnchout.zip",
       "label": "Super Punch-Out!!",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/suprmrio.zip",
-      "label": "Vs. Super Mario Bros.",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/balonfgt.zip",
+      "label": "Vs. Balloon Fight",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/vsbball.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/vsbball.zip",
       "label": "Vs. BaseBall",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/vspinbal.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/cluclu.zip",
+      "label": "Vs. Clu Clu Land",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Nintendo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/drmario.zip",
+      "label": "Vs. Dr. Mario",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Nintendo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/duckhunt.zip",
+      "label": "Vs. Duck Hunt",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Nintendo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/excitebk.zip",
+      "label": "Vs. Excitebike",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Nintendo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/hogalley.zip",
+      "label": "Vs. Hogan's Alley",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Nintendo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/iceclimb.zip",
+      "label": "Vs. Ice Climber",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Nintendo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/machridr.zip",
+      "label": "Vs. Mach Rider (Endurance Course Version)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Nintendo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/vspinbal.zip",
       "label": "Vs. Pinball",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/vssoccer.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/bnglngby.zip",
+      "label": "Vs. Raid on Bungeling Bay (Japan)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Nintendo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/vssoccer.zip",
       "label": "Vs. Soccer",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/vstennis.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/ladygolf.zip",
+      "label": "Vs. Stroke and Match Golf (Ladies Version)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Nintendo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/smgolf.zip",
+      "label": "Vs. Stroke and Match Golf (Men Version)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Nintendo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/suprmrio.zip",
+      "label": "Vs. Super Mario Bros.",
+      "core_path": "/home/willian/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - Nintendo.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/vstennis.zip",
       "label": "Vs. Tennis",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/wrecking.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/wrecking.zip",
       "label": "Vs. Wrecking Crew",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"
     }

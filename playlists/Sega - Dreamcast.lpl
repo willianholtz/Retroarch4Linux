@@ -40,6 +40,22 @@
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Daytona USA (USA).chd",
+      "label": "Daytona USA (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "51037|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Dead or Alive 2 (USA)/Dead or Alive 2 (USA).cue",
+      "label": "Dead or Alive 2 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "T-3601N|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
       "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/102 Dalmatians - Puppies to the Rescue (USA).chd",
       "label": "Disney's 102 Dalmatians - Puppies to the Rescue (USA)",
       "core_path": "DETECT",
@@ -53,6 +69,14 @@
       "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
       "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-44306N|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Guilty Gear X (Japan)/Guilty Gear X (Japan) (Rev A).cue",
+      "label": "Guilty Gear X (Japan) (Rev A)",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "T-2402M|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
@@ -98,16 +122,16 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Marvel vs. Capcom (USA).chd",
       "label": "Marvel vs. Capcom - Clash of Super Heroes (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1202N|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
       "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Marvel vs. Capcom 2 (USA).chd",
       "label": "Marvel vs. Capcom 2 (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1212N|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
@@ -173,6 +197,14 @@
       "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
       "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1213N|serial",
+      "db_name": "Sega - Dreamcast.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Super Street Fighter 2 X (Japan)/Super Street Fighter II X for Matching Service (Japan).cue",
+      "label": "Super Street Fighter II X for Matching Service (Japan)",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "T-1236M|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
     {

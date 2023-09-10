@@ -42,8 +42,8 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Rayman (USA).chd",
       "label": "Rayman (USA) (R2)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
+      "core_name": "Sega - Saturn (Beetle Saturn)",
       "crc32": "T-17701H|serial",
       "db_name": "Sega - Saturn.lpl"
     },

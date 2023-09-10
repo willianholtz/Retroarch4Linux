@@ -1,666 +1,673 @@
 {
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
   "items": [
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/2020bb.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/2020bb.zip",
       "label": "2020 Super Baseball (set 1)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/3countb.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/3countb.zip",
       "label": "3 Count Bout / Fire Suplex (NGM-043)(NGH-043)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/alpham2.zip",
-      "label": "Alpha Mission II / ASO II - Last Guardian (NGM-007)(NGH-007)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/aodk.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/aodk.zip",
       "label": "Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku (ADM-008)(ADH-008)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/aof.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/alpham2.zip",
+      "label": "Alpha Mission II / ASO II - Last Guardian (NGM-007)(NGH-007)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/aof.zip",
       "label": "Art of Fighting / Ryuuko no Ken (NGM-044)(NGH-044)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/aof2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/aof2.zip",
       "label": "Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/aof3.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/aof3.zip",
       "label": "Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/bstars.zip",
-      "label": "Baseball Stars Professional (NGM-002)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/bstars2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/bstars2.zip",
       "label": "Baseball Stars 2",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/burningf.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/bstars.zip",
+      "label": "Baseball Stars Professional (NGM-002)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/burningf.zip",
       "label": "Burning Fight (NGM-018)(NGH-018)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/cyberlip.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/cyberlip.zip",
       "label": "Cyber-Lip (NGM-010)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/eightman.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/eightman.zip",
       "label": "Eight Man (NGM-025)(NGH-025)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/fatfursp.zip",
-      "label": "Fatal Fury Special / Garou Densetsu Special (set 1)(NGM-058)(NGH-058)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/fatfury1.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/fatfury1.zip",
       "label": "Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai (NGM-033)(NGH-033)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/fatfury2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/fatfury2.zip",
       "label": "Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai (NGM-047)(NGH-047)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/fatfury3.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/fatfury3.zip",
       "label": "Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai (NGM-069)(NGH-069)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/fbfrenzy.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/fatfursp.zip",
+      "label": "Fatal Fury Special / Garou Densetsu Special (set 1)(NGM-058)(NGH-058)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/fbfrenzy.zip",
       "label": "Football Frenzy (NGM-034)(NGH-034)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/garou.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/garou.zip",
       "label": "Garou - Mark of the Wolves (NGM-2530)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/gpilots.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/gpilots.zip",
       "label": "Ghost Pilots (NGM-020)(NGH-020)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ikari3.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/ikari3.zip",
       "label": "Ikari III - The Rescue (8-Way Joystick)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/irrmaze.zip",
-      "label": "The Irritating Maze / Ultra Denryu Iraira Bou",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/joyjoy.zip",
-      "label": "Puzzled / Joy Joy Kid (NGM-021)(NGH-021)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kf2k3pcb.zip",
-      "label": "The King of Fighters 2003 [dedicated PCB version, Japan region]",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kizuna.zip",
-      "label": "Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof2000.zip",
-      "label": "The King of Fighters 2000 (NGM-2570) (NGH-2570)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof2001.zip",
-      "label": "The King of Fighters 2001 (NGM-262?)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof2003.zip",
-      "label": "The King of Fighters 2003 (NGM-2710)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof94.zip",
-      "label": "The King of Fighters '94 (NGM-055)(NGH-055)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof95.zip",
-      "label": "The King of Fighters '95 (NGM-084)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof96.zip",
-      "label": "The King of Fighters '96 (NGM-214)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof97.zip",
-      "label": "The King of Fighters '97 (NGM-2320)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof98.zip",
-      "label": "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (NGM-2420)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kof99.zip",
-      "label": "The King of Fighters '99 - Millennium Battle (NGM-2510)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kotm.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/kotm.zip",
       "label": "King of the Monsters (set 1)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/kotm2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/kotm2.zip",
       "label": "King of the Monsters 2 - The Next Thing (NGM-039)(NGH-039)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/lastblad.zip",
-      "label": "The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/kizuna.zip",
+      "label": "Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/lastbld2.zip",
-      "label": "The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (NGM-2430)(NGH-2430)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/lbowling.zip",
-      "label": "League Bowling (NGM-019)(NGH-019)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/legendos.zip",
-      "label": "Legend of Success Joe / Ashitano Joe Densetsu",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/lresort.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/lresort.zip",
       "label": "Last Resort",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/meijinsn.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/lbowling.zip",
+      "label": "League Bowling (NGM-019)(NGH-019)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/legendos.zip",
+      "label": "Legend of Success Joe / Ashitano Joe Densetsu",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/meijinsn.zip",
       "label": "Meijinsen",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mslug2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mslug2.zip",
       "label": "Metal Slug 2 - Super Vehicle-001/II (NGM-2410) (NGH-2410)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mslug3.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mslug3.zip",
       "label": "Metal Slug 3 (NGM-2560)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mslug5.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mslug5.zip",
       "label": "Metal Slug 5 (NGM-2680)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mslugx.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mslugx.zip",
       "label": "Metal Slug X - Super Vehicle-001 (NGM-2500)(NGH-2500)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mutnat.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mutnat.zip",
       "label": "Mutation Nation (NGM-014)(NGH-014)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/nam1975.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/nam1975.zip",
       "label": "NAM-1975 (NGM-001)(NGH-001)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/neocup98.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/neocup98.zip",
       "label": "Neo-Geo Cup '98 - The Road to the Victory",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ninjamas.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/ninjamas.zip",
       "label": "Ninja Master's - haoh-ninpo-cho",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/pbobbl2n.zip",
-      "label": "Puzzle Bobble 2 / Bust-A-Move Again (Neo-Geo)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/pow.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/pow.zip",
       "label": "P.O.W. - Prisoners of War (US version 1)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/prehisle.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/prehisle.zip",
       "label": "Prehistoric Isle in 1930 (World)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/rbff1.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/pbobbl2n.zip",
+      "label": "Puzzle Bobble 2 / Bust-A-Move Again (Neo-Geo)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/joyjoy.zip",
+      "label": "Puzzled / Joy Joy Kid (NGM-021)(NGH-021)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/rbff1.zip",
       "label": "Real Bout Fatal Fury / Real Bout Garou Densetsu (NGM-095)(NGH-095)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/rbff2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/rbff2.zip",
       "label": "Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (NGM-2400)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/rbffspec.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/rbffspec.zip",
       "label": "Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ridhero.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/ridhero.zip",
       "label": "Riding Hero (NGM-006)(NGH-006)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/roboarmy.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/roboarmy.zip",
       "label": "Robo Army",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/samsh5sp.zip",
-      "label": "Samurai Shodown V Special / Samurai Spirits Zero Special (NGM-2720)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/samsho.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/samsho.zip",
       "label": "Samurai Shodown / Samurai Spirits (NGM-045)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/samsho2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/samsho2.zip",
       "label": "Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/samsho3.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/samsho3.zip",
       "label": "Samurai Shodown III / Samurai Spirits - Zankurou Musouken (NGM-087)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/samsho4.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/samsho4.zip",
       "label": "Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin (NGM-222)(NGH-222)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/samsho5.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/samsho5.zip",
       "label": "Samurai Shodown V / Samurai Spirits Zero (NGM-2700)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/savagere.zip",
-      "label": "Savage Reign / Fu'un Mokushiroku - kakutou sousei",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/samsh5sp.zip",
+      "label": "Samurai Shodown V Special / Samurai Spirits Zero Special (NGM-2720)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/searchar.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/searchar.zip",
       "label": "SAR - Search And Rescue (World)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sengoku.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/savagere.zip",
+      "label": "Savage Reign / Fu'un Mokushiroku - kakutou sousei",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sengoku.zip",
       "label": "Sengoku / Sengoku Denshou (NGM-017)(NGH-017)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sengoku2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sengoku2.zip",
       "label": "Sengoku 2 / Sengoku Denshou 2",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sengoku3.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sengoku3.zip",
       "label": "Sengoku 3 / Sengoku Densho 2001",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/socbrawl.zip",
-      "label": "Soccer Brawl (NGM-031)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ssideki.zip",
-      "label": "Super Sidekicks / Tokuten Ou",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ssideki2.zip",
-      "label": "Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - real fight football (NGM-061)(NGH-061)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ssideki3.zip",
-      "label": "Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikou e no michi",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/ssideki4.zip",
-      "label": "The Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/streetsm.zip",
-      "label": "Street Smart (US version 2)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/superspy.zip",
-      "label": "The Super Spy (NGM-011)(NGH-011)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/svc.zip",
-      "label": "SNK vs. Capcom - SVC Chaos (NGM-2690)(NGH-2690)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Classics - SNK.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/svcpcb.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/svcpcb.zip",
       "label": "SNK vs. Capcom - SVC Chaos (JAMMA PCB, set 1)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/tophuntr.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/svc.zip",
+      "label": "SNK vs. Capcom - SVC Chaos (NGM-2690)(NGH-2690)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/socbrawl.zip",
+      "label": "Soccer Brawl (NGM-031)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/streetsm.zip",
+      "label": "Street Smart (US version 2)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/ssideki.zip",
+      "label": "Super Sidekicks / Tokuten Ou",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/ssideki2.zip",
+      "label": "Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - real fight football (NGM-061)(NGH-061)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/ssideki3.zip",
+      "label": "Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikou e no michi",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/irrmaze.zip",
+      "label": "The Irritating Maze / Ultra Denryu Iraira Bou",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/kof94.zip",
+      "label": "The King of Fighters '94 (NGM-055)(NGH-055)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/kof95.zip",
+      "label": "The King of Fighters '95 (NGM-084)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/kof96.zip",
+      "label": "The King of Fighters '96 (NGM-214)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/kof97.zip",
+      "label": "The King of Fighters '97 (NGM-2320)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/kof98.zip",
+      "label": "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (NGM-2420)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/kof99.zip",
+      "label": "The King of Fighters '99 - Millennium Battle (NGM-2510)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/kof2000.zip",
+      "label": "The King of Fighters 2000 (NGM-2570) (NGH-2570)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/kof2001.zip",
+      "label": "The King of Fighters 2001 (NGM-262?)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/kof2003.zip",
+      "label": "The King of Fighters 2003 (NGM-2710)",
+      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/kf2k3pcb.zip",
+      "label": "The King of Fighters 2003 [dedicated PCB version, Japan region]",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/lastblad.zip",
+      "label": "The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/lastbld2.zip",
+      "label": "The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (NGM-2430)(NGH-2430)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/superspy.zip",
+      "label": "The Super Spy (NGM-011)(NGH-011)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/ssideki4.zip",
+      "label": "The Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Classics - SNK.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/tophuntr.zip",
       "label": "Top Hunter - Roddy _ Cathy (NGM-046)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/tpgolf.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/tpgolf.zip",
       "label": "Top Player's Golf (NGM-003)(NGH-003)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/twinspri.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/twinspri.zip",
       "label": "Twinkle Star Sprites",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/wh2j.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/wh2j.zip",
       "label": "World Heroes 2 Jet (ADM-007)(ADH-007)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/whp.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/whp.zip",
       "label": "World Heroes Perfect",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/zupapa.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/zupapa.zip",
       "label": "Zupapa!",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
     }

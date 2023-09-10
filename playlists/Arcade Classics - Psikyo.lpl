@@ -1,122 +1,122 @@
 {
   "items": [
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/btlkroad.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/btlkroad.zip",
       "label": "Battle K-Road",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Psikyo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/daraku.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/daraku.zip",
       "label": "Daraku Tenshi - The Fallen Angels",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Psikyo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/dragnblz.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/dragnblz.zip",
       "label": "Dragon Blaze",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Psikyo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/gnbarich.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/gnbarich.zip",
       "label": "Gunbarich",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Psikyo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/gunbird.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/gunbird.zip",
       "label": "Gunbird (World)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Psikyo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/gunbird2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/gunbird2.zip",
       "label": "Gunbird 2",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Psikyo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/loderndf.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/loderndf.zip",
       "label": "Lode Runner - The Dig Fight (ver. B)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Psikyo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/s1945.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/s1945.zip",
       "label": "Strikers 1945",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Psikyo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/s1945ii.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/s1945ii.zip",
       "label": "Strikers 1945 II",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Psikyo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/s1945iii.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/s1945iii.zip",
       "label": "Strikers 1945 III (World) / Strikers 1999 (Japan)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Psikyo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/s1945p.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/s1945p.zip",
       "label": "Strikers 1945 Plus",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Psikyo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/samuraia.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/samuraia.zip",
       "label": "Samurai Aces (World)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Psikyo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sbomber.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sbomber.zip",
       "label": "Space Bomber (ver. B)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Psikyo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/soldivid.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/soldivid.zip",
       "label": "Sol Divide - The Sword Of Darkness",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Psikyo.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/tengai.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/tengai.zip",
       "label": "Tengai (world)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Psikyo.lpl"
     }

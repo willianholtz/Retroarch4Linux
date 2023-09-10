@@ -1,7 +1,7 @@
 pcsx2_accurate_date = "enabled"
 pcsx2_anisotropic_filter = "0"
 pcsx2_aspect_ratio = "0"
-pcsx2_bios = "PS2 Bios 30004R V6 Pal.bin"
+pcsx2_bios = "scph39001.bin"
 pcsx2_blend_unit_accuracy = "1"
 pcsx2_boot_bios = "disabled"
 pcsx2_clamping_mode = "1"

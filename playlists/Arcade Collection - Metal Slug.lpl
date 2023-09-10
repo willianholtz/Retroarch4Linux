@@ -1,50 +1,50 @@
 {
   "items": [
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mslug.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mslug.zip",
       "label": "Metal Slug - Super Vehicle-001",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+     "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Metal Slug.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mslug2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mslug2.zip",
       "label": "Metal Slug 2 - Super Vehicle-001/II (NGM-2410) (NGH-2410)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+     "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Metal Slug.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mslug3.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mslug3.zip",
       "label": "Metal Slug 3 (NGM-2560)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+     "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Metal Slug.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mslug4.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mslug4.zip",
       "label": "Metal Slug 4 (NGM-2630)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+     "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Metal Slug.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mslug5.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mslug5.zip",
       "label": "Metal Slug 5 (NGM-2680)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+     "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Metal Slug.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/mslugx.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mslugx.zip",
       "label": "Metal Slug X - Super Vehicle-001 (NGM-2500)(NGH-2500)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+     "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Metal Slug.lpl"
     }

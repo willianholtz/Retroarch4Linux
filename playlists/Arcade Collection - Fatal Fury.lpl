@@ -1,58 +1,58 @@
 {
   "items": [
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/fatfursp.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/fatfursp.zip",
       "label": "Fatal Fury Special / Garou Densetsu Special (set 1)(NGM-058)(NGH-058)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Fatal Fury.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/fatfury1.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/fatfury1.zip",
       "label": "Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai (NGM-033)(NGH-033)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Fatal Fury.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/fatfury2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/fatfury2.zip",
       "label": "Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai (NGM-047)(NGH-047)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Fatal Fury.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/fatfury3.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/fatfury3.zip",
       "label": "Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai (NGM-069)(NGH-069)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Fatal Fury.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/rbff1.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/rbff1.zip",
       "label": "Real Bout Fatal Fury / Real Bout Garou Densetsu (NGM-095)(NGH-095)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Fatal Fury.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/rbff2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/rbff2.zip",
       "label": "Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (NGM-2400)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Fatal Fury.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/rbffspec.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/rbffspec.zip",
       "label": "Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Fatal Fury.lpl"
     }

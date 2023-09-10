@@ -1,50 +1,57 @@
 {
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
   "items": [
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/jojo.zip",
-      "label": "JoJo's Venture / JoJo no Kimyou na Bouken (USA 990128)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade - Capcom CP System III.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/jojoba.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/jojoba.zip",
       "label": "JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade - Capcom CP System III.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/redearth.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/jojo.zip",
+      "label": "JoJo's Venture / JoJo no Kimyou na Bouken (USA 990128)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/redearth.zip",
       "label": "Red Earth / War-Zard (Euro 961121)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade - Capcom CP System III.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfiii.zip",
-      "label": "Street Fighter III: New Generation (Euro 970204)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade - Capcom CP System III.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfiii2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sfiii2.zip",
       "label": "Street Fighter III 2nd Impact: Giant Attack (USA 970930)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade - Capcom CP System III.lpl"
     },
     {
-      "path": ".config/retroarch/roms/FB Alpha - Arcade Games/sfiii3.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sfiii3.zip",
       "label": "Street Fighter III 3rd Strike: Fight for the Future (Euro 990608)",
-      "core_path": ".config/retroarch/cores/fbalpha2012_libretro.so",
-      "core_name": "fbalpha2012",
+      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade - Capcom CP System III.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sfiii.zip",
+      "label": "Street Fighter III: New Generation (Euro 970204)",
+      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade - Capcom CP System III.lpl"
     }

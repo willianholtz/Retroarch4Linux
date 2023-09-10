@@ -8,14 +8,6 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - CD/Popful Mail (USA).chd",
-      "label": "Popful Mail (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "T-127035|serial",
-      "db_name": "Sega - Mega-CD - Sega CD.lpl"
-    },
-    {
       "path": "/home/willian/.config/retroarch/roms/Sega - CD/Final Fight CD (USA).chd",
       "label": "Final Fight CD (USA) (Alt 1)",
       "core_path": "DETECT",
@@ -37,6 +29,14 @@
       "core_path": "/home/willian/.config/retroarch/cores/genesis_plus_gx_libretro.so",
       "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
       "crc32": "F17B5750|crc",
+      "db_name": "Sega - Mega-CD - Sega CD.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - CD/Popful Mail (USA).chd",
+      "label": "Popful Mail (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "T-127035|serial",
       "db_name": "Sega - Mega-CD - Sega CD.lpl"
     }
   ]

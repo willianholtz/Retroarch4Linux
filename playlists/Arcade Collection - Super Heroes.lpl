@@ -1,146 +1,153 @@
 {
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
   "items": [
     {
-      "path": ".config/retroarch/roms/MAME - 2003/avengers.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/avengers.zip",
       "label": "Avengers (US set 1)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/batman.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/batman.zip",
       "label": "Batman",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/captaven.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/captaven.zip",
       "label": "Captain America and The Avengers (Asia Rev 1.9)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/dbz.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/dbz.zip",
       "label": "Dragonball Z",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/marvland.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/marvland.zip",
       "label": "Marvel Land (US)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/mshu.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mshu.zip",
       "label": "Marvel Super Heroes (US 951024)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/mshvsf.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mshvsf.zip",
       "label": "Marvel Super Heroes Vs. Street Fighter (US 970827)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": "/home/willian/.config/retroarch/cores/Arcade (FinalBurn Neo)_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/mvsc.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mvsc.zip",
       "label": "Marvel Vs. Capcom: Clash of Super Heroes (US 980123)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/nbbatman.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/nbbatman.zip",
       "label": "Ninja Baseball Batman (US)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/punisher.zip",
-      "label": "The Punisher (World 930422)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Collection - Super Heroes.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/sbm.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sbm.zip",
       "label": "Sonic Blast Man (Japan)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/superman.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/superman.zip",
       "label": "Superman",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/tmnt.zip",
-      "label": "Teenage Mutant Ninja Turtles (World 4 Players)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Collection - Super Heroes.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/tmnt2.zip",
-      "label": "Teenage Mutant Ninja Turtles - Turtles in Time (US 4 Players ver. UAA)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
-      "crc32": "00000000|crc",
-      "db_name": "Arcade Collection - Super Heroes.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/MAME - 2003/tmnt2po.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/tmnt2po.zip",
       "label": "Teenage Mutant Ninja Turtles (Oceania 2 Players)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/xmcota.zip",
-      "label": "X-Men: Children of the Atom (Euro 950105)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/tmnt.zip",
+      "label": "Teenage Mutant Ninja Turtles (World 4 Players)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/xmen.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/tmnt2.zip",
+      "label": "Teenage Mutant Ninja Turtles - Turtles in Time (US 4 Players ver. UAA)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Super Heroes.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/punisher.zip",
+      "label": "The Punisher (World 930422)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Super Heroes.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/xmen.zip",
       "label": "X-Men (US 4 Players)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/xmvsf.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/xmvsf.zip",
       "label": "X-Men Vs. Street Fighter (Euro 960910)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": "/home/willian/.config/retroarch/cores/Arcade (FinalBurn Neo)_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "Arcade Collection - Super Heroes.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/xmcota.zip",
+      "label": "X-Men: Children of the Atom (Euro 950105)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"
     }

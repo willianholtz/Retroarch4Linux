@@ -1,106 +1,106 @@
 {
   "items": [
     {
-      "path": ".config/retroarch/roms/MAME - 2003/defender.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/defender.zip",
       "label": "Defender (Red label)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Williams.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/hiimpact.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/hiimpact.zip",
       "label": "High Impact Football (rev LA3 12/27/90)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Williams.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/joust.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/joust.zip",
       "label": "Joust (White/Green label)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Williams.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/joust2.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/joust2.zip",
       "label": "Joust 2 - Survival of the Fittest (set 1)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Williams.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/mysticm.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mysticm.zip",
       "label": "Mystic Marathon",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Williams.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/narc.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/narc.zip",
       "label": "Narc (rev 7.00)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Williams.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/playball.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/playball.zip",
       "label": "PlayBall! (prototype)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Williams.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/robotron.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/robotron.zip",
       "label": "Robotron (Solid Blue label)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Williams.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/sinistar.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sinistar.zip",
       "label": "Sinistar (revision 3)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Williams.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/smashtv.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/smashtv.zip",
       "label": "Smash T.V. (rev 8.00)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Williams.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/spdball.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/spdball.zip",
       "label": "Speed Ball (prototype)",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Williams.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/splat.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/splat.zip",
       "label": "Splat!",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Williams.lpl"
     },
     {
-      "path": ".config/retroarch/roms/MAME - 2003/stargate.zip",
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/stargate.zip",
       "label": "Stargate",
-      "core_path": ".config/retroarch/cores/mame2003_libretro.so",
-      "core_name": "mame2003",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Williams.lpl"
     }

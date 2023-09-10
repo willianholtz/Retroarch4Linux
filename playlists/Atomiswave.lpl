@@ -1,0 +1,163 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/anmlbskt.zip",
+      "label": "Animal Basket",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2BB1BE28|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/demofist.zip",
+      "label": "Demolish Fist",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "12FDA2C7|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/dirtypig.zip",
+      "label": "Dirty Pigskin Football",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A91D2FCB|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/dolphin.zip",
+      "label": "Dolphin Blue",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "5E5DCA57|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/xtrmhunt.zip",
+      "label": "Extreme Hunting",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "76DBC286|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/xtrmhnt2.zip",
+      "label": "Extreme Hunting 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3086BC47|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/fotns.zip",
+      "label": "Fist Of The North Star",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FF5A1642|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/ggx15.zip",
+      "label": "Guilty Gear X ver. 1.5",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "61879B2D|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/kov7sprt.zip",
+      "label": "Knights of Valour - The Seven Spirits",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "58AE7CA1|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/maxspeed.zip",
+      "label": "Maximum Speed",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4A847A59|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/mslug6.zip",
+      "label": "Metal Slug 6",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E56417EE|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/vfurlong.zip",
+      "label": "Net@Select: Horse Racing - Victory Furlong",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "64460B24|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/salmankt.zip",
+      "label": "Net@Select: Salaryman Kintaro",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FD7AF845|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/rangrmsn.zip",
+      "label": "Ranger Mission",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F34EED33|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/samsptk.zip",
+      "label": "Samurai Spirits Tenkaichi Kenkakuden",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "DBBBD90D|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/sprtshot.zip",
+      "label": "Sports Shooting USA",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1E39184D|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/kofxi.zip",
+      "label": "The King of Fighters XI",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "7F9D6AF9|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/rumblef.zip",
+      "label": "The Rumble Fish",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "C38AA61C|crc",
+      "db_name": "Atomiswave.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/rumblef2.zip",
+      "label": "The Rumble Fish 2",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "crc32": "60894D4C|crc",
+      "db_name": "Atomiswave.lpl"
+    }
+  ]
+}
