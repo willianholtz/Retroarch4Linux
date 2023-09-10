@@ -19,7 +19,7 @@ Retroarch was configured from scratch, using some packages found on the net, suc
 - Wallpaper from Crazymac project
 - Bezzels for all games
 - Mega Bezels pack for shaders (CRT) and configured without TV curvature (Default comes with curvature)
-- All roms (games) have their overlays (roms not inclueses).
+- All roms (games) have their overlays (roms not included!).
 
 ## Games (Roms)
 Roms must all be NO-INTRO or REDUMP (RECOMMENDED), or edit all the roms you download.
@@ -30,4 +30,4 @@ Roms must all be NO-INTRO or REDUMP (RECOMMENDED), or edit all the roms you down
 All roms should be REDUMP preferably, thus making retro arch configuration files with playlists.lpl and core configs (OVERLAYS) defaults.
 
 ## BIOS
-The system folder, where the bios are located, were also not available here in the repository, but they are files that are easy to find on [google](www.google.com).
+Bios are in the system folder, but only what is necessary for this project to work, if you want to change, or use other bios, use Google to do so!
