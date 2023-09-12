@@ -114,8 +114,8 @@
     {
       "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System/Adventures of Batman & Robin, The (USA).zip",
       "label": "Adventures of Batman & Robin, The (USA)",
-      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
-      "core_name": "snes9x",
+      "core_path": "/home/willian/.config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
       "crc32": "00000000|crc",
       "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
     },

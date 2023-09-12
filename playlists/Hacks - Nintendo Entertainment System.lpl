@@ -1,0 +1,1556 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/1942 Cold Winter (Hack).zip",
+      "label": "1942 Cold Winter (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/8 Eyes - Belmont's Quest - By Elbobelo (Hack).zip",
+      "label": "8 Eyes - Belmont's Quest - By Elbobelo (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Adventures of Ice Mario (Hack).zip",
+      "label": "Adventures of Ice Mario (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/ALF Escapes! (Hack).zip",
+      "label": "ALF Escapes! (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Arkanoid - Annoid (Hack).zip",
+      "label": "Arkanoid - Annoid (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Astyanax - The Movie (Hack).zip",
+      "label": "Astyanax - The Movie (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Attack Animal Gakuen by Rinkaku (Hack).zip",
+      "label": "Attack Animal Gakuen by Rinkaku (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/AVGN VS Dr. Wily (Hack).zip",
+      "label": "AVGN VS Dr. Wily (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Back to the Future (Hack).zip",
+      "label": "Back to the Future (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Baseball Simulator 2013 (Hack).zip",
+      "label": "Baseball Simulator 2013 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Baseball Stars 1989 by Ignarant (Hack).zip",
+      "label": "Baseball Stars 1989 by Ignarant (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Batman Shadows of Gotham v1.1 (Hack).zip",
+      "label": "Batman Shadows of Gotham v1.1 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Battle City - Battle Road (Hack).zip",
+      "label": "Battle City - Battle Road (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Battle City - Googie City (Hack).zip",
+      "label": "Battle City - Googie City (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Battle City 2 (Hack).zip",
+      "label": "Battle City 2 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Big Trouble in Little China (Hack).zip",
+      "label": "Big Trouble in Little China (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Binary Land - Finaly Land (Hack).zip",
+      "label": "Binary Land - Finaly Land (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Bio Hazard (Hack).zip",
+      "label": "Bio Hazard (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Blades of Steel - S. American Championship (Hack).zip",
+      "label": "Blades of Steel - S. American Championship (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Blaster Master - Remaster (Hack).zip",
+      "label": "Blaster Master - Remaster (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Blob Bros 2 (Hack).zip",
+      "label": "Blob Bros 2 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Bomberman - Bomber Mario (Hack).zip",
+      "label": "Bomberman - Bomber Mario (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Bomberman - Mario Maze (Hack).zip",
+      "label": "Bomberman - Mario Maze (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Bowser Jr. (Hack).zip",
+      "label": "Bowser Jr. (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Bowser's Revenge (Hack).zip",
+      "label": "Bowser's Revenge (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Bubble Bobble - Arcade Version (Hack).zip",
+      "label": "Bubble Bobble - Arcade Version (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Bugs Bunny Crazy Castle - Second Ultimate Bugs Bunny Crazy Castle, The (Hack).zip",
+      "label": "Bugs Bunny Crazy Castle - Second Ultimate Bugs Bunny Crazy Castle, The (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Captain America - The Winter Soldier (Hack).zip",
+      "label": "Captain America - The Winter Soldier (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Castlevania - Blood Moon (Hack).zip",
+      "label": "Castlevania - Blood Moon (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Castlevania - Chorus of Mysteries (Hack).zip",
+      "label": "Castlevania - Chorus of Mysteries (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Castlevania - Dracula's Revenge (Hack).zip",
+      "label": "Castlevania - Dracula's Revenge (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Castlevania - Extreme (Hack).zip",
+      "label": "Castlevania - Extreme (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Castlevania - Orchestra of Despair (Hack).zip",
+      "label": "Castlevania - Orchestra of Despair (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Castlevania - Overflow Darkness (Hack).zip",
+      "label": "Castlevania - Overflow Darkness (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Castlevania - Prelude of Dark (Hack).zip",
+      "label": "Castlevania - Prelude of Dark (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Castlevania - Slumber of Darkness (Hack).zip",
+      "label": "Castlevania - Slumber of Darkness (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Castlevania 5 - Legacy (Hack).zip",
+      "label": "Castlevania 5 - Legacy (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Castlevania II - Dishonor Thy Father (Hack).zip",
+      "label": "Castlevania II - Dishonor Thy Father (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Castlevania III - Resurrection (Hack).zip",
+      "label": "Castlevania III - Resurrection (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Chip 'n Dale Rescue Rangers - Alternative (Hack).zip",
+      "label": "Chip 'n Dale Rescue Rangers - Alternative (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Chocobos Dungeon World (Hack).zip",
+      "label": "Chocobos Dungeon World (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Coin Quest - Starring Mario & Luigi (Hack).zip",
+      "label": "Coin Quest - Starring Mario & Luigi (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Contra - Super Contra II (Hack).zip",
+      "label": "Contra - Super Contra II (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Darkwing Duck Advance (Hack).zip",
+      "label": "Darkwing Duck Advance (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Deadpool (Hack).zip",
+      "label": "Deadpool (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Donkey Kong Country (Hack).zip",
+      "label": "Donkey Kong Country (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Double Dragon Chuck Norris (Hack).zip",
+      "label": "Double Dragon Chuck Norris (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Double Dragon II - Boss Edition by shinwa (Hack).zip",
+      "label": "Double Dragon II - Boss Edition by shinwa (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Dr Luigi (Hack).zip",
+      "label": "Dr Luigi (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Dragon Warrior - Dragoon X Final by Sliver X (Hack).zip",
+      "label": "Dragon Warrior - Dragoon X Final by Sliver X (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Dragoon X Omega I (Hack).zip",
+      "label": "Dragoon X Omega I (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Dragoon X Omega II - Easy (Hack).zip",
+      "label": "Dragoon X Omega II - Easy (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Elevator Action - Matrix, The (Hack).zip",
+      "label": "Elevator Action - Matrix, The (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Extra Mario Bros (Hack).zip",
+      "label": "Extra Mario Bros (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/FIFA World Cup 2014 (Hack).zip",
+      "label": "FIFA World Cup 2014 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Final Fantasy - Another Story (Hack).zip",
+      "label": "Final Fantasy - Another Story (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Final Fantasy II - Demonic Pandemonium (Hack).zip",
+      "label": "Final Fantasy II - Demonic Pandemonium (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Final Fantasy VII  (Hack).zip",
+      "label": "Final Fantasy VII  (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Getsufuuma Densetsu (Hack).zip",
+      "label": "Getsufuuma Densetsu (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Ghosts 'n Goblins - Hallows Eve (Hack).zip",
+      "label": "Ghosts 'n Goblins - Hallows Eve (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Ghosts 'N Goblins Hardtype (Hack).zip",
+      "label": "Ghosts 'N Goblins Hardtype (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/God of War (Hack).zip",
+      "label": "God of War (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/God of War 2 (Hack).zip",
+      "label": "God of War 2 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Golf - Kiss Goes Golfing starring Peter Criss (Hack).zip",
+      "label": "Golf - Kiss Goes Golfing starring Peter Criss (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Gradius - Luidius (Hack).zip",
+      "label": "Gradius - Luidius (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Gradius II Arcade (Hack).zip",
+      "label": "Gradius II Arcade (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Hydlide Special by Y.Project (Hack).zip",
+      "label": "Hydlide Special by Y.Project (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Hyrule Warriors (Hack).zip",
+      "label": "Hyrule Warriors (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Ice Climber MacBee (Hack).zip",
+      "label": "Ice Climber MacBee (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Impact Wrestling (Hack).zip",
+      "label": "Impact Wrestling (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Jeopardy! - Battletoads Edition (Hack).zip",
+      "label": "Jeopardy! - Battletoads Edition (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Kaison Star Force (Hack).zip",
+      "label": "Kaison Star Force (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Kart Fighter (Hack).zip",
+      "label": "Kart Fighter (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Kickle Cubicle - Mean Kickle Cubicle (Hack).zip",
+      "label": "Kickle Cubicle - Mean Kickle Cubicle (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Kid Icarus - Angel Land Story (Hack).zip",
+      "label": "Kid Icarus - Angel Land Story (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Kid Icarus - Retold Edition (Hack).zip",
+      "label": "Kid Icarus - Retold Edition (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Kung Fu 2 (Hack).zip",
+      "label": "Kung Fu 2 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Kung Fu Mario (Hack).zip",
+      "label": "Kung Fu Mario (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Legend of Zelda - Outlands Final by GameMakr24 (Hack).zip",
+      "label": "Legend of Zelda - Outlands Final by GameMakr24 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Legend of Zelda - Search for Link, The (Hack).zip",
+      "label": "Legend of Zelda - Search for Link, The (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Legend of Zelda - Zelda Story, The (Hack).zip",
+      "label": "Legend of Zelda - Zelda Story, The (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Little Nemo - Pimpin Extasy (Hack).zip",
+      "label": "Little Nemo - Pimpin Extasy (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Lode Runner - Omeka (Hack).zip",
+      "label": "Lode Runner - Omeka (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Luigi Bros. (Hack).zip",
+      "label": "Luigi Bros. (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Lunar Ball - Loony Pool (Hack).zip",
+      "label": "Lunar Ball - Loony Pool (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/M-Tee's Box-Art Bomberman (Hack).zip",
+      "label": "M-Tee's Box-Art Bomberman (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Mario Adventure (Hack).zip",
+      "label": "Mario Adventure (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Mario Bros. - Evil Tetris Hack (Hack).zip",
+      "label": "Mario Bros. - Evil Tetris Hack (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Mario Bros. - Hell Bros. Edition (Hack).zip",
+      "label": "Mario Bros. - Hell Bros. Edition (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Mario Fantasy (Hack).zip",
+      "label": "Mario Fantasy (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Mario Runner (Hack).zip",
+      "label": "Mario Runner (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Mario Runner 2 - AID (Hack).zip",
+      "label": "Mario Runner 2 - AID (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Mario vs Mario (Hack).zip",
+      "label": "Mario vs Mario (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Master Fighter II (Hack).zip",
+      "label": "Master Fighter II (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Mega Man Reloaded (Hack).zip",
+      "label": "Mega Man Reloaded (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/MegaMan III - Battle Of Gamma (Hack).zip",
+      "label": "MegaMan III - Battle Of Gamma (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Megaman in the Mushroom Kingdom (Hack).zip",
+      "label": "Megaman in the Mushroom Kingdom (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Metroid - Adventure (Hack).zip",
+      "label": "Metroid - Adventure (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Metroid - Bionic Metroid (Hack).zip",
+      "label": "Metroid - Bionic Metroid (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Metroid - Mother Brain Returns (Hack).zip",
+      "label": "Metroid - Mother Brain Returns (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Metroid - Rogue_Dawn (Hack).zip",
+      "label": "Metroid - Rogue_Dawn (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Metroid - SMB - Wart's Invasion (Hack).zip",
+      "label": "Metroid - SMB - Wart's Invasion (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Metroid Deluxe (Hack).zip",
+      "label": "Metroid Deluxe (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Metroid Mario (Hack).zip",
+      "label": "Metroid Mario (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Metroid Origin (Hack).zip",
+      "label": "Metroid Origin (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Milionesy (Hack).zip",
+      "label": "Milionesy (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Moai-kun - Luigi-kun (Hack).zip",
+      "label": "Moai-kun - Luigi-kun (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Moai-kun - Mario-kun (Hack).zip",
+      "label": "Moai-kun - Mario-kun (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Mortal Kombat 3 - Special 56 Peoples (Hack).zip",
+      "label": "Mortal Kombat 3 - Special 56 Peoples (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Mortal Kombat II Special (Hack).zip",
+      "label": "Mortal Kombat II Special (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Mortal Kombat Trilogy (Hack).zip",
+      "label": "Mortal Kombat Trilogy (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/My Little Pony - Discords Conquest (Hack).zip",
+      "label": "My Little Pony - Discords Conquest (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/New Mario Bros. (Hack).zip",
+      "label": "New Mario Bros. (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/New Super Mario Bros 3 (Hack).zip",
+      "label": "New Super Mario Bros 3 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/NHL Pro Sport Hockey 2016 (Hack).zip",
+      "label": "NHL Pro Sport Hockey 2016 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Ninja Gaiden - Virgin Edition (Hack).zip",
+      "label": "Ninja Gaiden - Virgin Edition (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Ninja Gaiden evil edition (Hack).zip",
+      "label": "Ninja Gaiden evil edition (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/PepsiMan (Hack).zip",
+      "label": "PepsiMan (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Perfect Dark (Hack).zip",
+      "label": "Perfect Dark (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Pony Poki Panic (Hack).zip",
+      "label": "Pony Poki Panic (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/R-Type (Hack).zip",
+      "label": "R-Type (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/R.B.I. Baseball 2016 (Hack).zip",
+      "label": "R.B.I. Baseball 2016 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/R.B.I. Baseball 2018 (Hack).zip",
+      "label": "R.B.I. Baseball 2018 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Rick and Morty (Hack).zip",
+      "label": "Rick and Morty (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Rockman 4 - Rockman Sparking to Hero (Hack).zip",
+      "label": "Rockman 4 - Rockman Sparking to Hero (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Roger Rabbit FDS (Hack).zip",
+      "label": "Roger Rabbit FDS (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Rush'n Attack - Ultra Difficult Edition (Hack).zip",
+      "label": "Rush'n Attack - Ultra Difficult Edition (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Russian_Roulette (Hack).zip",
+      "label": "Russian_Roulette (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Seicross - Graros (Hack).zip",
+      "label": "Seicross - Graros (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/SMB3 The Rainbow Realms (Hack).zip",
+      "label": "SMB3 The Rainbow Realms (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Snake Rattle N Roll - Isometric Controls (Hack).zip",
+      "label": "Snake Rattle N Roll - Isometric Controls (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Sochi 2014 Blades of Steel Hack (Hack).zip",
+      "label": "Sochi 2014 Blades of Steel Hack (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Sonic The Hedgehog (Hack).zip",
+      "label": "Sonic The Hedgehog (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Southpark - Zelda Adventure (Hack).zip",
+      "label": "Southpark - Zelda Adventure (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Space Invaders - Empire Invaders (Hack).zip",
+      "label": "Space Invaders - Empire Invaders (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Spaceship Invasion by Seth (Hack).zip",
+      "label": "Spaceship Invasion by Seth (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Spiderman 2 (Hack).zip",
+      "label": "Spiderman 2 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Star Wars (Hack).zip",
+      "label": "Star Wars (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Street Fighter Alpha Zero 97 (Hack).zip",
+      "label": "Street Fighter Alpha Zero 97 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Street Fighter II - The World Warrior (Hack).zip",
+      "label": "Street Fighter II - The World Warrior (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Strider - Matic Unit (Hack).zip",
+      "label": "Strider - Matic Unit (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Summer Carnival 92 Recca (Hack).zip",
+      "label": "Summer Carnival 92 Recca (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Castlevania II - (Hack).zip",
+      "label": "Super Castlevania II - (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Dodge Ball V1.00 by akatranslations (Hack).zip",
+      "label": "Super Dodge Ball V1.00 by akatranslations (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Donkey Kong - Banana Boat (Hack).zip",
+      "label": "Super Donkey Kong - Banana Boat (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Kaizo Bros. (Hack).zip",
+      "label": "Super Kaizo Bros. (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Luigi Bros. 3 (Hack).zip",
+      "label": "Super Luigi Bros. 3 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Mario Adventures (Hack).zip",
+      "label": "Super Mario Adventures (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Mario Bros - Cozy With Death. (Hack).zip",
+      "label": "Super Mario Bros - Cozy With Death. (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Mario Bros - Luigi Xmas Quest (Hack).zip",
+      "label": "Super Mario Bros - Luigi Xmas Quest (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Mario Bros 3 mix (Hack).zip",
+      "label": "Super Mario Bros 3 mix (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Mario Bros Continued. (Hack).zip",
+      "label": "Super Mario Bros Continued. (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Mario Bros Suicide Extreme. (Hack).zip",
+      "label": "Super Mario Bros Suicide Extreme. (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Mario Bros. - Yoshi's Quest (Hack).zip",
+      "label": "Super Mario Bros. - Yoshi's Quest (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Mario Bros. 2 - Christmas Edition by BMF54123 (Hack).zip",
+      "label": "Super Mario Bros. 2 - Christmas Edition by BMF54123 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Mario Bros. 3 - Present Panic - A Princess Adventure (Hack).zip",
+      "label": "Super Mario Bros. 3 - Present Panic - A Princess Adventure (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Mario Bros. 3 Ridley X Hack 4 (Hack).zip",
+      "label": "Super Mario Bros. 3 Ridley X Hack 4 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Mario Bros. 3.87 Heartless (Hack).zip",
+      "label": "Super Mario Bros. 3.87 Heartless (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Mario Forever Frustation (Hack).zip",
+      "label": "Super Mario Forever Frustation (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Mario Unlimited (Hack).zip",
+      "label": "Super Mario Unlimited (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Mario Warrior (Hack).zip",
+      "label": "Super Mario Warrior (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Pokemon Brothers 2 (Hack).zip",
+      "label": "Super Pokemon Brothers 2 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Super Sheffy Bros (Hack).zip",
+      "label": "Super Sheffy Bros (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Superman 2 (Hack).zip",
+      "label": "Superman 2 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/TECMO GREY CUP 2016 (Hack).zip",
+      "label": "TECMO GREY CUP 2016 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Tecmo Super Bowl 2017 (Hack).zip",
+      "label": "Tecmo Super Bowl 2017 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Tecmo Super Bowl 2018 (Hack).zip",
+      "label": "Tecmo Super Bowl 2018 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Tecmo Super Bowl 2019 (Hack).zip",
+      "label": "Tecmo Super Bowl 2019 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Tecmo Super Bowl X XFL (Hack).zip",
+      "label": "Tecmo Super Bowl X XFL (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Teenage Mutant Ninja Turtles III - The Manhattan Project by shinwa (Hack).zip",
+      "label": "Teenage Mutant Ninja Turtles III - The Manhattan Project by shinwa (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/The All New Punch-Out!! (Hack).zip",
+      "label": "The All New Punch-Out!! (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/The Legend of Banjo (Hack).zip",
+      "label": "The Legend of Banjo (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/The Legend of Zelda - DX (Hack).zip",
+      "label": "The Legend of Zelda - DX (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/The Legend of Zelda - Triforce of the Gods (Hack).zip",
+      "label": "The Legend of Zelda - Triforce of the Gods (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/The Legend of Zelda- Link's Shadow (Hack).zip",
+      "label": "The Legend of Zelda- Link's Shadow (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/The Lion King Legend (Hack).zip",
+      "label": "The Lion King Legend (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/The LJN Defender (Hack).zip",
+      "label": "The LJN Defender (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/The Terminator (Hack).zip",
+      "label": "The Terminator (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Titanic (Hack).zip",
+      "label": "Titanic (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Treasures of Elnark (Hack).zip",
+      "label": "Treasures of Elnark (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Ultima - Exodus (Hack).zip",
+      "label": "Ultima - Exodus (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Ultimate Mortal Kombat 3 (Hack).zip",
+      "label": "Ultimate Mortal Kombat 3 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Uncle Mario Bros (Hack).zip",
+      "label": "Uncle Mario Bros (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Vs. Super Mario Bros. - Home Edition (Hack).zip",
+      "label": "Vs. Super Mario Bros. - Home Edition (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Wario Blast - PAPORB (Hack).zip",
+      "label": "Wario Blast - PAPORB (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Wario Bros 3 (Hack).zip",
+      "label": "Wario Bros 3 (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Warioland II (Hack).zip",
+      "label": "Warioland II (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Warios Woods - G Autumn Yesterday (Hack).zip",
+      "label": "Warios Woods - G Autumn Yesterday (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Wheel of Fortune Gamer Edition (Hack).zip",
+      "label": "Wheel of Fortune Gamer Edition (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/WWE Wrestling (Hack).zip",
+      "label": "WWE Wrestling (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Zelda - BL - Links Desert Escape (Hack).zip",
+      "label": "Zelda - BL - Links Desert Escape (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Zelda - Challenge of Outlands (Hack).zip",
+      "label": "Zelda - Challenge of Outlands (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Zelda - Time Crisis - Fall of Moon (Hack).zip",
+      "label": "Zelda - Time Crisis - Fall of Moon (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Nintendo Entertainment System Hacks/Zelda I - Modern (Hack).zip",
+      "label": "Zelda I - Modern (Hack)",
+      "core_path": ".config/retroarch/cores/nestopia_libretro.so",
+      "core_name": "fceumm",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Nintendo Entertainment System.lpl"
+    }
+  ]
+}

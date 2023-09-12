@@ -1,0 +1,243 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/1941.zip",
+      "label": "1941 - Counter Attack (900227 World)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "64e58dc3|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/dino.zip",
+      "label": "Cadillacs & Dinosaurs (930201 World)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "5214c514|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/cworld2j.zip",
+      "label": "Adventure Quiz Capcom World 2 (920611 Japan)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "5871a52a|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/captcomm.zip",
+      "label": "Captain Commando (911202 World)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "903715ae|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/cawing.zip",
+      "label": "Carrier Air Wing (U.S. navy 901012 etc)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "31b0791c|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/dynwar.zip",
+      "label": "Dynasty Wars (US set 1)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "13133f73|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/ffight.zip",
+      "label": "Final Fight (World, set 1)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "e5524363|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/forgottn.zip",
+      "label": "Forgotten Worlds (World, newer)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "0c6f70cb|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/ghouls.zip",
+      "label": "Ghouls'n Ghosts",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "b5e40bef|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/knights.zip",
+      "label": "Knights of the Round (911127 etc)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "29bc394f|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/msword.zip",
+      "label": "Magic Sword - heroic fantasy (25.07.1990 other country)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "cf246210|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/megaman.zip",
+      "label": "Mega Man - the power battle (951006 USA)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "779c1ce7|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mtwins.zip",
+      "label": "Mega Twins (chiki chiki boys 900619 etc)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "37c648be|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mercs.zip",
+      "label": "Mercs (900302 etc)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "7f0f6ae0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/mbombrd.zip",
+      "label": "Muscle Bomber Duo - ultimate team battle (931206 World)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "7e214fc4|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/nemo.zip",
+      "label": "Nemo (90 11 30 etc)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "2de12145|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/pnickj.zip",
+      "label": "Pnickies (940608 Japan)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "772ddca5|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/slammast.zip",
+      "label": "Saturday Night Slam Masters (Slam Masters 930713 World)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "26eb81a2|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sf2.zip",
+      "label": "Street Fighter II - The World Warrior (910522 World)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "b62d0bc7|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sf2ce.zip",
+      "label": "Street Fighter II' - Champion Edition (street fighter 2' 920513 World)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "60ff7935|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/sf2hf.zip",
+      "label": "Street Fighter II' - Hyper Fighting (street fighter 2' T 921209 World)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "a86f0c6c|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/strider.zip",
+      "label": "Strider (US set 1)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "329fb3e2|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/kod.zip",
+      "label": "The King of Dragons (World 910805)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "56ef54fe|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/punisher.zip",
+      "label": "The Punisher (930422 World)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "2e7981b0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/3wonders.zip",
+      "label": "Three Wonders (wonder 3 910520 etc)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "c1a3cc0c|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/unsquad.zip",
+      "label": "U.N. Squadron (US)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "01adc184|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/varth.zip",
+      "label": "Varth - operation thunderstorm (920714 etc)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "b732bb4d|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/wof.zip",
+      "label": "Warriors of Fate (921031 World)",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "1b231677|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/FBNeo - Arcade Games/willow.zip",
+      "label": "Willow",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "890e3c76|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    }
+  ]
+}

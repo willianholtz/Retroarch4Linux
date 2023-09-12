@@ -1,0 +1,444 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Ace of Aces (USA).zip",
+      "label": "Ace of Aces",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Alien Brigade (USA).zip",
+      "label": "Alien Brigade",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Asteroids (USA).zip",
+      "label": "Asteroids",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Ballblazer (USA).zip",
+      "label": "Ballblazer",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Basketbrawl (USA).zip",
+      "label": "Basketbrawl",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Centipede (USA).zip",
+      "label": "Centipede",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Choplifter! (USA).zip",
+      "label": "Choplifter!",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Commando (USA).zip",
+      "label": "Commando",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Crack'ed (USA).zip",
+      "label": "Crack'ed",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Crossbow (USA).zip",
+      "label": "Crossbow",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Dark Chambers (USA).zip",
+      "label": "Dark Chambers",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Desert Falcon (USA).zip",
+      "label": "Desert Falcon",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Dig Dug (USA).zip",
+      "label": "Dig Dug",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Donkey Kong (USA).zip",
+      "label": "Donkey Kong",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Donkey Kong Junior (USA).zip",
+      "label": "Donkey Kong Junior",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Double Dragon (USA).zip",
+      "label": "Double Dragon",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/F-18 Hornet (USA).zip",
+      "label": "F-18 Hornet",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Fatal Run (USA).zip",
+      "label": "Fatal Run",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Fight Night (USA).zip",
+      "label": "Fight Night",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Food Fight (USA).zip",
+      "label": "Food Fight",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Galaga (USA).zip",
+      "label": "Galaga",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Hat Trick (USA).zip",
+      "label": "Hat Trick",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Ikari Warriors (USA).zip",
+      "label": "Ikari Warriors",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Impossible Mission (USA).zip",
+      "label": "Impossible Mission",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Jinks (USA).zip",
+      "label": "Jinks",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Joust (USA).zip",
+      "label": "Joust",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Karateka (USA).zip",
+      "label": "Karateka",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Kung-Fu Master (USA).zip",
+      "label": "Kung-Fu Master",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Mario Bros. (USA).zip",
+      "label": "Mario Bros.",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Mat Mania Challenge (USA).zip",
+      "label": "Mat Mania Challenge",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Mean 18 Ultimate Golf (USA).zip",
+      "label": "Mean 18 Ultimate Golf",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Meltdown (USA).zip",
+      "label": "Meltdown",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Midnight Mutants (USA).zip",
+      "label": "Midnight Mutants",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Motor Psycho (USA).zip",
+      "label": "Motor Psycho",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Ms. Pac-Man (USA).zip",
+      "label": "Ms. Pac-Man",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Ninja Golf (USA).zip",
+      "label": "Ninja Golf",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/One-on-One Basketball (USA).zip",
+      "label": "One-on-One Basketball",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Pete Rose Baseball (USA).zip",
+      "label": "Pete Rose Baseball",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Planet Smashers (USA).zip",
+      "label": "Planet Smashers",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Pole Position II (USA).zip",
+      "label": "Pole Position II",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Rampage (USA).zip",
+      "label": "Rampage",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/RealSports Baseball (USA).zip",
+      "label": "RealSports Baseball",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Robotron - 2084 (USA).zip",
+      "label": "Robotron - 2084",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Scrapyard Dog (USA).zip",
+      "label": "Scrapyard Dog",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Summer Games (USA).zip",
+      "label": "Summer Games",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Super Huey UH-1X (USA).zip",
+      "label": "Super Huey UH-1X",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Super Skateboardin' (USA).zip",
+      "label": "Super Skateboardin'",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Tank Command (USA).zip",
+      "label": "Tank Command",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Title Match Pro Wrestling (USA).zip",
+      "label": "Title Match Pro Wrestling",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Tomcat - The F-14 Fighter Simulator (USA).zip",
+      "label": "Tomcat - The F-14 Fighter Simulator",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Touchdown Football (USA).zip",
+      "label": "Touchdown Football",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Water Ski (USA).zip",
+      "label": "Water Ski",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Winter Games (USA).zip",
+      "label": "Winter Games",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Xenophobe (USA).zip",
+      "label": "Xenophobe",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Atari - 7800/Xevious (USA).zip",
+      "label": "Xevious",
+      "core_path": ".config/retroarch/cores/prosystem_libretro.so",
+      "core_name": "prosystem",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 7800.lpl"
+    }
+  ]
+}

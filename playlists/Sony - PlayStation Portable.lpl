@@ -8,6 +8,22 @@
   "sort_mode": 0,
   "items": [
     {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Gran Turismo (USA) (En,Fr,Es).iso",
+      "label": "Gran Turismo (USA) (En,Fr,Es)",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "UCUS-98632|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Street Fighter Alpha 3 MAX (USA).iso",
+      "label": "Street Fighter Alpha 3 Max (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "ULUS-10062|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Ultimate Ghosts 'n Goblins (USA).iso",
       "label": "Ultimate Ghosts 'n Goblins (USA)",
       "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
