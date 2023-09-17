@@ -1,1156 +1,267 @@
 {
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
   "items": [
     {
-      "path": ".config/retroarch/roms/Sony - Playstation/3D Lemmings (USA).cue",
-      "label": "3D Lemmings",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
+      "path": "/home/willian/.config/retroarch/roms/Sega - CD/Syndicate (Europe).chd",
+      "label": "Syndicate Wars (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00262|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Castlevania - Symphony of the Night (USA).chd",
+      "label": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (Rev 1)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLPM-86023|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Alone in the Dark - The New Nightmare (USA) (Disc 1).chd",
+      "label": "Alone in the Dark - The New Nightmare (USA) (Disc 1)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-01201-0|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Alone in the Dark - The New Nightmare (USA) (Disc 2).chd",
+      "label": "Alone in the Dark - The New Nightmare (USA) (Disc 2)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-01377-1|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Darkstalkers - The Night Warriors (USA).chd",
+      "label": "Darkstalkers - The Night Warriors (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00036|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Darkstalkers 3 (USA).chd",
+      "label": "Darkstalkers 3 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00745|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Dino Crisis (USA) (Rev 1).chd",
+      "label": "Dino Crisis (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00922|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Dino Crisis 2 (USA).chd",
+      "label": "Dino Crisis 2 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-01279|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Final Fantasy Chronicles - Chrono Trigger (USA) (Rev 1).chd",
+      "label": "Final Fantasy Chronicles - Chrono Trigger (USA) (Beta)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-01363|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/International Superstar Soccer Deluxe (Europe).chd",
+      "label": "International Superstar Soccer Deluxe (Europe)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLES-00511|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Looney Tunes - Sheep Raider (USA).chd",
+      "label": "Looney Tunes - Sheep Raider (USA) (En,Fr,Es,Pt)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-01369|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Medal of Honor (USA).chd",
+      "label": "Medal of Honor (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00974|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Medal of Honor - Underground (USA).chd",
+      "label": "Medal of Honor - Underground (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-01270|serial",
+      "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": ".config/retroarch/roms/Sony - Playstation/3Xtreme (USA).cue",
-      "label": "3Xtreme",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mega Man X4 (USA).chd",
+      "label": "Mega Man X4 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00561|serial",
+      "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": ".config/retroarch/roms/Sony - Playstation/All-Star Slammin' D-Ball (USA).cue",
-      "label": "All-Star Slammin' D-Ball",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mega Man X5 (USA).chd",
+      "label": "Mega Man X5 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-01334|serial",
+      "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": ".config/retroarch/roms/Sony - Playstation/Asteroids (USA).cue",
-      "label": "Asteroids",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mega Man X6 (USA).chd",
+      "label": "Mega Man X6 (USA) (Rev 1)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-01395|serial",
+      "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": ".config/retroarch/roms/Sony - Playstation/Batman Forever - The Arcade Game (USA).cue",
-      "label": "Batman Forever - The Arcade Game",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mortal Kombat Trilogy (USA).chd",
+      "label": "Mortal Kombat Trilogy (USA) (Rev 1)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00330|serial",
+      "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": ".config/retroarch/roms/Sony - Playstation/Battle Arena Toshinden (USA).cue",
-      "label": "Battle Arena Toshinden",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Resident Evil 2 (USA) (Disc 1).chd",
+      "label": "Resident Evil 2 (USA) (Disc 1)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00421-0|serial",
+      "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": ".config/retroarch/roms/Sony - Playstation/Bomberman - Party Edition (USA).cue",
-      "label": "Bomberman - Party Edition",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Resident Evil 2 (USA) (Disc 2).chd",
+      "label": "Resident Evil 2 (USA) (Disc 2)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00592-1|serial",
+      "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": ".config/retroarch/roms/Sony - Playstation/Bomberman World (USA).cue",
-      "label": "Bomberman World",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/C - The Contra Adventure (USA).cue",
-      "label": "C - The Contra Adventure",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Capcom vs. SNK - Millennium Fight 2000 Pro (Europe).cue",
-      "label": "Capcom vs. SNK - Millennium Fight 2000 Pro",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Capcom vs. SNK Pro (USA).cue",
-      "label": "Capcom vs. SNK Pro",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Castlevania - Symphony of the Night (USA).cue",
-      "label": "Castlevania - Symphony of the Night",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Castlevania Chronicles (USA).cue",
-      "label": "Castlevania Chronicles",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Centipede (USA).cue",
-      "label": "Centipede",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Chocobo Racing (USA).cue",
-      "label": "Chocobo Racing",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Colin McRae Rally (USA).cue",
-      "label": "Colin McRae Rally",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Contra - Legacy of War (USA).cue",
-      "label": "Contra - Legacy of War",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Cool Boarders (USA).cue",
-      "label": "Cool Boarders",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Cool Boarders 2 (USA).cue",
-      "label": "Cool Boarders 2",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Cool Boarders 4 (USA).cue",
-      "label": "Cool Boarders 4",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Crash Bandicoot (USA).cue",
-      "label": "Crash Bandicoot",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Crash Bandicoot - Warped (USA).cue",
-      "label": "Crash Bandicoot - Warped",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Crash Bandicoot 2 - Cortex Strikes Back (USA).cue",
-      "label": "Crash Bandicoot 2 - Cortex Strikes Back",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Darkstalkers - The Night Warriors (USA).cue",
-      "label": "Darkstalkers - The Night Warriors",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Destruction Derby (USA).cue",
-      "label": "Destruction Derby",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Disney's Tarzan (USA).cue",
-      "label": "Disney's Tarzan",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Doom (USA).cue",
-      "label": "Doom",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Einhander (USA).cue",
-      "label": "Einhander",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Family Card Games Fun Pack (USA).cue",
-      "label": "Family Card Games Fun Pack",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/FIFA Soccer 97 (USA).cue",
-      "label": "FIFA Soccer 97",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Final Fantasy Anthology - Final Fantasy V (USA).cue",
-      "label": "Final Fantasy Anthology - Final Fantasy V",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Final Fantasy Anthology - Final Fantasy VI (USA).cue",
-      "label": "Final Fantasy Anthology - Final Fantasy VI",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Final Fantasy Chronicles - Chrono Trigger (USA).cue",
-      "label": "Final Fantasy Chronicles - Chrono Trigger",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Final Fantasy Chronicles - Final Fantasy IV (USA).cue",
-      "label": "Final Fantasy Chronicles - Final Fantasy IV",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Final Fantasy IX (USA).m3u",
-      "label": "Final Fantasy IX",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Final Fantasy Origins (USA).cue",
-      "label": "Final Fantasy Origins",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Final Fantasy Tactics (USA).cue",
-      "label": "Final Fantasy Tactics",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Final Fantasy VII (USA).m3u",
-      "label": "Final Fantasy VII",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Final Fantasy VIII (USA).m3u",
-      "label": "Final Fantasy VIII",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Frogger (USA).cue",
-      "label": "Frogger",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/G. Darius (USA).cue",
-      "label": "G. Darius",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Galaga - Destination Earth (USA).cue",
-      "label": "Galaga - Destination Earth",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Gekido - Urban Fighters (USA).cue",
-      "label": "Gekido - Urban Fighters",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Gekioh - Shooting King (USA).cue",
-      "label": "Gekioh - Shooting King",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Gex (USA).cue",
-      "label": "Gex",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Gex 3 - Deep Cover Gecko (USA).cue",
-      "label": "Gex 3 - Deep Cover Gecko",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Gran Turismo (USA).cue",
-      "label": "Gran Turismo",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Guilty Gear (USA).cue",
-      "label": "Guilty Gear",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/In the Hunt (USA).cue",
-      "label": "In the Hunt",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/International Track & Field (USA).cue",
-      "label": "International Track & Field",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Iron Man & X-O Manowar in Heavy Metal (USA).cue",
-      "label": "Iron Man & X-O Manowar in Heavy Metal",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Irritating Stick (USA).cue",
-      "label": "Irritating Stick",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Johnny Bazookatone (USA).cue",
-      "label": "Johnny Bazookatone",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/JoJo's Bizarre Adventure (USA).cue",
-      "label": "JoJo's Bizarre Adventure",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Loaded (USA).cue",
-      "label": "Loaded",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Lode Runner (USA).cue",
-      "label": "Lode Runner",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Looney Tunes Racing (USA).cue",
-      "label": "Looney Tunes Racing",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Madden NFL 98 (USA).cue",
-      "label": "Madden NFL 98",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Mega Man 8 (USA).cue",
-      "label": "Mega Man 8",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Mega Man X4 (USA).cue",
-      "label": "Mega Man X4",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Mega Man X5 (USA).cue",
-      "label": "Mega Man X5",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Mega Man X6 (USA).cue",
-      "label": "Mega Man X6",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Metal Gear Solid (USA).m3u",
-      "label": "Metal Gear Solid",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Missile Command (USA).cue",
-      "label": "Missile Command",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/MLB 99 (USA).cue",
-      "label": "MLB 99",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Mobile Light Force (USA).cue",
-      "label": "Mobile Light Force",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Monopoly (USA).cue",
-      "label": "Monopoly",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Mortal Kombat - Special Forces (USA).cue",
-      "label": "Mortal Kombat - Special Forces",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Mortal Kombat 3 (USA).cue",
-      "label": "Mortal Kombat 3",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Mortal Kombat 4 (USA).cue",
-      "label": "Mortal Kombat 4",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Mortal Kombat Mythologies - Sub-Zero (USA).cue",
-      "label": "Mortal Kombat Mythologies - Sub-Zero",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Mortal Kombat Trilogy (USA).cue",
-      "label": "Mortal Kombat Trilogy",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Ms. Pac-Man - Maze Madness (USA).cue",
-      "label": "Ms. Pac-Man - Maze Madness",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Nagano Winter Olympics '98 (USA).cue",
-      "label": "Nagano Winter Olympics '98",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/NASCAR 98 - Collector's Edition (USA).cue",
-      "label": "NASCAR 98 - Collector's Edition",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/NASCAR Racing (USA).cue",
-      "label": "NASCAR Racing",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/NBA Jam - Tournament Edition (USA).cue",
-      "label": "NBA Jam - Tournament Edition",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Next Tetris, The (USA).cue",
-      "label": "Next Tetris, The",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/NFL Blitz 2000 (USA).cue",
-      "label": "NFL Blitz 2000",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/NHL 97 (USA).cue",
-      "label": "NHL 97",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/NHL Breakaway 98 (USA).cue",
-      "label": "NHL Breakaway 98",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/NHL Open Ice - 2 on 2 Challenge (USA).cue",
-      "label": "NHL Open Ice - 2 on 2 Challenge",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Novastorm (USA).m3u",
-      "label": "Novastorm",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Oddworld - Abe's Oddysee (USA).cue",
-      "label": "Oddworld - Abe's Oddysee",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Olympic Summer Games (USA).cue",
-      "label": "Olympic Summer Games",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Pac-Man World (USA).cue",
-      "label": "Pac-Man World",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Pandemonium! (USA).cue",
-      "label": "Pandemonium!",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Pepsiman (Japan).cue",
-      "label": "Pepsiman",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/PGA Tour 98 (USA).cue",
-      "label": "PGA Tour 98",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Philosoma (USA).cue",
-      "label": "Philosoma",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Pinobee (USA).cue",
-      "label": "Pinobee",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Pitfall 3D - Beyond the Jungle (USA).cue",
-      "label": "Pitfall 3D - Beyond the Jungle",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Q-bert (USA).cue",
-      "label": "Q-bert",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/R-Type Delta (USA).cue",
-      "label": "R-Type Delta",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Raiden Project, The (USA).cue",
-      "label": "Raiden Project, The",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Rayman (USA).cue",
-      "label": "Rayman",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Rayman 2 - The Great Escape (USA).cue",
-      "label": "Rayman 2 - The Great Escape",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/RayStorm (USA).cue",
-      "label": "RayStorm",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Resident Evil - Director's Cut (USA).cue",
-      "label": "Resident Evil - Director's Cut",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Ridge Racer (USA).cue",
-      "label": "Ridge Racer",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Ridge Racer Revolution (USA).cue",
-      "label": "Ridge Racer Revolution",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Road Rash (USA).cue",
-      "label": "Road Rash",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Rollcage (USA).cue",
-      "label": "Rollcage",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Rollcage Stage II (USA).cue",
-      "label": "Rollcage Stage II",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Samurai Shodown - Warriors Rage (USA).cue",
-      "label": "Samurai Shodown - Warriors Rage",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Samurai Shodown III - Blades of Blood (USA).cue",
-      "label": "Samurai Shodown III - Blades of Blood",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Scrabble (USA).cue",
-      "label": "Scrabble",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Simpsons, The - Wrestling (USA).cue",
-      "label": "Simpsons, The - Wrestling",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Slam 'n Jam '96 featuring Magic & Kareem (USA).cue",
-      "label": "Slam 'n Jam '96 featuring Magic & Kareem",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Slots (USA).cue",
-      "label": "Slots",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Smurfs, The (USA).cue",
-      "label": "Smurfs, The",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Space Invaders (USA).cue",
-      "label": "Space Invaders",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Space Jam (USA).cue",
-      "label": "Space Jam",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Space Shot (USA).cue",
-      "label": "Space Shot",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Spider - The Video Game (USA).cue",
-      "label": "Spider - The Video Game",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Spyro - Year of the Dragon (USA).cue",
-      "label": "Spyro - Year of the Dragon",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Spyro 2 - Ripto's Rage! (USA).cue",
-      "label": "Spyro 2 - Ripto's Rage!",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Spyro the Dragon (USA).cue",
-      "label": "Spyro the Dragon",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Star Wars - Episode I - The Phantom Menace (USA).cue",
-      "label": "Star Wars - Episode I - The Phantom Menace",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Strider (USA).cue",
-      "label": "Strider",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Strider 2 (USA).cue",
-      "label": "Strider 2",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Strikers 1945 (USA).cue",
-      "label": "Strikers 1945",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Super Bubble Pop (USA).cue",
-      "label": "Super Bubble Pop",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Tekken (USA).cue",
-      "label": "Tekken",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Tekken 2 (USA).cue",
-      "label": "Tekken 2",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Ten Pin Alley (USA).cue",
-      "label": "Ten Pin Alley",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Tennis (USA).cue",
-      "label": "Tennis",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Tetris Plus (USA).cue",
-      "label": "Tetris Plus",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Thunder Force V - Perfect System (USA).cue",
-      "label": "Thunder Force V - Perfect System",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Tiger Woods 99 PGA Tour Golf (USA).cue",
-      "label": "Tiger Woods 99 PGA Tour Golf",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Tomb Raider (USA).cue",
-      "label": "Tomb Raider",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Tony Hawk's Pro Skater (USA).cue",
-      "label": "Tony Hawk's Pro Skater",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Tony Hawk's Pro Skater 2 (USA).cue",
-      "label": "Tony Hawk's Pro Skater 2",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/True Pinball (USA).cue",
-      "label": "True Pinball",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Ultimate Brain Games (USA).cue",
-      "label": "Ultimate Brain Games",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/V-Tennis (USA).cue",
-      "label": "V-Tennis",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Vegas Games 2000 (USA).cue",
-      "label": "Vegas Games 2000",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Viewpoint (USA).cue",
-      "label": "Viewpoint",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/WarCraft II - The Dark Saga (USA).cue",
-      "label": "WarCraft II - The Dark Saga",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Who Wants to Be a Millionaire - 3rd Edition (USA).cue",
-      "label": "Who Wants to Be a Millionaire - 3rd Edition",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/WWF SmackDown! (USA).cue",
-      "label": "WWF SmackDown!",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/WWF WrestleMania - The Arcade Game (USA).cue",
-      "label": "WWF WrestleMania - The Arcade Game",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/X-Men - Mutant Academy 2 (USA).cue",
-      "label": "X-Men - Mutant Academy 2",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sony - Playstation/Xevious 3D-G+ (USA).cue",
-      "label": "Xevious 3D-G+",
-      "core_path": ".config/retroarch/cores/mednafen_psx_hw_libretro.so",
-      "core_name": "Sony - Playstation (Beetle PSX HW)",
-      "crc32": "00000000|crc",
-      "db_name": "Sony - Playstation.lpl"
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Resident Evil 3 - Nemesis (USA).chd",
+      "label": "Resident Evil 3 - Nemesis (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00923|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Silent Hill (USA).chd",
+      "label": "Silent Hill (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00707|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter Alpha - Warriors' Dreams (USA).chd",
+      "label": "Street Fighter Alpha - Warriors' Dreams (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00197|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter Alpha 2 (USA) (Rev 1).chd",
+      "label": "Street Fighter Alpha 2 (USA) (Rev 1)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00258|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter Alpha 3 (USA).chd",
+      "label": "Street Fighter Alpha 3 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00821|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter Collection (USA) (Disc 1) (Rev 1).chd",
+      "label": "Street Fighter Collection (USA) (Disc 1) (Rev 1)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00423-0|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter Collection (USA) (Disc 2) (Rev 1).chd",
+      "label": "Street Fighter Collection (USA) (Disc 2) (Rev 1)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00584-1|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter Collection 2 (USA).chd",
+      "label": "Street Fighter Collection 2 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00746|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter EX Plus Alpha (USA).chd",
+      "label": "Street Fighter EX Plus Alpha (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-00548|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Street Fighter EX2 Plus (USA).chd",
+      "label": "Street Fighter EX2 Plus (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-01105|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Strider (USA).chd",
+      "label": "Strider (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-01142|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Strider 2 (USA).chd",
+      "label": "Strider 2 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-01163|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Tony Hawk's Pro Skater 3 (USA).chd",
+      "label": "Tony Hawk's Pro Skater 3 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "SLUS-01419|serial",
+      "db_name": "Sony - PlayStation.lpl"
     }
   ]
 }

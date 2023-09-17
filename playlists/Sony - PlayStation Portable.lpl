@@ -8,15 +8,15 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Gran Turismo (USA) (En,Fr,Es).iso",
-      "label": "Gran Turismo (USA) (En,Fr,Es)",
-      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
-      "core_name": "Sony - PlayStation Portable (PPSSPP)",
-      "crc32": "UCUS-98632|serial",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Gran Turismo (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (v2.00).iso",
+      "label": "Gran Turismo (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (v2.00)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "UCES-01245|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Street Fighter Alpha 3 MAX (USA).iso",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Street Fighter Alpha 3 Max (USA).iso",
       "label": "Street Fighter Alpha 3 Max (USA)",
       "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
       "core_name": "Sony - PlayStation Portable (PPSSPP)",
@@ -24,11 +24,19 @@
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Ultimate Ghosts 'n Goblins (USA).iso",
-      "label": "Ultimate Ghosts 'n Goblins (USA)",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Tekken - Dark Resurrection (USA) (En,Fr,De,Es,It).iso",
+      "label": "Tekken - Dark Resurrection (USA) (En,Fr,De,Es,It)",
       "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
       "core_name": "Sony - PlayStation Portable (PPSSPP)",
-      "crc32": "ULUS-10105|serial",
+      "crc32": "ULUS-10139|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Ultimate Ghosts'n Goblins (Europe) (En,Fr,De,Es,It).iso",
+      "label": "Ultimate Ghosts 'n Goblins (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULES-00419|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     }
   ]

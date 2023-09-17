@@ -26,8 +26,8 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Crazy Taxi (USA).chd",
       "label": "Crazy Taxi (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "51035|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
@@ -42,8 +42,8 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Daytona USA (USA).chd",
       "label": "Daytona USA (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "51037|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
@@ -178,16 +178,16 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Resident Evil 3 - Nemesis (USA).chd",
       "label": "Resident Evil 3 - Nemesis (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1220N|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
       "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Street Fighter Alpha 3 (USA).chd",
       "label": "Street Fighter Alpha 3 (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1203N|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
