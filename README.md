@@ -31,3 +31,6 @@ All roms should be REDUMP preferably, thus making retro arch configuration files
 
 ## BIOS
 Bios are in the system folder, but only what is necessary for this project to work, if you want to change, or use other bios, use Google to do so!
+
+## TIP 1: You can found roms in archive.org.
+## TIP 2: Retroarch does not use MAME emulators, only FBNeo, and all roms work perfectly (as far as I was able to do the tests) so avoid using the MAME core (any of them, as you won't need it). There is a rom pack, which has 16GB with all the perfect roms, you can find it using the following keywords: Final Burn Alpha v0.2.97.43 Merged Arcade Roms Only (Torrent)
