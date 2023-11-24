@@ -1,6 +1,0 @@
-#reference "TER3-Terminal-AltMask.slangp"
-g_sat = "0.250000"
-ntsc_phase = "2.000000"
-HSHARPNESS = "1.250000"
-ntsc_scale = "1.100000"
-ntsc_sharp = "-1.500000"

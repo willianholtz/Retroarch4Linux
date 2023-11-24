@@ -1,5 +1,0 @@
-#reference "RIP1-Ripper.slangp"
-pre_bb = "1.165000"
-shadowMask = "10.000000"
-ntsc_scale = "2.100000"
-HSHARPNESS = "1.500000"

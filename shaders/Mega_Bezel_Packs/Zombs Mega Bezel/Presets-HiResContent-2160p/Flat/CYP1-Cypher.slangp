@@ -1,6 +1,0 @@
-#reference "JAM5-Jammer-Halation.slangp"
-gamma_out = "2.225000"
-gamma_c = "0.620000"
-ntsc_sharp = "-3.500000"
-glow = "0.550000"
-halation = "0.024000"
