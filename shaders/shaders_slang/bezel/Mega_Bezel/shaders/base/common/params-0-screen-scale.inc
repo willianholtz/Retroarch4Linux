@@ -23,7 +23,7 @@
 */
 
 // Screen Scale Required Parameters
-#pragma parameter HSM_MEGA_BEZEL_TITLE								"[ --- HSM MEGA BEZEL V1.12.0_2023-03-11 --- ]" 0 0 0.001 0.001
+#pragma parameter HSM_MEGA_BEZEL_TITLE								"[ --- HSM MEGA BEZEL V1.15.0_2023-11-25 --- ]" 0 0 0.001 0.001
 
 #pragma parameter HSM_RESOLUTION_DEBUG_ON							"          Show Resolution Info" 0 0 1 1
 float HSM_RESOLUTION_DEBUG_ON = global.HSM_RESOLUTION_DEBUG_ON;
@@ -308,25 +308,15 @@ float HSM_CROP_BLACK_THRESHOLD = global.HSM_CROP_BLACK_THRESHOLD / 100;
 //    DREZ Filter
 //---------------------------------------------------------------------------------------------------
 #pragma parameter HSM_GSHARP_DREZ_EMPTY_LINE		" " 0 0 0.001 0.001
-#pragma parameter GSHARP_DREZ_TITLE 	"[ --- DREZ DOWNSAMPLE FILTER - GUEST.R G-SHARP RESAMPLER --- ]:"  0 0 0.01 0.01
+#pragma parameter GSHARP_DREZ_TITLE 	    "[ --- DREZ DOWNSAMPLE FILTER - GUEST.R G-SHARP RESAMPLER --- ]:"  0 0 0.01 0.01
 
-#pragma parameter HSM_DREZ_GSHARP_ON 	"          G-SHARP ON" 	  1 0 1 1
+#pragma parameter HSM_DREZ_GSHARP_ON 	    "          G-SHARP ON" 	  1 0 1 1
+#pragma parameter HSM_DREZ_THRESHOLD_RATIO 	"         Downsample Threshold (Original Res Vs Downsampled Res)" 	  1.5 1 4 0.1
 // Default was 1.2, now set to 2.3 to match smoothing in Hyllian b-spline
-#pragma parameter HSM_DREZ_HSHARP0 		"          Filter Range"  2.3 1.0 6.0 0.1
+#pragma parameter HSM_DREZ_HSHARP0 		    "          Filter Range"  2.3 1.0 6.0 0.1
 #pragma parameter HSM_DREZ_SIGMA_HV 		"          Gaussian Blur Sigma" 0.75 0.1 7.0 0.05
 #pragma parameter HSM_DREZ_SHAR 			"          Sharpness Definition" 0.5 0.0 2.0 0.05
-#pragma parameter HSM_DREZ_HAR 			"          Anti-Ringing" 0.5 0.0 1.0 0.10
-
-//---------------------------------------------------------------------------------------------------
-//    SCANLINE DIRECTION
-//---------------------------------------------------------------------------------------------------
-#pragma parameter HSM_SCANLINE_EMPTY_LINE							" " 0 0 0.001 0.001
-#pragma parameter HSM_SCANLINE_TITLE								"[ SCANLINE DIRECTION ]:" 0 0 0.001 0.001
-
-#pragma parameter HSM_SCANLINE_DIRECTION 							"          Scanline Direction - Auto | Horiz | Vert"  0 0 2 1
-float HSM_SCANLINE_DIRECTION = global.HSM_SCANLINE_DIRECTION;
-
-#pragma parameter no_scanlines "          No-Scanline Mode (Guest Advanced Only)" 0.0 0.0 1.0 1.0
+#pragma parameter HSM_DREZ_HAR 			    "          Anti-Ringing" 0.5 0.0 1.0 0.10
 
 
 //---------------------------------------------------------------------------------------------------
@@ -355,30 +345,44 @@ float HSM_DOWNSAMPLE_BLUR_OPPOSITE_DIR = global.HSM_DOWNSAMPLE_BLUR_OPPOSITE_DIR
 //---------------------------------------------------------------------------------------------------
 #pragma parameter SHARPEN_EMPTY_LINE							" " 0 0 0.001 0.001
 #pragma parameter SHARPEN_TITLE  	"[ FAST SHARPEN - GUEST.R ]:"         			0.00 0.0 2.00 0.05
-#pragma parameter SHARPEN  			"          Sharpen Strength"    0.00 0.0 4.00 0.10 
-#pragma parameter CONTR    			"          Amount of Sharpening"  	0.05 0.0 0.25 0.01
-#pragma parameter DETAILS  			"          Details Sharpened"     	1.00 0.0 1.00 0.05
+#pragma parameter SHARPEN_ON  		"          FSharpen - ON"       		1 0 1 1
+#pragma parameter CSHARPEN          "          FSharpen - Sharpen strength"         0.00 0.0 5.00 0.10 
+#pragma parameter CCONTR            "          FSharpen - Sharpen Contrast/Ringing" 0.05 0.0 0.25 0.01 
+#pragma parameter CDETAILS          "          FSharpen - Details sharpened"        1.00 0.0 1.00 0.05 
+#pragma parameter DEBLUR            "          FSharpen - Deblur Strength (For NTSC Only)"          1.00 1.0 7.00 0.25 
+
 
 //---------------------------------------------------------------------------------------------------
-//    INTERLACING
+//    INTERLACING from Guest.r's Guest Advanced Shader
 //---------------------------------------------------------------------------------------------------
 #pragma parameter HSM_INTERLACE_EMPTY_LINE							" " 0 0 0.001 0.001
-#pragma parameter HSM_INTERLACE_TITLE								"[ INTERLACING From Guest.r :) ]:" 0 0 0.001 0.001
+#pragma parameter HSM_INTERLACE_TITLE								"[ SCANLINES & INTERLACING( By Guest.r) ]:" 0 0 0.001 0.001
+#pragma parameter HSM_SCANLINE_DIRECTION 							"          Scanline Direction - Auto | Horiz | Vert"  0 0 2 1
+float HSM_SCANLINE_DIRECTION = global.HSM_SCANLINE_DIRECTION;
 
-#pragma parameter HSM_INTERLACE_TRIGGER_RES 						"          Interlacing and Fake Scanlines Trigger Res" 650 100 2000 25
-#define HSM_INTERLACE_TRIGGER_RES global.HSM_INTERLACE_TRIGGER_RES
+// Uses naming from Guest Advanced
+#pragma parameter no_scanlines                                      "          No-Scanline Mode (Guest Advanced Only)" 0.0 0.0 1.5 0.05
 
-#pragma parameter HSM_INTERLACE_MODE 								"    Interlace Mode: -1:NO SCANLN 0:OFF 1-3:NORM 4-5:INTERPOLATE" 4 -1.0 5.0 1.0
+#pragma parameter HSM_INTERLACE_SUPPORT1							"[  Interlace Mode: What Happens if Vertical Res > Trigger Res ]" 0 0 0.001 0.001
+#pragma parameter HSM_INTERLACE_SUPPORT2 							"[ -1:NO SCANLN 0:NO LACE 1-3:NORM LACE 4-5:INTERPOLATE FIELDS ]" 0 0 0.0001 1
+
+#pragma parameter HSM_INTERLACE_MODE 								"          Interlace Mode:" 4 -1.0 5.0 1.0
 #define HSM_INTERLACE_MODE global.HSM_INTERLACE_MODE
 
-#pragma parameter HSM_INTERLACE_EFFECT_SMOOTHNESS_INTERS 			"          Interlacing Effect Smoothness" 0 0 100 10
+#pragma parameter HSM_INTERLACE_TRIGGER_RES 						"          Trigger Res for Interlace, Fake Scanlines & VGA" 375 100 2000 25
+#define HSM_INTERLACE_TRIGGER_RES global.HSM_INTERLACE_TRIGGER_RES
+
+#pragma parameter HSM_INTERLACE_EFFECT_SMOOTHNESS_INTERS 			"          Interlace Effect Smoothness" 0 0 100 10
 #define HSM_INTERLACE_EFFECT_SMOOTHNESS_INTERS global.HSM_INTERLACE_EFFECT_SMOOTHNESS_INTERS / 200
 
-#pragma parameter HSM_INTERLACE_SCANLINE_EFFECT 					"          Interlacing Scanline Effect" 20 0 100 5
+#pragma parameter HSM_INTERLACE_SCANLINE_EFFECT 					"          Interlace Scanline Effect ('Laced brightness)" 0.20 0.0 1.0 0.05
 #define HSM_INTERLACE_SCANLINE_EFFECT global.HSM_INTERLACE_SCANLINE_EFFECT / 100
 
-#pragma parameter iscans 				                            "          Interlacing (Scanline) Saturation" 0.25 0 1 0.05
+#pragma parameter iscans 				                            "          Interlace (Scanline) Saturation" 0.25 0 1 0.05
 #define iscans global.iscans
+
+#pragma parameter vga_mode                                          "          VGA Single/Double Scan mode" 0.0 0.0 1.0 1.0
+#define vga_mode  global.vga_mode     // interlace saturation
 
 
 //---------------------------------------------------------------------------------------------------
@@ -412,6 +416,32 @@ float HSM_DOWNSAMPLE_BLUR_OPPOSITE_DIR = global.HSM_DOWNSAMPLE_BLUR_OPPOSITE_DIR
 #ifndef HSM_FAKE_SCANLINE_BRIGHTNESS_CUTOFF
 	#define HSM_FAKE_SCANLINE_BRIGHTNESS_CUTOFF 3
 #endif
+
+//---------------------------------------------------------------------------------------------------
+//    CURVATURE
+//---------------------------------------------------------------------------------------------------
+
+#pragma parameter HSM_OVERSCAN_EMPTY_LINE							" " 0 0 0.001 0.001
+#pragma parameter HSM_OVERSCAN_TITLE "[ OVERSCAN & RASTER BLOOM ]: " 0.0 0.0 1.0 1.0
+
+#pragma parameter HSM_OVERSCAN_AMOUNT "          Overscan %" 0 -50 100 0.5
+#define HSM_OVERSCAN_AMOUNT        (global.HSM_OVERSCAN_AMOUNT / 100)
+
+#pragma parameter HSM_OVERSCAN_X "          Overscan X %" 0 -50 100 0.5
+#define HSM_OVERSCAN_X        (HSM_OVERSCAN_AMOUNT + global.HSM_OVERSCAN_X / 100)
+
+#pragma parameter HSM_OVERSCAN_Y "          Overscan Y %" 0 -50 100 0.5
+#define HSM_OVERSCAN_Y        (HSM_OVERSCAN_AMOUNT + global.HSM_OVERSCAN_Y / 100)
+
+#pragma parameter HSM_OVERSCAN_RASTER_BLOOM_ON "          Raster Bloom ON -- (Scaling based on average luma)" 0 0 1 1
+#define HSM_OVERSCAN_RASTER_BLOOM_ON        global.HSM_OVERSCAN_RASTER_BLOOM_ON
+
+#pragma parameter HSM_OVERSCAN_RASTER_BLOOM_MODE "          Raster Bloom Overscan Mode" 2.0 0.0 2.0 1.0
+#define HSM_OVERSCAN_RASTER_BLOOM_MODE           global.HSM_OVERSCAN_RASTER_BLOOM_MODE
+
+#pragma parameter HSM_OVERSCAN_RASTER_BLOOM_AMOUNT "          Raster Bloom %" 5.0 0.0 20.0 1.0
+#define HSM_OVERSCAN_RASTER_BLOOM_AMOUNT        global.HSM_OVERSCAN_RASTER_BLOOM_AMOUNT     // Bloom overscan percentage
+
 
 
 //---------------------------------------------------------------------------------------------------

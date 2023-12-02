@@ -1,105 +1,91 @@
-shaders = 14
+shaders = 10
 
-shader0 = ../../../shaders/base/add-params-potato.slang
-alias0 = "CorePass"
+shader0 = ../../../shaders/guest/extras/hsm-drez-none.slang
+filter_linear0 = false
+srgb_framebuffer0 = true
+scale_type0 = source
+scale_x0 = 1
+scale_y0 = 1
+alias0 = "DerezedPass"
 
-shader1 =  ../../../shaders/base/stock.slang
+shader1 = ../../../shaders/base/cache-info-potato-params.slang
 filter_linear1 = false
-srgb_framebuffer1 = true
 scale_type1 = source
-scale_x1 = 1
-scale_y1 = 1
-alias1 = "DerezedPass"
+scale1 = 1.0
+alias1 = "InfoCachePass"
 
-shader2 = ../../../shaders/base/add-negative-crop-area.slang
+shader2 = ../../../shaders/guest/extras/hsm-fetch-drez-output.slang
 filter_linear2 = false
-mipmap_input2 = false
 srgb_framebuffer2 = true
 scale_type2 = source
 scale_x2 = 1
 scale_y2 = 1
-alias2 = "NegativeCropAddedPass"
-
-shader3 = ../../../shaders/base/cache-info-screen-scale-params.slang
-filter_linear3 = false
-scale_type3 = source
-scale3 = 1.0
-alias3 = "InfoCachePass"
-
-shader4 = ../../../shaders/base/text-potato.slang
-filter_linear4 = false
-float_framebuffer4 = true
-scale_type4 = source
-scale4 = 1.0
-alias4 = "TextPass"
-
-shader5 = ../../../shaders/base/intro-potato.slang
-filter_linear5 = false
-float_framebuffer5 = true
-scale_type5 = source
-scale5 = 1.0
-alias5 = "IntroPass"
 
 # Color Correction with Dogway's awesome Grade shader
 # Grade is after Afterglow so that brightening the black level does not break the afterglow
-shader6 = ../../../shaders/dogway/hsm-grade.slang
-filter_linear6 = false
-scale_type6 = source
-scale6 = 1.0
-alias6 = "ColorCorrectPass"
+shader3 = ../../../shaders/dogway/hsm-grade.slang
+filter_linear3 = false
+scale_type3 = source
+scale3 = 1.0
+alias3 = "ColorCorrectPass"
 
-shader7 =  ../../../shaders/guest/hsm-custom-fast-sharpen.slang
-filter_linear7 = true
-scale_type7 = source
-scale_x7 = 1.0
-scale_y7 = 1.0
+shader4 = ../../../shaders/base/stock.slang
+filter_linear4 = true
+scale_type4 = source
+scale_x4 = 1.0
+scale_y4 = 1.0
+alias4 = "PrePass"
+mipmap_input4 = true
 
-shader8 = ../../../shaders/base/stock.slang
-filter_linear8 = true
-scale_type8 = source
-scale_x8 = 1.0
-scale_y8 = 1.0
-alias8 = "PrePass"
-mipmap_input8 = true
-
-shader9 = ../../../shaders/guest/hsm-avg-lum.slang
-filter_linear9 = true
-scale_type9 = source
-scale9 = 1.0
-mipmap_input9 = true
-alias9 = "AvgLumPass"
+shader5 = ../../../shaders/guest/hsm-avg-lum.slang
+filter_linear5 = true
+scale_type5 = source
+scale5 = 1.0
+mipmap_input5 = true
+alias5 = "AvgLumPass"
 
 # Pass referenced by subsequent blurring passes and crt pass
-shader10 = ../../../shaders/guest/hsm-interlace-and-linearize.slang
-filter_linear10 = true
-scale_type10 = source
-scale10 = 1.0
-float_framebuffer10 = true
-alias10 = "LinearizePass"
+shader6 = ../../../shaders/guest/hsm-interlace-and-linearize.slang
+filter_linear6 = true
+scale_type6 = source
+scale6 = 1.0
+float_framebuffer6 = true
+alias6 = "LinearizePass"
 
-shader11 = ../../../shaders/base/delinearize.slang
-scale_type11 = source
-float_framebuffer11 = "true"
+shader7 = ../../../shaders/base/delinearize.slang
+scale_type7 = source
+float_framebuffer7 = "true"
 
-shader12 = ../../../shaders/guest/hsm-crt-dariusg-gdv-mini-potato.slang
-scale_type12 = viewport
-scale_x12 = 1.0
-scale_y12 = 1.0
-filter_linear12 = true
-float_framebuffer12 = "true"
-alias12 = "CRTPass"
+shader8 = ../../../shaders/guest/hsm-crt-dariusg-gdv-mini-potato.slang
+scale_type8 = viewport
+scale_x8 = 1.0
+scale_y8 = 1.0
+filter_linear8 = true
+float_framebuffer8 = "true"
+alias8 = "CRTPass"
 
 g_sat = 0.25
 g_lum = 0.15
 g_gamma_out = 2.45
 
-shader13 = ../../../shaders/base/post-crt-prep-potato.slang
-mipmap_input13 = true
-scale_type13 = viewport
-float_framebuffer13 = true
-alias13 = "PostCRTPass"
+shader9 = ../../../shaders/base/post-crt-prep-potato.slang
+mipmap_input9 = true
+scale_type9 = viewport
+float_framebuffer9 = true
+alias9 = "PostCRTPass"
+
+# Textures Potato
 # Define textures to be used by the different passes
-textures = "ScreenPlacementImage;BackgroundImage;BackgroundVertImage"
+textures = "SamplerLUT1;SamplerLUT2;SamplerLUT3;SamplerLUT4;ScreenPlacementImage;BackgroundImage;BackgroundVertImage"
+
+SamplerLUT1 = ../../../shaders/guest/lut/trinitron-lut.png
+SamplerLUT1_linear = true 
+SamplerLUT2 = ../../../shaders/guest/lut/inv-trinitron-lut.png
+SamplerLUT2_linear = true 
+SamplerLUT3 = ../../../shaders/guest/lut/nec-lut.png
+SamplerLUT3_linear = true
+SamplerLUT4 = ../../../shaders/guest/lut/ntsc-lut.png
+SamplerLUT4_linear = true
 
 ScreenPlacementImage = ../../../shaders/textures/Placeholder_Transparent_16x16.png
 ScreenPlacementImage_linear = false

@@ -35,7 +35,7 @@ layout(push_constant) uniform Push
 #pragma parameter SIZEV "          Vertical Glow Radius" 6.0 1.0 50.0 1.0 
 #define SIZEV params.SIZEV
 
-#pragma parameter SIGMA_V "          Vertical Glow Sigma" 1.20 0.20 15.0 0.10
+#pragma parameter SIGMA_V "          Vertical Glow Sigma" 1.20 0.20 15.0 0.05
 #define SIGMA_V params.SIGMA_V
 
 layout(std140, set = 0, binding = 0) uniform UBO

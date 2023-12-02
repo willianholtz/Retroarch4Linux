@@ -1,24 +1,35 @@
 ![Mega_Bezel_Logo|512x256, 75%](upload://6PNkvcMF9Go9Wnk6OJXfYR1opXI.png) 
 
-Mega Bezel is updated to V1.12.0_2023-03-11
+Mega Bezel is updated to V1.15.0_2023-11-25
 
 Changes:
-  * Fixed a performance issue  where we were rendering more than we needed to
-    * This should increase performance across most presets
-  * Fixed color rainbowing in reflection for Guest-Advanced and LCD-GRID
-  * Updated to crt-guest-advanced-2023-03-11-release1
-  * Updated GDV-MINI from @ROBMARK85's request
+  * Updated to Guest Advanced crt-guest-advanced-2023-11-24-release1
+  * Updated to latest Grade
+  * Grade Color Temperature set to 7200
+  * Removed Viewport Scaling on Final pass, should fix HDR, let me know if this works
+  * Fixed the first Sharpen Parameters in the list 
 
 
 ----------------------------------------------------
 --- TODO  ---------------------------------------
 ----------------------------------------------------
 
-  * Check on Afterglow for BiRaitBec
+  * Use parameters to control Text instead of custom text for each family
+    * Get from Cache
+  * Implement Original Scaling Mode
+  * Check why intro options are not working
+  * Check Banding on Highlight on glass presets
+  * Check Brightness on Megatron Glass Presets
+  * Fix Megatron to not put mask outside screen
+  * Can't show Resolution Text in Potato right now
+  * Investigate "dip" in reflection at the edge of the bezel
+  * Passthrough Preset (No CRT Shader)
+  * HD Preset
+  * Look at Retro V2 for alternate LCD shader
+  * Python file to create full presets from a folder
   * Add Curvature to EasyMode for lasly
   * Rotate Image Layers with Parameters
   * Update Megatron
-  * Add Passthrough Preset, no crt shader
   * Add AbsoluteMax as a scaling type
   * Add readme for Signal Noise
   * Add readme for Overscan and Raster Bloom

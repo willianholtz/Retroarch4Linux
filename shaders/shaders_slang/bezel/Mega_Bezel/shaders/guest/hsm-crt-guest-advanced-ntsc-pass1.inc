@@ -25,43 +25,43 @@
 layout(push_constant) uniform Push
 {
 	vec4 SourceSize;
-	vec4 OriginalSize;
-	vec4 OutputSize;
-	uint FrameCount;
 	float SIGMA_HOR;
 	float HSHARPNESS;
 	float S_SHARP;
 	float HARNG;
-	float HSHARP;
-	float NTSCspike;
+	float HSHARP; 
+	float spike;
+	float MAXS;
 } params;
 
 //---------------------------------------------------------------------------------------------------
 // NTSC Filtering
 //---------------------------------------------------------------------------------------------------
-#pragma parameter HSM_NTSC_FILTERING_EMPTY_LINE		" " 0 0 0.001 0.001
-#pragma parameter HSM_NTSC_FILTERING_TITLE 	"[ NTSC FILTERING OPTIONS ]: " 0.0 0.0 1.0 1.0
+#pragma parameter HSM_NTSCPASS1_FILTERING_EMPTY_LINE		" " 0 0 0.001 0.001
+#pragma parameter bogus_filtering "[ FILTERING OPTIONS ]: " 0 0 0.001 0.001
 
-#pragma parameter HSHARPNESS 		"          NTSC Horizontal Filter Range -- HSHARPNESS" 1.5 1.0 1.5 0.05
+#pragma parameter HSHARPNESS 		"          NTSC Horizontal Filter Range -- HSHARPNESS" 1.60 1.0 8.0 0.05
 #define HSHARPNESS params.HSHARPNESS
 
-#pragma parameter SIGMA_HOR 		"          NTSC Horizontal Blur Sigma -- SIGMA_HOR" 0.90 0.1 7.0 0.05
+#pragma parameter SIGMA_HOR 		"          Horizontal Blur Sigma -- SIGMA_HOR" 0.80 0.1 7.0 0.025
 #define SIGMA_HOR params.SIGMA_HOR
 
-#pragma parameter S_SHARP 			"          NTSC Substractive Sharpness -- S_SHARP" 0.9 0.0 2.0 0.10
+#pragma parameter S_SHARP 			"          Substractive Sharpness -- S_SHARP" 1.20 0.0 3.0 0.05
 #define S_SHARP params.S_SHARP
 
-#pragma parameter HSHARP 			"          NTSC Sharpness Definition -- HSHARP" 1.2 0.0 2.0 0.10
+#pragma parameter HSHARP 			"          Sharpness Definition -- HSHARP" 1.20 0.0 2.0 0.10
 #define HSHARP params.HSHARP
 
-#pragma parameter HARNG 			"          NTSC Substractive Sharpness Ringing -- HARNG" 0.4 0.0 4.0 0.10
-#define HARNG params.HARNG
+#pragma parameter MAXS 				"          Maximum Sharpness" 0.18 0.0 0.30 0.01
+#define MAXS params.MAXS 
 
-#pragma parameter NTSCspike 		"          NTSC Scanline Spike Removal -- NTSCspike" 1.0 0.0 2.0 0.10
-#define spike params.NTSCspike
+#pragma parameter HARNG 			"          Substractive Sharpness Ringing -- HARNG" 0.30 0.0 4.0 0.05
+#define HARNG params.HARNG 
+
+#pragma parameter spike 			"          Scanline Spike Removal -- spike" 1.0 0.0 2.0 0.10
+#define spike params.spike
 
 #define COMPAT_TEXTURE(c,d) texture(c,d)
-
 #define TEX0 vTexCoord
 
 #define OutputSize params.OutputSize
@@ -84,44 +84,17 @@ layout(location = 0) out vec4 FragColor;
 layout(set = 0, binding = 2) uniform sampler2D LinearizePass;
 layout(set = 0, binding = 3) uniform sampler2D InfoCachePass;
 
-float invsqrsigma = 1.0/(2.0*SIGMA_HOR*SIGMA_HOR);
-
-float gaussian(float x)
+float gaussian(float x, float xscale)
 {
+	float invsqrsigma = 1.0/(2.0*SIGMA_HOR*SIGMA_HOR*xscale*xscale);
 	return exp(-x*x*invsqrsigma);
 }
 
 void main()
 {	
-		// HSM Added
-	vec2 viewportCoordTransformed = HSM_GetViewportCoordWithZoomAndPan(vTexCoord);
-	HSM_UpdateGlobalScreenValuesFromCache(InfoCachePass, vTexCoord);
+	vec2 prescalex = textureSize(LinearizePass, 0).xy / global.DerezedPassSize.xy;
 
-// If it's the potato preset render the whole frame
-#ifndef IS_POTATO_PRESET
-#ifndef IS_NO_REFLECT_PRESET
-	// Have to get the scale of the coordinates so we can figure out the size of the onscreen rectangle of the area 
-	HSM_GetBezelCoords(TUBE_DIFFUSE_COORD, 
-						TUBE_DIFFUSE_SCALE, 
-						TUBE_SCALE, 
-						SCREEN_ASPECT, 
-						false,
-						BEZEL_OUTSIDE_SCALE,
-						BEZEL_OUTSIDE_COORD, 
-						BEZEL_OUTSIDE_CURVED_COORD, 
-						FRAME_OUTSIDE_CURVED_COORD);
-#endif
-#endif
-
-	/* HSM Removed
-	vec2 prescalex = vec2(textureSize(LinearizePass, 0)) / params.OriginalSize.xy;
-
-	vec4 SourceSize = params.OriginalSize * vec4(2.0*prescalex.x, prescalex.y, 0.5/prescalex.x, 1.0/prescalex.y);
-	*/
-
-	vec2 prescalex = global.NegativeCropAddedPassSize.xy / params.OriginalSize.xy;
-
-	vec4 SourceSize = global.NegativeCropAddedPassSize * vec4(2.0*prescalex.x, prescalex.y, 0.5/prescalex.x, 1.0/prescalex.y);
+	vec4 SourceSize = global.DerezedPassSize * vec4(prescalex.x, prescalex.y, 1.0/prescalex.x, 1.0/prescalex.y);
 
 	float f = fract(SourceSize.x * vTexCoord.x);
 	f = 0.5 - f;
@@ -135,11 +108,14 @@ void main()
 	float wsum = 0.0;
 	vec3 pixel;
 
+	float xscale = prescalex.x * 0.5;
+	
+	float hsharpness = HSHARPNESS * xscale;
 	vec3 cmax = 0.0.xxx;
 	vec3 cmin = 1.0.xxx;
-	float sharp = gaussian(HSHARPNESS) * S_SHARP;
-	float maxsharp = 0.20;
-	float FPR = HSHARPNESS;
+	float sharp = gaussian(hsharpness, xscale) * S_SHARP;
+	float maxsharp = MAXS;
+	float FPR = hsharpness;
 	float fpx = 0.0;
 	float sp = 0.0;
 	float sw = 0.0;
@@ -157,7 +133,7 @@ void main()
 		pixel  = COMPAT_TEXTURE(LinearizePass, tex + n*dx).rgb;
 		sp = max(max(pixel.r,pixel.g),pixel.b);
 		
-		w = gaussian(n+f) - sharp;
+		w = gaussian(n+f, xscale) - sharp;
 		fpx = abs(n+f-sign(n)*FPR)/FPR;
 		if (abs(n) <= CLAMPSIZE) { cmax = max(cmax, pixel); cmin = min(cmin, pixel); }
 		if (w < 0.0) w = clamp(w, mix(-maxsharp, 0.0, pow(clamp(fpx,0.0,1.0), HSHARP)), 0.0);

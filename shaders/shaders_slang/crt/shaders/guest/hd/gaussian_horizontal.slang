@@ -58,7 +58,7 @@ layout(push_constant) uniform Push
 #pragma parameter SIZEH "          Horizontal Glow Radius" 6.0 1.0 50.0 1.0 
 #define SIZEH params.SIZEH
 
-#pragma parameter SIGMA_H "          Horizontal Glow Sigma" 1.20 0.20 15.0 0.10
+#pragma parameter SIGMA_H "          Horizontal Glow Sigma" 1.20 0.20 15.0 0.05
 #define SIGMA_H params.SIGMA_H
 
 

@@ -17,10 +17,10 @@ layout(std140, set = 0, binding = 0) uniform UBO
    float ntsc_cscale;
 } global;
 
-#pragma parameter ntsc_cscale "NTSC Chroma Scaling / Bleeding" 1.0 0.20 2.25 0.05
+#pragma parameter ntsc_cscale "NTSC Chroma Scaling / Bleeding" 1.0 0.20 4.0 0.05
 #pragma parameter ntsc_scale  "NTSC Resolution Scaling" 1.0 0.20 2.5 0.025
-#pragma parameter ntsc_phase  "NTSC Phase: Auto | 2 phase | 3 phase" 1.0 1.0 3.0 1.0
-#pragma parameter ntsc_ring   "NTSC Anti-Ringing" 0.0 0.0 1.0 1.0
+#pragma parameter ntsc_phase  "NTSC Phase: Auto | 2 phase | 3 phase | Mixed" 1.0 1.0 4.0 1.0
+#pragma parameter ntsc_ring   "NTSC Anti-Ringing" 0.5 0.0 1.0 0.10
 
 #pragma stage vertex
 layout(location = 0) in vec4 Position;
@@ -37,11 +37,14 @@ void main()
 layout(location = 0) in vec2 vTexCoord;
 layout(location = 0) out vec4 FragColor;
 layout(set = 0, binding = 2) uniform sampler2D Source;
+layout(set = 0, binding = 3) uniform sampler2D PrePass0;
 
-vec3 fetch_offset(float offset, float one_x)
+
+vec3 fetch_offset(float offset, vec2 one_x)
 {
-   return vec3(texture(Source, vTexCoord + vec2((offset) * (one_x), 0.0)).x, texture(Source, vTexCoord + vec2((offset) * (one_x/global.ntsc_cscale), 0.0)).yz);
+   return vec3(texture(Source, vTexCoord + vec2((offset) * (one_x.x), 0.0)).x, texture(Source, vTexCoord + vec2((offset) * one_x.y, 0.0)).yz);
 }
+
 
 const mat3 yiq2rgb_mat = mat3(
    1.0, 0.956, 0.6210,
@@ -63,6 +66,7 @@ vec3 rgb2yiq(vec3 col)
 {
    return col * yiq_mat;
 }
+
 
 const int TAPS_2_phase = 32;
 const float luma_filter_2_phase[33] = float[33](
@@ -92,15 +96,111 @@ const float luma_filter_2_phase[33] = float[33](
    -0.016897700,
    -0.022914480,
    -0.021642347,
-   -0.008863273,
-   0.017271957,
+   -0.028863273,
+   0.027271957,
    0.054921920,
    0.098342579,
    0.139044281,
    0.168055832,
    0.178571429);
 
-const float chroma_filter_2_phase[33] = float[33](
+
+
+const int TAPS_3_phase = 24;
+const float luma_filter_3_phase[25] = float[25](
+   -0.000012020,
+   -0.000022146,
+   -0.000013155,
+   -0.000012020,
+   -0.000049979,
+   -0.000113940,
+   -0.000122150,
+   -0.000005612,
+   0.000170516,
+   0.000237199,
+   0.000169640,
+   0.000285688,
+   0.000984574,
+   0.002018683,
+   0.002002275,
+   -0.005909882,
+   -0.012049081,
+   -0.018222860,
+   -0.022606931,
+   0.002460860,
+   0.035868225,
+   0.084016453,
+   0.135563500,
+   0.175261268,
+   0.220176552);
+
+const float chroma_filter_3_phase[25] = float[25](
+   -0.000118847,
+   -0.000271306,
+   -0.000502642,
+   -0.000930833,
+   -0.001451013,
+   -0.002064744,
+   -0.002700432,
+   -0.003241276,
+   -0.003524948,
+   -0.003350284,
+   -0.002491729,
+   -0.000721149,
+   0.002164659,
+   0.006313635,
+   0.011789103,
+   0.018545660,
+   0.026414396,
+   0.035100710,
+   0.044196567,
+   0.053207202,
+   0.061590275,
+   0.068803602,
+   0.074356193,
+   0.077856564,
+   0.079052396);
+
+
+const float chroma_filter_4_phase[33] = float[33](
+    0.0,
+	0.0, 
+	0.0, 
+	0.0, 
+	0.0, 
+	0.0, 
+	0.0, 
+	0.0,
+   -0.000118847,
+   -0.000271306,
+   -0.000502642,
+   -0.000930833,
+   -0.001451013,
+   -0.002064744,
+   -0.002700432,
+   -0.003241276,
+   -0.003524948,
+   -0.003350284,
+   -0.002491729,
+   -0.000721149,
+   0.002164659,
+   0.006313635,
+   0.011789103,
+   0.018545660,
+   0.026414396,
+   0.035100710,
+   0.044196567,
+   0.053207202,
+   0.061590275,
+   0.068803602,
+   0.074356193,
+   0.077856564,
+   0.079052396);
+
+void main()
+{
+
+float chroma_filter_2_phase[33] = float[33](
    0.001384762,
    0.001678312,
    0.002021715,
@@ -135,68 +235,14 @@ const float chroma_filter_2_phase[33] = float[33](
    0.031420995,
    0.031517031);
 
-const int TAPS_3_phase = 24;
-const float luma_filter_3_phase[25] = float[25](
-   -0.000012020,
-   -0.000022146,
-   -0.000013155,
-   -0.000012020,
-   -0.000049979,
-   -0.000113940,
-   -0.000122150,
-   -0.000005612,
-   0.000170516,
-   0.000237199,
-   0.000169640,
-   0.000285688,
-   0.000984574,
-   0.002018683,
-   0.002002275,
-   -0.000909882,
-   -0.007049081,
-   -0.013222860,
-   -0.012606931,
-   0.002460860,
-   0.035868225,
-   0.084016453,
-   0.135563500,
-   0.175261268,
-   0.190176552);
-
-const float chroma_filter_3_phase[25] = float[25](
-   -0.000118847,
-   -0.000271306,
-   -0.000502642,
-   -0.000930833,
-   -0.001451013,
-   -0.002064744,
-   -0.002700432,
-   -0.003241276,
-   -0.003524948,
-   -0.003350284,
-   -0.002491729,
-   -0.000721149,
-   0.002164659,
-   0.006313635,
-   0.011789103,
-   0.018545660,
-   0.026414396,
-   0.035100710,
-   0.044196567,
-   0.053207202,
-   0.061590275,
-   0.068803602,
-   0.074356193,
-   0.077856564,
-   0.079052396);
-
-void main()
-{
    float res = global.ntsc_scale;
    float OriginalSize = global.OriginalSize.x; 
-   float one_x = global.SourceSize.z / res;
+   vec2 one_x = global.SourceSize.zz / res;
    vec3 signal = vec3(0.0);
    float phase = (global.ntsc_phase < 1.5) ? ((OriginalSize > 300.0) ? 2.0 : 3.0) : ((global.ntsc_phase > 2.5) ? 3.0 : 2.0);
+   if (global.ntsc_phase == 4.0) { phase = 2.0; chroma_filter_2_phase = chroma_filter_4_phase; }
+   
+   float cres = global.ntsc_cscale; if (phase == 3.0 || global.ntsc_phase == 4.0) cres = min(cres, 2.25); one_x.y = one_x.y/cres;
 
    if(phase < 2.5)
    {
@@ -283,7 +329,7 @@ void main()
    }
 
    
-   if (global.ntsc_ring > 0.5)
+   if (global.ntsc_ring > 0.05)
    {
       vec2 dx = vec2(global.OriginalSize.z / min(res, 1.0), 0.0);
 	  float a = texture(Source, vTexCoord - 1.5*dx).a;
@@ -291,11 +337,14 @@ void main()
 	  float c = texture(Source, vTexCoord + 1.5*dx).a;
 	  float d = texture(Source, vTexCoord + 0.5*dx).a;
       float e = texture(Source, vTexCoord         ).a;	  
-      signal.x = clamp(signal.x, min(min(min(a,b),min(c,d)),e), max(max(max(a,b),max(c,d)),e));
+      signal.x = mix(signal.x, clamp(signal.x, min(min(min(a,b),min(c,d)),e), max(max(max(a,b),max(c,d)),e)), global.ntsc_ring);
    }
+   
+   
+   vec3 orig = rgb2yiq(texture(PrePass0, vTexCoord).rgb);
    
    signal.x = clamp(signal.x, -1.0, 1.0);
    vec3 rgb = signal;
    
-   FragColor = vec4(rgb, 1.0);
+   FragColor = vec4(rgb, orig.x);
 }  
