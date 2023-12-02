@@ -11,9 +11,6 @@ Retroarch configured for Arch Linux and Linux in general.
 Download retroarch on your Linux, the default system settings are always in /home/user/.config/retroarch.
 The configuration of this repository is already pre-configured to point directly to ~/.config regardless of the active user.
 
-# Be part of the project
-Do you want to be part of the project and make the retroarch linux version even more complete and beautiful? Get in touch with me or you can also create a fork for another project parallel to mine!
-
 ## Linux modification
 Retroarch was configured from scratch, using some packages found on the net, such as:
 - Wallpaper from Crazymac project
