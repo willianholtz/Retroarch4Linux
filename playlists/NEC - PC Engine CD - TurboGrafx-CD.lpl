@@ -8,15 +8,15 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/home/willian/.config/retroarch/roms/NEC - TurboGrafx CD/It Came From The Desert (USA).cue",
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/It Came From The Desert (USA).cue",
       "label": "It Came from the Desert (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/mednafen_supergrafx_libretro.so",
+      "core_path": ".config/retroarch/cores/mednafen_supergrafx_libretro.so",
       "core_name": "NEC - PC Engine SuperGrafx (Beetle SuperGrafx)",
       "crc32": "00D1894B|crc",
       "db_name": "NEC - PC Engine CD - TurboGrafx-CD.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/NEC - TurboGrafx CD/Shape Shifter (USA).cue",
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Shape Shifter (USA).cue",
       "label": "Shape Shifter (USA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -24,7 +24,7 @@
       "db_name": "NEC - PC Engine CD - TurboGrafx-CD.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/NEC - TurboGrafx CD/Sherlock Holmes Consulting Detective (USA).cue",
+      "path": ".config/retroarch/roms/NEC - TurboGrafx CD/Sherlock Holmes Consulting Detective (USA).cue",
       "label": "Sherlock Holmes - Consulting Detective (USA)",
       "core_path": "DETECT",
       "core_name": "DETECT",

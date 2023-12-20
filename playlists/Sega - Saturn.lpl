@@ -8,49 +8,49 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (4MB RAM).chd",
+      "path": ".config/retroarch/roms/Sega - Saturn/Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (4MB RAM).chd",
       "label": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (2M)",
-      "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
+      "core_path": ".config/retroarch/cores/mednafen_saturn_libretro.so",
       "core_name": "Sega - Saturn (Beetle Saturn)",
       "crc32": "T-9527G|serial",
       "db_name": "Sega - Saturn.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Night Warriors - Darkstalkers' Revenge (USA).chd",
+      "path": ".config/retroarch/roms/Sega - Saturn/Night Warriors - Darkstalkers' Revenge (USA).chd",
       "label": "Night Warriors - Darkstalkers' Revenge (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
+      "core_path": ".config/retroarch/cores/mednafen_saturn_libretro.so",
       "core_name": "Sega - Saturn (Beetle Saturn)",
       "crc32": "T-1208H|serial",
       "db_name": "Sega - Saturn.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Nights Into Dreams... (USA).chd",
+      "path": ".config/retroarch/roms/Sega - Saturn/Nights Into Dreams... (USA).chd",
       "label": "Nights Into Dreams... (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
+      "core_path": ".config/retroarch/cores/mednafen_saturn_libretro.so",
       "core_name": "Sega - Saturn (Beetle Saturn)",
       "crc32": "T-1208H|serial",
       "db_name": "Sega - Saturn.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Panzer Dragoon (USA).chd",
+      "path": ".config/retroarch/roms/Sega - Saturn/Panzer Dragoon (USA).chd",
       "label": "Panzer Dragoon (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
+      "core_path": ".config/retroarch/cores/mednafen_saturn_libretro.so",
       "core_name": "Sega - Saturn (Beetle Saturn)",
       "crc32": "T-1208H|serial",
       "db_name": "Sega - Saturn.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Rayman (USA).chd",
+      "path": ".config/retroarch/roms/Sega - Saturn/Rayman (USA).chd",
       "label": "Rayman (USA) (R2)",
-      "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
+      "core_path": ".config/retroarch/cores/mednafen_saturn_libretro.so",
       "core_name": "Sega - Saturn (Beetle Saturn)",
       "crc32": "T-17701H|serial",
       "db_name": "Sega - Saturn.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Resident Evil (USA).chd",
+      "path": ".config/retroarch/roms/Sega - Saturn/Resident Evil (USA).chd",
       "label": "Resident Evil (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
+      "core_path": ".config/retroarch/cores/mednafen_saturn_libretro.so",
       "core_name": "Sega - Saturn (Beetle Saturn)",
       "crc32": "T-1221H|serial",
       "db_name": "Sega - Saturn.lpl"

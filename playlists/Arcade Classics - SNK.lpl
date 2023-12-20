@@ -450,7 +450,7 @@
     {
       "path": ".config/retroarch/roms/FBNeo - Arcade Games/svcpcb.zip",
       "label": "SNK vs. Capcom - SVC Chaos (JAMMA PCB, set 1)",
-      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"
@@ -458,7 +458,7 @@
     {
       "path": ".config/retroarch/roms/FBNeo - Arcade Games/svc.zip",
       "label": "SNK vs. Capcom - SVC Chaos (NGM-2690)(NGH-2690)",
-      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
+      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - SNK.lpl"

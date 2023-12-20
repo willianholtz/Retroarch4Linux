@@ -211,7 +211,7 @@
       "path": ".config/retroarch/roms/FBNeo - Arcade Games/vsav2.zip",
       "label": "Vampire Savior 2 - the lord of vampire (970913 Japan)",
       "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
-      "core_name": "Arcade (FB Alpha 2012)",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade - Capcom CP System II.lpl"
     },

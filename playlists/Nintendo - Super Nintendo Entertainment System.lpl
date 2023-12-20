@@ -3760,18 +3760,10 @@
       "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
     },
     {
-      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System/Populous (USA).zip",
-      "label": "Populous (USA)",
-      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
-      "core_name": "snes9x",
-      "crc32": "00000000|crc",
-      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
-    },
-    {
       "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System/Populous II - Trials of the Olympian Gods (Europe).zip",
       "label": "Populous II - Trials of the Olympian Gods (Europe)",
-      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
-      "core_name": "snes9x",
+      "core_path": "/home/willian/.config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
       "crc32": "00000000|crc",
       "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
     },
@@ -5018,8 +5010,8 @@
     {
       "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System/Super Mario World (USA).zip",
       "label": "Super Mario World (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/bsnes_libretro.so",
-      "core_name": "Nintendo - SNES / SFC (bsnes)",
+      "core_path": "/home/willian/.config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
       "crc32": "00000000|crc",
       "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
     },

@@ -1,0 +1,19 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Panasonic - 3DO/Killing Time (USA) (Rev 2).chd",
+      "label": "Killing Time (USA) (Rev 2)",
+      "core_path": ".config/retroarch/cores/opera_libretro.so",
+      "core_name": "The 3DO Company - 3DO (Opera)",
+      "crc32": "151A4343|crc",
+      "db_name": "The 3DO Company - 3DO.lpl"
+    }
+  ]
+}

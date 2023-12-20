@@ -1,0 +1,1204 @@
+{
+  "items": [
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/7th Saga - Redux, The (Hack).zip",
+      "label": "7th Saga - Redux, The (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/A Super Mario Thing (Hack).zip",
+      "label": "A Super Mario Thing (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Ancient Magic - World of Magic (Hack).zip",
+      "label": "Ancient Magic - World of Magic (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Ashita no Joe - Tommorow's Joe (Hack).zip",
+      "label": "Ashita no Joe - Tommorow's Joe (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/BAO Super V.G. (Hack).zip",
+      "label": "BAO Super V.G. (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Battle Soccer - Field no Hasha (Hack).zip",
+      "label": "Battle Soccer - Field no Hasha (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Brutal Mario (Hack).zip",
+      "label": "Brutal Mario (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Buck Rogers - TAG Beta (Hack).zip",
+      "label": "Buck Rogers - TAG Beta (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Buck Rogers - The Arcade Game (Hack).zip",
+      "label": "Buck Rogers - The Arcade Game (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Chrono Trigger_1.5 - Prophets Guile (Hack).zip",
+      "label": "Chrono Trigger_1.5 - Prophets Guile (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Chrono Trigger_2 - Crimson Echoes (Hack).zip",
+      "label": "Chrono Trigger_2 - Crimson Echoes (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Classic Kong Complete (Hack).zip",
+      "label": "Classic Kong Complete (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Conker's High Rule Tail (Hack).zip",
+      "label": "Conker's High Rule Tail (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Contra IV - The Alien Wars (Hack).zip",
+      "label": "Contra IV - The Alien Wars (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Dezaemon - SFC (Hack).zip",
+      "label": "Dezaemon - SFC (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Digimon Adventure (Hack).zip",
+      "label": "Digimon Adventure (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Donkey Kong Country - Kremlins Revenge (Hack).zip",
+      "label": "Donkey Kong Country - Kremlins Revenge (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Earthbound - Arn's Winter Quest GE (Hack).zip",
+      "label": "Earthbound - Arn's Winter Quest GE (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Earthbound - CB Infinia's Invasion (Hack).zip",
+      "label": "Earthbound - CB Infinia's Invasion (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Earthbound - The Mysterious Mine (Hack).zip",
+      "label": "Earthbound - The Mysterious Mine (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Earthbound - The Rat Race (Hack).zip",
+      "label": "Earthbound - The Rat Race (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/F-ZERO - Axnfanatics Edition (Hack).zip",
+      "label": "F-ZERO - Axnfanatics Edition (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/F-ZERO - FSNES3 Edition (Hack).zip",
+      "label": "F-ZERO - FSNES3 Edition (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/F-ZERO - Practice Tracks Unlocked (Hack).zip",
+      "label": "F-ZERO - Practice Tracks Unlocked (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/F-ZERO - Starcrackers (Hack).zip",
+      "label": "F-ZERO - Starcrackers (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/F-ZERO - The Lost Tracks (Hack).zip",
+      "label": "F-ZERO - The Lost Tracks (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Final Fantasy IV - Hard Mode (Hack).zip",
+      "label": "Final Fantasy IV - Hard Mode (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Final Fantasy V - Hard Mode (Hack).zip",
+      "label": "Final Fantasy V - Hard Mode (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Final Fantasy VI (Hack).zip",
+      "label": "Final Fantasy VI (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Final Fantasy VI - Brave New World (Hack).zip",
+      "label": "Final Fantasy VI - Brave New World (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Final Fantasy VI - Eternal Crystals (Hack).zip",
+      "label": "Final Fantasy VI - Eternal Crystals (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Final Fantasy VI - Extreme Edition (Hack).zip",
+      "label": "Final Fantasy VI - Extreme Edition (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Final Fantasy VI - Hard Mode (Hack).zip",
+      "label": "Final Fantasy VI - Hard Mode (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Final Fantasy VI - Stand Guard (Hack).zip",
+      "label": "Final Fantasy VI - Stand Guard (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Glory of Heracles III (Hack).zip",
+      "label": "Glory of Heracles III (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Hyper Street Kart (Hack).zip",
+      "label": "Hyper Street Kart (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Just Another Mario Hack (Hack).zip",
+      "label": "Just Another Mario Hack (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Ken Griffey Jr. Presents Major League (Hack).zip",
+      "label": "Ken Griffey Jr. Presents Major League (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Killer Instinct - Eyedol Unlocked (Hack).zip",
+      "label": "Killer Instinct - Eyedol Unlocked (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Legend of Zelda, The - Paralell Worlds Remodel (Hack).zip",
+      "label": "Legend of Zelda, The - Paralell Worlds Remodel (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Lester the Unlikely (Hack).zip",
+      "label": "Lester the Unlikely (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Magical Quest Starring Mickey Mouse (Hack).zip",
+      "label": "Magical Quest Starring Mickey Mouse (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Mario World - Starlight Remix (Hack).zip",
+      "label": "Mario World - Starlight Remix (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Mario's Awesome Adventure (Hack).zip",
+      "label": "Mario's Awesome Adventure (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Massimo (Hack).zip",
+      "label": "Massimo (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Metroid Redesign Axeil Edition (Hack).zip",
+      "label": "Metroid Redesign Axeil Edition (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Mick & Mack as the Global Gladiators (Hack).zip",
+      "label": "Mick & Mack as the Global Gladiators (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Mickey's Playtown Adventure - A Day of Discovery! (Hack).zip",
+      "label": "Mickey's Playtown Adventure - A Day of Discovery! (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Mortal Kombat 2.5 (Hack).zip",
+      "label": "Mortal Kombat 2.5 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Mortal Kombat Mythologies Gold 2000 (Hack).zip",
+      "label": "Mortal Kombat Mythologies Gold 2000 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Mr. Bloopy - Saves the World (Hack).zip",
+      "label": "Mr. Bloopy - Saves the World (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Mr. Tuff (Hack).zip",
+      "label": "Mr. Tuff (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Muhammad Ali Heavyweight Boxing (Hack).zip",
+      "label": "Muhammad Ali Heavyweight Boxing (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Mushroom Kingdom Meltdown (Hack).zip",
+      "label": "Mushroom Kingdom Meltdown (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Mushroom Kingdom Meltdown 2 (Hack).zip",
+      "label": "Mushroom Kingdom Meltdown 2 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/NBA Jam 2k17 (Hack).zip",
+      "label": "NBA Jam 2k17 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Network Q Rally (Hack).zip",
+      "label": "Network Q Rally (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/New Retro Mario Bros. (Hack).zip",
+      "label": "New Retro Mario Bros. (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/NFL Football (Hack).zip",
+      "label": "NFL Football (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/NHL '94 (Hack).zip",
+      "label": "NHL '94 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Nightmare Busters (Hack).zip",
+      "label": "Nightmare Busters (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Pinkie (Hack).zip",
+      "label": "Pinkie (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Power Slide (Hack).zip",
+      "label": "Power Slide (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Prime (Hack).zip",
+      "label": "Prime (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Ranma Nibunnoichi - Improved Edition (Hack).zip",
+      "label": "Ranma Nibunnoichi - Improved Edition (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Renegade 2 (Hack).zip",
+      "label": "Renegade 2 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/RHI Roller Hockey '95 (Hack).zip",
+      "label": "RHI Roller Hockey '95 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Shadow, The (Hack).zip",
+      "label": "Shadow, The (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Shadowhawk (Hack).zip",
+      "label": "Shadowhawk (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Shooter (Hack).zip",
+      "label": "Shooter (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Sonic The Hedgehog (Hack).zip",
+      "label": "Sonic The Hedgehog (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Sonic the Hedgehog 4 (Hack).zip",
+      "label": "Sonic the Hedgehog 4 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Spectre (Hack).zip",
+      "label": "Spectre (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/SpellCraft - Aspects of Valor (Hack).zip",
+      "label": "SpellCraft - Aspects of Valor (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Star Fox 2 (Hack).zip",
+      "label": "Star Fox 2 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Steven Seagal Is The Final Option (Hack).zip",
+      "label": "Steven Seagal Is The Final Option (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Street Fighter EX plus Alpha cracked (Hack).zip",
+      "label": "Street Fighter EX plus Alpha cracked (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super 3D Noah's Ark (Hack).zip",
+      "label": "Super 3D Noah's Ark (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Boss Gaiden (Hack).zip",
+      "label": "Super Boss Gaiden (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario Bros. Deluxe (Hack).zip",
+      "label": "Super Mario Bros. Deluxe (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario Kart - Offroad EX (Hack).zip",
+      "label": "Super Mario Kart - Offroad EX (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario Kart - S Parigo Kart (Hack).zip",
+      "label": "Super Mario Kart - S Parigo Kart (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/SUPER MARIO KART 8 (Hack).zip",
+      "label": "SUPER MARIO KART 8 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario Kart R (Hack).zip",
+      "label": "Super Mario Kart R (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario RPG - Bob-omb Mafia (Hack).zip",
+      "label": "Super Mario RPG - Bob-omb Mafia (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario RPG - Drug Addict (Hack).zip",
+      "label": "Super Mario RPG - Drug Addict (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario RPG - Revolution (Hack).zip",
+      "label": "Super Mario RPG - Revolution (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World  3+ - The New Islands (Hack).zip",
+      "label": "Super Mario World  3+ - The New Islands (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - 2nd RP Reload (Hack).zip",
+      "label": "Super Mario World - 2nd RP Reload (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - After Years (Hack).zip",
+      "label": "Super Mario World - After Years (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - AHW (Hack).zip",
+      "label": "Super Mario World - AHW (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - AXW (Hack).zip",
+      "label": "Super Mario World - AXW (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - Brutal M World (Hack).zip",
+      "label": "Super Mario World - Brutal M World (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - Central Prod (Hack).zip",
+      "label": "Super Mario World - Central Prod (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - Dr Mario (Hack).zip",
+      "label": "Super Mario World - Dr Mario (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - Dr Mario World (Hack).zip",
+      "label": "Super Mario World - Dr Mario World (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - Lost Levels (Hack).zip",
+      "label": "Super Mario World - Lost Levels (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - Mario Xmas (Hack).zip",
+      "label": "Super Mario World - Mario Xmas (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - MIM 2 - LNA (Hack).zip",
+      "label": "Super Mario World - MIM 2 - LNA (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - MQ 4 - Redrawn (Hack).zip",
+      "label": "Super Mario World - MQ 4 - Redrawn (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - MQ 8 - F Quest (Hack).zip",
+      "label": "Super Mario World - MQ 8 - F Quest (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - N Retro Mario (Hack).zip",
+      "label": "Super Mario World - N Retro Mario (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - Omega (Hack).zip",
+      "label": "Super Mario World - Omega (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - PIMK (Hack).zip",
+      "label": "Super Mario World - PIMK (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - PIMK 2 (Hack).zip",
+      "label": "Super Mario World - PIMK 2 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - SoT7GS (Hack).zip",
+      "label": "Super Mario World - SoT7GS (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - The LA Ep 1 (Hack).zip",
+      "label": "Super Mario World - The LA Ep 1 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - The LA Ep 2 (Hack).zip",
+      "label": "Super Mario World - The LA Ep 2 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - The LA Ep 2_LE (Hack).zip",
+      "label": "Super Mario World - The LA Ep 2_LE (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - The Ninji Saga (Hack).zip",
+      "label": "Super Mario World - The Ninji Saga (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - Toads World (Hack).zip",
+      "label": "Super Mario World - Toads World (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World - Universe (Hack).zip",
+      "label": "Super Mario World - Universe (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World 2 - New Y Island (Hack).zip",
+      "label": "Super Mario World 2 - New Y Island (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World 2-3 Essence Star (Hack).zip",
+      "label": "Super Mario World 2-3 Essence Star (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World 3 - IoM (Hack).zip",
+      "label": "Super Mario World 3 - IoM (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Mario World 3 - Islands of Mistery (Hack).zip",
+      "label": "Super Mario World 3 - Islands of Mistery (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Metroid - Advent (Hack).zip",
+      "label": "Super Metroid - Advent (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Metroid - Dependence (Hack).zip",
+      "label": "Super Metroid - Dependence (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Metroid - Final Stand (Hack).zip",
+      "label": "Super Metroid - Final Stand (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Metroid - Golden Dawn (Hack).zip",
+      "label": "Super Metroid - Golden Dawn (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Metroid - Justin Bailey (Hack).zip",
+      "label": "Super Metroid - Justin Bailey (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Metroid - Limit (Hack).zip",
+      "label": "Super Metroid - Limit (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Metroid - Phazon Hack (Hack).zip",
+      "label": "Super Metroid - Phazon Hack (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Metroid - Project Base (Hack).zip",
+      "label": "Super Metroid - Project Base (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Metroid - Redesign 2.1 (Hack).zip",
+      "label": "Super Metroid - Redesign 2.1 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Metroid - Stardust V1.7 (Hack).zip",
+      "label": "Super Metroid - Stardust V1.7 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Metroid - V Sidehopper Sp (Hack).zip",
+      "label": "Super Metroid - V Sidehopper Sp (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Metroid - Volta (Hack).zip",
+      "label": "Super Metroid - Volta (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Metroid - Zero Mission V2.3 (Hack).zip",
+      "label": "Super Metroid - Zero Mission V2.3 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Metroid Eris (Hack).zip",
+      "label": "Super Metroid Eris (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Metroid Ice Metal Uninstall (Hack).zip",
+      "label": "Super Metroid Ice Metal Uninstall (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Pika Land U - Vanilla Ed (Hack).zip",
+      "label": "Super Pika Land U - Vanilla Ed (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Pika Land U 2 - Chocolate Ed (Hack).zip",
+      "label": "Super Pika Land U 2 - Chocolate Ed (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Pika Land Ultra - Chocolate Version (Hack).zip",
+      "label": "Super Pika Land Ultra - Chocolate Version (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Puyo Puyo 2 (Hack).zip",
+      "label": "Super Puyo Puyo 2 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Robot Wars 3 (Hack).zip",
+      "label": "Super Robot Wars 3 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Shadow of the Beast (Hack).zip",
+      "label": "Super Shadow of the Beast (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super Smash Kart New(USA) (Hack).zip",
+      "label": "Super Smash Kart New(USA) (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Super SpongeBob Kart (Hack).zip",
+      "label": "Super SpongeBob Kart (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/TARGA (Hack).zip",
+      "label": "TARGA (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Tecmo Super Bowl 2K2 (Hack).zip",
+      "label": "Tecmo Super Bowl 2K2 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Tekken 2 (Hack).zip",
+      "label": "Tekken 2 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Tinhead (Hack).zip",
+      "label": "Tinhead (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Universal Soldier (Hack).zip",
+      "label": "Universal Soldier (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Wario World Subcon (Hack).zip",
+      "label": "Wario World Subcon (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Wile E's Revenge (Hack).zip",
+      "label": "Wile E's Revenge (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Wrecking Crew '98 (Hack).zip",
+      "label": "Wrecking Crew '98 (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/X (Hack).zip",
+      "label": "X (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Zombies Ate My Neighborhood X (Hack).zip",
+      "label": "Zombies Ate My Neighborhood X (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": ".config/retroarch/roms/Nintendo - Super Nintendo Entertainment System Hacks/Zombies Ate My Neighbors Ultimate (Hack).zip",
+      "label": "Zombies Ate My Neighbors Ultimate (Hack)",
+      "core_path": ".config/retroarch/cores/snes9x_libretro.so",
+      "core_name": "snes9x2005",
+      "crc32": "00000000|crc",
+      "db_name": "Hacks - Super Nintendo Entertainment System.lpl"
+    }
+  ]
+}
