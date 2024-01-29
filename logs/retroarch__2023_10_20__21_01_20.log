@@ -1,0 +1,255 @@
+[INFO] RetroArch 1.16.0 (Git 6c2cc45628)
+[INFO] === Build =======================================
+[INFO] CPU Model Name: AMD Ryzen 7 5700X 8-Core Processor             
+[INFO] Capacidades: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[INFO] Version: 1.16.0
+[INFO] Git: 6c2cc45628
+[INFO] Built: Oct  9 2023
+[INFO] =================================================
+[INFO] [Input]: Found input driver: "x".
+[INFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[INFO] [Core]: Versão da API libretro: 1, Compilado contra a API: 1
+[INFO] [Core]: Geometry: 320x240, Aspect: 1.333, FPS: 60.00, Sample rate: 48000.00 Hz.
+[INFO] [Audio]: Set audio input rate to: 48000.00 Hz.
+[INFO] [Video]: Set video size to: fullscreen.
+[ERROR] [Wayland]: Failed to connect to Wayland server.
+[INFO] [Vulkan]: Vulkan dynamic library loaded.
+[INFO] [Vulkan]: Found vulkan context: "vk_x".
+[INFO] [Vulkan]: Detecting screen resolution: 3840x2160.
+[INFO] [XINERAMA]: Xinerama version: 1.1.
+[INFO] [XINERAMA]: Xinerama screens: 1.
+[INFO] [X/Vulkan]: Using Xinerama on screen #0.
+[INFO] [X/Vulkan]: X = 0, Y = 0, W = 3840, H = 2160.
+[INFO] [X/Vulkan]: Using windowed fullscreen.
+[INFO] [Vulkan]: Found GPU at index 0: "NVIDIA GeForce RTX 2060".
+[INFO] [Vulkan]: Using GPU index 0.
+[INFO] [Vulkan]: Using fences for WSI acquire.
+[INFO] [Vulkan]: Using GPU: "NVIDIA GeForce RTX 2060".
+[INFO] [Vulkan]: Queue family 0 supports 16 sub-queues.
+[INFO] [Vulkan]: Got 3 swapchain images.
+[INFO] [Vulkan]: Using resolution 3840x2160.
+[INFO] [Vulkan]: Using RGB565 format.
+[INFO] [Vulkan]: Loading stock shader.
+[INFO] [udev]: Pad #0 (/dev/input/event23) supports force feedback.
+[INFO] [udev]: Pad #0 (/dev/input/event23) supports 16 force feedback effects.
+[INFO] [Joypad]: Found joypad driver: "udev".
+[INFO] [DBus]: Suspended screensaver via DBus.
+[INFO] [Video]: Found display server: "x11".
+[ERROR] [Overlay]: Failed to load image: /home/willian/.config/retroarch/overlay/NIL.png.
+[INFO] [PulseAudio]: Requested 24576 bytes buffer, got 18432.
+[INFO] [Audio]: Started synchronous audio driver.
+[INFO] [ALSA] Using ALSA version 1.2.10
+[INFO] [Microphone]: Initialized microphone driver.
+[INFO] [Display]: Found display driver: "vulkan".
+[INFO] [Playlist]: Carregando o arquivo de favoritos: "/home/willian/.config/retroarch/content_favorites.lpl".
+[INFO] [X/Vulkan]: Resized fullscreen resolution to 3840x2160.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Atari - 7800/Named_Snaps/Ace of Aces.png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Atari - 7800/Named_Titles/Ace of Aces.png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Atari - 7800/Named_Boxarts/Ace of Aces.png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - PC Engine CD - TurboGrafx-CD/Named_Snaps/It Came from the Desert (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - PC Engine CD - TurboGrafx-CD/Named_Titles/It Came from the Desert (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - PC Engine CD/Named_Snaps/Advanced Variable Geo (Japan).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - PC Engine CD/Named_Titles/Advanced Variable Geo (Japan).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - PC Engine CD/Named_Snaps/Ai Chou Aniki (Japan).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - PC Engine CD/Named_Snaps/Asuka 120% Maxima Burning Fest (Japan).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - PC Engine CD/Named_Snaps/Akumajou Dracula X - Chi no Rondo (Japan).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - PC Engine CD/Named_Titles/Ai Chou Aniki (Japan).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - PC Engine CD/Named_Snaps/Bakushou Yoshimoto Shinkigeki (Japan).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - PC Engine CD/Named_Snaps/Avenger (Japan).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - PC Engine CD/Named_Snaps/Baby Jo the Super Hero (Japan).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - PC Engine CD/Named_Titles/Asuka 120% Maxima Burning Fest (Japan).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - PC Engine CD/Named_Titles/Akumajou Dracula X - Chi no Rondo (Japan).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - PC Engine CD/Named_Titles/Bakushou Yoshimoto Shinkigeki (Japan).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - PC Engine CD/Named_Titles/Avenger (Japan).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - PC Engine CD/Named_Titles/Baby Jo the Super Hero (Japan).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Aero Blasters (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Aero Blasters (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Ballistix (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Alien Crush (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Air Zonk (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Battle Royale (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Blazing Lazers (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Ballistix (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Alien Crush (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Air Zonk (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Bloody Wolf (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Battle Royale (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Bomberman '93 (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Blazing Lazers (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Bomberman (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Bonk III - Bonk's Big Adventure (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Bonk's Adventure (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Bonk's Revenge (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Boxyboy (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Bravoman (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Bloody Wolf (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Cadash (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Bomberman '93 (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Champions Forever Boxing (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Chew Man Fu (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Bomberman (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/China Warrior (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Cratermaze (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Cyber Core (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Darkwing Duck (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Davis Cup Tennis (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Dead Moon (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Deep Blue (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Snaps/Devil's Crush - Naxat Pinball (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Bonk III - Bonk's Big Adventure (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Bonk's Adventure (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Bonk's Revenge (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Bravoman (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Boxyboy (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx CD/Named_Snaps/4 in 1 Super CD (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Cadash (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Champions Forever Boxing (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx CD/Named_Snaps/Addams Family, The (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx CD/Named_Snaps/Beyond Shadowgate (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx CD/Named_Snaps/Bonk 3 - Bonk's Big Adventure (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx CD/Named_Snaps/Buster Bros. (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx CD/Named_Snaps/Camp California (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Cratermaze (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx CD/Named_Snaps/Cosmic Fantasy 2 (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Cyber Core (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx CD/Named_Snaps/Cotton - Fantastic Night Dreams (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Darkwing Duck (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Davis Cup Tennis (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Dead Moon (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Chew Man Fu (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/China Warrior (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Deep Blue (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx CD/Named_Titles/4 in 1 Super CD (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx 16/Named_Titles/Devil's Crush - Naxat Pinball (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx CD/Named_Titles/Addams Family, The (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx CD/Named_Titles/Beyond Shadowgate (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx CD/Named_Titles/Bonk 3 - Bonk's Big Adventure (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx CD/Named_Titles/Buster Bros. (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx CD/Named_Titles/Camp California (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx CD/Named_Titles/Cosmic Fantasy 2 (USA).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/NEC - TurboGrafx CD/Named_Titles/Cotton - Fantastic Night Dreams (USA).png" failed: File not found.
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Xena - Warrior Princess - The Talisman of Fate (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Yoshi's Story (USA) (En,Ja).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/WWF War Zone (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/WWF WrestleMania 2000 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/WWF No Mercy (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/WWF Attitude (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Worms Armageddon (USA) (En,Fr,Es).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/World Driver Championship (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Xena - Warrior Princess - The Talisman of Fate (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/WWF WrestleMania 2000 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/WinBack - Covert Operations (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/WWF No Mercy (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Wipeout 64 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Yoshi's Story (USA) (En,Ja).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/WWF War Zone (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Worms Armageddon (USA) (En,Fr,Es).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Wheel of Fortune (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Wetrix (USA) (En,Fr,De,Es,It,Nl).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/WCW-nWo Revenge (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/WCW vs. nWo - World Tour (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/WWF Attitude (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/WCW Nitro (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/WCW Mayhem (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/WCW Backstage Assault (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Wayne Gretzky's 3D Hockey '98 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/War Gods (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/World Driver Championship (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Wayne Gretzky's 3D Hockey (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Waialae Country Club - True Golf Classics (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Virtual Pool 64 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Virtual Chess 64 (USA) (En,Fr,Es).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Vigilante 8 - 2nd Offense (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Vigilante 8 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/V-Rally Edition 99 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Twisted Edge - Extreme Snowboarding (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Turok 3 - Shadow of Oblivion (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/WinBack - Covert Operations (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Wipeout 64 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Turok 2 - Seeds of Evil (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Turok - Rage Wars (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Triple Play 2000 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Turok - Dinosaur Hunter (USA) (Rev 2).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Transformers - Beast Wars Transmetals (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Wetrix (USA) (En,Fr,De,Es,It,Nl).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Xena - Warrior Princess - The Talisman of Fate (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/WCW-nWo Revenge (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/WCW vs. nWo - World Tour (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Wheel of Fortune (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/WWF War Zone (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/WWF WrestleMania 2000 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/WWF No Mercy (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/WCW Nitro (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/WCW Mayhem (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Yoshi's Story (USA) (En,Ja).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/War Gods (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Wayne Gretzky's 3D Hockey '98 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/WWF Attitude (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Wayne Gretzky's 3D Hockey (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/WCW Backstage Assault (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Vigilante 8 - 2nd Offense (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Vigilante 8 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Virtual Pool 64 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/V-Rally Edition 99 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Turok - Dinosaur Hunter (USA) (Rev 2).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Virtual Chess 64 (USA) (En,Fr,Es).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Worms Armageddon (USA) (En,Fr,Es).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Twisted Edge - Extreme Snowboarding (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Turok 3 - Shadow of Oblivion (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Waialae Country Club - True Golf Classics (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/World Driver Championship (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Turok 2 - Seeds of Evil (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Turok - Rage Wars (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Triple Play 2000 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Transformers - Beast Wars Transmetals (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Titles/Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/WinBack - Covert Operations (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/WCW-nWo Revenge (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Wipeout 64 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da).png".
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Snaps/Star Wars - Rogue Squadron (USA) (Rev 1).png" failed: File not found.
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Virtual Pool 64 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/WCW Nitro (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Virtual Chess 64 (USA) (En,Fr,Es).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Wheel of Fortune (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Turok 3 - Shadow of Oblivion (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Triple Play 2000 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Waialae Country Club - True Golf Classics (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Vigilante 8 - 2nd Offense (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Transformers - Beast Wars Transmetals (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Wayne Gretzky's 3D Hockey '98 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Turok - Dinosaur Hunter (USA) (Rev 2).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Turok 2 - Seeds of Evil (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Vigilante 8 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Wetrix (USA) (En,Fr,De,Es,It,Nl).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/WCW vs. nWo - World Tour (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Turok - Rage Wars (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/V-Rally Edition 99 (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/War Gods (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Wayne Gretzky's 3D Hockey (USA) (Rev 1).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/WCW Mayhem (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/Twisted Edge - Extreme Snowboarding (USA).png".
+[INFO] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Nintendo - Nintendo 64/Named_Boxarts/WCW Backstage Assault (USA).png".
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Sega - Master System - Mark III/Named_Snaps/Ace of Aces (Europe).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Sega - Master System - Mark III/Named_Titles/Ace of Aces (Europe).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Sony - PlayStation 3/Named_Snaps/Dark Souls II.png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Sony - PlayStation 3/Named_Titles/Dark Souls II.png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Sony - PlayStation 3/Named_Boxarts/Dark Souls II.png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/The 3DO Company - 3DO/Named_Snaps/Killing Time (USA) (Rev 2).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/The 3DO Company - 3DO/Named_Titles/Killing Time (USA) (Rev 2).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/The 3DO Company - 3DO/Named_Boxarts/Killing Time (USA) (Rev 2).png" failed: File not found.
+[INFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] [PulseAudio]: Pausing.
+[INFO] [Core]: Unloading core..
+[INFO] [Core]: Unloading core symbols..
+[INFO] [XINERAMA]: Xinerama version: 1.1.
+[INFO] [XINERAMA]: Xinerama screens: 1.
+[INFO] [XINERAMA]: Saved monitor #0.
+[INFO] [Video]: Average monitor Hz: 60.002400 Hz. (5.174 % frame time deviation, based on 2048 last samples).

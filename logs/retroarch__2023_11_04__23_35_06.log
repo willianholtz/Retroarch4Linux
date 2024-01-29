@@ -1,0 +1,1585 @@
+[NFO] RetroArch 1.16.0 (Git b703cd94da)
+[NFO] === Build =======================================
+[NFO] CPU Model Name: AMD Ryzen 7 5700X 8-Core Processor             
+[NFO] Capacidades: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[NFO] Version: 1.16.0
+[NFO] Git: b703cd94da
+[NFO] Built: Nov  4 2023
+[NFO] =================================================
+[NFO] [Input]: Found input driver: "x".
+[NFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[NFO] [Core]: Versão da API libretro: 1, Compilado contra a API: 1
+[NFO] [Core]: Geometry: 320x240, Aspect: 1.333, FPS: 60.00, Sample rate: 48000.00 Hz.
+[NFO] [Audio]: Set audio input rate to: 48000.00 Hz.
+[NFO] [Video]: Set video size to: fullscreen.
+[ERR] [Wayland]: Failed to connect to Wayland server.
+[NFO] [Vulkan]: Vulkan dynamic library loaded.
+[NFO] [Vulkan]: Found vulkan context: "vk_x".
+[NFO] [Vulkan]: Detecting screen resolution: 3840x2160.
+[NFO] [XINERAMA]: Xinerama version: 1.1.
+[NFO] [XINERAMA]: Xinerama screens: 1.
+[NFO] [X/Vulkan]: Using Xinerama on screen #0.
+[NFO] [X/Vulkan]: X = 0, Y = 0, W = 3840, H = 2160.
+[NFO] [X/Vulkan]: Using windowed fullscreen.
+[NFO] [Vulkan]: Found GPU at index 0: "NVIDIA GeForce RTX 2060".
+[NFO] [Vulkan]: Using GPU index 0.
+[NFO] [Vulkan]: Using fences for WSI acquire.
+[NFO] [Vulkan]: Using GPU: "NVIDIA GeForce RTX 2060".
+[NFO] [Vulkan]: Queue family 0 supports 16 sub-queues.
+[NFO] [Vulkan]: Got 3 swapchain images.
+[NFO] [Vulkan]: Using resolution 3840x2160.
+[NFO] [Vulkan]: Using RGB565 format.
+[NFO] [Vulkan]: Loading stock shader.
+[NFO] [udev]: Pad #0 (/dev/input/event3) supports force feedback.
+[NFO] [udev]: Pad #0 (/dev/input/event3) supports 16 force feedback effects.
+[NFO] [Joypad]: Found joypad driver: "udev".
+[NFO] [X11]: Suspending screensaver (X11, xdg-screensaver).
+[NFO] [Video]: Found display server: "x11".
+[NFO] [PulseAudio]: Requested 24576 bytes buffer, got 18432.
+[NFO] [Audio]: Started synchronous audio driver.
+[NFO] [ALSA] Using ALSA version 1.2.10
+[NFO] [Microphone]: Initialized microphone driver.
+[NFO] [Display]: Found display driver: "vulkan".
+[NFO] [Playlist]: Carregando o arquivo de favoritos: "/home/willian/.config/retroarch/content_favorites.lpl".
+[NFO] [X/Vulkan]: Resized fullscreen resolution to 3840x2160.
+[ERR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Arcade - Capcom CP System II/Named_Titles/Capcom Sports Club (971017 Euro).png" failed: File not found.
+[ERR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Arcade - Capcom CP System II/Named_Titles/Choko (010820 Japan).png" failed: File not found.
+[ERR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Arcade - Capcom CP System II/Named_Titles/Jyangokushi  -Haoh no Saihai- (990527 Japan).png" failed: File not found.
+[ERR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Arcade - Capcom CP System II/Named_Boxarts/Capcom Sports Club (971017 Euro).png" failed: File not found.
+[ERR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Arcade - Capcom CP System II/Named_Boxarts/Choko (010820 Japan).png" failed: File not found.
+[ERR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Arcade - Capcom CP System II/Named_Boxarts/Jyangokushi  -Haoh no Saihai- (990527 Japan).png" failed: File not found.
+[ERR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Arcade - Capcom CP System II/Named_Titles/Mega Man 2 - the power fighters (960708 USA).png" failed: File not found.
+[ERR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Arcade - Capcom CP System II/Named_Boxarts/Mega Man 2 - the power fighters (960708 USA).png" failed: File not found.
+[NFO] [Environ]: SET_SUBSYSTEM_INFO.
+[NFO] [Core]: Using content: ".config/retroarch/roms/FBNeo - Arcade Games/donpachi.zip".
+[NFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[NFO] [PulseAudio]: Pausing.
+[NFO] [Core]: Unloading core..
+[NFO] [Core]: Unloading core symbols..
+[NFO] [XINERAMA]: Xinerama version: 1.1.
+[NFO] [XINERAMA]: Xinerama screens: 1.
+[NFO] [XINERAMA]: Saved monitor #0.
+[NFO] [Video]: Does not have enough samples for monitor refresh rate estimation. Requires to run for at least 4096 frames.
+[NFO] RetroArch 1.16.0 (Git b703cd94da)
+[NFO] === Build =======================================
+[NFO] CPU Model Name: AMD Ryzen 7 5700X 8-Core Processor             
+[NFO] Capacidades: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[NFO] Version: 1.16.0
+[NFO] Git: b703cd94da
+[NFO] Built: Nov  4 2023
+[NFO] =================================================
+[NFO] [Input]: Found input driver: "x".
+[NFO] [Core]: Loading dynamic libretro core from: "/home/willian/.config/retroarch/cores/fbneo_libretro.so"
+[NFO] [Overrides]: Game-specific overrides found at "/home/willian/.config/retroarch/config/FinalBurn Neo/donpachi.cfg".
+[NFO] [Config]: Loading config: "/home/willian/.config/retroarch/retroarch.cfg".
+[NFO] [Config]: Appending override config: "/home/willian/.config/retroarch/config/FinalBurn Neo/donpachi.cfg".
+[NFO] [Overrides]: Redirecionando arquivo dados da memória do jogo em "/home/willian/.config/retroarch/saves/donpachi.srm".
+[NFO] [Overrides]: Redirecionando o jogo salvo em "/home/willian/.config/retroarch/states/donpachi.state".
+[NFO] [Environ]: SET_SERIALIZATION_QUIRKS.
+[NFO] [Environ]: GET_LOG_INTERFACE.
+[NFO] [Environ]: GET_MESSAGE_INTERFACE_VERSION.
+[NFO] [Environ]: SET_AUDIO_BUFFER_STATUS_CALLBACK.
+[NFO] [Content]: Carregamento de conteúdo ignorado. A implementação irá carregar por conta própria.
+[NFO] [Environ]: SAVE_DIRECTORY: "/home/willian/.config/retroarch/saves".
+libretro [NFO] Setting save dir to /home/willian/.config/retroarch/saves
+[NFO] [Environ]: SYSTEM_DIRECTORY: "/home/willian/.config/retroarch/system".
+libretro [NFO] Setting system dir to /home/willian/.config/retroarch/system
+[NFO] [Environ]: SET_CONTROLLER_INFO.
+libretro [NFO] Initialize DIP switches.
+[NFO] [Environ]: GET_CORE_OPTIONS_VERSION.
+[NFO] [Environ]: RETRO_ENVIRONMENT_SET_CORE_OPTIONS_V2.
+libretro [NFO] [FBNeo] Searching all possible locations for romset donpachi
+libretro [NFO] [FBNeo] No patched romset found at /home/willian/.config/retroarch/system/fbneo/patched/donpachi
+libretro [NFO] [FBNeo] Romset found at .config/retroarch/roms/FBNeo - Arcade Games/donpachi
+libretro [NFO] [FBNeo] No romset found at /home/willian/.config/retroarch/system/fbneo/donpachi
+libretro [NFO] [FBNeo] No romset found at /home/willian/.config/retroarch/system/donpachi
+libretro [NFO] [FBNeo] Using ROM with known crc 0x89c36802 and name prgu.u29 from archive .config/retroarch/roms/FBNeo - Arcade Games/donpachi
+libretro [NFO] [FBNeo] Using ROM with known crc 0x7189e953 and name atdp.u44 from archive .config/retroarch/roms/FBNeo - Arcade Games/donpachi
+libretro [NFO] [FBNeo] Using ROM with known crc 0x6984173f and name atdp.u45 from archive .config/retroarch/roms/FBNeo - Arcade Games/donpachi
+libretro [NFO] [FBNeo] Using ROM with known crc 0x6bda6b66 and name atdp.u54 from archive .config/retroarch/roms/FBNeo - Arcade Games/donpachi
+libretro [NFO] [FBNeo] Using ROM with known crc 0x0a0e72b9 and name atdp.u57 from archive .config/retroarch/roms/FBNeo - Arcade Games/donpachi
+libretro [NFO] [FBNeo] Using ROM with known crc 0x5dba06e7 and name text.u58 from archive .config/retroarch/roms/FBNeo - Arcade Games/donpachi
+libretro [NFO] [FBNeo] Using ROM with known crc 0x0d89fcca and name atdp.u32 from archive .config/retroarch/roms/FBNeo - Arcade Games/donpachi
+libretro [NFO] [FBNeo] Using ROM with known crc 0xd749de00 and name atdp.u33 from archive .config/retroarch/roms/FBNeo - Arcade Games/donpachi
+libretro [NFO] [FBNeo] Using ROM with known crc 0x315fb546 and name eeprom-donpachi.u10 from archive .config/retroarch/roms/FBNeo - Arcade Games/donpachi
+libretro [NFO] [FBNeo] Using ROM with known crc 0x3f4787e9 and name peel18cv8p-15.u18 from archive .config/retroarch/roms/FBNeo - Arcade Games/donpachi
+libretro [NFO] [FBNeo] No missing files, proceeding
+libretro [NFO] [FBNeo] Samplerate set to 48000
+libretro [NFO] [FBNeo] Applied dipswitches from core options
+libretro [NFO] [FBNeo] Initialized driver for donpachi
+libretro [NFO] [FBNeo] Adjusted audio buffer to match driver's refresh rate (57.550000 Hz)
+libretro [NFO] [Cheevos] System RAM set to 0x7fca069cd090, size is 233472
+[NFO] [Environ]: SET_ROTATION: 1
+[NFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+libretro [NFO] [FBNeo] Driver donpachi was successfully started : game's full name is DonPachi (USA, ver. 1.12, 95/05/2x)
+[NFO] [Replay]: Found last replay slot: #0
+[NFO] [SRAM]: Ignorando carregamento da SRAM.
+[NFO] [Core]: Versão da API libretro: 1, Compilado contra a API: 1
+libretro [NFO] [FBNeo] Timing set to 57.550000 Hz
+[NFO] [Core]: Geometry: 320x240, Aspect: 1.333, FPS: 57.55, Sample rate: 47996.70 Hz.
+[NFO] [Audio]: Set audio input rate to: 50040.00 Hz.
+[NFO] [Video]: Set video size to: fullscreen.
+[ERR] [Wayland]: Failed to connect to Wayland server.
+[NFO] [Vulkan]: Vulkan dynamic library loaded.
+[NFO] [Vulkan]: Found vulkan context: "vk_x".
+[NFO] [Vulkan]: Detecting screen resolution: 3840x2160.
+[NFO] [XINERAMA]: Xinerama version: 1.1.
+[NFO] [XINERAMA]: Xinerama screens: 1.
+[NFO] [X/Vulkan]: Using Xinerama on screen #0.
+[NFO] [X/Vulkan]: X = 0, Y = 0, W = 3840, H = 2160.
+[NFO] [X/Vulkan]: Using windowed fullscreen.
+[NFO] [Vulkan]: Found GPU at index 0: "NVIDIA GeForce RTX 2060".
+[NFO] [Vulkan]: Using GPU index 0.
+[NFO] [Vulkan]: Using fences for WSI acquire.
+[NFO] [Vulkan]: Using GPU: "NVIDIA GeForce RTX 2060".
+[NFO] [Vulkan]: Queue family 0 supports 16 sub-queues.
+[NFO] [Vulkan]: Got 3 swapchain images.
+[NFO] [Vulkan]: Using resolution 3840x2160.
+[NFO] [Vulkan]: Using RGB565 format.
+[NFO] [Shaders]: Specific shader preset found at "/home/willian/.config/retroarch/config/global.slangp".
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/add-params-all.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #0.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_SRGB for pass output #1.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/add-negative-crop-area.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_SRGB for pass output #2.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/cache-info-all-params.slang".
+[NFO] [slang]: Using render target format R32G32B32A32_SFLOAT for pass output #3.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/text-std.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #4.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/intro.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #5.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #6.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #7.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-afterglow0.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #8.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-pre-shaders-afterglow.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #9.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/dogway/hsm-grade.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #10.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-custom-fast-sharpen.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #11.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #12.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-avg-lum.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #13.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-interlace-and-linearize.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #14.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/delinearize.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #15.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-crt-dariusg-gdv-mini.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #16.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/post-crt-prep-image-layers.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #17.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/bezel-images-under-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #18.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/bezel-images-over-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #19.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/linearize-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #20.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/blur-outside-screen-horiz.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #21.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/blur-outside-screen-vert.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #22.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/blurs/shaders/royale/blur9x9.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #23.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/blurs/shaders/royale/blur9x9.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #24.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/reflection.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #25.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/combine-passes.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #26.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 128x128 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 12x12 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #3.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #4.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #8.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #13.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #17.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #18.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #19.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #25.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #26.
+[NFO] [udev]: Pad #0 (/dev/input/event3) supports force feedback.
+[NFO] [udev]: Pad #0 (/dev/input/event3) supports 16 force feedback effects.
+[NFO] [Joypad]: Found joypad driver: "udev".
+[NFO] [X11]: Suspending screensaver (X11, xdg-screensaver).
+[NFO] [Video]: Found display server: "x11".
+[NFO] [PulseAudio]: Requested 24576 bytes buffer, got 18432.
+[NFO] [Audio]: Started synchronous audio driver.
+[NFO] [ALSA] Using ALSA version 1.2.10
+[NFO] [Microphone]: Initialized microphone driver.
+[NFO] [Display]: Found display driver: "vulkan".
+[NFO] [Environ]: SET_SUBSYSTEM_INFO.
+libretro [NFO] [FBNeo] Unknown device type for port 0, forcing "Classic" instead
+libretro [NFO] [FBNeo] Unknown device type for port 1, forcing "Classic" instead
+[NFO] [Playlist]: Carregando o arquivo de favoritos: "/home/willian/.config/retroarch/content_favorites.lpl".
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 128x128 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 12x12 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #3.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #4.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #8.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #13.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #17.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #18.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #19.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #25.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #26.
+[NFO] [Environ]: SET_INPUT_DESCRIPTORS:
+[NFO] [X/Vulkan]: Resized fullscreen resolution to 3840x2160.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 128x128 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 12x12 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #3.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #4.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #8.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #13.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #17.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #18.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #19.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #25.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #26.
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 43).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 43).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 109).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 109).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/add-params-all.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #0.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_SRGB for pass output #1.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/add-negative-crop-area.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_SRGB for pass output #2.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/cache-info-all-params.slang".
+[NFO] [slang]: Using render target format R32G32B32A32_SFLOAT for pass output #3.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/text-adv.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #4.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/intro.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #5.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/dedither/dedither-gamma-prep-1-before.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #6.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/hyllian/sgenpt-mix/sgenpt-mix-pass1.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #7.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/hyllian/sgenpt-mix/sgenpt-mix-pass2.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #8.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/hyllian/sgenpt-mix/sgenpt-mix-pass3.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #9.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/hyllian/sgenpt-mix/sgenpt-mix-pass4.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #10.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/hyllian/sgenpt-mix/sgenpt-mix-pass5.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #11.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/dedither/dedither-gamma-prep-2-after.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #12.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/ps1dither/hsm-PS1-Undither-BoxBlur.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #13.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/extras/hsm-g-sharp_resampler.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #14.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/extras/hsm-sharpsmoother.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #15.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #16.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/scalefx/hsm-scalefx-pass0.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #17.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/scalefx/hsm-scalefx-pass1.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #18.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/scalefx/hsm-scalefx-pass2.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #19.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/scalefx/hsm-scalefx-pass3.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #20.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/scalefx/hsm-scalefx-pass4.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #21.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/gtu/hsm-gtu-pass1.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #22.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/gtu/hsm-gtu-pass2.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #23.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #24.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-afterglow0.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #25.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-pre-shaders-afterglow.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #26.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/dogway/hsm-grade.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #27.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-custom-fast-sharpen.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #28.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #29.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-avg-lum.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #30.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-interlace-and-linearize.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #31.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-gaussian_horizontal.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #32.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-gaussian_vertical.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #33.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-bloom_horizontal.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #34.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-bloom_vertical.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #35.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-crt-guest-advanced.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #36.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-deconvergence.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #37.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/post-crt-prep-image-layers.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #38.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/bezel-images-under-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #39.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/bezel-images-over-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #40.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/linearize-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #41.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/blur-outside-screen-horiz.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #42.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/blur-outside-screen-vert.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #43.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/blurs/shaders/royale/blur9x9.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #44.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/blurs/shaders/royale/blur9x9.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #45.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/reflection.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #46.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/combine-passes.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #47.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 1536x1536 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 1536x1536 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 1536x1536 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 1536x1536 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 1536x1536 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 1536x1536 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 1536x1536 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 1536x1536 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 1536x1536 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 1536x1536 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 1536x1536 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x1536 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 128x128 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 12x12 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #3.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #4.
+[NFO] [Vulkan filter chain]: Creating framebuffer 1536x1536 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #25.
+[NFO] [Vulkan filter chain]: Creating framebuffer 1536x1536 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #30.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #38.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #39.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #40.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #46.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #47.
+[NFO] [Shaders]: Menu shader set to: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/Presets/MBZ__0__SMOOTH-ADV.slangp".
+[NFO] [Shaders]: Aplicando sombreador: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/Presets/MBZ__0__SMOOTH-ADV.slangp".
+[NFO] [Shaders]: Menu shader set to: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/Presets/MBZ__0__SMOOTH-ADV.slangp".
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 43).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 43).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 109).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 960x720 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 960x720 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 960x720 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 960x720 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 960x720 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 960x720 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 960x720 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 960x720 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 960x720 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 960x720 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 960x720 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 800x720 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 109).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 960x720 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 960x720 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/add-params-all.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #0.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_SRGB for pass output #1.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/add-negative-crop-area.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_SRGB for pass output #2.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/cache-info-all-params.slang".
+[NFO] [slang]: Using render target format R32G32B32A32_SFLOAT for pass output #3.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/text-std.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #4.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/intro.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #5.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #6.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #7.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-afterglow0.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #8.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-pre-shaders-afterglow.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #9.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/dogway/hsm-grade.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #10.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-custom-fast-sharpen.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #11.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #12.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-avg-lum.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #13.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-interlace-and-linearize.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #14.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-gaussian_horizontal.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #15.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-gaussian_vertical.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #16.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-bloom_horizontal.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #17.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-bloom_vertical.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #18.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-crt-guest-advanced.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #19.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-deconvergence.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #20.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/post-crt-prep-image-layers.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #21.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/bezel-images-under-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #22.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/bezel-images-over-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #23.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/linearize-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #24.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/blur-outside-screen-horiz.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #25.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/blur-outside-screen-vert.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #26.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/blurs/shaders/royale/blur9x9.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #27.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/blurs/shaders/royale/blur9x9.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #28.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/reflection.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #29.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/combine-passes.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #30.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 128x128 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 12x12 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #3.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #4.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #8.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #13.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #21.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #22.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #23.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #29.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #30.
+[NFO] [Shaders]: Menu shader set to: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/Presets/MBZ__3__STD.slangp".
+[NFO] [Shaders]: Aplicando sombreador: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/Presets/MBZ__3__STD.slangp".
+[NFO] [Shaders]: Menu shader set to: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/Presets/MBZ__3__STD.slangp".
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 43).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 43).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 109).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 800x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 109).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Shaders]: Saved shader preset to "/home/willian/.config/retroarch/config/global.slangp".
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/add-params-all.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #0.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_SRGB for pass output #1.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/add-negative-crop-area.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_SRGB for pass output #2.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/cache-info-all-params.slang".
+[NFO] [slang]: Using render target format R32G32B32A32_SFLOAT for pass output #3.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/text-std.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #4.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/intro.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #5.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #6.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #7.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-afterglow0.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #8.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-pre-shaders-afterglow.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #9.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/dogway/hsm-grade.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #10.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-custom-fast-sharpen.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #11.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #12.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-avg-lum.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #13.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-interlace-and-linearize.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #14.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-gaussian_horizontal.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #15.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-gaussian_vertical.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #16.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-bloom_horizontal.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #17.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-bloom_vertical.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #18.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-crt-guest-advanced.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #19.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-deconvergence.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #20.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/post-crt-prep-image-layers.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #21.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/bezel-images-under-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #22.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/bezel-images-over-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #23.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/linearize-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #24.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/blur-outside-screen-horiz.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #25.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/blur-outside-screen-vert.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #26.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/blurs/shaders/royale/blur9x9.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #27.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/blurs/shaders/royale/blur9x9.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #28.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/reflection.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #29.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/combine-passes.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #30.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 128x128 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 12x12 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #3.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #4.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #8.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #13.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #21.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #22.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #23.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #29.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #30.
+[NFO] [Shaders]: Menu shader set to: "/home/willian/.config/retroarch/config/global.slangp".
+[NFO] [Shaders]: Aplicando sombreador: "/home/willian/.config/retroarch/config/global.slangp".
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 43).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 43).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 109).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 800x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 109).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Shaders]: Saved shader preset to "/home/willian/.config/retroarch/config/global.slangp".
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/add-params-all.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #0.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_SRGB for pass output #1.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/add-negative-crop-area.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_SRGB for pass output #2.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/cache-info-all-params.slang".
+[NFO] [slang]: Using render target format R32G32B32A32_SFLOAT for pass output #3.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/text-std.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #4.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/intro.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #5.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #6.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #7.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-afterglow0.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #8.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-pre-shaders-afterglow.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #9.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/dogway/hsm-grade.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #10.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-custom-fast-sharpen.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #11.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #12.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-avg-lum.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #13.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-interlace-and-linearize.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #14.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-gaussian_horizontal.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #15.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-gaussian_vertical.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #16.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-bloom_horizontal.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #17.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-bloom_vertical.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #18.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-crt-guest-advanced.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #19.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-deconvergence.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #20.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/post-crt-prep-image-layers.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #21.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/bezel-images-under-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #22.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/bezel-images-over-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #23.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/linearize-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #24.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/blur-outside-screen-horiz.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #25.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/blur-outside-screen-vert.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #26.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/blurs/shaders/royale/blur9x9.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #27.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/blurs/shaders/royale/blur9x9.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #28.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/reflection.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #29.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/combine-passes.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #30.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 128x128 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 12x12 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #3.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #4.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #8.
+[NFO] [Vulkan filter chain]: Creating framebuffer 512x512 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #13.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #21.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #22.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #23.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #29.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #30.
+[NFO] [Shaders]: Menu shader set to: "/home/willian/.config/retroarch/config/global.slangp".
+[NFO] [Shaders]: Aplicando sombreador: "/home/willian/.config/retroarch/config/global.slangp".
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 43).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 43).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 109).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 800x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 109).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 320x240 (format: 37).
+[NFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 46 seconds.
+[NFO] [Runtime]: Saving runtime log file: "/home/willian/.config/retroarch/playlists/logs/FinalBurn Neo/donpachi.lrtl".
+[NFO] [Config]: Loading config: "/home/willian/.config/retroarch/retroarch.cfg".
+[NFO] [Overrides]: Configuration overrides unloaded, original configuration restored.
+[NFO] [Core]: Sem conteúdo, iniciando um núcleo vazio.
+[NFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[NFO] [Core]: Unloading game..
+[NFO] [PulseAudio]: Pausing.
+[NFO] [Core]: Unloading core..
+[NFO] [Core]: Unloading core symbols..
+[NFO] [Core]: Saved core options file to "/home/willian/.config/retroarch/config/FinalBurn Neo/FinalBurn Neo.opt".
+[NFO] [XINERAMA]: Xinerama version: 1.1.
+[NFO] [XINERAMA]: Xinerama screens: 1.
+[NFO] [XINERAMA]: Saved monitor #0.
+[NFO] [Video]: Average monitor Hz: 54.344873 Hz. (394.523 % frame time deviation, based on 2048 last samples).
+[NFO] RetroArch 1.16.0 (Git b703cd94da)
+[NFO] === Build =======================================
+[NFO] CPU Model Name: AMD Ryzen 7 5700X 8-Core Processor             
+[NFO] Capacidades: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[NFO] Version: 1.16.0
+[NFO] Git: b703cd94da
+[NFO] Built: Nov  4 2023
+[NFO] =================================================
+[NFO] [Input]: Found input driver: "x".
+[NFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[NFO] [Core]: Versão da API libretro: 1, Compilado contra a API: 1
+[NFO] [Core]: Geometry: 320x240, Aspect: 1.333, FPS: 60.00, Sample rate: 48000.00 Hz.
+[NFO] [Audio]: Set audio input rate to: 48000.00 Hz.
+[NFO] [Video]: Set video size to: fullscreen.
+[ERR] [Wayland]: Failed to connect to Wayland server.
+[NFO] [Vulkan]: Vulkan dynamic library loaded.
+[NFO] [Vulkan]: Found vulkan context: "vk_x".
+[NFO] [Vulkan]: Detecting screen resolution: 3840x2160.
+[NFO] [XINERAMA]: Xinerama version: 1.1.
+[NFO] [XINERAMA]: Xinerama screens: 1.
+[NFO] [X/Vulkan]: Using Xinerama on screen #0.
+[NFO] [X/Vulkan]: X = 0, Y = 0, W = 3840, H = 2160.
+[NFO] [X/Vulkan]: Using windowed fullscreen.
+[NFO] [Vulkan]: Found GPU at index 0: "NVIDIA GeForce RTX 2060".
+[NFO] [Vulkan]: Using GPU index 0.
+[NFO] [Vulkan]: Using fences for WSI acquire.
+[NFO] [Vulkan]: Using GPU: "NVIDIA GeForce RTX 2060".
+[NFO] [Vulkan]: Queue family 0 supports 16 sub-queues.
+[NFO] [Vulkan]: Got 3 swapchain images.
+[NFO] [Vulkan]: Using resolution 3840x2160.
+[NFO] [Vulkan]: Using RGB565 format.
+[NFO] [Vulkan]: Loading stock shader.
+[NFO] [udev]: Pad #0 (/dev/input/event3) supports force feedback.
+[NFO] [udev]: Pad #0 (/dev/input/event3) supports 16 force feedback effects.
+[NFO] [Joypad]: Found joypad driver: "udev".
+[NFO] [X11]: Suspending screensaver (X11, xdg-screensaver).
+[NFO] [Video]: Found display server: "x11".
+[NFO] [PulseAudio]: Requested 24576 bytes buffer, got 18432.
+[NFO] [Audio]: Started synchronous audio driver.
+[NFO] [ALSA] Using ALSA version 1.2.10
+[NFO] [Microphone]: Initialized microphone driver.
+[NFO] [Display]: Found display driver: "vulkan".
+[NFO] [Environ]: SET_SUBSYSTEM_INFO.
+[NFO] [Shaders]: Specific shader preset found at "/home/willian/.config/retroarch/config/global.slangp".
+[NFO] [Playlist]: Carregando o arquivo de favoritos: "/home/willian/.config/retroarch/content_favorites.lpl".
+[NFO] [X/Vulkan]: Resized fullscreen resolution to 3840x2160.
+[NFO] [Config]: Nova configuração salva em "/home/willian/.config/retroarch/retroarch.cfg".
+[NFO] [Core]: Using content: "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Street Fighter Alpha 3 Max (USA).iso".
+[NFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[NFO] [PulseAudio]: Pausing.
+[NFO] [Core]: Unloading core..
+[NFO] [Core]: Unloading core symbols..
+[NFO] [XINERAMA]: Xinerama version: 1.1.
+[NFO] [XINERAMA]: Xinerama screens: 1.
+[NFO] [XINERAMA]: Saved monitor #0.
+[NFO] [Video]: Does not have enough samples for monitor refresh rate estimation. Requires to run for at least 4096 frames.
+[NFO] RetroArch 1.16.0 (Git b703cd94da)
+[NFO] === Build =======================================
+[NFO] CPU Model Name: AMD Ryzen 7 5700X 8-Core Processor             
+[NFO] Capacidades: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[NFO] Version: 1.16.0
+[NFO] Git: b703cd94da
+[NFO] Built: Nov  4 2023
+[NFO] =================================================
+[NFO] [Input]: Found input driver: "x".
+[NFO] [Core]: Loading dynamic libretro core from: "/home/willian/.config/retroarch/cores/ppsspp_libretro.so"
+[NFO] [Overrides]: Redirecionando arquivo dados da memória do jogo em "/home/willian/.config/retroarch/saves/Street Fighter Alpha 3 Max (USA).srm".
+[NFO] [Overrides]: Redirecionando o jogo salvo em "/home/willian/.config/retroarch/states/Street Fighter Alpha 3 Max (USA).state".
+[NFO] [Environ]: GET_CORE_OPTIONS_VERSION.
+[NFO] [Environ]: GET_LANGUAGE: "7".
+[NFO] [Environ]: RETRO_ENVIRONMENT_SET_CORE_OPTIONS_V2_INTL.
+[NFO] [Environ]: SET_INPUT_DESCRIPTORS:
+[NFO] [Environ]: GET_LOG_INTERFACE.
+libretro [ERR] [IO] Missing filesystem for 'lang/.ini'
+libretro [NFO] [G3D] Longest display side: -1 pixels. Choosing scale 1
+libretro [ERR] [LOADER] Failed to read /controls.ini. Setting controller config to default.
+[NFO] [Environ]: GET_USERNAME: "".
+[NFO] [Environ]: SYSTEM_DIRECTORY: "/home/willian/.config/retroarch/system".
+[NFO] [Environ]: SAVE_DIRECTORY: "/home/willian/.config/retroarch/saves".
+[NFO] [Content]: Carregamento de conteúdo ignorado. A implementação irá carregar por conta própria.
+[NFO] [Environ]: SET_PIXEL_FORMAT: XRGB8888.
+[NFO] [Environ]: GET_PREFERRED_HW_RENDER, video driver name: vulkan.
+[NFO] [Environ]: GET_PREFERRED_HW_RENDER - Context callback set to RETRO_HW_CONTEXT_VULKAN.
+[NFO] [Environ]: SET_HW_RENDER, context type: vulkan.
+[NFO] Requesting Vulkan context.
+[NFO] [Environ]: SET_HW_RENDER_CONTEXT_NEGOTIATION_INTERFACE.
+[NFO] [Environ]: GET_LANGUAGE: "7".
+libretro [WRN] [BOOT] PPSSPP v1.16.6-276-g6d063ce
+libretro [WRN] [G3D] UnitsPerMeter for ULUS10062: 0.000000
+[NFO] [Replay]: Found last replay slot: #0
+[NFO] [SRAM]: Ignorando carregamento da SRAM.
+[NFO] [Core]: Versão da API libretro: 1, Compilado contra a API: 1
+[NFO] [Core]: Geometry: 1440x816, Aspect: 1.765, FPS: 59.94, Sample rate: 44100.00 Hz.
+[NFO] [Audio]: Set audio input rate to: 44144.10 Hz.
+[NFO] [Video]: Set video size to: fullscreen.
+[NFO] [Video]: Using HW render, vulkan driver forced.
+[ERR] [Wayland]: Failed to connect to Wayland server.
+[NFO] [Vulkan]: Vulkan dynamic library loaded.
+[NFO] [Vulkan]: Found vulkan context: "vk_x".
+[NFO] [Vulkan]: Detecting screen resolution: 3840x2160.
+[NFO] [XINERAMA]: Xinerama version: 1.1.
+[NFO] [XINERAMA]: Xinerama screens: 1.
+[NFO] [X/Vulkan]: Using Xinerama on screen #0.
+[NFO] [X/Vulkan]: X = 0, Y = 0, W = 3840, H = 2160.
+[NFO] [X/Vulkan]: Using windowed fullscreen.
+[NFO] [Vulkan]: Got HW context negotiation interface 1.
+[NFO] [Vulkan]: Found GPU at index 0: "NVIDIA GeForce RTX 2060".
+[NFO] [Vulkan]: Using GPU index 0.
+[NFO] [Vulkan]: Using fences for WSI acquire.
+[NFO] [Vulkan]: Using GPU: "NVIDIA GeForce RTX 2060".
+[NFO] [Vulkan]: Got 3 swapchain images.
+[NFO] [Vulkan]: Using resolution 3840x2160.
+[NFO] [Vulkan]: Using BGRA8888 format.
+[NFO] [Shaders]: Specific shader preset found at "/home/willian/.config/retroarch/config/global.slangp".
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/add-params-all.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #0.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_SRGB for pass output #1.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/add-negative-crop-area.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_SRGB for pass output #2.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/cache-info-all-params.slang".
+[NFO] [slang]: Using render target format R32G32B32A32_SFLOAT for pass output #3.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/text-std.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #4.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/intro.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #5.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #6.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #7.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-afterglow0.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #8.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-pre-shaders-afterglow.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #9.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/dogway/hsm-grade.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #10.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-custom-fast-sharpen.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #11.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #12.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-avg-lum.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #13.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-interlace-and-linearize.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #14.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-gaussian_horizontal.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #15.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-gaussian_vertical.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #16.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-bloom_horizontal.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #17.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-bloom_vertical.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #18.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-crt-guest-advanced.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #19.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-deconvergence.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #20.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/post-crt-prep-image-layers.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #21.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/bezel-images-under-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #22.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/bezel-images-over-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #23.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/linearize-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #24.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/blur-outside-screen-horiz.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #25.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/blur-outside-screen-vert.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #26.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/blurs/shaders/royale/blur9x9.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #27.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/blurs/shaders/royale/blur9x9.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #28.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/reflection.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #29.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/combine-passes.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #30.
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 128x128 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 12x12 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #3.
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #4.
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #8.
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #13.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #21.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #22.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #23.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #29.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #30.
+[NFO] [udev]: Pad #0 (/dev/input/event3) supports force feedback.
+[NFO] [udev]: Pad #0 (/dev/input/event3) supports 16 force feedback effects.
+[NFO] [Joypad]: Found joypad driver: "udev".
+[NFO] [X11]: Suspending screensaver (X11, xdg-screensaver).
+[NFO] [Video]: Found display server: "x11".
+[NFO] [PulseAudio]: Requested 24576 bytes buffer, got 18432.
+[NFO] [Audio]: Started synchronous audio driver.
+[NFO] [ALSA] Using ALSA version 1.2.10
+[NFO] [Microphone]: Initialized microphone driver.
+[NFO] [Display]: Found display driver: "vulkan".
+[NFO] [Playlist]: Carregando o arquivo de favoritos: "/home/willian/.config/retroarch/content_favorites.lpl".
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 128x128 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 12x12 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #3.
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #4.
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #8.
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #13.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #21.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #22.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #23.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #29.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #30.
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 43).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 43).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 109).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 800x816 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 44).
+[NFO] [X/Vulkan]: Resized fullscreen resolution to 3840x2160.
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 800x600 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 128x128 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 12x12 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #3.
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #4.
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #8.
+[NFO] [Vulkan filter chain]: Creating framebuffer 2048x2048 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #13.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #21.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #22.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 4294967295 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #23.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #29.
+[NFO] [Vulkan filter chain]: Creating framebuffer 3840x2160 (max 1 level(s)).
+[NFO] [Vulkan filter chain]: Using framebuffer feedback for pass #30.
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 43).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 43).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 109).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 800x816 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 44).
+libretro [ERR] [SCEDISP] 80000104=sceDisplaySetFrameBuf(04000000, 480, 1, 1): invalid stride
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 109).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 97).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 37).
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 44).
+libretro [ERR] [FILESYS] VFSFileSystem failed to open /font/zh_gb.pgf
+[NFO] [Vulkan filter chain]: Updating framebuffer size 1440x816 (format: 44).
+libretro [ERR] [FILESYS] DirectoryFileSystem::OpenFile('/PSP/SAVEDATA/PARAM.SFO'): FAILED, 2 - access = 1 ''
+libretro [ERR] [FILESYS] DirectoryFileSystem::OpenFile('/PSP/SAVEDATA/PARAM.SFO'): FAILED, 2 - access = 1 ''
+[NFO] [Playlist]: Written to playlist file: "/home/willian/.config/retroarch/playlists/Sony - PlayStation 2.lpl".
+[NFO] [Core]: Using content: "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Medal of Honor - Frontline (USA).chd".
+[NFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 09 seconds.
+[NFO] [Runtime]: Saving runtime log file: "/home/willian/.config/retroarch/playlists/logs/PPSSPP/Street Fighter Alpha 3 Max (USA).lrtl".
+[NFO] [Core]: Unloading game..
+libretro [WRN] [G3D] Saved 2 vertex and 6 fragment shaders
+libretro [WRN] [G3D] Saved Vulkan pipeline ID cache (8 unique pipelines/8).
+[NFO] [PulseAudio]: Pausing.
+[NFO] [Core]: Unloading core..
+[NFO] [Core]: Unloading core symbols..
+[NFO] [Core]: Saved core options file to "/home/willian/.config/retroarch/config/PPSSPP/PPSSPP.opt".
+[NFO] [XINERAMA]: Xinerama version: 1.1.
+[NFO] [XINERAMA]: Xinerama screens: 1.
+[NFO] [XINERAMA]: Saved monitor #0.
+[NFO] [Video]: Does not have enough samples for monitor refresh rate estimation. Requires to run for at least 4096 frames.
+[NFO] RetroArch 1.16.0 (Git b703cd94da)
+[NFO] === Build =======================================
+[NFO] CPU Model Name: AMD Ryzen 7 5700X 8-Core Processor             
+[NFO] Capacidades: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[NFO] Version: 1.16.0
+[NFO] Git: b703cd94da
+[NFO] Built: Nov  4 2023
+[NFO] =================================================
+[NFO] [Input]: Found input driver: "x".
+[NFO] [Core]: Loading dynamic libretro core from: "/home/willian/.config/retroarch/cores/pcsx2_libretro.so"
+[NFO] [Overrides]: Game-specific overrides found at "/home/willian/.config/retroarch/config/LRPS2 (alpha)/Medal of Honor - Frontline (USA).cfg".
+[NFO] [Config]: Loading config: "/home/willian/.config/retroarch/retroarch.cfg".
+[NFO] [Config]: Appending override config: "/home/willian/.config/retroarch/config/LRPS2 (alpha)/Medal of Honor - Frontline (USA).cfg".
+[NFO] [Overrides]: Redirecionando arquivo dados da memória do jogo em "/home/willian/.config/retroarch/saves/Medal of Honor - Frontline (USA).srm".
+[NFO] [Overrides]: Redirecionando o jogo salvo em "/home/willian/.config/retroarch/states/Medal of Honor - Frontline (USA).state".
+[NFO] [Environ]: SET_SUPPORT_NO_GAME: yes.
+[NFO] [Environ]: SET_PIXEL_FORMAT: XRGB8888.
+[NFO] [Environ]: GET_LOG_INTERFACE.
+[NFO] [Environ]: GET_MESSAGE_INTERFACE_VERSION.
+[NFO] [Environ]: SYSTEM_DIRECTORY: "/home/willian/.config/retroarch/system".
+[NFO] [Environ]: SAVE_DIRECTORY: "/home/willian/.config/retroarch/saves".
+libretro [NFO] Bios Found: USA     v01.60(07/02/2002)  Console
+[NFO] [Environ]: GET_CORE_OPTIONS_VERSION.
+[NFO] [Environ]: GET_LANGUAGE: "7".
+[NFO] [Environ]: RETRO_ENVIRONMENT_SET_CORE_OPTIONS_V2_INTL.
+libretro [NFO] Applying preset n: 1
+[NFO] [Environ]: SET_DISK_CONTROL_EXT_INTERFACE.
+[NFO] [Content]: Carregamento de conteúdo ignorado. A implementação irá carregar por conta própria.
+libretro [NFO] Loading selected BIOS:  /home/willian/.config/retroarch/system/pcsx2/bios/scph39001.bin
+[NFO] [Environ]: SYSTEM_DIRECTORY: "/home/willian/.config/retroarch/system".
+libretro [NFO] Bios Found: USA     v01.60(07/02/2002)  Console
+libretro [NFO] Detected BIOS: USAv01.60(07/02/2002)Console 
+libretro [NFO] Language already set to English, no need to inject language byte
+libretro [WRN] Patches: No CRC found, using 00000000 instead.
+[NFO] [Environ]: GET_RUMBLE_INTERFACE.
+[NFO] [Environ]: SET_CONTROLLER_INFO.
+libretro [NFO] Renderer option set to: Auto
+[NFO] [Environ]: GET_PREFERRED_HW_RENDER, video driver name: vulkan.
+[NFO] [Environ]: GET_PREFERRED_HW_RENDER - Context callback set to RETRO_HW_CONTEXT_VULKAN.
+libretro [NFO] The video driver found is not compatible, switched to OpenGL.
+[NFO] [Environ]: SET_HW_RENDER, context type: glcore.
+[NFO] Requesting core OpenGL context (3.3).
+[NFO] [Replay]: Found last replay slot: #0
+[NFO] [SRAM]: Ignorando carregamento da SRAM.
+[NFO] [Core]: Versão da API libretro: 1, Compilado contra a API: 1
+[NFO] [Core]: Geometry: 640x448, Aspect: 1.333, FPS: 59.94, Sample rate: 48000.00 Hz.
+[NFO] [Audio]: Set audio input rate to: 48048.00 Hz.
+[NFO] [Video]: Set video size to: fullscreen.
+[NFO] [Video]: Using HW render, glcore driver forced.
+[NFO] [Video]: "glcore" saved as cached driver.
+[ERR] [Wayland]: Failed to connect to Wayland server.
+[NFO] [GLX]: GLX_EXT_swap_control_tear supported.
+[NFO] [GLCore]: Found GL context: "x".
+[NFO] [GLCore]: Detecting screen resolution: 3840x2160.
+[NFO] [XINERAMA]: Xinerama version: 1.1.
+[NFO] [XINERAMA]: Xinerama screens: 1.
+[NFO] [GLX]: Using Xinerama on screen #0.
+[NFO] [GLX]: X = 0, Y = 0, W = 3840, H = 2160.
+[NFO] [GLX]: Using windowed fullscreen.
+[NFO] [GLX]: Creating context for requested version 3.3.
+[NFO] [GLX]: Creating shared HW context.
+[NFO] [GLX]: Not running Mesa, trying higher versions...
+[NFO] [GLX]: Creating context for version 4.6.
+[NFO] [GLX]: Creating shared HW context.
+[NFO] [GLX]: Found swap function: glXSwapIntervalEXT.
+[NFO] [GLCore]: Initializing HW render (1024x1024).
+[NFO] [GLCore]: Max texture size: 32768 px, renderbuffer size: 32768 px.
+[NFO] [GLCore]: Vendor: NVIDIA Corporation, Renderer: NVIDIA GeForce RTX 2060/PCIe/SSE2.
+[NFO] [GLCore]: Version: 4.6.0 NVIDIA 545.29.02.
+[NFO] [GLCore]: Using resolution 3840x2160.
+[NFO] [udev]: Pad #0 (/dev/input/event3) supports force feedback.
+[NFO] [udev]: Pad #0 (/dev/input/event3) supports 16 force feedback effects.
+[NFO] [Joypad]: Found joypad driver: "udev".
+[NFO] [Shaders]: Specific shader preset found at "/home/willian/.config/retroarch/config/global.slangp".
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/add-params-all.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #0.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_SRGB for pass output #1.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/add-negative-crop-area.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_SRGB for pass output #2.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/cache-info-all-params.slang".
+[NFO] [slang]: Using render target format R32G32B32A32_SFLOAT for pass output #3.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/text-std.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #4.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/intro.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #5.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #6.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #7.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-afterglow0.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #8.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-pre-shaders-afterglow.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #9.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/dogway/hsm-grade.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #10.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-custom-fast-sharpen.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #11.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #12.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-avg-lum.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #13.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-interlace-and-linearize.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #14.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-gaussian_horizontal.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #15.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-gaussian_vertical.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #16.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-bloom_horizontal.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #17.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-bloom_vertical.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #18.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-crt-guest-advanced.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #19.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-deconvergence.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #20.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/post-crt-prep-image-layers.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #21.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/bezel-images-under-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #22.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/bezel-images-over-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #23.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/linearize-crt.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #24.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/blur-outside-screen-horiz.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #25.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/blur-outside-screen-vert.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #26.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/blurs/shaders/royale/blur9x9.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #27.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/blurs/shaders/royale/blur9x9.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #28.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/reflection.slang".
+[NFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #29.
+[NFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/combine-passes.slang".
+[NFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #30.
+[NFO] [slang]: Building pass #0 (CorePass)
+[NFO] [slang]: Building pass #1 (DerezedPass)
+[NFO] [slang]: Building pass #2 (NegativeCropAddedPass)
+[NFO] [slang]: Building pass #3 (InfoCachePass)
+[NFO] [slang]: Building pass #4 (TextPass)
+[NFO] [slang]: Building pass #5 (IntroPass)
+[NFO] [slang]: Building pass #6 (DeditherPass)
+[NFO] [slang]: Building pass #7 (PreCRTPass)
+[NFO] [slang]: Building pass #8 (AfterglowPass)
+[NFO] [slang]: Building pass #9 (N/D)
+[NFO] [slang]: Building pass #10 (ColorCorrectPass)
+[NFO] [slang]: Building pass #11 (N/D)
+[NFO] [slang]: Building pass #12 (PrePass)
+[NFO] [slang]: Building pass #13 (AvgLumPass)
+[NFO] [slang]: Building pass #14 (LinearizePass)
+[NFO] [slang]: Building pass #15 (N/D)
+[NFO] [slang]: Building pass #16 (GlowPass)
+[NFO] [slang]: Building pass #17 (N/D)
+[NFO] [slang]: Building pass #18 (BloomPass)
+[NFO] [slang]: Building pass #19 (N/D)
+[NFO] [slang]: Building pass #20 (CRTPass)
+[NFO] [slang]: Building pass #21 (PostCRTPass)
+[NFO] [slang]: Building pass #22 (BR_LayersUnderCRTPass)
+[NFO] [slang]: Building pass #23 (BR_LayersOverCRTPass)
+libretro [NFO] Bios Found: USA     v01.60(07/02/2002)  Console
+libretro [NFO] BIOS rom1 module not found, skipping...
+libretro [NFO] BIOS rom2 module not found, skipping...

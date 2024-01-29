@@ -1,0 +1,259 @@
+[INFO] RetroArch 1.16.0 (Git 6c2cc45628)
+[INFO] === Build =======================================
+[INFO] CPU Model Name: AMD Ryzen 7 5700X 8-Core Processor             
+[INFO] Capacidades: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[INFO] Version: 1.16.0
+[INFO] Git: 6c2cc45628
+[INFO] Built: Oct  9 2023
+[INFO] =================================================
+[INFO] [Input]: Found input driver: "x".
+[INFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[INFO] [Core]: Versão da API libretro: 1, Compilado contra a API: 1
+[INFO] [Core]: Geometry: 320x240, Aspect: 1.333, FPS: 60.00, Sample rate: 48000.00 Hz.
+[INFO] [Audio]: Set audio input rate to: 48000.00 Hz.
+[INFO] [Video]: Set video size to: fullscreen.
+[ERROR] [Wayland]: Failed to connect to Wayland server.
+[INFO] [Vulkan]: Vulkan dynamic library loaded.
+[INFO] [Vulkan]: Found vulkan context: "vk_x".
+[INFO] [Vulkan]: Detecting screen resolution: 2560x1440.
+[INFO] [XINERAMA]: Xinerama version: 1.1.
+[INFO] [XINERAMA]: Xinerama screens: 1.
+[INFO] [X/Vulkan]: Using Xinerama on screen #0.
+[INFO] [X/Vulkan]: X = 0, Y = 0, W = 2560, H = 1440.
+[INFO] [X/Vulkan]: Requesting compositor bypass.
+[INFO] [X/Vulkan]: Using windowed fullscreen.
+[INFO] [Vulkan]: Found GPU at index 0: "NVIDIA GeForce RTX 2060".
+[INFO] [Vulkan]: Using GPU index 0.
+[INFO] [Vulkan]: Using fences for WSI acquire.
+[INFO] [Vulkan]: Using GPU: "NVIDIA GeForce RTX 2060".
+[INFO] [Vulkan]: Queue family 0 supports 16 sub-queues.
+[INFO] [Vulkan]: Got 2 swapchain images.
+[INFO] [Vulkan]: Using resolution 2560x1440.
+[INFO] [Vulkan]: Using RGB565 format.
+[INFO] [Vulkan]: Loading stock shader.
+[INFO] [udev]: Pad #0 (/dev/input/event2) supports force feedback.
+[INFO] [udev]: Pad #0 (/dev/input/event2) supports 16 force feedback effects.
+[INFO] [Autoconf]: Sony Interactive Entertainment Wireless Controller configurado na porta 1.
+[INFO] [Joypad]: Found joypad driver: "udev".
+[INFO] [DBus]: Suspended screensaver via DBus.
+[INFO] [Video]: Found display server: "x11".
+[INFO] [SDL audio]: Requested 64 ms latency for output device, got 85 ms
+[INFO] [Audio]: Started synchronous audio driver.
+[WARN] [Audio]: Rate control was desired, but driver does not support needed features.
+[INFO] [Display]: Found display driver: "vulkan".
+[INFO] [Core Info] Wrote to cache file: /home/willian/.config/retroarch/cores/info/core_info.cache
+[INFO] [Playlist]: Carregando o arquivo de favoritos: "/home/willian/.config/retroarch/content_favorites.lpl".
+[INFO] [X/Vulkan]: Resized fullscreen resolution to 2560x1440.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Sega - Master System - Mark III/Named_Snaps/Ace of Aces (Europe).png" failed: File not found.
+[ERROR] [Thumbnail]: Download "/home/willian/.config/retroarch/thumbnails/Sega - Master System - Mark III/Named_Titles/Ace of Aces (Europe).png" failed: File not found.
+[INFO] [Playlist]: Written to playlist file: "/home/willian/.config/retroarch/playlists/Sega - Dreamcast.lpl".
+[INFO] [Core]: Using content: ".config/retroarch/roms/Sega - Dreamcast/Street Fighter III - 3rd Strike (USA).chd".
+[INFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] [Core]: Unloading core..
+[INFO] [Core]: Unloading core symbols..
+[INFO] [XINERAMA]: Xinerama version: 1.1.
+[INFO] [XINERAMA]: Xinerama screens: 1.
+[INFO] [XINERAMA]: Saved monitor #0.
+[INFO] [Video]: Does not have enough samples for monitor refresh rate estimation. Requires to run for at least 4096 frames.
+[INFO] RetroArch 1.16.0 (Git 6c2cc45628)
+[INFO] === Build =======================================
+[INFO] CPU Model Name: AMD Ryzen 7 5700X 8-Core Processor             
+[INFO] Capacidades: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[INFO] Version: 1.16.0
+[INFO] Git: 6c2cc45628
+[INFO] Built: Oct  9 2023
+[INFO] =================================================
+[INFO] [Input]: Found input driver: "x".
+[INFO] [Core]: Loading dynamic libretro core from: "/home/willian/.config/retroarch/cores/retrodream_libretro.so"
+[INFO] [Overrides]: Redirecionando arquivo dados da memória do jogo em "/home/willian/.config/retroarch/saves/Street Fighter III - 3rd Strike (USA).srm".
+[INFO] [Overrides]: Redirecionando o jogo salvo em "/home/willian/.config/retroarch/states/Street Fighter III - 3rd Strike (USA).state".
+[INFO] [Environ]: SYSTEM_DIRECTORY: "/home/willian/.config/retroarch/system".
+[INFO] [Content]: Carregamento de conteúdo ignorado. A implementação irá carregar por conta própria.
+[INFO] [Environ]: SET_INPUT_DESCRIPTORS:
+[INFO] [Environ]: SET_HW_RENDER, context type: glcore.
+[INFO] Requesting core OpenGL context (3.3).
+[INFO] [Replay]: Found last replay slot: #0
+[INFO] [SRAM]: Ignorando carregamento da SRAM.
+[INFO] [Core]: Versão da API libretro: 1, Compilado contra a API: 1
+[INFO] [Core]: Geometry: 640x480, Aspect: 1.333, FPS: 60.00, Sample rate: 44100.00 Hz.
+[INFO] [Audio]: Set audio input rate to: 44100.00 Hz.
+[INFO] [Video]: Set video size to: fullscreen.
+[INFO] [Video]: Using HW render, glcore driver forced.
+[INFO] [Video]: "glcore" saved as cached driver.
+[ERROR] [Wayland]: Failed to connect to Wayland server.
+[INFO] [GLX]: GLX_EXT_swap_control_tear supported.
+[INFO] [GLCore]: Found GL context: "x".
+[INFO] [GLCore]: Detecting screen resolution: 2560x1440.
+[INFO] [XINERAMA]: Xinerama version: 1.1.
+[INFO] [XINERAMA]: Xinerama screens: 1.
+[INFO] [GLX]: Using Xinerama on screen #0.
+[INFO] [GLX]: X = 0, Y = 0, W = 2560, H = 1440.
+[INFO] [GLX]: Requesting compositor bypass.
+[INFO] [GLX]: Using windowed fullscreen.
+[INFO] [GLX]: Creating context for requested version 3.3.
+[INFO] [GLX]: Creating shared HW context.
+[INFO] [GLX]: Not running Mesa, trying higher versions...
+[INFO] [GLX]: Creating context for version 4.6.
+[INFO] [GLX]: Creating shared HW context.
+[INFO] [GLX]: Found swap function: glXSwapIntervalEXT.
+[INFO] [GLCore]: Initializing HW render (1024x1024).
+[INFO] [GLCore]: Max texture size: 32768 px, renderbuffer size: 32768 px.
+[INFO] [GLCore]: Vendor: NVIDIA Corporation, Renderer: NVIDIA GeForce RTX 2060/PCIe/SSE2.
+[INFO] [GLCore]: Version: 4.6.0 NVIDIA 545.29.06.
+[INFO] [GLCore]: Using resolution 2560x1440.
+[INFO] [udev]: Pad #0 (/dev/input/event2) supports force feedback.
+[INFO] [udev]: Pad #0 (/dev/input/event2) supports 16 force feedback effects.
+[INFO] [Joypad]: Found joypad driver: "udev".
+[INFO] [Shaders]: Specific shader preset found at "/home/willian/.config/retroarch/config/global.slangp".
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/extras/hsm-drez-none.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_SRGB for pass output #0.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/cache-info-all-params.slang".
+[INFO] [slang]: Using render target format R32G32B32A32_SFLOAT for pass output #1.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/text-adv.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #2.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/extras/hsm-fetch-drez-output.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_SRGB for pass output #3.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/dedither/dedither-gamma-prep-1-before.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #4.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/hyllian/sgenpt-mix/sgenpt-mix-pass1.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #5.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/hyllian/sgenpt-mix/sgenpt-mix-pass2.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #6.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/hyllian/sgenpt-mix/sgenpt-mix-pass3.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #7.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/hyllian/sgenpt-mix/sgenpt-mix-pass4.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #8.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/hyllian/sgenpt-mix/sgenpt-mix-pass5.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #9.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/dedither/dedither-gamma-prep-2-after.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #10.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/ps1dither/hsm-PS1-Undither-BoxBlur.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #11.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/fxaa/fxaa.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #12.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/extras/hsm-g-sharp_resampler.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #13.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/extras/hsm-sharpsmoother.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #14.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/intro.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #15.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/gtu/hsm-gtu-pass1.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #16.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/gtu/hsm-gtu-pass2.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #17.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #18.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-afterglow0.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #19.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-pre-shaders-afterglow.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #20.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/dogway/hsm-grade.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #21.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-custom-fast-sharpen.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #22.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/stock.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #23.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-avg-lum.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #24.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-interlace-and-linearize.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #25.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-gaussian_horizontal.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #26.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-gaussian_vertical.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #27.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-bloom_horizontal.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #28.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-bloom_vertical.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #29.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-crt-guest-advanced.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #30.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/guest/hsm-deconvergence.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #31.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/post-crt-prep-image-layers.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #32.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/bezel-images-under-crt.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #33.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/bezel-images-over-crt.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #34.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/linearize-crt.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #35.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/blur-outside-screen-horiz.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #36.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/blur-outside-screen-vert.slang".
+[INFO] [slang]: Using render target format R8G8B8A8_UNORM for pass output #37.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/blurs/shaders/royale/blur9x9.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #38.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/blurs/shaders/royale/blur9x9.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #39.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/reflection.slang".
+[INFO] [slang]: Using render target format R16G16B16A16_SFLOAT for pass output #40.
+[INFO] [slang]: Compiling shader: "/home/willian/.config/retroarch/shaders/shaders_slang/bezel/Mega_Bezel/shaders/base/combine-passes.slang".
+[INFO] [slang]: Building pass #0 (DerezedPass)
+[INFO] [slang]: Building pass #1 (InfoCachePass)
+[INFO] [slang]: Building pass #2 (TextPass)
+[INFO] [slang]: Building pass #3 (N/D)
+[INFO] [slang]: Building pass #4 (LinearGamma)
+[INFO] [slang]: Building pass #5 (N/D)
+[INFO] [slang]: Building pass #6 (N/D)
+[INFO] [slang]: Building pass #7 (CB_Output)
+[INFO] [slang]: Building pass #8 (N/D)
+[INFO] [slang]: Building pass #9 (N/D)
+[INFO] [slang]: Building pass #10 (N/D)
+[INFO] [slang]: Building pass #11 (N/D)
+[INFO] [slang]: Building pass #12 (N/D)
+[INFO] [slang]: Building pass #13 (N/D)
+[INFO] [slang]: Building pass #14 (DeditherPass)
+[INFO] [slang]: Building pass #15 (IntroPass)
+[INFO] [slang]: Building pass #16 (N/D)
+[INFO] [slang]: Building pass #17 (N/D)
+[INFO] [slang]: Building pass #18 (PreCRTPass)
+[INFO] [slang]: Building pass #19 (AfterglowPass)
+[INFO] [slang]: Building pass #20 (N/D)
+[INFO] [slang]: Building pass #21 (ColorCorrectPass)
+[INFO] [slang]: Building pass #22 (N/D)
+[INFO] [slang]: Building pass #23 (PrePass)
+[INFO] [slang]: Building pass #24 (AvgLumPass)
+[INFO] [slang]: Building pass #25 (LinearizePass)
+[INFO] [slang]: Building pass #26 (N/D)
+[INFO] [slang]: Building pass #27 (GlowPass)
+[INFO] [slang]: Building pass #28 (N/D)
+[INFO] [slang]: Building pass #29 (BloomPass)
+[INFO] [slang]: Building pass #30 (N/D)
+[INFO] [slang]: Building pass #31 (CRTPass)
+[INFO] [slang]: Building pass #32 (PostCRTPass)
+[INFO] [slang]: Building pass #33 (BR_LayersUnderCRTPass)
+[INFO] [slang]: Building pass #34 (BR_LayersOverCRTPass)
+[INFO] [slang]: Building pass #35 (BR_MirrorLowResPass)
+[INFO] [slang]: Building pass #36 (N/D)
+[INFO] [slang]: Building pass #37 (BR_MirrorBlurredPass)
+[INFO] [slang]: Building pass #38 (BR_MirrorReflectionDiffusedPass)
+[INFO] [slang]: Building pass #39 (BR_MirrorFullscreenGlowPass)
+[INFO] [slang]: Building pass #40 (ReflectionPass)
+[INFO] [slang]: Building pass #41 (CombinePass)
+[INFO] [GLCore]: Using history of 3 frames.
+[INFO] [GLCore]: Using framebuffer feedback for pass #1.
+[INFO] [GLCore]: Using framebuffer feedback for pass #2.
+[INFO] [GLCore]: Using framebuffer feedback for pass #19.
+[INFO] [GLCore]: Using framebuffer feedback for pass #24.
+[INFO] [GLCore]: Using framebuffer feedback for pass #32.
+[INFO] [GLCore]: Using framebuffer feedback for pass #33.
+[INFO] [GLCore]: Using framebuffer feedback for pass #34.
+[INFO] [GLCore]: Using framebuffer feedback for pass #40.
+[INFO] [DBus]: Suspended screensaver via DBus.
+[INFO] [Video]: Found display server: "x11".
+[INFO] [SDL audio]: Requested 64 ms latency for output device, got 85 ms
+[INFO] [Audio]: Started synchronous audio driver.
+[WARN] [Audio]: Rate control was desired, but driver does not support needed features.
+[INFO] [Display]: Found display driver: "glcore".
+[INFO] [Playlist]: Carregando o arquivo de favoritos: "/home/willian/.config/retroarch/content_favorites.lpl".
+[INFO] [GLX]: Resized fullscreen resolution to 2560x1440.
+[INFO] [Video]: Restored video driver to "vulkan".
+[INFO] [Core]: Content ran for a total of: 00 hours, 01 minutes, 31 seconds.
+[INFO] [Runtime]: Saving runtime log file: "/home/willian/.config/retroarch/playlists/logs/RetroDream/Street Fighter III - 3rd Strike (USA).lrtl".
+[INFO] [Core]: Unloading game..
+[INFO] [Core]: Unloading core..
+[INFO] [Core]: Unloading core symbols..
+[INFO] [XINERAMA]: Xinerama version: 1.1.
+[INFO] [XINERAMA]: Xinerama screens: 1.
+[INFO] [XINERAMA]: Saved monitor #0.
+[INFO] [Video]: Average monitor Hz: 59.923298 Hz. (36.104 % frame time deviation, based on 2048 last samples).

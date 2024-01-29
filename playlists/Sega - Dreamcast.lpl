@@ -218,8 +218,8 @@
     {
       "path": ".config/retroarch/roms/Sega - Dreamcast/Street Fighter III - 3rd Strike (USA).chd",
       "label": "Street Fighter III - 3rd Strike (USA)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
+      "core_path": "/home/willian/.config/retroarch/cores/retrodream_libretro.so",
+      "core_name": "Sega - Dreamcast (RetroDream)",
       "crc32": "T-1213N|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },

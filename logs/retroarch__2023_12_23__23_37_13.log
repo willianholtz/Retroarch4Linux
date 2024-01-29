@@ -1,0 +1,1117 @@
+[INFO] RetroArch 1.16.0 (Git 6c2cc45628)
+[INFO] === Build =======================================
+[INFO] CPU Model Name: AMD Ryzen 7 5700X 8-Core Processor             
+[INFO] Capacidades: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[INFO] Version: 1.16.0
+[INFO] Git: 6c2cc45628
+[INFO] Built: Oct  9 2023
+[INFO] =================================================
+[INFO] [Input]: Found input driver: "x".
+[INFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[INFO] [Core]: Versão da API libretro: 1, Compilado contra a API: 1
+[INFO] [Core]: Geometry: 320x240, Aspect: 1.333, FPS: 60.00, Sample rate: 48000.00 Hz.
+[INFO] [Audio]: Set audio input rate to: 48000.00 Hz.
+[INFO] [Video]: Set video size to: fullscreen.
+[ERROR] [Wayland]: Failed to connect to Wayland server.
+[INFO] [Vulkan]: Vulkan dynamic library loaded.
+[INFO] [Vulkan]: Found vulkan context: "vk_x".
+[INFO] [Vulkan]: Detecting screen resolution: 2560x1440.
+[INFO] [XINERAMA]: Xinerama version: 1.1.
+[INFO] [XINERAMA]: Xinerama screens: 1.
+[INFO] [X/Vulkan]: Using Xinerama on screen #0.
+[INFO] [X/Vulkan]: X = 0, Y = 0, W = 2560, H = 1440.
+[INFO] [X/Vulkan]: Requesting compositor bypass.
+[INFO] [X/Vulkan]: Using windowed fullscreen.
+[INFO] [Vulkan]: Found GPU at index 0: "NVIDIA GeForce RTX 2060".
+[INFO] [Vulkan]: Using GPU index 0.
+[INFO] [Vulkan]: Using fences for WSI acquire.
+[INFO] [Vulkan]: Using GPU: "NVIDIA GeForce RTX 2060".
+[INFO] [Vulkan]: Queue family 0 supports 16 sub-queues.
+[INFO] [Vulkan]: Got 2 swapchain images.
+[INFO] [Vulkan]: Using resolution 2560x1440.
+[INFO] [Vulkan]: Using RGB565 format.
+[INFO] [Vulkan]: Loading stock shader.
+[INFO] [udev]: Pad #0 (/dev/input/event2) supports force feedback.
+[INFO] [udev]: Pad #0 (/dev/input/event2) supports 16 force feedback effects.
+[INFO] [Autoconf]: Sony Interactive Entertainment Wireless Controller configurado na porta 1.
+[INFO] [Joypad]: Found joypad driver: "udev".
+[INFO] [DBus]: Suspended screensaver via DBus.
+[INFO] [Video]: Found display server: "x11".
+[INFO] [SDL audio]: Requested 64 ms latency for output device, got 85 ms
+[INFO] [Audio]: Started synchronous audio driver.
+[WARN] [Audio]: Rate control was desired, but driver does not support needed features.
+[INFO] [Display]: Found display driver: "vulkan".
+[INFO] [Playlist]: Carregando o arquivo de favoritos: "/home/willian/.config/retroarch/content_favorites.lpl".
+[INFO] [X/Vulkan]: Resized fullscreen resolution to 2560x1440.
+[INFO] [Core Info] Wrote to cache file: /home/willian/.config/retroarch/cores/info/core_info.cache
+[INFO] [Scanner]: Analisando conteúdo: "/home/willian/.config/retroarch/roms/Sega - Sega Model 2"..
+[INFO] [Scanner]: 1/32: bel.zip..
+[INFO] [Scanner]: 2/63: daytona.zip..
+[INFO] [Scanner]: 3/129: desert.zip..
+[INFO] [Scanner]: 4/160: doa.zip..
+[INFO] [Scanner]: 5/194: dynabb97.zip..
+[INFO] [Scanner]: 6/217: dynamcop.zip..
+[INFO] [Scanner]: 7/263: fvipers.zip..
+[INFO] [Scanner]: 8/292: gunblade.zip..
+[INFO] [Scanner]: 9/309: hotd.zip..
+[INFO] [Scanner]: 10/338: indy500.zip..
+[INFO] [Scanner]: 11/369: lastbrnx.zip..
+[INFO] [Scanner]: 12/386: manxtt.zip..
+[INFO] [Scanner]: 13/424: manxttc.zip..
+[INFO] [Scanner]: 14/460: motoraid.zip..
+[INFO] [Scanner]: 15/494: overrev.zip..
+[INFO] [Scanner]: 16/509: pltkids.zip..
+[INFO] [Scanner]: 17/541: rchase2.zip..
+[INFO] [Scanner]: 18/562: schamp.zip..
+[INFO] [Scanner]: 19/589: segawski.zip..
+[INFO] [Scanner]: 20/616: sgt24h.zip..
+[INFO] [Scanner]: 21/629: skisuprg.zip..
+[INFO] [Scanner]: 22/648: skytargt.zip..
+[INFO] [Scanner]: 23/678: srallyc.zip..
+[INFO] [Scanner]: 24/712: stcc.zip..
+[INFO] [Scanner]: 25/741: topskatr.zip..
+[INFO] [Scanner]: 26/765: vcop.zip..
+[INFO] [Scanner]: 27/796: vcop2.zip..
+[INFO] [Scanner]: 28/826: vf2.zip..
+[INFO] [Scanner]: 29/874: von.zip..
+[INFO] [Scanner]: 30/898: vstriker.zip..
+[INFO] [Scanner]: 31/924: waverunr.zip..
+[INFO] [Scanner]: 32/947: zerogun.zip..
+[INFO] [Scanner]: 33/975: bel.zip#epr-20223.13..
+[INFO] [Scanner]: 34/975: bel.zip#epr-20224.14..
+[INFO] [Scanner]: 35/975: bel.zip#epr-20225.15..
+[INFO] [Scanner]: 36/975: bel.zip#epr-20226.16..
+[INFO] [Scanner]: 37/975: bel.zip#mpr-20227.5..
+[INFO] [Scanner]: 38/975: bel.zip#mpr-20228.6..
+[INFO] [Scanner]: 39/975: bel.zip#mpr-20229.7..
+[INFO] [Scanner]: 40/975: bel.zip#mpr-20230.8..
+[INFO] [Scanner]: 41/975: bel.zip#mpr-20231.9..
+[INFO] [Scanner]: 42/975: bel.zip#mpr-20232.10..
+[INFO] [Scanner]: 43/975: bel.zip#mpr-20233.11..
+[INFO] [Scanner]: 44/975: bel.zip#mpr-20234.12..
+[INFO] [Scanner]: 45/975: bel.zip#mpr-20235.30..
+[INFO] [Scanner]: 46/975: bel.zip#mpr-20236.29..
+[INFO] [Scanner]: 47/975: bel.zip#mpr-20237.24..
+[INFO] [Scanner]: 48/975: bel.zip#mpr-20238.23..
+[INFO] [Scanner]: 49/975: bel.zip#mpr-20239.22..
+[INFO] [Scanner]: 50/975: bel.zip#mpr-20240.21..
+[INFO] [Scanner]: 51/975: bel.zip#mpr-20241.20..
+[INFO] [Scanner]: 52/975: bel.zip#mpr-20242.19..
+[INFO] [Scanner]: 53/975: bel.zip#mpr-20243.18..
+[INFO] [Scanner]: 54/975: bel.zip#mpr-20244.17..
+[INFO] [Scanner]: 55/975: bel.zip#mpr-20245.25..
+[INFO] [Scanner]: 56/975: bel.zip#mpr-20246.26..
+[INFO] [Scanner]: 57/975: bel.zip#mpr-20247.27..
+[INFO] [Scanner]: 58/975: bel.zip#mpr-20248.28..
+[INFO] [Scanner]: 59/975: bel.zip#mpr-20249.31..
+[INFO] [Scanner]: 60/975: bel.zip#mpr-20250.32..
+[INFO] [Scanner]: 61/975: bel.zip#mpr-20251.33..
+[INFO] [Scanner]: 62/975: bel.zip#mpr-20252.34..
+[INFO] [Scanner]: 63/975: bel.zip#mpr-20253.35..
+[INFO] [Scanner]: 64/975: daytona.zip#bank0.bin..
+[INFO] [Scanner]: 65/975: daytona.zip#bank1.bin..
+[INFO] [Scanner]: 66/975: daytona.zip#dayturbo.12..
+[INFO] [Scanner]: 67/975: daytona.zip#dayturbo.13..
+[INFO] [Scanner]: 68/975: daytona.zip#epr-13731.6..
+[INFO] [Scanner]: 69/975: daytona.zip#epr-13732.7..
+[INFO] [Scanner]: 70/975: daytona.zip#epr-16516.26..
+[INFO] [Scanner]: 71/975: daytona.zip#epr-16517.27..
+[INFO] [Scanner]: 72/975: daytona.zip#epr-16526.8..
+[INFO] [Scanner]: 73/975: daytona.zip#epr-16527.9..
+[INFO] [Scanner]: 74/975: daytona.zip#epr-16530a.12..
+[INFO] [Scanner]: 75/975: daytona.zip#epr-16531a.13..
+[INFO] [Scanner]: 76/975: daytona.zip#epr-16534a.6..
+[INFO] [Scanner]: 77/975: daytona.zip#epr-16535.7..
+[INFO] [Scanner]: 78/975: daytona.zip#epr-16645.23..
+[INFO] [Scanner]: 79/975: daytona.zip#epr-16646.19..
+[INFO] [Scanner]: 80/975: daytona.zip#epr-16720.7..
+[INFO] [Scanner]: 81/975: daytona.zip#epr-16721.8..
+[INFO] [Scanner]: 82/975: daytona.zip#epr-16722a.12..
+[INFO] [Scanner]: 83/975: daytona.zip#epr-16723a.13..
+[INFO] [Scanner]: 84/975: daytona.zip#epr-16724a.6..
+[INFO] [Scanner]: 85/975: daytona.zip#epr-16725a.7..
+[INFO] [Scanner]: 86/975: daytona.zip#epr-17369a.12..
+[INFO] [Scanner]: 87/975: daytona.zip#epr-17370a.13..
+[INFO] [Scanner]: 88/975: daytona.zip#epr-17965.12..
+[INFO] [Scanner]: 89/975: daytona.zip#epr-17966.13..
+[INFO] [Scanner]: 90/975: daytona.zip#epr17967.6..
+[INFO] [Scanner]: 91/975: daytona.zip#epr17968.7..
+[INFO] [Scanner]: 92/975: daytona.zip#gtx.12..
+[INFO] [Scanner]: 93/975: daytona.zip#gtx.13..
+[INFO] [Scanner]: 94/975: daytona.zip#maxx.12..
+[INFO] [Scanner]: 95/975: daytona.zip#maxx.13..
+[INFO] [Scanner]: 96/975: daytona.zip#maxx.14..
+[INFO] [Scanner]: 97/975: daytona.zip#mpr-16310.15..
+[INFO] [Scanner]: 98/975: daytona.zip#mpr-16311.16..
+[INFO] [Scanner]: 99/975: daytona.zip#mpr-16312.14..
+[INFO] [Scanner]: 100/975: daytona.zip#mpr-16491.32..
+[INFO] [Scanner]: 101/975: daytona.zip#mpr-16492.33..
+[INFO] [Scanner]: 102/975: daytona.zip#mpr-16493.4..
+[INFO] [Scanner]: 103/975: daytona.zip#mpr-16494.5..
+[INFO] [Scanner]: 104/975: daytona.zip#mpr-16518.20..
+[INFO] [Scanner]: 105/975: daytona.zip#mpr-16519.21..
+[INFO] [Scanner]: 106/975: daytona.zip#mpr-16520.22..
+[INFO] [Scanner]: 107/975: daytona.zip#mpr-16521.24..
+[INFO] [Scanner]: 108/975: daytona.zip#mpr-16522.25..
+[INFO] [Scanner]: 109/975: daytona.zip#mpr-16523.16..
+[INFO] [Scanner]: 110/975: daytona.zip#mpr-16524.17..
+[INFO] [Scanner]: 111/975: daytona.zip#mpr-16525.18..
+[INFO] [Scanner]: 112/975: daytona.zip#mpr-16528.10..
+[INFO] [Scanner]: 113/975: daytona.zip#mpr-16529.11..
+[INFO] [Scanner]: 114/975: daytona.zip#mpr-16536.29..
+[INFO] [Scanner]: 115/975: daytona.zip#mpr-16537.28..
+[INFO] [Scanner]: 116/975: daytona.zip#mpr-16769.26..
+[INFO] [Scanner]: 117/975: daytona.zip#mpr-16770.27..
+[INFO] [Scanner]: 118/975: daytona.zip#mpr-16771.23..
+[INFO] [Scanner]: 119/975: daytona.zip#mpr-16772.19..
+[INFO] [Scanner]: 120/975: daytona.zip#mpr-16808.8..
+[INFO] [Scanner]: 121/975: daytona.zip#mpr-16809.9..
+[INFO] [Scanner]: 122/975: daytona.zip#opr-14742a.45..
+[INFO] [Scanner]: 123/975: daytona.zip#opr-14743a.46..
+[INFO] [Scanner]: 124/975: daytona.zip#opr-14744.58..
+[INFO] [Scanner]: 125/975: daytona.zip#opr-14745.59..
+[INFO] [Scanner]: 126/975: daytona.zip#opr-14746.62..
+[INFO] [Scanner]: 127/975: daytona.zip#opr-14747.63..
+[INFO] [Scanner]: 128/975: daytona.zip#turbo1.12..
+[INFO] [Scanner]: 129/975: daytona.zip#turbo2.13..
+[INFO] [Scanner]: 130/975: desert.zip#epr-16970.14..
+[INFO] [Scanner]: 131/975: desert.zip#epr-16971.15..
+[INFO] [Scanner]: 132/975: desert.zip#epr-16976.12..
+[INFO] [Scanner]: 133/975: desert.zip#epr-16977.13..
+[INFO] [Scanner]: 134/975: desert.zip#epr-16978.6..
+[INFO] [Scanner]: 135/975: desert.zip#epr-16979.7..
+[INFO] [Scanner]: 136/975: desert.zip#epr-16980.29..
+[INFO] [Scanner]: 137/975: desert.zip#epr-16981.28..
+[INFO] [Scanner]: 138/975: desert.zip#epr-16985.7..
+[INFO] [Scanner]: 139/975: desert.zip#mpr-16310.15..
+[INFO] [Scanner]: 140/975: desert.zip#mpr-16311.16..
+[INFO] [Scanner]: 141/975: desert.zip#mpr-16312.14..
+[INFO] [Scanner]: 142/975: desert.zip#mpr-16964.21..
+[INFO] [Scanner]: 143/975: desert.zip#mpr-16965.20..
+[INFO] [Scanner]: 144/975: desert.zip#mpr-16966.24..
+[INFO] [Scanner]: 145/975: desert.zip#mpr-16967.25..
+[INFO] [Scanner]: 146/975: desert.zip#mpr-16968.16..
+[INFO] [Scanner]: 147/975: desert.zip#mpr-16969.17..
+[INFO] [Scanner]: 148/975: desert.zip#mpr-16972.8..
+[INFO] [Scanner]: 149/975: desert.zip#mpr-16973.9..
+[INFO] [Scanner]: 150/975: desert.zip#mpr-16974.10..
+[INFO] [Scanner]: 151/975: desert.zip#mpr-16975.11..
+[INFO] [Scanner]: 152/975: desert.zip#mpr-16986.32..
+[INFO] [Scanner]: 153/975: desert.zip#mpr-16988.4..
+[INFO] [Scanner]: 154/975: desert.zip#mpr-16989.5..
+[INFO] [Scanner]: 155/975: desert.zip#opr-14742a.45..
+[INFO] [Scanner]: 156/975: desert.zip#opr-14743a.46..
+[INFO] [Scanner]: 157/975: desert.zip#opr-14744.58..
+[INFO] [Scanner]: 158/975: desert.zip#opr-14745.59..
+[INFO] [Scanner]: 159/975: desert.zip#opr-14746.62..
+[INFO] [Scanner]: 160/975: desert.zip#opr-14747.63..
+[INFO] [Scanner]: 161/975: doa.zip#e19310aa.12..
+[INFO] [Scanner]: 162/975: doa.zip#e19311aa.13..
+[INFO] [Scanner]: 163/975: doa.zip#epr-19328.30..
+[INFO] [Scanner]: 164/975: doa.zip#epr-19379b.15..
+[INFO] [Scanner]: 165/975: doa.zip#epr-19380b.16..
+[INFO] [Scanner]: 166/975: doa.zip#mpr-16310.15..
+[INFO] [Scanner]: 167/975: doa.zip#mpr-16311.16..
+[INFO] [Scanner]: 168/975: doa.zip#mpr-16312.14..
+[INFO] [Scanner]: 169/975: doa.zip#mpr-19312.5..
+[INFO] [Scanner]: 170/975: doa.zip#mpr-19313.6..
+[INFO] [Scanner]: 171/975: doa.zip#mpr-19314.7..
+[INFO] [Scanner]: 172/975: doa.zip#mpr-19315.8..
+[INFO] [Scanner]: 173/975: doa.zip#mpr-19316.9..
+[INFO] [Scanner]: 174/975: doa.zip#mpr-19317.10..
+[INFO] [Scanner]: 175/975: doa.zip#mpr-19318.11..
+[INFO] [Scanner]: 176/975: doa.zip#mpr-19319.12..
+[INFO] [Scanner]: 177/975: doa.zip#mpr-19320.25..
+[INFO] [Scanner]: 178/975: doa.zip#mpr-19321.27..
+[INFO] [Scanner]: 179/975: doa.zip#mpr-19322.17..
+[INFO] [Scanner]: 180/975: doa.zip#mpr-19323.18..
+[INFO] [Scanner]: 181/975: doa.zip#mpr-19324.19..
+[INFO] [Scanner]: 182/975: doa.zip#mpr-19325.21..
+[INFO] [Scanner]: 183/975: doa.zip#mpr-19326.22..
+[INFO] [Scanner]: 184/975: doa.zip#mpr-19327.23..
+[INFO] [Scanner]: 185/975: doa.zip#mpr-19329.31..
+[INFO] [Scanner]: 186/975: doa.zip#mpr-19330.32..
+[INFO] [Scanner]: 187/975: doa.zip#mpr-19331.33..
+[INFO] [Scanner]: 188/975: doa.zip#mpr-19332.34..
+[INFO] [Scanner]: 189/975: doa.zip#opr-14742a.45..
+[INFO] [Scanner]: 190/975: doa.zip#opr-14743a.46..
+[INFO] [Scanner]: 191/975: doa.zip#opr-14744.58..
+[INFO] [Scanner]: 192/975: doa.zip#opr-14745.59..
+[INFO] [Scanner]: 193/975: doa.zip#opr-14746.62..
+[INFO] [Scanner]: 194/975: doa.zip#opr-14747.63..
+[INFO] [Scanner]: 195/975: dynabb97.zip#epr-19831a.13..
+[INFO] [Scanner]: 196/975: dynabb97.zip#epr-19832a.14..
+[INFO] [Scanner]: 197/975: dynabb97.zip#epr-19833a.15..
+[INFO] [Scanner]: 198/975: dynabb97.zip#epr-19834a.16..
+[INFO] [Scanner]: 199/975: dynabb97.zip#epr-19849.31..
+[INFO] [Scanner]: 200/975: dynabb97.zip#mpr-19835.5..
+[INFO] [Scanner]: 201/975: dynabb97.zip#mpr-19836.6..
+[INFO] [Scanner]: 202/975: dynabb97.zip#mpr-19837.7..
+[INFO] [Scanner]: 203/975: dynabb97.zip#mpr-19838.8..
+[INFO] [Scanner]: 204/975: dynabb97.zip#mpr-19839.9..
+[INFO] [Scanner]: 205/975: dynabb97.zip#mpr-19840.10..
+[INFO] [Scanner]: 206/975: dynabb97.zip#mpr-19841.11..
+[INFO] [Scanner]: 207/975: dynabb97.zip#mpr-19842.12..
+[INFO] [Scanner]: 208/975: dynabb97.zip#mpr-19843.17..
+[INFO] [Scanner]: 209/975: dynabb97.zip#mpr-19844.18..
+[INFO] [Scanner]: 210/975: dynabb97.zip#mpr-19845.21..
+[INFO] [Scanner]: 211/975: dynabb97.zip#mpr-19846.22..
+[INFO] [Scanner]: 212/975: dynabb97.zip#mpr-19847.25..
+[INFO] [Scanner]: 213/975: dynabb97.zip#mpr-19848.27..
+[INFO] [Scanner]: 214/975: dynabb97.zip#mpr-19850.32..
+[INFO] [Scanner]: 215/975: dynabb97.zip#mpr-19851.33..
+[INFO] [Scanner]: 216/975: dynabb97.zip#mpr-19852.34..
+[INFO] [Scanner]: 217/975: dynabb97.zip#mpr-19853.35..
+[INFO] [Scanner]: 218/975: dynamcop.zip#epr-20811.30..
+[INFO] [Scanner]: 219/975: dynamcop.zip#epr-20922.12..
+[INFO] [Scanner]: 220/975: dynamcop.zip#epr-20923.13..
+[INFO] [Scanner]: 221/975: dynamcop.zip#epr-20930.12..
+[INFO] [Scanner]: 222/975: dynamcop.zip#epr-20931.13..
+[INFO] [Scanner]: 223/975: dynamcop.zip#epr-20932.14..
+[INFO] [Scanner]: 224/975: dynamcop.zip#epr-20933.15..
+[INFO] [Scanner]: 225/975: dynamcop.zip#epr-20936.15..
+[INFO] [Scanner]: 226/975: dynamcop.zip#epr-20937.16..
+[INFO] [Scanner]: 227/975: dynamcop.zip#epr-20952.15..
+[INFO] [Scanner]: 228/975: dynamcop.zip#epr-20953.16..
+[INFO] [Scanner]: 229/975: dynamcop.zip#mpr-16310.15..
+[INFO] [Scanner]: 230/975: dynamcop.zip#mpr-16311.16..
+[INFO] [Scanner]: 231/975: dynamcop.zip#mpr-16312.14..
+[INFO] [Scanner]: 232/975: dynamcop.zip#mpr-20791.4..
+[INFO] [Scanner]: 233/975: dynamcop.zip#mpr-20792.5..
+[INFO] [Scanner]: 234/975: dynamcop.zip#mpr-20793.6..
+[INFO] [Scanner]: 235/975: dynamcop.zip#mpr-20794.7..
+[INFO] [Scanner]: 236/975: dynamcop.zip#mpr-20795.8..
+[INFO] [Scanner]: 237/975: dynamcop.zip#mpr-20796.9..
+[INFO] [Scanner]: 238/975: dynamcop.zip#mpr-20797.10..
+[INFO] [Scanner]: 239/975: dynamcop.zip#mpr-20798.11..
+[INFO] [Scanner]: 240/975: dynamcop.zip#mpr-20799.16..
+[INFO] [Scanner]: 241/975: dynamcop.zip#mpr-20800.17..
+[INFO] [Scanner]: 242/975: dynamcop.zip#mpr-20801.18..
+[INFO] [Scanner]: 243/975: dynamcop.zip#mpr-20802.19..
+[INFO] [Scanner]: 244/975: dynamcop.zip#mpr-20803.20..
+[INFO] [Scanner]: 245/975: dynamcop.zip#mpr-20804.21..
+[INFO] [Scanner]: 246/975: dynamcop.zip#mpr-20805.22..
+[INFO] [Scanner]: 247/975: dynamcop.zip#mpr-20806.23..
+[INFO] [Scanner]: 248/975: dynamcop.zip#mpr-20807.24..
+[INFO] [Scanner]: 249/975: dynamcop.zip#mpr-20808.26..
+[INFO] [Scanner]: 250/975: dynamcop.zip#mpr-20809.25..
+[INFO] [Scanner]: 251/975: dynamcop.zip#mpr-20810.27..
+[INFO] [Scanner]: 252/975: dynamcop.zip#mpr-20812.31..
+[INFO] [Scanner]: 253/975: dynamcop.zip#mpr-20813.32..
+[INFO] [Scanner]: 254/975: dynamcop.zip#mpr-20814.36..
+[INFO] [Scanner]: 255/975: dynamcop.zip#mpr-20815.37..
+[INFO] [Scanner]: 256/975: dynamcop.zip#opr-14742a.45..
+[INFO] [Scanner]: 257/975: dynamcop.zip#opr-14743a.46..
+[INFO] [Scanner]: 258/975: dynamcop.zip#opr-14744.58..
+[INFO] [Scanner]: 259/975: dynamcop.zip#opr-14745.59..
+[INFO] [Scanner]: 260/975: dynamcop.zip#opr-14746.62..
+[INFO] [Scanner]: 261/975: dynamcop.zip#opr-14747.63..
+[INFO] [Scanner]: 262/975: dynamcop.zip#progrom0.15..
+[INFO] [Scanner]: 263/975: dynamcop.zip#progrom1.16..
+[INFO] [Scanner]: 264/975: fvipers.zip#epr-18604d.13..
+[INFO] [Scanner]: 265/975: fvipers.zip#epr-18605d.14..
+[INFO] [Scanner]: 266/975: fvipers.zip#epr-18606d.15..
+[INFO] [Scanner]: 267/975: fvipers.zip#epr-18607d.16..
+[INFO] [Scanner]: 268/975: fvipers.zip#epr-18608d.5..
+[INFO] [Scanner]: 269/975: fvipers.zip#epr-18609d.6..
+[INFO] [Scanner]: 270/975: fvipers.zip#epr-18610d.7..
+[INFO] [Scanner]: 271/975: fvipers.zip#epr-18611d.8..
+[INFO] [Scanner]: 272/975: fvipers.zip#epr-18628.31..
+[INFO] [Scanner]: 273/975: fvipers.zip#mpr-18612.9..
+[INFO] [Scanner]: 274/975: fvipers.zip#mpr-18613.10..
+[INFO] [Scanner]: 275/975: fvipers.zip#mpr-18614.11..
+[INFO] [Scanner]: 276/975: fvipers.zip#mpr-18615.12..
+[INFO] [Scanner]: 277/975: fvipers.zip#mpr-18616.17..
+[INFO] [Scanner]: 278/975: fvipers.zip#mpr-18617.18..
+[INFO] [Scanner]: 279/975: fvipers.zip#mpr-18618.19..
+[INFO] [Scanner]: 280/975: fvipers.zip#mpr-18619.21..
+[INFO] [Scanner]: 281/975: fvipers.zip#mpr-18620.22..
+[INFO] [Scanner]: 282/975: fvipers.zip#mpr-18621.23..
+[INFO] [Scanner]: 283/975: fvipers.zip#mpr-18622.29..
+[INFO] [Scanner]: 284/975: fvipers.zip#mpr-18623.30..
+[INFO] [Scanner]: 285/975: fvipers.zip#mpr-18624.25..
+[INFO] [Scanner]: 286/975: fvipers.zip#mpr-18625.26..
+[INFO] [Scanner]: 287/975: fvipers.zip#mpr-18626.27..
+[INFO] [Scanner]: 288/975: fvipers.zip#mpr-18627.28..
+[INFO] [Scanner]: 289/975: fvipers.zip#mpr-18629.32..
+[INFO] [Scanner]: 290/975: fvipers.zip#mpr-18630.33..
+[INFO] [Scanner]: 291/975: fvipers.zip#mpr-18631.34..
+[INFO] [Scanner]: 292/975: fvipers.zip#mpr-18632.35..
+[INFO] [Scanner]: 293/975: gunblade.zip#epr-18988a.15..
+[INFO] [Scanner]: 294/975: gunblade.zip#epr-18989a.16..
+[INFO] [Scanner]: 295/975: gunblade.zip#epr-18990.31..
+[INFO] [Scanner]: 296/975: gunblade.zip#mpr-18974.11..
+[INFO] [Scanner]: 297/975: gunblade.zip#mpr-18975.12..
+[INFO] [Scanner]: 298/975: gunblade.zip#mpr-18976.9..
+[INFO] [Scanner]: 299/975: gunblade.zip#mpr-18977.10..
+[INFO] [Scanner]: 300/975: gunblade.zip#mpr-18978.32..
+[INFO] [Scanner]: 301/975: gunblade.zip#mpr-18979.34..
+[INFO] [Scanner]: 302/975: gunblade.zip#mpr-18980.17..
+[INFO] [Scanner]: 303/975: gunblade.zip#mpr-18981.21..
+[INFO] [Scanner]: 304/975: gunblade.zip#mpr-18982.18..
+[INFO] [Scanner]: 305/975: gunblade.zip#mpr-18983.22..
+[INFO] [Scanner]: 306/975: gunblade.zip#mpr-18984.25..
+[INFO] [Scanner]: 307/975: gunblade.zip#mpr-18985.27..
+[INFO] [Scanner]: 308/975: gunblade.zip#mpr-18986.29..
+[INFO] [Scanner]: 309/975: gunblade.zip#mpr-18987.30..
+[INFO] [Scanner]: 310/975: hotd.zip#epr-19694.13..
+[INFO] [Scanner]: 311/975: hotd.zip#epr-19695.14..
+[INFO] [Scanner]: 312/975: hotd.zip#epr-19696.15..
+[INFO] [Scanner]: 313/975: hotd.zip#epr-19697.16..
+[INFO] [Scanner]: 314/975: hotd.zip#epr-19698.5..
+[INFO] [Scanner]: 315/975: hotd.zip#epr-19699.6..
+[INFO] [Scanner]: 316/975: hotd.zip#epr-19706.30..
+[INFO] [Scanner]: 317/975: hotd.zip#epr-19707.29..
+[INFO] [Scanner]: 318/975: hotd.zip#epr-19720.31..
+[INFO] [Scanner]: 319/975: hotd.zip#mpr-19700.7..
+[INFO] [Scanner]: 320/975: hotd.zip#mpr-19701.8..
+[INFO] [Scanner]: 321/975: hotd.zip#mpr-19702.9..
+[INFO] [Scanner]: 322/975: hotd.zip#mpr-19703.10..
+[INFO] [Scanner]: 323/975: hotd.zip#mpr-19704.11..
+[INFO] [Scanner]: 324/975: hotd.zip#mpr-19705.12..
+[INFO] [Scanner]: 325/975: hotd.zip#mpr-19708.24..
+[INFO] [Scanner]: 326/975: hotd.zip#mpr-19709.23..
+[INFO] [Scanner]: 327/975: hotd.zip#mpr-19710.22..
+[INFO] [Scanner]: 328/975: hotd.zip#mpr-19711.21..
+[INFO] [Scanner]: 329/975: hotd.zip#mpr-19712.20..
+[INFO] [Scanner]: 330/975: hotd.zip#mpr-19713.19..
+[INFO] [Scanner]: 331/975: hotd.zip#mpr-19714.18..
+[INFO] [Scanner]: 332/975: hotd.zip#mpr-19715.17..
+[INFO] [Scanner]: 333/975: hotd.zip#mpr-19716.25..
+[INFO] [Scanner]: 334/975: hotd.zip#mpr-19717.26..
+[INFO] [Scanner]: 335/975: hotd.zip#mpr-19718.27..
+[INFO] [Scanner]: 336/975: hotd.zip#mpr-19719.28..
+[INFO] [Scanner]: 337/975: hotd.zip#mpr-19721.32..
+[INFO] [Scanner]: 338/975: hotd.zip#mpr-19722.34..
+[INFO] [Scanner]: 339/975: indy500.zip#epr-18249.29..
+[INFO] [Scanner]: 340/975: indy500.zip#epr-18250.30..
+[INFO] [Scanner]: 341/975: indy500.zip#epr-18251a.15..
+[INFO] [Scanner]: 342/975: indy500.zip#epr-18252a.16..
+[INFO] [Scanner]: 343/975: indy500.zip#epr-18253.31..
+[INFO] [Scanner]: 344/975: indy500.zip#epr-18254a.15..
+[INFO] [Scanner]: 345/975: indy500.zip#epr-18255a.16..
+[INFO] [Scanner]: 346/975: indy500.zip#epr-18345.7..
+[INFO] [Scanner]: 347/975: indy500.zip#epr-18346.8..
+[INFO] [Scanner]: 348/975: indy500.zip#epr-18389.7..
+[INFO] [Scanner]: 349/975: indy500.zip#epr-18390.8..
+[INFO] [Scanner]: 350/975: indy500.zip#epr-18391.31..
+[INFO] [Scanner]: 351/975: indy500.zip#epr-18596.7..
+[INFO] [Scanner]: 352/975: indy500.zip#epr-18597.8..
+[INFO] [Scanner]: 353/975: indy500.zip#epr-18598a.15..
+[INFO] [Scanner]: 354/975: indy500.zip#epr-18599a.16..
+[INFO] [Scanner]: 355/975: indy500.zip#epr-18600.31..
+[INFO] [Scanner]: 356/975: indy500.zip#mpr-18231.25..
+[INFO] [Scanner]: 357/975: indy500.zip#mpr-18232.27..
+[INFO] [Scanner]: 358/975: indy500.zip#mpr-18233.17..
+[INFO] [Scanner]: 359/975: indy500.zip#mpr-18234.21..
+[INFO] [Scanner]: 360/975: indy500.zip#mpr-18235.18..
+[INFO] [Scanner]: 361/975: indy500.zip#mpr-18236.22..
+[INFO] [Scanner]: 362/975: indy500.zip#mpr-18237.11..
+[INFO] [Scanner]: 363/975: indy500.zip#mpr-18238.12..
+[INFO] [Scanner]: 364/975: indy500.zip#mpr-18239.9..
+[INFO] [Scanner]: 365/975: indy500.zip#mpr-18240.10..
+[INFO] [Scanner]: 366/975: indy500.zip#mpr-18241.32..
+[INFO] [Scanner]: 367/975: indy500.zip#mpr-18242.33..
+[INFO] [Scanner]: 368/975: indy500.zip#mpr-18243.34..
+[INFO] [Scanner]: 369/975: indy500.zip#mpr-18244.35..
+[INFO] [Scanner]: 370/975: lastbrnx.zip#epr-19046a.15..
+[INFO] [Scanner]: 371/975: lastbrnx.zip#epr-19047a.16..
+[INFO] [Scanner]: 372/975: lastbrnx.zip#epr-19059a.15..
+[INFO] [Scanner]: 373/975: lastbrnx.zip#epr-19060a.16..
+[INFO] [Scanner]: 374/975: lastbrnx.zip#epr-19061a.15..
+[INFO] [Scanner]: 375/975: lastbrnx.zip#epr-19062a.16..
+[INFO] [Scanner]: 376/975: lastbrnx.zip#mpr-19048.9..
+[INFO] [Scanner]: 377/975: lastbrnx.zip#mpr-19049.10..
+[INFO] [Scanner]: 378/975: lastbrnx.zip#mpr-19050.11..
+[INFO] [Scanner]: 379/975: lastbrnx.zip#mpr-19051.12..
+[INFO] [Scanner]: 380/975: lastbrnx.zip#mpr-19052.17..
+[INFO] [Scanner]: 381/975: lastbrnx.zip#mpr-19053.21..
+[INFO] [Scanner]: 382/975: lastbrnx.zip#mpr-19054.25..
+[INFO] [Scanner]: 383/975: lastbrnx.zip#mpr-19055.27..
+[INFO] [Scanner]: 384/975: lastbrnx.zip#mpr-19056.31..
+[INFO] [Scanner]: 385/975: lastbrnx.zip#mpr-19057.32..
+[INFO] [Scanner]: 386/975: lastbrnx.zip#mpr-19058.34..
+[INFO] [Scanner]: 387/975: manxtt.zip#epr-18742.7..
+[INFO] [Scanner]: 388/975: manxtt.zip#epr-18822d.12..
+[INFO] [Scanner]: 389/975: manxtt.zip#epr-18823d.13..
+[INFO] [Scanner]: 390/975: manxtt.zip#epr-18824a.30..
+[INFO] [Scanner]: 391/975: manxtt.zip#epr-18824d.14..
+[INFO] [Scanner]: 392/975: manxtt.zip#epr-18825d.15..
+[INFO] [Scanner]: 393/975: manxtt.zip#mpr-16310.15..
+[INFO] [Scanner]: 394/975: manxtt.zip#mpr-16311.16..
+[INFO] [Scanner]: 395/975: manxtt.zip#mpr-16312.14..
+[INFO] [Scanner]: 396/975: manxtt.zip#mpr-18743.32..
+[INFO] [Scanner]: 397/975: manxtt.zip#mpr-18747.6..
+[INFO] [Scanner]: 398/975: manxtt.zip#mpr-18748.7..
+[INFO] [Scanner]: 399/975: manxtt.zip#mpr-18749.8..
+[INFO] [Scanner]: 400/975: manxtt.zip#mpr-18750.9..
+[INFO] [Scanner]: 401/975: manxtt.zip#mpr-18751.10..
+[INFO] [Scanner]: 402/975: manxtt.zip#mpr-18752.11..
+[INFO] [Scanner]: 403/975: manxtt.zip#mpr-18753.16..
+[INFO] [Scanner]: 404/975: manxtt.zip#mpr-18754.17..
+[INFO] [Scanner]: 405/975: manxtt.zip#mpr-18755.18..
+[INFO] [Scanner]: 406/975: manxtt.zip#mpr-18756.20..
+[INFO] [Scanner]: 407/975: manxtt.zip#mpr-18757.21..
+[INFO] [Scanner]: 408/975: manxtt.zip#mpr-18758.22..
+[INFO] [Scanner]: 409/975: manxtt.zip#mpr-18759.24..
+[INFO] [Scanner]: 410/975: manxtt.zip#mpr-18760.25..
+[INFO] [Scanner]: 411/975: manxtt.zip#mpr-18761.28..
+[INFO] [Scanner]: 412/975: manxtt.zip#mpr-18762.29..
+[INFO] [Scanner]: 413/975: manxtt.zip#mpr-18764.32..
+[INFO] [Scanner]: 414/975: manxtt.zip#mpr-18765.36..
+[INFO] [Scanner]: 415/975: manxtt.zip#mpr-18766.37..
+[INFO] [Scanner]: 416/975: manxtt.zip#mpr-18862.4..
+[INFO] [Scanner]: 417/975: manxtt.zip#mpr-18863.31..
+[INFO] [Scanner]: 418/975: manxtt.zip#mpr-18863.5..
+[INFO] [Scanner]: 419/975: manxtt.zip#opr-14742a.45..
+[INFO] [Scanner]: 420/975: manxtt.zip#opr-14743a.46..
+[INFO] [Scanner]: 421/975: manxtt.zip#opr-14744.58..
+[INFO] [Scanner]: 422/975: manxtt.zip#opr-14745.59..
+[INFO] [Scanner]: 423/975: manxtt.zip#opr-14746.62..
+[INFO] [Scanner]: 424/975: manxtt.zip#opr-14747.63..
+[INFO] [Scanner]: 425/975: manxttc.zip#epr-18822c.12..
+[INFO] [Scanner]: 426/975: manxttc.zip#epr-18823c.13..
+[INFO] [Scanner]: 427/975: manxttc.zip#epr-18824c.14..
+[INFO] [Scanner]: 428/975: manxttc.zip#epr-18825c.15..
+[INFO] [Scanner]: 429/975: manxttc.zip#epr-18826.30..
+[INFO] [Scanner]: 430/975: manxttc.zip#mpr-16310.15..
+[INFO] [Scanner]: 431/975: manxttc.zip#mpr-16311.16..
+[INFO] [Scanner]: 432/975: manxttc.zip#mpr-16312.14..
+[INFO] [Scanner]: 433/975: manxttc.zip#mpr-18747.6..
+[INFO] [Scanner]: 434/975: manxttc.zip#mpr-18748.7..
+[INFO] [Scanner]: 435/975: manxttc.zip#mpr-18749.8..
+[INFO] [Scanner]: 436/975: manxttc.zip#mpr-18750.9..
+[INFO] [Scanner]: 437/975: manxttc.zip#mpr-18751.10..
+[INFO] [Scanner]: 438/975: manxttc.zip#mpr-18752.11..
+[INFO] [Scanner]: 439/975: manxttc.zip#mpr-18753.16..
+[INFO] [Scanner]: 440/975: manxttc.zip#mpr-18754.17..
+[INFO] [Scanner]: 441/975: manxttc.zip#mpr-18755.18..
+[INFO] [Scanner]: 442/975: manxttc.zip#mpr-18756.20..
+[INFO] [Scanner]: 443/975: manxttc.zip#mpr-18757.21..
+[INFO] [Scanner]: 444/975: manxttc.zip#mpr-18758.22..
+[INFO] [Scanner]: 445/975: manxttc.zip#mpr-18759.24..
+[INFO] [Scanner]: 446/975: manxttc.zip#mpr-18760.25..
+[INFO] [Scanner]: 447/975: manxttc.zip#mpr-18761.28..
+[INFO] [Scanner]: 448/975: manxttc.zip#mpr-18762.29..
+[INFO] [Scanner]: 449/975: manxttc.zip#mpr-18764.32..
+[INFO] [Scanner]: 450/975: manxttc.zip#mpr-18765.36..
+[INFO] [Scanner]: 451/975: manxttc.zip#mpr-18766.37..
+[INFO] [Scanner]: 452/975: manxttc.zip#mpr-18827.31..
+[INFO] [Scanner]: 453/975: manxttc.zip#mpr-18862.4..
+[INFO] [Scanner]: 454/975: manxttc.zip#mpr-18863.5..
+[INFO] [Scanner]: 455/975: manxttc.zip#opr-14742a.45..
+[INFO] [Scanner]: 456/975: manxttc.zip#opr-14743a.46..
+[INFO] [Scanner]: 457/975: manxttc.zip#opr-14744.58..
+[INFO] [Scanner]: 458/975: manxttc.zip#opr-14745.59..
+[INFO] [Scanner]: 459/975: manxttc.zip#opr-14746.62..
+[INFO] [Scanner]: 460/975: manxttc.zip#opr-14747.63..
+[INFO] [Scanner]: 461/975: motoraid.zip#epr-20007.12..
+[INFO] [Scanner]: 462/975: motoraid.zip#epr-20008.13..
+[INFO] [Scanner]: 463/975: motoraid.zip#epr-20011.28..
+[INFO] [Scanner]: 464/975: motoraid.zip#epr-20012.29..
+[INFO] [Scanner]: 465/975: motoraid.zip#epr-20013.4..
+[INFO] [Scanner]: 466/975: motoraid.zip#epr-20014.5..
+[INFO] [Scanner]: 467/975: motoraid.zip#epr-20029.30..
+[INFO] [Scanner]: 468/975: motoraid.zip#mpr-16310.15..
+[INFO] [Scanner]: 469/975: motoraid.zip#mpr-16311.16..
+[INFO] [Scanner]: 470/975: motoraid.zip#mpr-16312.14..
+[INFO] [Scanner]: 471/975: motoraid.zip#mpr-20015.6..
+[INFO] [Scanner]: 472/975: motoraid.zip#mpr-20016.7..
+[INFO] [Scanner]: 473/975: motoraid.zip#mpr-20017.8..
+[INFO] [Scanner]: 474/975: motoraid.zip#mpr-20018.9..
+[INFO] [Scanner]: 475/975: motoraid.zip#mpr-20019.10..
+[INFO] [Scanner]: 476/975: motoraid.zip#mpr-20020.11..
+[INFO] [Scanner]: 477/975: motoraid.zip#mpr-20021.24..
+[INFO] [Scanner]: 478/975: motoraid.zip#mpr-20022.25..
+[INFO] [Scanner]: 479/975: motoraid.zip#mpr-20023.16..
+[INFO] [Scanner]: 480/975: motoraid.zip#mpr-20024.17..
+[INFO] [Scanner]: 481/975: motoraid.zip#mpr-20025.18..
+[INFO] [Scanner]: 482/975: motoraid.zip#mpr-20026.20..
+[INFO] [Scanner]: 483/975: motoraid.zip#mpr-20027.21..
+[INFO] [Scanner]: 484/975: motoraid.zip#mpr-20028.22..
+[INFO] [Scanner]: 485/975: motoraid.zip#mpr-20030.31..
+[INFO] [Scanner]: 486/975: motoraid.zip#mpr-20031.32..
+[INFO] [Scanner]: 487/975: motoraid.zip#mpr-20032.36..
+[INFO] [Scanner]: 488/975: motoraid.zip#mpr-20033.37..
+[INFO] [Scanner]: 489/975: motoraid.zip#opr-14742a.45..
+[INFO] [Scanner]: 490/975: motoraid.zip#opr-14743a.46..
+[INFO] [Scanner]: 491/975: motoraid.zip#opr-14744.58..
+[INFO] [Scanner]: 492/975: motoraid.zip#opr-14745.59..
+[INFO] [Scanner]: 493/975: motoraid.zip#opr-14746.62..
+[INFO] [Scanner]: 494/975: motoraid.zip#opr-14747.63..
+[INFO] [Scanner]: 495/975: overrev.zip#epr-19992b.15..
+[INFO] [Scanner]: 496/975: overrev.zip#epr-19993b.16..
+[INFO] [Scanner]: 497/975: overrev.zip#epr-20002.31..
+[INFO] [Scanner]: 498/975: overrev.zip#epr-20124a.15..
+[INFO] [Scanner]: 499/975: overrev.zip#epr-20125a.16..
+[INFO] [Scanner]: 500/975: overrev.zip#mpr-19994.9..
+[INFO] [Scanner]: 501/975: overrev.zip#mpr-19995.10..
+[INFO] [Scanner]: 502/975: overrev.zip#mpr-19996.11..
+[INFO] [Scanner]: 503/975: overrev.zip#mpr-19997.12..
+[INFO] [Scanner]: 504/975: overrev.zip#mpr-19998.17..
+[INFO] [Scanner]: 505/975: overrev.zip#mpr-19999.21..
+[INFO] [Scanner]: 506/975: overrev.zip#mpr-20000.25..
+[INFO] [Scanner]: 507/975: overrev.zip#mpr-20001.27..
+[INFO] [Scanner]: 508/975: overrev.zip#mpr-20003.32..
+[INFO] [Scanner]: 509/975: overrev.zip#mpr-20004.34..
+[INFO] [Scanner]: 510/975: pltkids.zip#epr-21276.sd0..
+[INFO] [Scanner]: 511/975: pltkids.zip#epr-21281.pr0..
+[INFO] [Scanner]: 512/975: pltkids.zip#epr-21282.pr1..
+[INFO] [Scanner]: 513/975: pltkids.zip#epr-21285a.15..
+[INFO] [Scanner]: 514/975: pltkids.zip#epr-21286a.16..
+[INFO] [Scanner]: 515/975: pltkids.zip#mpr-16310.15..
+[INFO] [Scanner]: 516/975: pltkids.zip#mpr-16311.16..
+[INFO] [Scanner]: 517/975: pltkids.zip#mpr-16312.14..
+[INFO] [Scanner]: 518/975: pltkids.zip#mpr-21262.da0..
+[INFO] [Scanner]: 519/975: pltkids.zip#mpr-21263.da1..
+[INFO] [Scanner]: 520/975: pltkids.zip#mpr-21264.tp0..
+[INFO] [Scanner]: 521/975: pltkids.zip#mpr-21265.tp2..
+[INFO] [Scanner]: 522/975: pltkids.zip#mpr-21266.tp4..
+[INFO] [Scanner]: 523/975: pltkids.zip#mpr-21267.tp6..
+[INFO] [Scanner]: 524/975: pltkids.zip#mpr-21268.tp1..
+[INFO] [Scanner]: 525/975: pltkids.zip#mpr-21269.tp3..
+[INFO] [Scanner]: 526/975: pltkids.zip#mpr-21270.tp5..
+[INFO] [Scanner]: 527/975: pltkids.zip#mpr-21271.tp7..
+[INFO] [Scanner]: 528/975: pltkids.zip#mpr-21272.tx0..
+[INFO] [Scanner]: 529/975: pltkids.zip#mpr-21273.tx2..
+[INFO] [Scanner]: 530/975: pltkids.zip#mpr-21274.tx1..
+[INFO] [Scanner]: 531/975: pltkids.zip#mpr-21275.tx3..
+[INFO] [Scanner]: 532/975: pltkids.zip#mpr-21277.sd1..
+[INFO] [Scanner]: 533/975: pltkids.zip#mpr-21278.sd2..
+[INFO] [Scanner]: 534/975: pltkids.zip#mpr-21279.sd3..
+[INFO] [Scanner]: 535/975: pltkids.zip#mpr-21280.sd4..
+[INFO] [Scanner]: 536/975: pltkids.zip#opr-14742a.45..
+[INFO] [Scanner]: 537/975: pltkids.zip#opr-14743a.46..
+[INFO] [Scanner]: 538/975: pltkids.zip#opr-14744.58..
+[INFO] [Scanner]: 539/975: pltkids.zip#opr-14745.59..
+[INFO] [Scanner]: 540/975: pltkids.zip#opr-14746.62..
+[INFO] [Scanner]: 541/975: pltkids.zip#opr-14747.63..
+[INFO] [Scanner]: 542/975: rchase2.zip#epr-18045a.15..
+[INFO] [Scanner]: 543/975: rchase2.zip#epr-18046a.16..
+[INFO] [Scanner]: 544/975: rchase2.zip#epr-18047.31..
+[INFO] [Scanner]: 545/975: rchase2.zip#epr-18074a.13..
+[INFO] [Scanner]: 546/975: rchase2.zip#epr-18075a.14..
+[INFO] [Scanner]: 547/975: rchase2.zip#mpr-18029.32..
+[INFO] [Scanner]: 548/975: rchase2.zip#mpr-18030.34..
+[INFO] [Scanner]: 549/975: rchase2.zip#mpr-18031.17..
+[INFO] [Scanner]: 550/975: rchase2.zip#mpr-18032.21..
+[INFO] [Scanner]: 551/975: rchase2.zip#mpr-18033.18..
+[INFO] [Scanner]: 552/975: rchase2.zip#mpr-18034.22..
+[INFO] [Scanner]: 553/975: rchase2.zip#mpr-18035.27..
+[INFO] [Scanner]: 554/975: rchase2.zip#mpr-18036.25..
+[INFO] [Scanner]: 555/975: rchase2.zip#mpr-18037.11..
+[INFO] [Scanner]: 556/975: rchase2.zip#mpr-18038.12..
+[INFO] [Scanner]: 557/975: rchase2.zip#mpr-18039.9..
+[INFO] [Scanner]: 558/975: rchase2.zip#mpr-18040.10..
+[INFO] [Scanner]: 559/975: rchase2.zip#mpr-18041.7..
+[INFO] [Scanner]: 560/975: rchase2.zip#mpr-18042.8..
+[INFO] [Scanner]: 561/975: rchase2.zip#mpr-18043.5..
+[INFO] [Scanner]: 562/975: rchase2.zip#mpr-18044.6..
+[INFO] [Scanner]: 563/975: schamp.zip#epr-19001.15..
+[INFO] [Scanner]: 564/975: schamp.zip#epr-19002.16..
+[INFO] [Scanner]: 565/975: schamp.zip#epr-19003.7..
+[INFO] [Scanner]: 566/975: schamp.zip#epr-19004.8..
+[INFO] [Scanner]: 567/975: schamp.zip#epr-19021.31..
+[INFO] [Scanner]: 568/975: schamp.zip#epr-19141.15..
+[INFO] [Scanner]: 569/975: schamp.zip#epr-19142.16..
+[INFO] [Scanner]: 570/975: schamp.zip#epr-19143.7..
+[INFO] [Scanner]: 571/975: schamp.zip#epr-19144.8..
+[INFO] [Scanner]: 572/975: schamp.zip#mpr-19005.9..
+[INFO] [Scanner]: 573/975: schamp.zip#mpr-19006.10..
+[INFO] [Scanner]: 574/975: schamp.zip#mpr-19007.11..
+[INFO] [Scanner]: 575/975: schamp.zip#mpr-19008.12..
+[INFO] [Scanner]: 576/975: schamp.zip#mpr-19009.17..
+[INFO] [Scanner]: 577/975: schamp.zip#mpr-19010.18..
+[INFO] [Scanner]: 578/975: schamp.zip#mpr-19012.21..
+[INFO] [Scanner]: 579/975: schamp.zip#mpr-19013.22..
+[INFO] [Scanner]: 580/975: schamp.zip#mpr-19015.29..
+[INFO] [Scanner]: 581/975: schamp.zip#mpr-19016.30..
+[INFO] [Scanner]: 582/975: schamp.zip#mpr-19017.25..
+[INFO] [Scanner]: 583/975: schamp.zip#mpr-19018.26..
+[INFO] [Scanner]: 584/975: schamp.zip#mpr-19019.27..
+[INFO] [Scanner]: 585/975: schamp.zip#mpr-19020.28..
+[INFO] [Scanner]: 586/975: schamp.zip#mpr-19022.32..
+[INFO] [Scanner]: 587/975: schamp.zip#mpr-19023.33..
+[INFO] [Scanner]: 588/975: schamp.zip#mpr-19024.34..
+[INFO] [Scanner]: 589/975: schamp.zip#mpr-19025.35..
+[INFO] [Scanner]: 590/975: segawski.zip#epr-19961.5..
+[INFO] [Scanner]: 591/975: segawski.zip#epr-19962.6..
+[INFO] [Scanner]: 592/975: segawski.zip#epr-19963a.15..
+[INFO] [Scanner]: 593/975: segawski.zip#epr-19964a.16..
+[INFO] [Scanner]: 594/975: segawski.zip#epr-19967.31..
+[INFO] [Scanner]: 595/975: segawski.zip#mpr-19968.25..
+[INFO] [Scanner]: 596/975: segawski.zip#mpr-19969.27..
+[INFO] [Scanner]: 597/975: segawski.zip#mpr-19970.26..
+[INFO] [Scanner]: 598/975: segawski.zip#mpr-19971.28..
+[INFO] [Scanner]: 599/975: segawski.zip#mpr-19972.17..
+[INFO] [Scanner]: 600/975: segawski.zip#mpr-19973.21..
+[INFO] [Scanner]: 601/975: segawski.zip#mpr-19974.18..
+[INFO] [Scanner]: 602/975: segawski.zip#mpr-19975.22..
+[INFO] [Scanner]: 603/975: segawski.zip#mpr-19976.19..
+[INFO] [Scanner]: 604/975: segawski.zip#mpr-19977.23..
+[INFO] [Scanner]: 605/975: segawski.zip#mpr-19978.20..
+[INFO] [Scanner]: 606/975: segawski.zip#mpr-19979.24..
+[INFO] [Scanner]: 607/975: segawski.zip#mpr-19980.11..
+[INFO] [Scanner]: 608/975: segawski.zip#mpr-19981.12..
+[INFO] [Scanner]: 609/975: segawski.zip#mpr-19982.9..
+[INFO] [Scanner]: 610/975: segawski.zip#mpr-19983.10..
+[INFO] [Scanner]: 611/975: segawski.zip#mpr-19984.7..
+[INFO] [Scanner]: 612/975: segawski.zip#mpr-19985.8..
+[INFO] [Scanner]: 613/975: segawski.zip#mpr-19986.29..
+[INFO] [Scanner]: 614/975: segawski.zip#mpr-19987.30..
+[INFO] [Scanner]: 615/975: segawski.zip#mpr-19988.32..
+[INFO] [Scanner]: 616/975: segawski.zip#mpr-19989.34..
+[INFO] [Scanner]: 617/975: sgt24h.zip#epr-18643a.7..
+[INFO] [Scanner]: 618/975: sgt24h.zip#epr-19155.15..
+[INFO] [Scanner]: 619/975: sgt24h.zip#epr-19156.16..
+[INFO] [Scanner]: 620/975: sgt24h.zip#epr-19157.31..
+[INFO] [Scanner]: 621/975: sgt24h.zip#mpr-19146.11..
+[INFO] [Scanner]: 622/975: sgt24h.zip#mpr-19147.12..
+[INFO] [Scanner]: 623/975: sgt24h.zip#mpr-19148.9..
+[INFO] [Scanner]: 624/975: sgt24h.zip#mpr-19149.10..
+[INFO] [Scanner]: 625/975: sgt24h.zip#mpr-19150.17..
+[INFO] [Scanner]: 626/975: sgt24h.zip#mpr-19151.21..
+[INFO] [Scanner]: 627/975: sgt24h.zip#mpr-19152.25..
+[INFO] [Scanner]: 628/975: sgt24h.zip#mpr-19153.27..
+[INFO] [Scanner]: 629/975: sgt24h.zip#mpr-19154.32..
+[INFO] [Scanner]: 630/975: skisuprg.zip#epr-19489.15..
+[INFO] [Scanner]: 631/975: skisuprg.zip#epr-19490.16..
+[INFO] [Scanner]: 632/975: skisuprg.zip#epr-19491.31..
+[INFO] [Scanner]: 633/975: skisuprg.zip#epr-19551.13..
+[INFO] [Scanner]: 634/975: skisuprg.zip#epr-19552.14..
+[INFO] [Scanner]: 635/975: skisuprg.zip#mpr-19492.9..
+[INFO] [Scanner]: 636/975: skisuprg.zip#mpr-19493.10..
+[INFO] [Scanner]: 637/975: skisuprg.zip#mpr-19494.11..
+[INFO] [Scanner]: 638/975: skisuprg.zip#mpr-19495.12..
+[INFO] [Scanner]: 639/975: skisuprg.zip#mpr-19496.17..
+[INFO] [Scanner]: 640/975: skisuprg.zip#mpr-19497.21..
+[INFO] [Scanner]: 641/975: skisuprg.zip#mpr-19498.18..
+[INFO] [Scanner]: 642/975: skisuprg.zip#mpr-19499.22..
+[INFO] [Scanner]: 643/975: skisuprg.zip#mpr-19500.25..
+[INFO] [Scanner]: 644/975: skisuprg.zip#mpr-19501.27..
+[INFO] [Scanner]: 645/975: skisuprg.zip#mpr-19502.29..
+[INFO] [Scanner]: 646/975: skisuprg.zip#mpr-19503.30..
+[INFO] [Scanner]: 647/975: skisuprg.zip#mpr-19504.32..
+[INFO] [Scanner]: 648/975: skisuprg.zip#mpr-19505.34..
+[INFO] [Scanner]: 649/975: skytargt.zip#epr-18404.6..
+[INFO] [Scanner]: 650/975: skytargt.zip#epr-18405.7..
+[INFO] [Scanner]: 651/975: skytargt.zip#epr-18406.12..
+[INFO] [Scanner]: 652/975: skytargt.zip#epr-18407.13..
+[INFO] [Scanner]: 653/975: skytargt.zip#epr-18408.30..
+[INFO] [Scanner]: 654/975: skytargt.zip#mpr-16310.15..
+[INFO] [Scanner]: 655/975: skytargt.zip#mpr-16311.16..
+[INFO] [Scanner]: 656/975: skytargt.zip#mpr-16312.14..
+[INFO] [Scanner]: 657/975: skytargt.zip#mpr-18409.20..
+[INFO] [Scanner]: 658/975: skytargt.zip#mpr-18410.21..
+[INFO] [Scanner]: 659/975: skytargt.zip#mpr-18411.24..
+[INFO] [Scanner]: 660/975: skytargt.zip#mpr-18412.25..
+[INFO] [Scanner]: 661/975: skytargt.zip#mpr-18413.16..
+[INFO] [Scanner]: 662/975: skytargt.zip#mpr-18414.17..
+[INFO] [Scanner]: 663/975: skytargt.zip#mpr-18415.10..
+[INFO] [Scanner]: 664/975: skytargt.zip#mpr-18416.11..
+[INFO] [Scanner]: 665/975: skytargt.zip#mpr-18417.8..
+[INFO] [Scanner]: 666/975: skytargt.zip#mpr-18418.9..
+[INFO] [Scanner]: 667/975: skytargt.zip#mpr-18419.29..
+[INFO] [Scanner]: 668/975: skytargt.zip#mpr-18420.28..
+[INFO] [Scanner]: 669/975: skytargt.zip#mpr-18421.37..
+[INFO] [Scanner]: 670/975: skytargt.zip#mpr-18422.36..
+[INFO] [Scanner]: 671/975: skytargt.zip#mpr-18423.32..
+[INFO] [Scanner]: 672/975: skytargt.zip#mpr-18424.31..
+[INFO] [Scanner]: 673/975: skytargt.zip#opr-14742a.45..
+[INFO] [Scanner]: 674/975: skytargt.zip#opr-14743a.46..
+[INFO] [Scanner]: 675/975: skytargt.zip#opr-14744.58..
+[INFO] [Scanner]: 676/975: skytargt.zip#opr-14745.59..
+[INFO] [Scanner]: 677/975: skytargt.zip#opr-14746.62..
+[INFO] [Scanner]: 678/975: skytargt.zip#opr-14747.63..
+[INFO] [Scanner]: 679/975: srallyc.zip#epr-17888b.12..
+[INFO] [Scanner]: 680/975: srallyc.zip#epr-17888c.12..
+[INFO] [Scanner]: 681/975: srallyc.zip#epr-17889b.13..
+[INFO] [Scanner]: 682/975: srallyc.zip#epr-17889c.13..
+[INFO] [Scanner]: 683/975: srallyc.zip#epr-17890.30..
+[INFO] [Scanner]: 684/975: srallyc.zip#ic12.bin..
+[INFO] [Scanner]: 685/975: srallyc.zip#ic13.bin..
+[INFO] [Scanner]: 686/975: srallyc.zip#mpr-16310.15..
+[INFO] [Scanner]: 687/975: srallyc.zip#mpr-16311.16..
+[INFO] [Scanner]: 688/975: srallyc.zip#mpr-16312.14..
+[INFO] [Scanner]: 689/975: srallyc.zip#mpr-17744.8..
+[INFO] [Scanner]: 690/975: srallyc.zip#mpr-17745.9..
+[INFO] [Scanner]: 691/975: srallyc.zip#mpr-17746.10..
+[INFO] [Scanner]: 692/975: srallyc.zip#mpr-17747.11..
+[INFO] [Scanner]: 693/975: srallyc.zip#mpr-17748.16..
+[INFO] [Scanner]: 694/975: srallyc.zip#mpr-17749.17..
+[INFO] [Scanner]: 695/975: srallyc.zip#mpr-17750.20..
+[INFO] [Scanner]: 696/975: srallyc.zip#mpr-17751.21..
+[INFO] [Scanner]: 697/975: srallyc.zip#mpr-17752.24..
+[INFO] [Scanner]: 698/975: srallyc.zip#mpr-17753.25..
+[INFO] [Scanner]: 699/975: srallyc.zip#mpr-17754.29..
+[INFO] [Scanner]: 700/975: srallyc.zip#mpr-17755.28..
+[INFO] [Scanner]: 701/975: srallyc.zip#mpr-17756.31..
+[INFO] [Scanner]: 702/975: srallyc.zip#mpr-17757.32..
+[INFO] [Scanner]: 703/975: srallyc.zip#mpr-17884.6..
+[INFO] [Scanner]: 704/975: srallyc.zip#mpr-17885.7..
+[INFO] [Scanner]: 705/975: srallyc.zip#mpr-17886.36..
+[INFO] [Scanner]: 706/975: srallyc.zip#mpr-17887.37..
+[INFO] [Scanner]: 707/975: srallyc.zip#opr-14742a.45..
+[INFO] [Scanner]: 708/975: srallyc.zip#opr-14743a.46..
+[INFO] [Scanner]: 709/975: srallyc.zip#opr-14744.58..
+[INFO] [Scanner]: 710/975: srallyc.zip#opr-14745.59..
+[INFO] [Scanner]: 711/975: srallyc.zip#opr-14746.62..
+[INFO] [Scanner]: 712/975: srallyc.zip#opr-14747.63..
+[INFO] [Scanner]: 713/975: stcc.zip#epr-18643a.7..
+[INFO] [Scanner]: 714/975: stcc.zip#epr-19266.18..
+[INFO] [Scanner]: 715/975: stcc.zip#epr-19267.22..
+[INFO] [Scanner]: 716/975: stcc.zip#epr-19268.26..
+[INFO] [Scanner]: 717/975: stcc.zip#epr-19269.28..
+[INFO] [Scanner]: 718/975: stcc.zip#epr-19270.9..
+[INFO] [Scanner]: 719/975: stcc.zip#epr-19271.10..
+[INFO] [Scanner]: 720/975: stcc.zip#epr-19272a.15..
+[INFO] [Scanner]: 721/975: stcc.zip#epr-19272b.15..
+[INFO] [Scanner]: 722/975: stcc.zip#epr-19273a.16..
+[INFO] [Scanner]: 723/975: stcc.zip#epr-19273b.16..
+[INFO] [Scanner]: 724/975: stcc.zip#epr-19274.31..
+[INFO] [Scanner]: 725/975: stcc.zip#epr-19275.2s..
+[INFO] [Scanner]: 726/975: stcc.zip#epr-19570.15..
+[INFO] [Scanner]: 727/975: stcc.zip#epr-19571.16..
+[INFO] [Scanner]: 728/975: stcc.zip#mpr-19251.17..
+[INFO] [Scanner]: 729/975: stcc.zip#mpr-19252.21..
+[INFO] [Scanner]: 730/975: stcc.zip#mpr-19253.25..
+[INFO] [Scanner]: 731/975: stcc.zip#mpr-19254.27..
+[INFO] [Scanner]: 732/975: stcc.zip#mpr-19255.29..
+[INFO] [Scanner]: 733/975: stcc.zip#mpr-19256.30..
+[INFO] [Scanner]: 734/975: stcc.zip#mpr-19257.11..
+[INFO] [Scanner]: 735/975: stcc.zip#mpr-19258.12..
+[INFO] [Scanner]: 736/975: stcc.zip#mpr-19259.32..
+[INFO] [Scanner]: 737/975: stcc.zip#mpr-19261.34..
+[INFO] [Scanner]: 738/975: stcc.zip#mpr-19262.57s..
+[INFO] [Scanner]: 739/975: stcc.zip#mpr-19263.58s..
+[INFO] [Scanner]: 740/975: stcc.zip#mpr-19264.59s..
+[INFO] [Scanner]: 741/975: stcc.zip#mpr-19265.60s..
+[INFO] [Scanner]: 742/975: topskatr.zip#epr-19755a.15..
+[INFO] [Scanner]: 743/975: topskatr.zip#epr-19756a.16..
+[INFO] [Scanner]: 744/975: topskatr.zip#mpr-19735.11..
+[INFO] [Scanner]: 745/975: topskatr.zip#mpr-19736.12..
+[INFO] [Scanner]: 746/975: topskatr.zip#mpr-19737.9..
+[INFO] [Scanner]: 747/975: topskatr.zip#mpr-19738.10..
+[INFO] [Scanner]: 748/975: topskatr.zip#mpr-19739.25..
+[INFO] [Scanner]: 749/975: topskatr.zip#mpr-19740.27..
+[INFO] [Scanner]: 750/975: topskatr.zip#mpr-19741.17..
+[INFO] [Scanner]: 751/975: topskatr.zip#mpr-19742.21..
+[INFO] [Scanner]: 752/975: topskatr.zip#mpr-19743.29..
+[INFO] [Scanner]: 753/975: topskatr.zip#mpr-19744.30..
+[INFO] [Scanner]: 754/975: topskatr.zip#mpr-19745.32..
+[INFO] [Scanner]: 755/975: topskatr.zip#mpr-19746.34..
+[INFO] [Scanner]: 756/975: topskatr.zip#mpr-19747.18s..
+[INFO] [Scanner]: 757/975: topskatr.zip#mpr-19748.20s..
+[INFO] [Scanner]: 758/975: topskatr.zip#mpr-19749.22s..
+[INFO] [Scanner]: 759/975: topskatr.zip#mpr-19750.24s..
+[INFO] [Scanner]: 760/975: topskatr.zip#mpr-19759.31..
+[INFO] [Scanner]: 761/975: topskatr.zip#mpr-19760.2s..
+[INFO] [Scanner]: 762/975: epr-19753.15..
+[INFO] [Scanner]: 763/975: epr-19754.16..
+[INFO] [Scanner]: 764/975: epr-19753.15..
+[INFO] [Scanner]: 765/975: epr-19754.16..
+[INFO] [Scanner]: 766/975: vcop.zip#epr-17160a.14..
+[INFO] [Scanner]: 767/975: vcop.zip#epr-17161a.15..
+[INFO] [Scanner]: 768/975: vcop.zip#epr-17166a.12..
+[INFO] [Scanner]: 769/975: vcop.zip#epr-17166b.12..
+[INFO] [Scanner]: 770/975: vcop.zip#epr-17167a.13..
+[INFO] [Scanner]: 771/975: vcop.zip#epr-17167b.13..
+[INFO] [Scanner]: 772/975: vcop.zip#epr-17168a.6..
+[INFO] [Scanner]: 773/975: vcop.zip#epr-17169a.7..
+[INFO] [Scanner]: 774/975: vcop.zip#epr-17170.7..
+[INFO] [Scanner]: 775/975: vcop.zip#epr-17171.8..
+[INFO] [Scanner]: 776/975: vcop.zip#mpr-16310.15..
+[INFO] [Scanner]: 777/975: vcop.zip#mpr-16311.16..
+[INFO] [Scanner]: 778/975: vcop.zip#mpr-16312.14..
+[INFO] [Scanner]: 779/975: vcop.zip#mpr-17156.20..
+[INFO] [Scanner]: 780/975: vcop.zip#mpr-17157.24..
+[INFO] [Scanner]: 781/975: vcop.zip#mpr-17158.25..
+[INFO] [Scanner]: 782/975: vcop.zip#mpr-17159.16..
+[INFO] [Scanner]: 783/975: vcop.zip#mpr-17162.8..
+[INFO] [Scanner]: 784/975: vcop.zip#mpr-17163.9..
+[INFO] [Scanner]: 785/975: vcop.zip#mpr-17164.10..
+[INFO] [Scanner]: 786/975: vcop.zip#mpr-17165.11..
+[INFO] [Scanner]: 787/975: vcop.zip#mpr-17172.32..
+[INFO] [Scanner]: 788/975: vcop.zip#mpr-17173.33..
+[INFO] [Scanner]: 789/975: vcop.zip#mpr-17174.4..
+[INFO] [Scanner]: 790/975: vcop.zip#mpr-17175.5..
+[INFO] [Scanner]: 791/975: vcop.zip#opr-14742a.45..
+[INFO] [Scanner]: 792/975: vcop.zip#opr-14743a.46..
+[INFO] [Scanner]: 793/975: vcop.zip#opr-14744.58..
+[INFO] [Scanner]: 794/975: vcop.zip#opr-14745.59..
+[INFO] [Scanner]: 795/975: vcop.zip#opr-14746.62..
+[INFO] [Scanner]: 796/975: vcop.zip#opr-14747.63..
+[INFO] [Scanner]: 797/975: vcop2.zip#epr-18518.14..
+[INFO] [Scanner]: 798/975: vcop2.zip#epr-18519.15..
+[INFO] [Scanner]: 799/975: vcop2.zip#epr-18524.12..
+[INFO] [Scanner]: 800/975: vcop2.zip#epr-18525.13..
+[INFO] [Scanner]: 801/975: vcop2.zip#epr-18530.30..
+[INFO] [Scanner]: 802/975: vcop2.zip#mpr-16310.15..
+[INFO] [Scanner]: 803/975: vcop2.zip#mpr-16311.16..
+[INFO] [Scanner]: 804/975: vcop2.zip#mpr-16312.14..
+[INFO] [Scanner]: 805/975: vcop2.zip#mpr-18510.20..
+[INFO] [Scanner]: 806/975: vcop2.zip#mpr-18511.24..
+[INFO] [Scanner]: 807/975: vcop2.zip#mpr-18512.25..
+[INFO] [Scanner]: 808/975: vcop2.zip#mpr-18513.16..
+[INFO] [Scanner]: 809/975: vcop2.zip#mpr-18514.8..
+[INFO] [Scanner]: 810/975: vcop2.zip#mpr-18515.9..
+[INFO] [Scanner]: 811/975: vcop2.zip#mpr-18516.10..
+[INFO] [Scanner]: 812/975: vcop2.zip#mpr-18517.11..
+[INFO] [Scanner]: 813/975: vcop2.zip#mpr-18520.4..
+[INFO] [Scanner]: 814/975: vcop2.zip#mpr-18521.5..
+[INFO] [Scanner]: 815/975: vcop2.zip#mpr-18522.6..
+[INFO] [Scanner]: 816/975: vcop2.zip#mpr-18523.7..
+[INFO] [Scanner]: 817/975: vcop2.zip#mpr-18526.37..
+[INFO] [Scanner]: 818/975: vcop2.zip#mpr-18527.36..
+[INFO] [Scanner]: 819/975: vcop2.zip#mpr-18528.32..
+[INFO] [Scanner]: 820/975: vcop2.zip#mpr-18529.31..
+[INFO] [Scanner]: 821/975: vcop2.zip#opr-14742a.45..
+[INFO] [Scanner]: 822/975: vcop2.zip#opr-14743a.46..
+[INFO] [Scanner]: 823/975: vcop2.zip#opr-14744.58..
+[INFO] [Scanner]: 824/975: vcop2.zip#opr-14745.59..
+[INFO] [Scanner]: 825/975: vcop2.zip#opr-14746.62..
+[INFO] [Scanner]: 826/975: vcop2.zip#opr-14747.63..
+[INFO] [Scanner]: 827/975: vf2.zip#epr-17562.14..
+[INFO] [Scanner]: 828/975: vf2.zip#epr-17562a.ic14..
+[INFO] [Scanner]: 829/975: vf2.zip#epr-17562b.14..
+[INFO] [Scanner]: 830/975: vf2.zip#epr-17563.15..
+[INFO] [Scanner]: 831/975: vf2.zip#epr-17563a.ic15..
+[INFO] [Scanner]: 832/975: vf2.zip#epr-17563b.15..
+[INFO] [Scanner]: 833/975: vf2.zip#epr-17568.12..
+[INFO] [Scanner]: 834/975: vf2.zip#epr-17568a.ic12..
+[INFO] [Scanner]: 835/975: vf2.zip#epr-17568b.12..
+[INFO] [Scanner]: 836/975: vf2.zip#epr-17569.13..
+[INFO] [Scanner]: 837/975: vf2.zip#epr-17569a.ic13..
+[INFO] [Scanner]: 838/975: vf2.zip#epr-17569b.13..
+[INFO] [Scanner]: 839/975: vf2.zip#epr-17574.30..
+[INFO] [Scanner]: 840/975: vf2.zip#epr-18385.12..
+[INFO] [Scanner]: 841/975: vf2.zip#epr-18386.13..
+[INFO] [Scanner]: 842/975: vf2.zip#epr-18387.14..
+[INFO] [Scanner]: 843/975: vf2.zip#epr-18388.15..
+[INFO] [Scanner]: 844/975: vf2.zip#mpr-16310.15..
+[INFO] [Scanner]: 845/975: vf2.zip#mpr-16311.16..
+[INFO] [Scanner]: 846/975: vf2.zip#mpr-16312.14..
+[INFO] [Scanner]: 847/975: vf2.zip#mpr-17546.26..
+[INFO] [Scanner]: 848/975: vf2.zip#mpr-17547.27..
+[INFO] [Scanner]: 849/975: vf2.zip#mpr-17548.20..
+[INFO] [Scanner]: 850/975: vf2.zip#mpr-17549.21..
+[INFO] [Scanner]: 851/975: vf2.zip#mpr-17550.22..
+[INFO] [Scanner]: 852/975: vf2.zip#mpr-17552.24..
+[INFO] [Scanner]: 853/975: vf2.zip#mpr-17553.25..
+[INFO] [Scanner]: 854/975: vf2.zip#mpr-17554.16..
+[INFO] [Scanner]: 855/975: vf2.zip#mpr-17555.17..
+[INFO] [Scanner]: 856/975: vf2.zip#mpr-17556.18..
+[INFO] [Scanner]: 857/975: vf2.zip#mpr-17558.8..
+[INFO] [Scanner]: 858/975: vf2.zip#mpr-17559.9..
+[INFO] [Scanner]: 859/975: vf2.zip#mpr-17560.10..
+[INFO] [Scanner]: 860/975: vf2.zip#mpr-17561.11..
+[INFO] [Scanner]: 861/975: vf2.zip#mpr-17564.4..
+[INFO] [Scanner]: 862/975: vf2.zip#mpr-17565.5..
+[INFO] [Scanner]: 863/975: vf2.zip#mpr-17566.6..
+[INFO] [Scanner]: 864/975: vf2.zip#mpr-17567.7..
+[INFO] [Scanner]: 865/975: vf2.zip#mpr-17570.37..
+[INFO] [Scanner]: 866/975: vf2.zip#mpr-17571.36..
+[INFO] [Scanner]: 867/975: vf2.zip#mpr-17572.32..
+[INFO] [Scanner]: 868/975: vf2.zip#mpr-17573.31..
+[INFO] [Scanner]: 869/975: vf2.zip#opr-14742a.45..
+[INFO] [Scanner]: 870/975: vf2.zip#opr-14743a.46..
+[INFO] [Scanner]: 871/975: vf2.zip#opr-14744.58..
+[INFO] [Scanner]: 872/975: vf2.zip#opr-14745.59..
+[INFO] [Scanner]: 873/975: vf2.zip#opr-14746.62..
+[INFO] [Scanner]: 874/975: vf2.zip#opr-14747.63..
+[INFO] [Scanner]: 875/975: von.zip#epr-18643a.7..
+[INFO] [Scanner]: 876/975: von.zip#epr-18664b.15..
+[INFO] [Scanner]: 877/975: von.zip#epr-18665b.16..
+[INFO] [Scanner]: 878/975: von.zip#epr-18666.13..
+[INFO] [Scanner]: 879/975: von.zip#epr-18667.14..
+[INFO] [Scanner]: 880/975: von.zip#epr-18670.31..
+[INFO] [Scanner]: 881/975: von.zip#mpr-18648.11..
+[INFO] [Scanner]: 882/975: von.zip#mpr-18649.12..
+[INFO] [Scanner]: 883/975: von.zip#mpr-18650.9..
+[INFO] [Scanner]: 884/975: von.zip#mpr-18651.10..
+[INFO] [Scanner]: 885/975: von.zip#mpr-18652.32..
+[INFO] [Scanner]: 886/975: von.zip#mpr-18653.34..
+[INFO] [Scanner]: 887/975: von.zip#mpr-18654.17..
+[INFO] [Scanner]: 888/975: von.zip#mpr-18655.21..
+[INFO] [Scanner]: 889/975: von.zip#mpr-18656.18..
+[INFO] [Scanner]: 890/975: von.zip#mpr-18657.22..
+[INFO] [Scanner]: 891/975: von.zip#mpr-18658.25..
+[INFO] [Scanner]: 892/975: von.zip#mpr-18659.26..
+[INFO] [Scanner]: 893/975: von.zip#mpr-18660.27..
+[INFO] [Scanner]: 894/975: von.zip#mpr-18661.28..
+[INFO] [Scanner]: 895/975: von.zip#mpr-18662.29..
+[INFO] [Scanner]: 896/975: von.zip#mpr-18663.30..
+[INFO] [Scanner]: 897/975: von.zip#vo-prog0.usa..
+[INFO] [Scanner]: 898/975: von.zip#vo-prog1.usa..
+[INFO] [Scanner]: 899/975: vstriker.zip#ep18066.13..
+[INFO] [Scanner]: 900/975: vstriker.zip#ep18066a.13..
+[INFO] [Scanner]: 901/975: vstriker.zip#ep18067.14..
+[INFO] [Scanner]: 902/975: vstriker.zip#ep18067a.14..
+[INFO] [Scanner]: 903/975: vstriker.zip#ep18068.15..
+[INFO] [Scanner]: 904/975: vstriker.zip#ep18068a.15..
+[INFO] [Scanner]: 905/975: vstriker.zip#ep18069.16..
+[INFO] [Scanner]: 906/975: vstriker.zip#ep18069a.16..
+[INFO] [Scanner]: 907/975: vstriker.zip#ep18070.7..
+[INFO] [Scanner]: 908/975: vstriker.zip#ep18070a.7..
+[INFO] [Scanner]: 909/975: vstriker.zip#ep18071.8..
+[INFO] [Scanner]: 910/975: vstriker.zip#ep18071a.8..
+[INFO] [Scanner]: 911/975: vstriker.zip#ep18072.31..
+[INFO] [Scanner]: 912/975: vstriker.zip#mp18053.9..
+[INFO] [Scanner]: 913/975: vstriker.zip#mp18054.10..
+[INFO] [Scanner]: 914/975: vstriker.zip#mp18055.11..
+[INFO] [Scanner]: 915/975: vstriker.zip#mp18056.12..
+[INFO] [Scanner]: 916/975: vstriker.zip#mp18057.17..
+[INFO] [Scanner]: 917/975: vstriker.zip#mp18058.18..
+[INFO] [Scanner]: 918/975: vstriker.zip#mp18059.21..
+[INFO] [Scanner]: 919/975: vstriker.zip#mp18060.22..
+[INFO] [Scanner]: 920/975: vstriker.zip#mp18061.25..
+[INFO] [Scanner]: 921/975: vstriker.zip#mp18062.27..
+[INFO] [Scanner]: 922/975: vstriker.zip#mp18063.32..
+[INFO] [Scanner]: 923/975: vstriker.zip#mp18064.33..
+[INFO] [Scanner]: 924/975: vstriker.zip#mp18065.34..
+[INFO] [Scanner]: 925/975: waverunr.zip#epr-19278.7..
+[INFO] [Scanner]: 926/975: waverunr.zip#epr-19279.8..
+[INFO] [Scanner]: 927/975: waverunr.zip#epr-19280.29..
+[INFO] [Scanner]: 928/975: waverunr.zip#epr-19281.30..
+[INFO] [Scanner]: 929/975: waverunr.zip#epr-19282a.15..
+[INFO] [Scanner]: 930/975: waverunr.zip#epr-19283a.16..
+[INFO] [Scanner]: 931/975: waverunr.zip#epr-19284.31..
+[INFO] [Scanner]: 932/975: waverunr.zip#epr-19302.26..
+[INFO] [Scanner]: 933/975: waverunr.zip#epr-19303.28..
+[INFO] [Scanner]: 934/975: waverunr.zip#epr-19304.19..
+[INFO] [Scanner]: 935/975: waverunr.zip#epr-19305.23..
+[INFO] [Scanner]: 936/975: waverunr.zip#mpr-19285.25..
+[INFO] [Scanner]: 937/975: waverunr.zip#mpr-19286.27..
+[INFO] [Scanner]: 938/975: waverunr.zip#mpr-19287.17..
+[INFO] [Scanner]: 939/975: waverunr.zip#mpr-19288.21..
+[INFO] [Scanner]: 940/975: waverunr.zip#mpr-19289.18..
+[INFO] [Scanner]: 941/975: waverunr.zip#mpr-19290.22..
+[INFO] [Scanner]: 942/975: waverunr.zip#mpr-19291.11..
+[INFO] [Scanner]: 943/975: waverunr.zip#mpr-19292.12..
+[INFO] [Scanner]: 944/975: waverunr.zip#mpr-19293.9..
+[INFO] [Scanner]: 945/975: waverunr.zip#mpr-19294.10..
+[INFO] [Scanner]: 946/975: waverunr.zip#mpr-19295.32..
+[INFO] [Scanner]: 947/975: waverunr.zip#mpr-19296.34..
+[INFO] [Scanner]: 948/975: zerogun.zip#epr-20288.12..
+[INFO] [Scanner]: 949/975: zerogun.zip#epr-20289.13..
+[INFO] [Scanner]: 950/975: zerogun.zip#epr-20290.15..
+[INFO] [Scanner]: 951/975: zerogun.zip#epr-20291.16..
+[INFO] [Scanner]: 952/975: zerogun.zip#epr-20302.31..
+[INFO] [Scanner]: 953/975: zerogun.zip#epr-20437.12..
+[INFO] [Scanner]: 954/975: zerogun.zip#epr-20438.13..
+[INFO] [Scanner]: 955/975: zerogun.zip#epr-20439.15..
+[INFO] [Scanner]: 956/975: zerogun.zip#epr-20440.16..
+[INFO] [Scanner]: 957/975: zerogun.zip#mpr-16310.15..
+[INFO] [Scanner]: 958/975: zerogun.zip#mpr-16311.16..
+[INFO] [Scanner]: 959/975: zerogun.zip#mpr-16312.14..
+[INFO] [Scanner]: 960/975: zerogun.zip#mpr-20294.9..
+[INFO] [Scanner]: 961/975: zerogun.zip#mpr-20295.10..
+[INFO] [Scanner]: 962/975: zerogun.zip#mpr-20296.11..
+[INFO] [Scanner]: 963/975: zerogun.zip#mpr-20297.12..
+[INFO] [Scanner]: 964/975: zerogun.zip#mpr-20298.17..
+[INFO] [Scanner]: 965/975: zerogun.zip#mpr-20299.21..
+[INFO] [Scanner]: 966/975: zerogun.zip#mpr-20300.25..
+[INFO] [Scanner]: 967/975: zerogun.zip#mpr-20301.27..
+[INFO] [Scanner]: 968/975: zerogun.zip#mpr-20303.32..
+[INFO] [Scanner]: 969/975: zerogun.zip#mpr-20304.33..
+[INFO] [Scanner]: 970/975: zerogun.zip#opr-14742a.45..
+[INFO] [Scanner]: 971/975: zerogun.zip#opr-14743a.46..
+[INFO] [Scanner]: 972/975: zerogun.zip#opr-14744.58..
+[INFO] [Scanner]: 973/975: zerogun.zip#opr-14745.59..
+[INFO] [Scanner]: 974/975: zerogun.zip#opr-14746.62..
+[INFO] [Scanner]: 975/975: zerogun.zip#opr-14747.63..
+[INFO] [Scanner]: Análise de diretório terminada
+[INFO] [Content]: Updating firmware status for: "/home/willian/.config/retroarch/cores/mame_libretro.so" on "/home/willian/.config/retroarch/system".
+[INFO] [Core]: Using content: "/home/willian/.config/retroarch/roms/Sega - Sega Model 2/daytona.zip".
+[INFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] [Core]: Unloading core..
+[INFO] [Core]: Unloading core symbols..
+[INFO] [XINERAMA]: Xinerama version: 1.1.
+[INFO] [XINERAMA]: Xinerama screens: 1.
+[INFO] [XINERAMA]: Saved monitor #0.
+[INFO] [Video]: Does not have enough samples for monitor refresh rate estimation. Requires to run for at least 4096 frames.
+[INFO] RetroArch 1.16.0 (Git 6c2cc45628)
+[INFO] === Build =======================================
+[INFO] CPU Model Name: AMD Ryzen 7 5700X 8-Core Processor             
+[INFO] Capacidades: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[INFO] Version: 1.16.0
+[INFO] Git: 6c2cc45628
+[INFO] Built: Oct  9 2023
+[INFO] =================================================
+[INFO] [Input]: Found input driver: "x".
+[INFO] [Core]: Loading dynamic libretro core from: "/home/willian/.config/retroarch/cores/mame_libretro.so"
+[INFO] [Environ]: GET_CORE_OPTIONS_VERSION.
+[INFO] [Environ]: GET_LANGUAGE: "7".
+[INFO] [Environ]: RETRO_ENVIRONMENT_SET_CORE_OPTIONS_V2_INTL.
+[INFO] [Environ]: SET_CONTROLLER_INFO.
+[INFO] [Environ]: SET_SUPPORT_NO_GAME: yes.
+[INFO] [Environ]: GET_LED_INTERFACE.
+[INFO] [Overrides]: Redirecionando arquivo dados da memória do jogo em "/home/willian/.config/retroarch/saves/daytona.srm".
+[INFO] [Overrides]: Redirecionando o jogo salvo em "/home/willian/.config/retroarch/states/daytona.state".
+[INFO] [Environ]: GET_LOG_INTERFACE.
+[INFO] [Environ]: SYSTEM_DIRECTORY: "/home/willian/.config/retroarch/system".
+[INFO] [Environ]: CORE_ASSETS_DIRECTORY: "/home/willian/.config/retroarch/downloads".
+[INFO] [Environ]: GET_SAVE_DIRECTORY.
+[INFO] [Environ]: SET_PIXEL_FORMAT: XRGB8888.
+[INFO] [Environ]: SET_INPUT_DESCRIPTORS:
+[INFO] [Environ]: SET_KEYBOARD_CALLBACK.
+[libretro INFO] ------------------------
+[libretro INFO] MAME 0.261 (7d5e270)
+[libretro INFO] ------------------------
+[INFO] [Content]: Carregamento de conteúdo ignorado. A implementação irá carregar por conta própria.
+[libretro INFO] Starting game: "/home/willian/.config/retroarch/roms/Sega - Sega Model 2/daytona.zip"
+[libretro INFO] Game name: daytona
+[libretro INFO] Game description: Daytona USA (Revision A)
+[INFO] [Environ]: SET_ROTATION: 0
+[libretro ERROR] epr-16726.bin NOT FOUND (tried in daytona)
+epr-16488a.ic12 NOT FOUND (tried in daytona)
+epr-14869c.25 NOT FOUND (tried in model1io daytona)
+[libretro ERROR] Fatal error: Required files are missing, the machine cannot be run.
+[ERROR] [Content]: Falha em carregar o conteúdo
+[INFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] [Core]: Unloading core..
+[INFO] [Core]: Unloading core symbols..
+[INFO] [Core]: Saved core options file to "/home/willian/.config/retroarch/config/MAME/MAME.opt".
+[INFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[INFO] [Core]: Versão da API libretro: 1, Compilado contra a API: 1
+[INFO] [Core]: Geometry: 320x240, Aspect: 1.333, FPS: 60.00, Sample rate: 48000.00 Hz.
+[INFO] [Audio]: Set audio input rate to: 48000.00 Hz.
+[INFO] [Video]: Set video size to: fullscreen.
+[ERROR] [Wayland]: Failed to connect to Wayland server.
+[INFO] [Vulkan]: Vulkan dynamic library loaded.
+[INFO] [Vulkan]: Found vulkan context: "vk_x".
+[INFO] [Vulkan]: Detecting screen resolution: 2560x1440.
+[INFO] [XINERAMA]: Xinerama version: 1.1.
+[INFO] [XINERAMA]: Xinerama screens: 1.
+[INFO] [X/Vulkan]: Using Xinerama on screen #0.
+[INFO] [X/Vulkan]: X = 0, Y = 0, W = 2560, H = 1440.
+[INFO] [X/Vulkan]: Requesting compositor bypass.
+[INFO] [X/Vulkan]: Using windowed fullscreen.
+[INFO] [Vulkan]: Found GPU at index 0: "NVIDIA GeForce RTX 2060".
+[INFO] [Vulkan]: Using GPU index 0.
+[INFO] [Vulkan]: Using fences for WSI acquire.
+[INFO] [Vulkan]: Using GPU: "NVIDIA GeForce RTX 2060".
+[INFO] [Vulkan]: Queue family 0 supports 16 sub-queues.
+[INFO] [Vulkan]: Got 2 swapchain images.
+[INFO] [Vulkan]: Using resolution 2560x1440.
+[INFO] [Vulkan]: Using RGB565 format.
+[INFO] [Vulkan]: Loading stock shader.
+[INFO] [udev]: Pad #0 (/dev/input/event2) supports force feedback.
+[INFO] [udev]: Pad #0 (/dev/input/event2) supports 16 force feedback effects.
+[INFO] [Joypad]: Found joypad driver: "udev".
+[INFO] [DBus]: Suspended screensaver via DBus.
+[INFO] [Video]: Found display server: "x11".
+[INFO] [SDL audio]: Requested 64 ms latency for output device, got 85 ms
+[INFO] [Audio]: Started synchronous audio driver.
+[WARN] [Audio]: Rate control was desired, but driver does not support needed features.
+[INFO] [Display]: Found display driver: "vulkan".
+[INFO] [Shaders]: Specific shader preset found at "/home/willian/.config/retroarch/config/global.slangp".
+[INFO] [Playlist]: Carregando o arquivo de favoritos: "/home/willian/.config/retroarch/content_favorites.lpl".
+[INFO] [X/Vulkan]: Resized fullscreen resolution to 2560x1440.
+[INFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] [Core]: Unloading core..
+[INFO] [Core]: Unloading core symbols..
+[INFO] [XINERAMA]: Xinerama version: 1.1.
+[INFO] [XINERAMA]: Xinerama screens: 1.
+[INFO] [XINERAMA]: Saved monitor #0.
+[INFO] [Video]: Does not have enough samples for monitor refresh rate estimation. Requires to run for at least 4096 frames.

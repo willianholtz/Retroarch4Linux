@@ -22,6 +22,9 @@
    
 */
 
+#pragma parameter hiscan "          High Resolution Scanlines (ScaleFx or XBR Only)" 0.0 0.0 1.0 1.0
+#define hiscan        global.hiscan
+
 #pragma parameter GDV_BRIGHTNESS_EMPTY_LINE							" " 0 0 0.001 0.001
 #pragma parameter bogus_brightness "[ BRIGHTNESS SETTINGS ]:" 0.0 0.0 1.0 1.0
 
@@ -53,7 +56,7 @@
 #pragma parameter bmask1 "          Bloom Mask Strength -- bmask1" 0.0 -1.0 1.0 0.025
 #define bmask1         global.bmask1     // bloom/halation mask strength
 
-#pragma parameter hmask1 "          Halation Mask Strength -- hmask1" 0.5 0.0 1.0 0.025
+#pragma parameter hmask1 "          Halation Mask Strength -- hmask1" 0.5 -1.0 1.0 0.025
 #define hmask1         global.hmask1     // bloom/halation mask strength
 
 #pragma parameter brightboost 	"          Bright Boost Dark Pixels -- brightboost" 1.40 0.25 10.0 0.05
@@ -221,15 +224,6 @@
 #pragma parameter noisetype "          Noise Type: Colored, Luma" 0.0 0.0 1.0 1.0
 
 // #pragma parameter post_br "          Post Brightness" 1.0 0.25 5.0 0.01
-
-#define red vec3(1, 0, 0)
-#define green vec3(0, 1, 0)
-#define blue vec3(0, 0, 1)
-#define magenta vec3(1, 0, 1)
-#define yellow vec3(1, 1, 0)
-#define cyan vec3(0, 1, 1)
-#define white vec3(1, 1, 1)
-#define black vec3(0, 0, 0)
 
 #define COMPAT_TEXTURE(c,d) texture(c,d)
 #define TEX0 vTexCoord
@@ -678,7 +672,7 @@ void main()
 	float no_scanlines = HSM_GetNoScanlineMode();
 	float gamma_in = 1.0/COMPAT_TEXTURE(LinearizePass, vec2(0.25,0.25)).a;
 	float intera = COMPAT_TEXTURE(LinearizePass, vec2(0.75,0.25)).a;
-	bool interb  = (intera < 0.5 || no_scanlines > 0.025);
+	bool interb  = (intera < 0.35 || no_scanlines > 0.025) && hiscan < 0.5;
 	bool notate  = (TATE < 0.5);
 
 	/* HSM Removed
@@ -880,7 +874,6 @@ else{
 
 	float w = 0.25 + 0.60*mix(w3, 1.0, sqrt(colmx));
 	if (smoothmask > 0.5) { color = min(color,1.0); color = max(min(color/w3, 1.0)*w3, min(orig1*bb,color*(1.0-w3))); }
-	
 
 	if (global.m_glow < 0.5) Glow = mix(Glow, 0.25*color, colmx);
 	else

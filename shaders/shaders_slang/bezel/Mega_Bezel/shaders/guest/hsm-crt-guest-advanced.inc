@@ -25,6 +25,9 @@
 // All parameter uniform values are in globals.inc 
 
 
+#pragma parameter hiscan "          High Resolution Scanlines (ScaleFx or XBR Only)" 0.0 0.0 1.0 1.0
+#define hiscan        global.hiscan
+
 #pragma parameter GDV_BRIGHTNESS_EMPTY_LINE							" " 0 0 0.001 0.001
 #pragma parameter bogus_brightness "[ BRIGHTNESS SETTINGS ]:" 0.0 0.0 1.0 1.0
 
@@ -46,7 +49,7 @@
 #pragma parameter bmask1 "          Bloom Mask Strength -- bmask1" 0.0 -1.0 1.0 0.025
 #define bmask1         global.bmask1     // bloom/halation mask strength
 
-#pragma parameter hmask1 "          Halation Mask Strength -- hmask1" 0.5 0.0 1.0 0.025
+#pragma parameter hmask1 "          Halation Mask Strength -- hmask1" 0.5 -1.0 1.0 0.025
 #define hmask1         global.hmask1     // bloom/halation mask strength
 
 #pragma parameter gamma_c "          Gamma Correct -- gamma_c" 1.0 0.50 2.0 0.025
@@ -295,7 +298,8 @@ void main()
 
 	float gamma_in = 1.0/COMPAT_TEXTURE(LinearizePass, vec2(0.25,0.25)).a;
 	float intera = COMPAT_TEXTURE(LinearizePass, vec2(0.75,0.25)).a;
-	bool interb  = ((intera < 0.35) || (no_scanlines > 0.025));
+	bool hscan = (hiscan > 0.5);
+	bool interb  = (((intera < 0.35) || (no_scanlines > 0.025)) && !hscan);
 	// bool notate  = (TATE < 0.5);
 	bool vgascan = ((abs(intera-0.5) < 0.05) && (no_scanlines == 0.0));
 
@@ -385,7 +389,8 @@ void main()
 	if ((hsm_intres == 0.5 &&  TATE < 0.5 && prescalex.y < 1.5) || vgascan) pC4.y = floor(pC4.y * global.DerezedPassSize.y)*global.DerezedPassSize.w + 0.5*global.DerezedPassSize.w;
 	if ((hsm_intres == 0.5 && TATE > 0.5 && prescalex.x < 1.5) || (vgascan && TATE > 0.5)) pC4.x = floor(pC4.x * global.DerezedPassSize.x)*global.DerezedPassSize.z + 0.5*global.DerezedPassSize.z;
 
-	if (interb && no_scanlines < 0.025)  pC4.y = pos.y; else if (interb) pC4.y = pC4.y + smoothstep(0.40-0.5*no_scanlines, 0.60 + 0.5*no_scanlines, f)*mix(SourceSize.w, SourceSize.z, TATE);
+	if (interb && no_scanlines < 0.025 && !hscan)  pC4.y = pos.y; else if (interb) pC4.y = pC4.y + smoothstep(0.40-0.5*no_scanlines, 0.60 + 0.5*no_scanlines, f)*mix(SourceSize.w, SourceSize.z, TATE);
+	if (hscan) pC4 = mix(vec2(pC4.x, pos.y), vec2(pos.x, pC4.y), TATE);
 
 	float zero = exp2(-h_sharp);
 	float sharp1 = s_sharp * zero;
@@ -473,7 +478,7 @@ void main()
 	
 	vec3 scolor2;
 	
-	if (!interb)
+	if (!interb && !hscan)
 {	
 	pC4+=offy;
 
@@ -523,6 +528,8 @@ void main()
 	vec3 ctmp = color1; float w3 = 1.0; vec3 color = color1;
 	vec3 one = vec3(1.0);
 
+	if (hscan) { color2 = color1; scolor2 = scolor1; }
+
 if (!interb)
 {	
 	// calculating scanlines
@@ -567,13 +574,11 @@ if (!interb)
 	
 	if (abs(clips) > 0.005)
 	{
-		sy = mc1; vec3 l1 = sqrt(w1*wt1); vec3 l2 = sqrt(w2*wt2);
-		one = (clips > 0.0) ? w1 : mix(w1, l1, sy);
+		sy = mc1; one = (clips > 0.0) ? w1 : 1.0.xxx;
 		float sat = 1.0001-min(min(cref1.r,cref1.g),cref1.b);
 		color1 = mix(color1, plant(pow(color1, 0.70.xxx-0.325*sat),sy), pow(sat,0.3333)*one*abs(clips));
-		sy = mc2;
+		sy = mc2; one = (clips > 0.0) ? w2 : 1.0.xxx;
 		sat =       1.0001-min(min(cref2.r,cref2.g),cref2.b);
-		one = (clips > 0.0) ? w2 : mix(w2, l2, sy);
 		color2 = mix(color2, plant(pow(color2, 0.70.xxx-0.325*sat),sy), pow(sat,0.3333)*one*abs(clips));
 	}	
 	

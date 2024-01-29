@@ -1,5 +1,5 @@
-#reference "../shaders/shaders_slang/bezel/Mega_Bezel/Presets/MBZ__0__SMOOTH-ADV.slangp"
-HSM_NON_INTEGER_SCALE = "90.969879"
+#reference "../shaders/shaders_slang/bezel/Mega_Bezel/Presets/MBZ__3__STD.slangp"
+HSM_ASPECT_RATIO_MODE = "6.000000"
 HSM_CURVATURE_MODE = "0.000000"
 HSM_INTRO_WHEN_TO_SHOW = "0.000000"
 HSM_INTRO_LOGO_BLEND_MODE = "0.000000"

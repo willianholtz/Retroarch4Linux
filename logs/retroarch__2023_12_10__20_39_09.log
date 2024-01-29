@@ -1,0 +1,14 @@
+[WARN] --libretro argument "/home/willian/.config/retroaarch/cores/libretro-snes9x.so" is not a file, core name or directory. Ignoring.
+[INFO] RetroArch 1.16.0 (Git 6c2cc45628)
+[INFO] === Build =======================================
+[INFO] CPU Model Name: AMD Ryzen 7 5700X 8-Core Processor             
+[INFO] Capacidades: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[INFO] Version: 1.16.0
+[INFO] Git: 6c2cc45628
+[INFO] Built: Oct  9 2023
+[INFO] =================================================
+[INFO] [Input]: Found input driver: "x".
+[ERROR] [Core]: Frontend is built for dynamic libretro cores, but path is not set. Cannot continue.
+[ERROR] Erro fatal recebido em: "init_libretro_symbols()"
+[INFO] [Core]: Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] [Core]: Unloading core symbols..

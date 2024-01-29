@@ -1,0 +1,35 @@
+[INFO] RetroArch 1.16.0 (Git 6c2cc45628)
+[INFO] === Build =======================================
+[INFO] CPU Model Name: AMD Ryzen 7 5700X 8-Core Processor             
+[INFO] Capacidades: MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE42 AES AVX AVX2 
+[INFO] Version: 1.16.0
+[INFO] Git: 6c2cc45628
+[INFO] Built: Oct  9 2023
+[INFO] =================================================
+[INFO] [Input]: Found input driver: "x".
+[INFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[INFO] [Core]: Versão da API libretro: 1, Compilado contra a API: 1
+[INFO] [Core]: Geometry: 320x240, Aspect: 1.333, FPS: 60.00, Sample rate: 48000.00 Hz.
+[INFO] [Audio]: Set audio input rate to: 48000.00 Hz.
+[INFO] [Video]: Set video size to: 3840x2160.
+[INFO] [Vulkan]: Vulkan dynamic library loaded.
+[INFO] [Vulkan]: Found vulkan context: "vk_wayland".
+[INFO] [Vulkan]: Detecting screen resolution: 3840x2160.
+[INFO] [Vulkan]: Found GPU at index 0: "NVIDIA GeForce RTX 2060".
+[INFO] [Vulkan]: Using GPU index 0.
+[INFO] [Vulkan]: Using fences for WSI acquire.
+[INFO] [Vulkan]: Using GPU: "NVIDIA GeForce RTX 2060".
+[INFO] [Vulkan]: Queue family 0 supports 16 sub-queues.
+[INFO] [Vulkan]: Got 2 swapchain images.
+[INFO] [Wayland] Failed to specify monitor for fullscreen, letting compositor decide
+[INFO] [Vulkan]: Using resolution 3840x2160.
+[INFO] [Vulkan]: Using RGB565 format.
+[INFO] [Vulkan]: Loading stock shader.
+[INFO] [Joypad]: Found joypad driver: "udev".
+[INFO] [Wayland]: Enabling idle inhibitor
+[INFO] [Video]: Found display server: "null".
+[INFO] [SDL audio]: Requested 64 ms latency for output device, got 85 ms
+[INFO] [Audio]: Started synchronous audio driver.
+[WARN] [Audio]: Rate control was desired, but driver does not support needed features.
+[INFO] [Display]: Found display driver: "vulkan".
+[INFO] [Playlist]: Carregando o arquivo de favoritos: "/home/willian/.config/retroarch/content_favorites.lpl".

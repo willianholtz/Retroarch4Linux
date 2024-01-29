@@ -1,0 +1,1627 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/1941.zip",
+      "label": "1941 - Counter Attack (900227 World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "64E58DC3|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/1943kai.zip",
+      "label": "1943 Kai: Midway Kaisen (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1E721AD6|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/1943mii.zip",
+      "label": "1943: The Battle of Midway Mark II (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B1EE1C26|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/4in1.zip",
+      "label": "4 Fun in 1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FD889783|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/4dwarrio.zip",
+      "label": "4-D Warriors (315-5162)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8F8B819B|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/7ordi.zip",
+      "label": "7 Ordi (Korea)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "01AB8796|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/ad2083.zip",
+      "label": "A.D. 2083",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3676A561|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/acrobatm.zip",
+      "label": "Acrobat Mission",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5EDB1B38|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/hatena.zip",
+      "label": "Adventure Quiz 2 - Hatena? no Daibouken (Japan 900228)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "69C4314F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/aoh.zip",
+      "label": "Age Of Heroes - Silkroad 2 (v0.63 - 2001/02/07)",
+      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "726DE6F0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/superbon.zip",
+      "label": "Agent Super Bond (scobra hardware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EC0AF916|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/koshien.zip",
+      "label": "Ah Eikou no Koshien (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7C1D1A2B|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/angelkds.zip",
+      "label": "Angel Kids (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0F65D9FF|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/asurabld.zip",
+      "label": "Asura Blade - Sword of Dynasty (Japan)",
+      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "73F9A4E6|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/atomicp.zip",
+      "label": "Atomic Point (Korea)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BF009C9F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/azurian.zip",
+      "label": "Azurian Attack",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E531AAA7|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/bonkadv.zip",
+      "label": "B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3BC17C16|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/backfirt.zip",
+      "label": "Back Fire (Tecmo, bootleg)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CDB79070|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/ballbros.zip",
+      "label": "Balloon Brothers",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C39A8A6E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/bankp.zip",
+      "label": "Bank Panic",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C891B681|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/bestbest.zip",
+      "label": "Best Of Best",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "39ACFA1B|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/bigbucks.zip",
+      "label": "Big Bucks",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "10422243|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/blkhole.zip",
+      "label": "Black Hole",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CCA72C59|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/bongo.zip",
+      "label": "Bongo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "44E4E319|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/brain.zip",
+      "label": "Brain",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F475878F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/burglarx.zip",
+      "label": "Burglar X",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D292786B|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/bygone.zip",
+      "label": "Bygone",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BCD46A18|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/calipso.zip",
+      "label": "Calipso",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CFEB8037|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/cworld.zip",
+      "label": "Capcom World (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "92FFF834|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/cawing.zip",
+      "label": "Carrier Air Wing (U.S. navy 901012 etc)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "31B0791C|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/catacomb.zip",
+      "label": "Catacomb",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "16CEA5FC|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/cavelon.zip",
+      "label": "Cavelon",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C5550F89|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/combh.zip",
+      "label": "Combat Hawk",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3B563A57|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/cookbib3.zip",
+      "label": "Cookie & Bibi 3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B25EA726|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/cavenger.zip",
+      "label": "Cosmic Avenger",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3EB5D7B7|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/qcrayon2.zip",
+      "label": "Crayon Shinchan Orato Asobo (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D800A56F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/crospang.zip",
+      "label": "Cross Pang",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8E12717F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/dcon.zip",
+      "label": "D-Con",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A5BAC37B|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/darkplnt.zip",
+      "label": "Dark Planet",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "519881A1|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/darktowr.zip",
+      "label": "Dark Tower",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "74AD1EB7|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/diamond.zip",
+      "label": "Diamond Run",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9C3A5800|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/diverboy.zip",
+      "label": "Diver Boy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3AD34250|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/dokaben.zip",
+      "label": "Dokaben (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "28BAC893|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/dokaben2.zip",
+      "label": "Dokaben 2 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "337AB924|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/dommy.zip",
+      "label": "Dommy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FE66D09D|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/drtomy.zip",
+      "label": "Dr. Tomy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "896806EC|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/dragnblz.zip",
+      "label": "Dragon Blaze",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A2588A72|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/drgnbstr.zip",
+      "label": "Dragon Buster",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "94F96AB1|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/dremshpr.zip",
+      "label": "Dream Shopper",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AF06B1B4|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/dynwar.zip",
+      "label": "Dynasty Wars (US set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "13133F73|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/egghunt.zip",
+      "label": "Egg Hunt",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B0DB3102|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/eggor.zip",
+      "label": "Eggor",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4F26A659|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/f1gp2.zip",
+      "label": "F-1 Grand Prix Part II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A45E0052|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/fncywld.zip",
+      "label": "Fancy World - Earth of Crisis",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9064C75F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/ffight.zip",
+      "label": "Final Fight (World, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E5524363|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/finalttr.zip",
+      "label": "Final Tetris",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "711A654F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/freeze.zip",
+      "label": "Freeze",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E21641E7|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/fnkyfish.zip",
+      "label": "Funky Fish",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "184725F4|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/gaia.zip",
+      "label": "Gaia Crusaders",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C82111B6|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/galmedes.zip",
+      "label": "Galmedes (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "152FEE67|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/ginkun.zip",
+      "label": "Ganbare Ginkun",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8757973D|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/garogun.zip",
+      "label": "Garogun Seroyang (Korea)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F041F0A8|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/garyoret.zip",
+      "label": "Garyo Retsuden (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1614D3FB|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/genix.zip",
+      "label": "Genix Family",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9EF14F48|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/ghouls.zip",
+      "label": "Ghouls'n Ghosts (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B5E40BEF|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/godzilla.zip",
+      "label": "Godzilla (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5BE0F961|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/gnbarich.zip",
+      "label": "Gunbarich",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4422CD0A|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/hvymetal.zip",
+      "label": "Heavy Metal (315-5135)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E40A6895|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/heuksun.zip",
+      "label": "Heuk Sun Baek Sa (Korea)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CE210158|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/honeydol.zip",
+      "label": "Honey Dolls",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D2765B42|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/hotdogst.zip",
+      "label": "Hotdog Storm - The First Supersonics (korea)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6E8A9310|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/igmo.zip",
+      "label": "IGMO",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7EDB9A13|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/joinem.zip",
+      "label": "Joinem",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "24675497|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/jumpkids.zip",
+      "label": "Jump Kids",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E8E7DA54|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/jpopnics.zip",
+      "label": "Jumping Pop (Nics, Korean bootleg of Plump Pop)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "23AEB426|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/karianx.zip",
+      "label": "Karian Cross (Rev. 1.0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A486215A|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/kovytzy.zip",
+      "label": "Knights of Valour: Yi Tong Zhong Yuan / Sangoku Senki: Yi Tong Zhong Yuan (V201, China)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3C7B1306|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/kbash2.zip",
+      "label": "Knuckle Bash 2 (bootleg)",
+      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "4C466988|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/eto.zip",
+      "label": "Kokontouzai Eto Monogatari (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9C0BB9D0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/myangel.zip",
+      "label": "Kosodate Quiz My Angel (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "05C55C3E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/myangel2.zip",
+      "label": "Kosodate Quiz My Angel 2 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C9D93F2D|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/kozure.zip",
+      "label": "Kozure Ookami (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D857A636|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/lvgirl94.zip",
+      "label": "Las Vegas Girl (Girl '94)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1B98AF28|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/kyustrkr.zip",
+      "label": "Last Striker / Kyuukyoku no Striker",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3D2F2C74|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/levers.zip",
+      "label": "Levers",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "270B8A29|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/livequiz.zip",
+      "label": "Live Quiz Show",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "64718903|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/lizwiz.zip",
+      "label": "Lizard Wizard",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "071B4A3A|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/logicpr2.zip",
+      "label": "Logic Pro 2 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D4E53C40|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/msword.zip",
+      "label": "Magic Sword - heroic fantasy (25.07.1990 other country)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CF246210|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/mjgtaste.zip",
+      "label": "Mahjong G-Taste",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "03F65A53|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/mgakuen2.zip",
+      "label": "Mahjong Gakuen 2 Gakuen-chou no Fukushuu",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3FC15B40|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/mjleague.zip",
+      "label": "Major League",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1CE460E6|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/mangchi.zip",
+      "label": "Mang-Chi",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E1EE4709|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/manybloc.zip",
+      "label": "Many Block",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "31D583CE|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/markham.zip",
+      "label": "Markham",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8D1A6AF6|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/mofflott.zip",
+      "label": "Maze of Flott (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2C001D83|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/mtwins.zip",
+      "label": "Mega Twins (chiki chiki boys 900619 etc)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "37C648BE|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/megadon.zip",
+      "label": "Megadon",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C18A8BE7|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/metlsavr.zip",
+      "label": "Metal Saver",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3F56D72D|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/minivadr.zip",
+      "label": "Minivader",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "11C85DA7|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/msbingo.zip",
+      "label": "Miss Bingo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B3F7E72E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/missw02.zip",
+      "label": "Miss World 2002",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4055C4AE|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/quiz18k.zip",
+      "label": "Miyasu Nonki no Quiz 18-Kin",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "65CEA25C|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/gundamex.zip",
+      "label": "Mobile Suit Gundam EX Revue",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4FDEA1A2|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/mogura.zip",
+      "label": "Mogura Desse",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "74299875|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/mole.zip",
+      "label": "Mole Attack",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D9FDE802|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/mstworld.zip",
+      "label": "Monsters World (bootleg of Super Pang)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0135DE26|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/moonqsr.zip",
+      "label": "Moon Quasar",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CD9AAE0A|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/moremore.zip",
+      "label": "More More",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ED54EA8E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/moremorp.zip",
+      "label": "More More Plus",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "84090157|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/mrgoemon.zip",
+      "label": "Mr. Goemon (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "42BAF036|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/mrsdyna.zip",
+      "label": "Mrs. Dynamite",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "29A0611A|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/rocktrv2.zip",
+      "label": "MTV Rock-N-Roll Trivia (Part 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5BD912DA|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/mugsmash.zip",
+      "label": "Mug Smashers",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "197823B6|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/semibase.zip",
+      "label": "MuHanSeungBu (SemiCom Baseball) (Korea)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D21A9C65|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/nemo.zip",
+      "label": "Nemo (90 11 30 etc)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2DE12145|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/ohmygod.zip",
+      "label": "Oh My God!",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C5FF0E6F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/oneshot.zip",
+      "label": "One Shot One Kill",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "36A86A54|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/orbitron.zip",
+      "label": "Orbitron",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "694305C8|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/ozon1.zip",
+      "label": "Ozon I",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CA9874E2|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/pacplus.zip",
+      "label": "Pac-Man Plus",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3E1384F6|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/packbang.zip",
+      "label": "Pack'n Bang Bang (Prototype)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2CDBCC13|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/pangpang.zip",
+      "label": "Pang Pang",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6D4091D6|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/paprazzi.zip",
+      "label": "Paparazzi",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "009A31B2|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/pass.zip",
+      "label": "Pass",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7CFEFDB8|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/higemaru.zip",
+      "label": "Pirate Ship Higemaru",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C5DF10C4|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/pitapat.zip",
+      "label": "Pitapat Puzzle",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "52C56439|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/plumppop.zip",
+      "label": "Plump Pop (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3ACB783A|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/popspops.zip",
+      "label": "Pop's Pop's",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7F180A35|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/pzlbowl.zip",
+      "label": "Puzzle De Bowling (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "867EACEB|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/4in1boot.zip",
+      "label": "Puzzle King",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2DC36E99|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/qzchikyu.zip",
+      "label": "Quiz Chikyu Bouei Gun (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D685148E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/qcrayon.zip",
+      "label": "Quiz Crayon Shinchan (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "79C1C6E3|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/qgakumon.zip",
+      "label": "Quiz Gakumon no Susume (Japan ver. JA2 Type L)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DFB7A177|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/quizhq.zip",
+      "label": "Quiz H.Q. (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "36810A5A|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/qjinsei.zip",
+      "label": "Quiz Jinsei Gekijoh (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E94C62A0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/qzquest.zip",
+      "label": "Quiz Quest - Hime to Yuusha no Monogatari (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "01C59179|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/qsangoku.zip",
+      "label": "Quiz Sangokushi (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "25AE1837|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/qtono1.zip",
+      "label": "Quiz Tonosama no Yabou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8FBC19DC|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/qtorimon.zip",
+      "label": "Quiz Torimonochou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E41953D4|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/rbislande.zip",
+      "label": "Rainbow Islands (Extra)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "844FD794|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/rallybik.zip",
+      "label": "Rally Bike / Dash Yarou",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "413D46EC|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/redearth.zip",
+      "label": "Red Earth / War-Zard (Euro 961121)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F357FAC2|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/riotcity.zip",
+      "label": "Riot City (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D733D2CC|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/rockclim.zip",
+      "label": "Rock Climber",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5DF1296D|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/rockduck.zip",
+      "label": "Rock Duck (prototype?)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D61F8B53|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/ssmissin.zip",
+      "label": "S.S. Mission",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3324FEE1|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/saturnzi.zip",
+      "label": "Saturn",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9AB31903|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/scotrsht.zip",
+      "label": "Scooter Shooter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B4A56B9F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/sdfight.zip",
+      "label": "SD Fighters (Korea)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5505567E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/sdgndmps.zip",
+      "label": "SD Gundam Psycho Salamander no Kyoui",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "21EF9783|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/searchp2.zip",
+      "label": "Search Eye Plus V2.0",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "94C44271|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/skybase.zip",
+      "label": "Sky Base",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2375E6EC|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/skysmash.zip",
+      "label": "Sky Smasher",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EC10AC0F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/snapjack.zip",
+      "label": "Snap Jack",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F1A7B63B|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/snapper.zip",
+      "label": "Snapper (Korea)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DA0E2332|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/solfigtr.zip",
+      "label": "Solitary Fighter (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ABD8A0D0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/spcpostn.zip",
+      "label": "Space Position (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1253FFA2|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/sraider.zip",
+      "label": "Space Raider",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "57C1A79A|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/spdcoin.zip",
+      "label": "Speed Coin (prototype)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A09EA6F5|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/speedspn.zip",
+      "label": "Speed Spin",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "97DC67E5|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/starfigh.zip",
+      "label": "Star Fighter (v1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "93FE3395|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/sf2.zip",
+      "label": "Street Fighter II - The World Warrior (910522 World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B62D0BC7|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/sfiii2.zip",
+      "label": "Street Fighter III 2nd Impact: Giant Attack (USA 970930)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EF7FA548|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/sfiii3.zip",
+      "label": "Street Fighter III 3rd Strike: Fight for the Future (Euro 990608)",
+      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "36056B5E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/sfiii.zip",
+      "label": "Street Fighter III: New Generation (Euro 970204)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "809A9658|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/sfzch.zip",
+      "label": "Street Fighter Zero (CPS Changer, 951020 Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F9A2076F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/strider.zip",
+      "label": "Strider (US set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "329FB3E2|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/s1945ii.zip",
+      "label": "Strikers 1945 II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EF390C0B|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/s1945iii.zip",
+      "label": "Strikers 1945 III (World) / Strikers 1999 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "218B8341|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/sunaq.zip",
+      "label": "SunA Quiz 6000 Academy (940620-6)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "59E2DD09|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/sucasino.zip",
+      "label": "Super Casino",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3C510A27|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/suprleag.zip",
+      "label": "Super League (FD1094 317-0045)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "617A89AE|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/marukin.zip",
+      "label": "Super Marukin-Ban (Japan 901017)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "796845B9|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/supmodel.zip",
+      "label": "Super Model",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9FAC55F2|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/macross.zip",
+      "label": "Super Spacefortress Macross / Chou-Jikuu Yousai Macross",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D177E5C8|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/suprtrio.zip",
+      "label": "Super Trio",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F96A4175|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/swat.zip",
+      "label": "SWAT (315-5048)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4C31CF0A|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/swatpolc.zip",
+      "label": "SWAT Police",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3292B8F0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/tangtang.zip",
+      "label": "Tang Tang (ver. 0526, 26/05/2000)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E4509CFA|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/mrflea.zip",
+      "label": "The Amazing Adventures of Mr. F. Lea",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8B956749|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/dealer.zip",
+      "label": "The Dealer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5675D4E0|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/daraku.zip",
+      "label": "The Fallen Angels (World) / Daraku Tenshi - The Fallen Angels (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "55D95BA7|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/theroes.zip",
+      "label": "Thunder Heroes",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B776BD59|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/toppyrap.zip",
+      "label": "Toppy & Rappy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D49E6BB7|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/truxton2.zip",
+      "label": "Truxton II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A60166DC|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/turkhunt.zip",
+      "label": "Turkey Hunting USA V1.00",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9663461E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/twinactn.zip",
+      "label": "Twin Action",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E557174B|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/unsquad.zip",
+      "label": "U.N. Squadron (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "01ADC184|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/uballoon.zip",
+      "label": "Ultra Balloon",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7F8D6FE1|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/ultraman.zip",
+      "label": "Ultraman (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "88569282|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/varth.zip",
+      "label": "Varth - operation thunderstorm (920714 etc)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B732BB4D|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/mj4simai.zip",
+      "label": "Wakakusamonogatari Mahjong Yonshimai (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "158DF4ED|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/ultracin.zip",
+      "label": "Waku Waku Ultraman Racing",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "078C8426|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/wmatch.zip",
+      "label": "Water Match (315-5064)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "710D71A5|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/CAPCOM - CPS I II III (1G1R)/willow.zip",
+      "label": "Willow (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "890E3C76|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/wndrplnt.zip",
+      "label": "Wonder Planet (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E8C8288F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/wownfant.zip",
+      "label": "WOW New Fantasia",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "54A82A1E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/yesnoj.zip",
+      "label": "Yes/No Sinri Tokimeki Chart",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F51F2CF2|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/yuyugogo.zip",
+      "label": "Yuuyu no Quiz de GO!GO! (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1553E098|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/zeropnt2.zip",
+      "label": "Zero Point 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "244AE61A|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/Roms 1G1R/FBA - NO NEOGEO OR CPS (1G1R)/zerozone.zip",
+      "label": "Zero Zone",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "85157B48|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    }
+  ]
+}
