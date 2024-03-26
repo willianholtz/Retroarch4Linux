@@ -1,1 +1,0 @@
-Arquivos encontrados aqui são payslists que você pode ou não querer usar na suac onfiguração do retroarch, apenas copie e cole na pasta antecessora a essa no caso playslists, ele irá adicionar os games de acordo com o local especificado no lpl. Lógicamente você deve ter as roms na pasta correta!
