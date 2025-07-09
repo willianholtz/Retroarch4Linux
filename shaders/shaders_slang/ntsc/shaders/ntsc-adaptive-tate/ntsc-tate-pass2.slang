@@ -13,8 +13,10 @@ layout(std140, set = 0, binding = 0) uniform UBO
    float ntsc_scale;
    float ntsc_phase;
    float auto_res;
+   float chroma_scale;
 } global;
 
+#pragma parameter chroma_scale "NTSC Chroma Scaling" 1.0 1.0 4.0 0.2
 #pragma parameter ntsc_scale "NTSC Resolution Scaling" 1.0 0.20 3.0 0.05
 #pragma parameter ntsc_phase "NTSC Phase: Auto | 2 phase | 3 phase" 1.0 1.0 3.0 1.0
 #pragma parameter linearize "NTSC Linearize Output Gamma" 0.0 0.0 1.0 1.0 
@@ -37,7 +39,17 @@ layout(set = 0, binding = 2) uniform sampler2D Source;
 
 vec3 fetch_offset(float offset, float one_y)
 {
+  /* A hack to insert chroma scaling. ;) (Hyllian, 2024) */
+   vec3 yiq;
+
+   yiq.y = texture(Source, vTexCoord + vec2(0.0, (offset) * (one_y))).y;
+   yiq.xz = texture(Source, vTexCoord + vec2(0.0, (offset) * (one_y / global.chroma_scale))).xz;
+
+   return yiq;
+
+   /*  Old code
    return texture(Source, vTexCoord + vec2(0.0, (offset) * (one_y))).xyz;
+   */
 }
 
 const mat3 yiq2rgb_mat = mat3(

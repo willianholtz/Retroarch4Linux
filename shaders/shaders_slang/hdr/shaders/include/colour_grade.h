@@ -1,11 +1,14 @@
 
 #define kColourSystems  4
+#define kPhosphorSets   5
 
 #define kD50            5003.0f
 #define kD55            5503.0f
 #define kD65            6504.0f
 #define kD75            7504.0f
 #define kD93            9305.0f
+
+// Input Colour Standards
 
 const mat3 k709_to_XYZ = mat3(
    0.412391f, 0.357584f, 0.180481f,
@@ -22,6 +25,40 @@ const mat3 kNTSC_to_XYZ = mat3(
    0.212376f, 0.701060f, 0.086564f,
    0.018739f, 0.111934f, 0.958385f);
 
+// Phosphor Sets - These override the colour standards above when used
+
+// NTSC-J P22
+const mat3 kNTSCJ_P22_to_XYZ = mat3(
+   0.458432f, 0.309549f, 0.182474f,
+   0.256722f, 0.668848f, 0.074430f,
+   0.018337f, 0.127136f, 0.943584f);
+
+//P22 (80’s)
+const mat3 kP2280_to_XYZ = mat3(
+   0.460844f, 0.307613f, 0.181910f,
+   0.244311f, 0.676311f, 0.079378f,
+   0.007123f, 0.106901f, 0.975034f);
+
+//P22 (90’s/tinted phosphors)
+const mat3 kP2290_to_XYZ = mat3(
+   0.404151f, 0.354887f, 0.191418f,
+   0.201984f, 0.714530f, 0.083485f,
+   0.000607f, 0.062960f, 1.025491f);
+
+//RPTV (late 90’s/early 00’s)
+const mat3 kRPTV00_to_XYZ = mat3(
+   0.331718f, 0.429476f, 0.189261f,
+   0.173634f, 0.738044f, 0.088322f,
+   0.012958f, 0.091941f, 0.984159f);
+
+//  NTSC-FCC 1953 Standard Phosphor
+const mat3 k1953_to_XYZ = mat3(
+   0.588010f, 0.179133f, 0.183224f,
+   0.289661f, 0.605640f, 0.104699f,
+   0.000000f, 0.068241f, 1.020817f);
+
+// Output Colour Standards
+
 const mat3 kXYZ_to_709 = mat3(
     3.240970f, -1.537383f, -0.498611f,
    -0.969244f,  1.875968f,  0.041555f,
@@ -32,7 +69,8 @@ const mat3 kXYZ_to_DCIP3 = mat3 (
    -0.8294889696f,  1.7626640603f,  0.0236246858f,
     0.0358458302f, -0.0761723893f,  0.9568845240f);   
 
-const mat3 kColourGamut[kColourSystems] = { k709_to_XYZ, kPAL_to_XYZ, kNTSC_to_XYZ, kNTSC_to_XYZ };
+const mat3 kStandardsColourGamut[kColourSystems] = { k709_to_XYZ, kPAL_to_XYZ, kNTSC_to_XYZ, kNTSC_to_XYZ };
+const mat3 kPhosphorColourGamut[kPhosphorSets] = { kNTSCJ_P22_to_XYZ, kP2280_to_XYZ, kP2290_to_XYZ, kRPTV00_to_XYZ, k1953_to_XYZ };
 
 //const float kTemperatures[kColourSystems] = { kD65, kD65, kD65, kD93 }; 
 
@@ -160,14 +198,15 @@ vec3 BrightnessContrastSaturation(const vec3 xyz)
 vec3 ColourGrade(const vec3 colour)
 {
    const uint colour_system   = uint(HCRT_CRT_COLOUR_SYSTEM);
+   const uint phosphor_set    = uint(HCRT_CRT_PHOSPHOR_SET);
 
    const float temperature[kColourSystems] = { HCRT_WHITE_TEMPERATURE_D65, HCRT_WHITE_TEMPERATURE_D65, HCRT_WHITE_TEMPERATURE_D65, HCRT_WHITE_TEMPERATURE_D93 };
 
    const vec3 white_point     = WhiteBalance(temperature[colour_system], colour);
 
-   const vec3 linear          = r601r709ToLinear(white_point); //pow(white_point, vec3(HCRT_GAMMA_IN));
+   const vec3 linear          = pow(white_point, vec3(HCRT_GAMMA_IN)); // r601r709ToLinear(white_point); 
 
-   const vec3 xyz             = linear * kColourGamut[colour_system];
+   const vec3 xyz             = phosphor_set == 0 ? linear * kStandardsColourGamut[colour_system] : linear * kPhosphorColourGamut[phosphor_set - 1];
 
    const vec3 graded          = BrightnessContrastSaturation(xyz); 
 

@@ -38,6 +38,7 @@ layout(push_constant) uniform Push
 	float spike;
 	float internal_res;
 	float MAXS;
+	float auto_res;
 } params;
 
 layout(std140, set = 0, binding = 0) uniform UBO
@@ -47,6 +48,9 @@ layout(std140, set = 0, binding = 0) uniform UBO
 
 
 #pragma parameter bogus_filtering "[ FILTERING OPTIONS ]: " 0.0 0.0 1.0 1.0
+
+#pragma parameter auto_res "          SNES/Amiga Hi-Res Auto Mode" 0.0 0.0 1.0 1.0
+float auto_rez = mix(1.0, 1.75, clamp(params.auto_res * round(params.OriginalSize.x/300.0)-1.0, 0.0, 1.0));
 
 #pragma parameter HSHARPNESS "          Horizontal Filter Range" 1.60 1.0 8.0 0.05
 #define HSHARPNESS params.HSHARPNESS
@@ -115,7 +119,7 @@ void main()
 	float wsum = 0.0;
 	vec3 pixel;
 
-	float xscale = prescalex.x * 0.5;
+	float xscale = prescalex.x * 0.5 * auto_rez;
 	
 	float hsharpness = HSHARPNESS * xscale;
 	vec3 cmax = 0.0.xxx;
@@ -123,6 +127,7 @@ void main()
 	float sharp = gaussian(hsharpness, xscale) * S_SHARP;
 	float maxsharp = MAXS;
 	float FPR = hsharpness;
+	float FPRi = 1.0/hsharpness;	
 	float fpx = 0.0;
 	float sp = 0.0;
 	float sw = 0.0;
@@ -131,27 +136,27 @@ void main()
 	vec3 luma = vec3(0.2126, 0.7152, 0.0722); 
 
 	float LOOPSIZE = ceil(2.0*FPR);
-	float CLAMPSIZE = round(2.0*LOOPSIZE/3.0);
 	
 	float n = -LOOPSIZE;
 	
 	do
 	{
 		pixel  = COMPAT_TEXTURE(LinearizePass, tex + n*dx).rgb;
-		sp = max(max(pixel.r,pixel.g),pixel.b);
 		
-		w = gaussian(n+f, xscale) - sharp;
-		fpx = abs(n+f-sign(n)*FPR)/FPR;
-		if (abs(n) <= CLAMPSIZE) { cmax = max(cmax, pixel); cmin = min(cmin, pixel); }
-		if (w < 0.0) w = clamp(w, mix(-maxsharp, 0.0, pow(clamp(fpx,0.0,1.0), HSHARP)), 0.0);
-	
+		w = gaussian(n+f,xscale) - sharp;
+		fpx = (abs(n+f)-FPR)*FPRi;
+		if (w < 0.0) w = max(w, mix(-maxsharp, 0.0, pow(clamp(fpx,0.0,1.0), HSHARP)));
+		else
+		{
+			cmax = max(cmax, pixel); cmin = min(cmin, pixel);
+			sw = w * (dot(pixel,luma) + ts);
+			sp = max(max(pixel.r,pixel.g),pixel.b);			
+			scolor = scolor + sw * sp;
+			swsum = swsum + sw;			
+		}
 		color = color + w * pixel;
 		wsum  = wsum + w;
 
-		sw = max(w, 0.0) * (dot(pixel,luma) + ts); 
-		scolor = scolor + sw * sp;
-		swsum = swsum + sw;
-		
 		n = n + 1.0;
 			
 	} while (n <= LOOPSIZE);

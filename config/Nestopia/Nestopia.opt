@@ -1,4 +1,5 @@
 nestopia_arkanoid_device = "mouse"
+nestopia_arkanoid_paddle_range = "combined"
 nestopia_aspect = "auto"
 nestopia_audio_type = "stereo"
 nestopia_audio_vol_dpcm = "100"

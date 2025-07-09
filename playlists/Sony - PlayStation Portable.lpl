@@ -1,0 +1,172 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Tekken - Dark Resurrection (USA) (En,Fr,De,Es,It).iso",
+      "label": "Tekken - Dark Resurrection (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULUS-10139|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/King of Fighters Collection, The - The Orochi Saga (USA).iso",
+      "label": "King of Fighters Collection, The - The Orochi Saga (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULUS-10360|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Grand Theft Auto - Chinatown Wars (USA).iso",
+      "label": "Grand Theft Auto - Chinatown Wars (USA) (v1.01)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULUS-10490|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Grand Theft Auto - Liberty City Stories (USA) (En,Fr,De,Es,It) (v3.00).iso",
+      "label": "Grand Theft Auto - Liberty City Stories (USA) (En,Fr,De,Es,It) (v3.00)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULUS-10041|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Grand Theft Auto - Vice City Stories (USA).iso",
+      "label": "Grand Theft Auto - Vice City Stories (USA) (v1.03)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULUS-10160|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Castlevania - The Dracula X Chronicles (USA).iso",
+      "label": "Castlevania - The Dracula X Chronicles (USA) (v1.02)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULUS-10277|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Crazy Taxi - Fare Wars (USA) (v2.01).iso",
+      "label": "Crazy Taxi - Fare Wars (USA) (En,Fr,De,Es,It) (v2.01)",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "ULUS-10273|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Guilty Gear Judgment (USA).iso",
+      "label": "Guilty Gear Judgment (USA) (v1.01)",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "ULUS-10104|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Harvest Moon - Hero of Leaf Valley (USA).iso",
+      "label": "Harvest Moon - Hero of Leaf Valley (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULUS-10458|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Mega Man - Maverick Hunter X (USA).iso",
+      "label": "Mega Man - Maverick Hunter X (USA) (v1.01)",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "ULUS-10068|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Mega Man - Powered Up (USA).iso",
+      "label": "Mega Man - Powered Up (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULUS-10091|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Metal Slug Complete (Japan, Korea).iso",
+      "label": "Metal Slug Complete (Japan) (v1.06)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULJS-00090|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Metal Slug XX (USA).iso",
+      "label": "Metal Slug XX (USA) (v1.01)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULUS-10495|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Need for Speed - Most Wanted - 5-1-0 (USA).iso",
+      "label": "Need for Speed - Most Wanted 5-1-0 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULUS-10036|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Silent Hill Origins (USA) (En,Fr,De,Es,It).iso",
+      "label": "Silent Hill - Origins (USA) (En,Fr,De,Es,It)",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "ULUS-10285|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Silent Hill - Shattered Memories (USA).iso",
+      "label": "Silent Hill - Shattered Memories (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULUS-10450|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Simpsons Game, The (USA).iso",
+      "label": "Simpsons Game, The (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "ULUS-10295|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Street Fighter Alpha 3 Max (USA).iso",
+      "label": "Street Fighter Alpha 3 Max (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "ULUS-10062|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Ultimate Ghosts'n Goblins (USA).iso",
+      "label": "Ultimate Ghosts 'n Goblins (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "ULUS-10105|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/World Soccer Winning Eleven 9 - Ubiquitous Evolution (Japan, Asia).iso",
+      "label": "World Soccer Winning Eleven 9 - Ubiquitous Evolution (Japan) (v1.03)",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "ULJM-05033|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    }
+  ]
+}

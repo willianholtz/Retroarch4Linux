@@ -30,9 +30,13 @@ layout(push_constant) uniform Push
 	float SIZEHB;
 	float SIGMA_HB;
 	float FINE_BLOOM;
+	float auto_res;
 } params;
 
 #pragma parameter bogus_bloom "[ BLOOM/HALATION/(GLOW) PASS SETTINGS ]:" 0.0 0.0 1.0 1.0
+
+#pragma parameter auto_res "          SNES/Amiga Hi-Res Auto Mode" 0.0 0.0 1.0 1.0
+float auto_rez = mix(1.0, 2.0, clamp(params.auto_res * round(params.OriginalSize.x/300.0)-1.0, 0.0,1.0));
 
 #pragma parameter FINE_BLOOM "          Fine Bloom/Halation Sampling" 1.0 1.0 5.0 1.0 
 #define FINE_BLOOM params.FINE_BLOOM
@@ -66,7 +70,7 @@ layout(set = 0, binding = 2) uniform sampler2D LinearizePass;
 
 #define COMPAT_TEXTURE(c,d) texture(c,d)
 
-float invsqrsigma = 1.0/(2.0*SIGMA_HB*SIGMA_HB);
+float invsqrsigma = 1.0/(2.0*SIGMA_HB*SIGMA_HB*auto_rez*auto_rez);
 
 float gaussian(float x)
 {
@@ -85,7 +89,7 @@ void main()
 	float w;
 	float wsum = 0.0;
 	vec4 pixel;
-	float n = -SIZEHB;
+	float n = -SIZEHB * auto_rez;
 
 	do
 	{
@@ -97,7 +101,7 @@ void main()
 		wsum   = wsum + w;
 		n = n + 1.0;
 		
-	} while (n <= SIZEHB);
+	} while (n <= SIZEHB * auto_rez);
 
 	color = color / wsum;
 	

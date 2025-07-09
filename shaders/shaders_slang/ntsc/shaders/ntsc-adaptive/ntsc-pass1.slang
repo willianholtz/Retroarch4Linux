@@ -11,7 +11,7 @@ layout(std140, set = 0, binding = 0) uniform UBO
    vec4 OriginalSize;
    vec4 SourceSize;
    uint FrameCount;
-   float quality, ntsc_sat, cust_fringing, cust_artifacting, ntsc_bright, ntsc_scale, ntsc_fields, ntsc_phase;
+   float quality, ntsc_sat, cust_fringing, cust_artifacting, ntsc_bright, ntsc_scale, ntsc_fields, ntsc_phase, ntsc_artifacting_rainbow;
 } global;
 
 #pragma parameter quality "NTSC Preset (Svideo=0 Composite=1 RF=2 Custom=-1)" 1.0 -1.0 2.0 1.0
@@ -22,6 +22,7 @@ layout(std140, set = 0, binding = 0) uniform UBO
 #pragma parameter ntsc_bright "NTSC Brightness" 1.0 0.0 1.5 0.01
 #pragma parameter cust_fringing "NTSC Custom Fringing Value" 0.0 0.0 5.0 0.1
 #pragma parameter cust_artifacting "NTSC Custom Artifacting Value" 0.0 0.0 5.0 0.1
+#pragma parameter ntsc_artifacting_rainbow "NTSC Artifacting Rainbow Effect" 0.0 -1.0 1.0 0.1
 
 #define PI 3.14159265
 
@@ -104,12 +105,12 @@ void main()
    vec3 yiq2 = yiq;	
 
    float mod1 = 2.0;
-   float mod2 = 3.0; 
+   float mod2 = 3.0;
 
 if (MERGE > 0.5)
 {
    float chroma_phase2 = (phase < 2.5) ? PI * (mod(pix_no.y, mod1) + mod(global.FrameCount+1, 2.)) : 0.6667 * PI * (mod(pix_no.y, mod2) + mod(global.FrameCount+1, 2.));
-   float mod_phase2 = chroma_phase2 + pix_no.x * CHROMA_MOD_FREQ;
+   float mod_phase2 = (global.ntsc_artifacting_rainbow + 1.0) * chroma_phase2 + pix_no.x * CHROMA_MOD_FREQ;
    float i_mod2 = cos(mod_phase2);
    float q_mod2 = sin(mod_phase2);
    yiq2.yz *= vec2(i_mod2, q_mod2); // Modulate.
@@ -118,7 +119,7 @@ if (MERGE > 0.5)
 }
    
    float chroma_phase = (phase < 2.5) ? PI * (mod(pix_no.y, mod1) + mod(global.FrameCount, 2.)) : 0.6667 * PI * (mod(pix_no.y, mod2) + mod(global.FrameCount, 2.));
-   float mod_phase = chroma_phase + pix_no.x * CHROMA_MOD_FREQ;
+   float mod_phase = (global.ntsc_artifacting_rainbow + 1.0) * chroma_phase + pix_no.x * CHROMA_MOD_FREQ;
 
    float i_mod = cos(mod_phase);
    float q_mod = sin(mod_phase);

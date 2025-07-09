@@ -25,12 +25,12 @@ layout(push_constant) uniform Push
 	vec4 OriginalSize;
 	vec4 OutputSize;
 	uint FrameCount;
-    float COLOR_MODE;
+    float COLOR_MODE, Dx;
 } params;
 #pragma parameter COLOR_MODE "SRGB,SMPTE C,REC709,BT2020,SMPTE240,NTSC1953,EBU" 0.0 0.0 6.0 1.0   
+#pragma parameter Dx "Color Temp: D50, D55, D65, D75" 2.0 -1.0 3.0 1.0
 
-
-
+#define Dx params.Dx
 #define COLOR_MODE params.COLOR_MODE
 
 #define WHITE  vec3(1.0, 1.0, 1.0)
@@ -340,6 +340,16 @@ vec3 srgb_gamma(const vec3 x)
     return vec3(srgb_gamma(x.r), srgb_gamma(x.g), srgb_gamma(x.b));
 }
 
+vec3 TEMP ()
+{
+    if (Dx == 0.0) return vec3(0.964,1.0,0.8252);
+    else if (Dx == 1.0) return vec3(0.95682,1.0,0.92149);
+    else if (Dx == 2.0) return vec3(0.95047,1.0,1.0888);
+    else if (Dx == 3.0) return vec3(0.94972,1.0,1.22638);
+    else return vec3(1.0);
+}
+
+
 void main()
 {
     mat3 toRGB = colorspace_rgb();
@@ -349,6 +359,6 @@ void main()
     vec3 RGB = Yrgb_to_RGB(toRGB, W, Yrgb);
     
     RGB = clamp(RGB, 0.0, 1.0);
-    RGB = srgb_gamma(RGB);
+    RGB = srgb_gamma(RGB)*TEMP();
     FragColor = vec4(RGB, 1.0);
 }

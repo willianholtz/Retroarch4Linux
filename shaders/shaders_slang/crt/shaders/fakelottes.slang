@@ -35,8 +35,8 @@ layout(push_constant) uniform Push
 	float warpY;
 	float maskDark;
 	float maskLight;
-	float crt_gamma;
 	float monitor_gamma;
+	float crt_gamma;
 	float SCANLINE_SINE_COMP_A;
 	float SCANLINE_BASE_BRIGHTNESS;
 } params;
@@ -178,8 +178,8 @@ void main()
 
 #if defined MASK && !defined ROTATE_SCANLINES
 	// mask effects look bad unless applied in linear gamma space
-	vec4 in_gamma = vec4(params.monitor_gamma, params.monitor_gamma, params.monitor_gamma, 1.0);
-	vec4 out_gamma = vec4(1.0 / params.crt_gamma, 1.0 / params.crt_gamma, 1.0 / params.crt_gamma, 1.0);
+	vec4 in_gamma = vec4(params.crt_gamma, params.crt_gamma, params.crt_gamma, 1.0);
+	vec4 out_gamma = vec4(1.0 / params.monitor_gamma, 1.0 / params.monitor_gamma, 1.0 / params.monitor_gamma, 1.0);
 	vec4 res = pow(texture(Source, pos), in_gamma);
 #else
 	vec4 res = texture(Source, pos);
@@ -192,7 +192,7 @@ void main()
 
 #if defined MASK && !defined ROTATE_SCANLINES
 	// re-apply the gamma curve for the mask path
-    FragColor = pow(scanline(pos, res), out_gamma);
+    FragColor = pow(scanline(pos-vec2(0.0,0.25*params.SourceSize.w), res), out_gamma);
 #else
 	FragColor = scanline(pos, res);
 #endif

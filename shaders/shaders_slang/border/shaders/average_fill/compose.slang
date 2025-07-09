@@ -1,8 +1,8 @@
 #version 450
 
 /*
-    Average fill v1.5 by fishku
-    Copyright (C) 2023
+    Average fill v1.9 by fishku
+    Copyright (C) 2023-2024
     Public domain license (CC0)
 
     This shader preset allows cropping the image on any side, and filling the
@@ -27,6 +27,10 @@
     3 = Smooth angle-based blending
 
     Changelog:
+    v1.9: Update input transform library.
+    v1.8: Add shift option from input transform library.
+    v1.7: Add overscale option from crop and scale library.
+    v1.6: Refactor for new scaling library. Add rotation support.
     v1.5: Optimize. Update to new Pixel AA version.
     v1.4: Add anti-aliased interpolation for non-integer scaling.
     v1.3: Fix scaling bugs.
@@ -36,35 +40,45 @@
 */
 
 // clang-format off
-#include "parameters.slang"
-#include "../../../pixel-art-scaling/shaders/pixel_aa/shared.slang"
+#include "parameters.inc"
+#include "../../../pixel-art-scaling/shaders/pixel_aa/parameters.inc"
 // clang-format on
+
+#include "../../../misc/shaders/input_transform/input_transform.inc"
+#include "../../../pixel-art-scaling/shaders/pixel_aa/shared.inc"
 
 layout(push_constant) uniform Push {
     vec4 InputSize;
-    vec4 FinalViewportSize;
+    vec4 OutputSize;
+    uint Rotation;
+    // Own settings
+    float EXTEND_H;
+    float EXTEND_V;
+    float CORNER_BLEND_MODE;
+    float FILL_GAMMA;
+    float SAMPLE_SIZE;
+    // From input transform library, scaling section
+    float FORCE_ASPECT_RATIO;
+    float ASPECT_H;
+    float ASPECT_V;
+    float FORCE_INTEGER_SCALING_H;
+    float FORCE_INTEGER_SCALING_V;
+    float OVERSCALE;
+    // From input transform library, cropping section
     float OS_CROP_TOP;
     float OS_CROP_BOTTOM;
     float OS_CROP_LEFT;
     float OS_CROP_RIGHT;
-    float CENTER_CROP;
-    float SAMPLE_SIZE;
-    float EXTEND_H;
-    float EXTEND_V;
-    float CORNER_BLEND_MODE;
-    float FORCE_ASPECT_RATIO;
-    float ASPECT_H;
-    float ASPECT_V;
-    float FORCE_INTEGER_SCALING;
-    float FILL_GAMMA;
+    // From input transform library, moving section
+    float SHIFT_H;
+    float SHIFT_V;
+    float CENTER_AFTER_CROPPING;
     // From pixel AA
     float PIX_AA_SHARP;
     float PIX_AA_SUBPX;
-    float PIX_AA_SUBPX_BGR;
+    float PIX_AA_SUBPX_ORIENTATION;
 }
 param;
-
-#include "../blur_fill/scaling.slang"
 
 layout(std140, set = 0, binding = 0) uniform UBO { mat4 MVP; }
 global;
@@ -72,25 +86,52 @@ global;
 #pragma stage vertex
 layout(location = 0) in vec4 Position;
 layout(location = 1) in vec2 TexCoord;
-layout(location = 0) out vec2 vTexCoord;
-layout(location = 1) out vec2 tx_coord;
-layout(location = 2) out vec2 tx_per_px;
-layout(location = 3) out vec2 tx_to_uv;
+layout(location = 0) out vec4 input_corners;
+layout(location = 1) out vec2 vTexCoord;
+layout(location = 2) out vec2 scale_i2o;
+layout(location = 3) out vec2 input_center;
+layout(location = 4) out vec2 tx_coord;
+layout(location = 5) out vec2 cropped_input_size;
+layout(location = 6) out vec2 sub_tx_offset;
+layout(location = 7) out vec2 trans_lb;
+layout(location = 8) out vec2 trans_ub;
+layout(location = 9) out float trans_slope;
 
 void main() {
     gl_Position = global.MVP * Position;
     vTexCoord = TexCoord;
-    const vec2 scale_o2i = scale_o2i();
-    tx_coord = (vTexCoord - 0.49999) * scale_o2i + get_input_center();
-    tx_per_px = scale_o2i * param.FinalViewportSize.zw;
-    tx_to_uv = param.InputSize.zw;
+    const vec4 crop =
+        vec4(param.OS_CROP_TOP, param.OS_CROP_LEFT, param.OS_CROP_BOTTOM, param.OS_CROP_RIGHT);
+    scale_i2o = get_scale_i2o(
+        param.InputSize.xy, param.OutputSize.xy, crop, param.Rotation, param.CENTER_AFTER_CROPPING,
+        param.FORCE_ASPECT_RATIO, vec2(param.ASPECT_H, param.ASPECT_V),
+        vec2(param.FORCE_INTEGER_SCALING_H, param.FORCE_INTEGER_SCALING_V), param.OVERSCALE);
+    const vec2 shift = vec2(param.SHIFT_H, param.SHIFT_V);
+    input_center = get_input_center(param.InputSize.xy, param.OutputSize.xy, scale_i2o, crop, shift,
+                                    param.Rotation, param.CENTER_AFTER_CROPPING);
+    tx_coord = transform(TexCoord, vec2(0.5), param.OutputSize.xy / scale_i2o, input_center);
+    const vec2 tx_per_px = 1.0 / scale_i2o;
+
+    input_corners = get_input_corners(param.InputSize.xy, crop, param.Rotation);
+    const vec4 rotated_crop = get_rotated_crop(crop, param.Rotation);
+    cropped_input_size =
+        param.InputSize.xy - vec2(rotated_crop.y + rotated_crop.w, rotated_crop.x + rotated_crop.z);
+
+    calculate_pixel_aa_params(tx_per_px, param.PIX_AA_SHARP, uint(param.PIX_AA_SUBPX_ORIENTATION),
+                              param.Rotation, trans_lb, trans_ub, trans_slope, sub_tx_offset);
 }
 
 #pragma stage fragment
-layout(location = 0) in vec2 vTexCoord;
-layout(location = 1) in vec2 tx_coord;
-layout(location = 2) in vec2 tx_per_px;
-layout(location = 3) in vec2 tx_to_uv;
+layout(location = 0) in vec4 input_corners;
+layout(location = 1) in vec2 vTexCoord;
+layout(location = 2) in vec2 scale_i2o;
+layout(location = 3) in vec2 input_center;
+layout(location = 4) in vec2 tx_coord;
+layout(location = 5) in vec2 cropped_input_size;
+layout(location = 6) in vec2 sub_tx_offset;
+layout(location = 7) in vec2 trans_lb;
+layout(location = 8) in vec2 trans_ub;
+layout(location = 9) in float trans_slope;
 layout(location = 0) out vec4 FragColor;
 layout(set = 0, binding = 2) uniform sampler2D Input;
 layout(set = 0, binding = 3) uniform sampler2D Top;
@@ -103,15 +144,15 @@ layout(set = 0, binding = 6) uniform sampler2D Right;
 // For mipmap sampling, use a big offset to get the average of a PoT input.
 #define BIG_NUMBER 9000.1
 
-vec3 blend_corner(vec3 a,      // The first color to blend
-                  vec3 b,      // The second color to blend
-                  float wa,    // The weight of the first color
-                  float wb,    // The weight of the second color
-                  vec2 coord,  // The coordinate to evaluate the blend for
+vec3 blend_corner(vec3 a,             // The first color to blend
+                  vec3 b,             // The second color to blend
+                  float wa,           // The weight of the first color
+                  float wb,           // The weight of the second color
+                  vec2 coord,         // The coordinate to evaluate the blend for
                   vec2 corner_coord,  // The coordinate of the corner of the
                                       // content after cropping
-                  vec2 gap_size  // The component-wise distance from the corner
-                                 // of the content to the corner of the viewport
+                  vec2 gap_size       // The component-wise distance from the corner
+                                      // of the content to the corner of the viewport
 ) {
     switch (int(param.CORNER_BLEND_MODE)) {
         case 0:
@@ -137,140 +178,117 @@ vec3 blend_corner(vec3 a,      // The first color to blend
 }
 
 void main() {
-    if (tx_coord.x < param.OS_CROP_LEFT) {
-        if (param.EXTEND_H < 0.5) {
+    const vec2 extend_fill = get_rotated_size(vec2(param.EXTEND_H, param.EXTEND_V), param.Rotation);
+    if (tx_coord.x < input_corners.x) {
+        if (extend_fill.x < 0.5) {
             FragColor = vec4(0.0, 0.0, 0.0, 1.0);
             return;
         }
         const vec3 left = textureLod(Left, vec2(0.5), BIG_NUMBER).rgb;
-        if (tx_coord.y < param.OS_CROP_TOP) {
-            if (param.EXTEND_V < 0.5) {
+        if (tx_coord.y < input_corners.y) {
+            if (extend_fill.y < 0.5) {
                 FragColor = vec4(0.0, 0.0, 0.0, 1.0);
                 return;
             }
             // Top left corner
             const vec3 top = textureLod(Top, vec2(0.5), BIG_NUMBER).rgb;
-            const vec2 content_corner =
-                i2o(vec2(param.OS_CROP_LEFT, param.OS_CROP_TOP));
+            const vec2 content_corner = transform(input_corners.xy, input_center,
+                                                  scale_i2o / param.OutputSize.xy, vec2(0.5));
             const vec2 viewport_corner = vec2(0.0, 0.0);
             FragColor =
-                vec4(blend_corner(left, top,
-                                  param.InputSize.y - param.OS_CROP_TOP -
-                                      param.OS_CROP_BOTTOM,
-                                  param.InputSize.x - param.OS_CROP_LEFT -
-                                      param.OS_CROP_RIGHT,
-                                  vTexCoord, content_corner,
-                                  viewport_corner - content_corner),
+                vec4(blend_corner(left, top, cropped_input_size.y, cropped_input_size.x, vTexCoord,
+                                  content_corner, viewport_corner - content_corner),
                      1.0);
             FragColor.rgb = pow(FragColor.rgb, vec3(param.FILL_GAMMA));
-        } else if (tx_coord.y < param.InputSize.y - param.OS_CROP_BOTTOM) {
+        } else if (tx_coord.y < input_corners.w) {
             // Left bar
             FragColor = vec4(pow(left, vec3(param.FILL_GAMMA)), 1.0);
         } else {
-            if (param.EXTEND_V < 0.5) {
+            if (extend_fill.y < 0.5) {
                 FragColor = vec4(0.0, 0.0, 0.0, 1.0);
                 return;
             }
             // Bottom left corner
             const vec3 bottom = textureLod(Bottom, vec2(0.5), BIG_NUMBER).rgb;
-            const vec2 content_corner = i2o(vec2(
-                param.OS_CROP_LEFT, param.InputSize.y - param.OS_CROP_BOTTOM));
+            const vec2 content_corner = transform(input_corners.xw, input_center,
+                                                  scale_i2o / param.OutputSize.xy, vec2(0.5));
             const vec2 viewport_corner = vec2(0.0, 1.0);
             FragColor =
-                vec4(blend_corner(left, bottom,
-                                  param.InputSize.y - param.OS_CROP_TOP -
-                                      param.OS_CROP_BOTTOM,
-                                  param.InputSize.x - param.OS_CROP_LEFT -
-                                      param.OS_CROP_RIGHT,
-                                  vTexCoord, content_corner,
-                                  viewport_corner - content_corner),
+                vec4(blend_corner(left, bottom, cropped_input_size.y, cropped_input_size.x,
+                                  vTexCoord, content_corner, viewport_corner - content_corner),
                      1.0);
             FragColor.rgb = pow(FragColor.rgb, vec3(param.FILL_GAMMA));
         }
-    } else if (tx_coord.x < param.InputSize.x - param.OS_CROP_RIGHT) {
-        if (tx_coord.y < param.OS_CROP_TOP) {
-            if (param.EXTEND_V < 0.5) {
+    } else if (tx_coord.x < input_corners.z) {
+        if (tx_coord.y < input_corners.y) {
+            if (extend_fill.y < 0.5) {
                 FragColor = vec4(0.0, 0.0, 0.0, 1.0);
                 return;
             }
             // Top bar
             FragColor = vec4(textureLod(Top, vec2(0.5), BIG_NUMBER).rgb, 1.0);
             FragColor.rgb = pow(FragColor.rgb, vec3(param.FILL_GAMMA));
-        } else if (tx_coord.y < param.InputSize.y - param.OS_CROP_BOTTOM) {
+        } else if (tx_coord.y < input_corners.w) {
             // Uncropped
-            if (param.FORCE_INTEGER_SCALING > 0.5) {
+            if (param.FORCE_INTEGER_SCALING_H > 0.5 && param.FORCE_INTEGER_SCALING_V > 0.5) {
                 // Do a perfectly sharp (nearest neighbor) sampling.
-                FragColor = vec4(
-                    texture(Input, (floor(tx_coord) + 0.5) * param.InputSize.zw)
-                        .rgb,
-                    1.0);
+                FragColor =
+                    vec4(texture(Input, (floor(tx_coord) + 0.5) * param.InputSize.zw).rgb, 1.0);
             } else {
                 // Do a sharp anti-aliased interpolation.
-                // Do not correct for gamma additionally because the input is
-                // already in linear color space.
-                FragColor = pixel_aa(
-                    Input, tx_per_px, tx_to_uv, tx_coord, param.PIX_AA_SHARP,
-                    /* gamma_correct = */ false, param.PIX_AA_SUBPX > 0.5,
-                    param.PIX_AA_SUBPX_BGR > 0.5);
+                FragColor.rgb =
+                    param.PIX_AA_SUBPX < 0.5
+                        ? pixel_aa(Input, tx_coord, param.InputSize.zw, trans_lb, trans_ub,
+                                   trans_slope)
+                        : pixel_aa_subpx(Input, tx_coord, sub_tx_offset, param.InputSize.zw,
+                                         trans_lb, trans_ub, trans_slope);
             }
         } else {
-            if (param.EXTEND_V < 0.5) {
+            if (extend_fill.y < 0.5) {
                 FragColor = vec4(0.0, 0.0, 0.0, 1.0);
                 return;
             }
             // Bottom bar
-            FragColor =
-                vec4(textureLod(Bottom, vec2(0.5), BIG_NUMBER).rgb, 1.0);
+            FragColor = vec4(textureLod(Bottom, vec2(0.5), BIG_NUMBER).rgb, 1.0);
             FragColor.rgb = pow(FragColor.rgb, vec3(param.FILL_GAMMA));
         }
     } else {
-        if (param.EXTEND_H < 0.5) {
+        if (extend_fill.x < 0.5) {
             FragColor = vec4(0.0, 0.0, 0.0, 1.0);
             return;
         }
         const vec3 right = textureLod(Right, vec2(0.5), BIG_NUMBER).rgb;
-        if (tx_coord.y < param.OS_CROP_TOP) {
-            if (param.EXTEND_V < 0.5) {
+        if (tx_coord.y < input_corners.y) {
+            if (extend_fill.y < 0.5) {
                 FragColor = vec4(0.0, 0.0, 0.0, 1.0);
                 return;
             }
             // Top right corner
             const vec3 top = textureLod(Top, vec2(0.5), BIG_NUMBER).rgb;
-            const vec2 content_corner = i2o(vec2(
-                param.InputSize.x - param.OS_CROP_RIGHT, param.OS_CROP_TOP));
+            const vec2 content_corner = transform(input_corners.zy, input_center,
+                                                  scale_i2o / param.OutputSize.xy, vec2(0.5));
             const vec2 viewport_corner = vec2(1.0, 0.0);
             FragColor =
-                vec4(blend_corner(right, top,
-                                  param.InputSize.y - param.OS_CROP_TOP -
-                                      param.OS_CROP_BOTTOM,
-                                  param.InputSize.x - param.OS_CROP_LEFT -
-                                      param.OS_CROP_RIGHT,
-                                  vTexCoord, content_corner,
-                                  viewport_corner - content_corner),
+                vec4(blend_corner(right, top, cropped_input_size.y, cropped_input_size.x, vTexCoord,
+                                  content_corner, viewport_corner - content_corner),
                      1.0);
             FragColor.rgb = pow(FragColor.rgb, vec3(param.FILL_GAMMA));
-        } else if (tx_coord.y < param.InputSize.y - param.OS_CROP_BOTTOM) {
+        } else if (tx_coord.y < input_corners.w) {
             // Right bar
             FragColor = vec4(pow(right, vec3(param.FILL_GAMMA)), 1.0);
         } else {
-            if (param.EXTEND_V < 0.5) {
+            if (extend_fill.y < 0.5) {
                 FragColor = vec4(0.0, 0.0, 0.0, 1.0);
                 return;
             }
             // Bottom right corner
             const vec3 bottom = textureLod(Bottom, vec2(0.5), BIG_NUMBER).rgb;
-            const vec2 content_corner =
-                i2o(vec2(param.InputSize.x - param.OS_CROP_RIGHT,
-                         param.InputSize.y - param.OS_CROP_BOTTOM));
+            const vec2 content_corner = transform(input_corners.zw, input_center,
+                                                  scale_i2o / param.OutputSize.xy, vec2(0.5));
             const vec2 viewport_corner = vec2(1.0, 1.0);
             FragColor =
-                vec4(blend_corner(right, bottom,
-                                  param.InputSize.y - param.OS_CROP_TOP -
-                                      param.OS_CROP_BOTTOM,
-                                  param.InputSize.x - param.OS_CROP_LEFT -
-                                      param.OS_CROP_RIGHT,
-                                  vTexCoord, content_corner,
-                                  viewport_corner - content_corner),
+                vec4(blend_corner(right, bottom, cropped_input_size.y, cropped_input_size.x,
+                                  vTexCoord, content_corner, viewport_corner - content_corner),
                      1.0);
             FragColor.rgb = pow(FragColor.rgb, vec3(param.FILL_GAMMA));
         }

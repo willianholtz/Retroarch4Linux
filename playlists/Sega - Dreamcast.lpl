@@ -5,24 +5,10 @@
   "label_display_mode": 0,
   "right_thumbnail_mode": 0,
   "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
   "sort_mode": 0,
   "items": [
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Capcom vs. SNK (USA).chd",
-      "label": "Capcom vs. SNK (USA)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "T-1218N|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Capcom vs. SNK - Millennium Fight 2000 Pro (Japan).chd",
-      "label": "Capcom vs. SNK - Millennium Fight 2000 (Japan) (Rev A)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "T-1217M|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
+
     {
       "path": ".config/retroarch/roms/Sega - Dreamcast/Crazy Taxi (USA).chd",
       "label": "Crazy Taxi (USA)",
@@ -37,126 +23,6 @@
       "core_path": ".config/retroarch/cores/flycast_libretro.so",
       "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "51136|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Daytona USA (USA).chd",
-      "label": "Daytona USA (USA)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "51037|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Dead or Alive 2 (USA)/Dead or Alive 2 (USA).cue",
-      "label": "Dead or Alive 2 (USA)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "T-3601N|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/102 Dalmatians - Puppies to the Rescue (USA).chd",
-      "label": "Disney's 102 Dalmatians - Puppies to the Rescue (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "T-36803N|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Fatal Fury - Mark of the Wolves (USA).chd",
-      "label": "Fatal Fury - Mark of the Wolves (USA)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "T-44306N|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Guilty Gear X (Japan)/Guilty Gear X (Japan) (Rev A).cue",
-      "label": "Guilty Gear X (Japan) (Rev A)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "T-2402M|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Ikaruga (Japan).chd",
-      "label": "Ikaruga (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "T-38706M|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Illbleed (USA)/Illbleed (USA).cue",
-      "label": "Illbleed (USA)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "T-46001N|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Jet Grind Radio (USA).chd",
-      "label": "Jet Grind Radio (USA)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "51058|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/King of Fighters 2000 (Japan).chd",
-      "label": "King of Fighters 2000, The (Japan)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "T-47303M|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/King of Fighters, The - Dream Match 1999 (USA).chd",
-      "label": "King of Fighters, The - Dream Match 1999 (USA) (En,Ja,Es,Pt)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "T-3101N|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/King of Fighters '99 Evolution, The (USA) (Alt).chd",
-      "label": "King of Fighters, The - Evolution (USA) (En,Ja,Es,Pt)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "T-44302N|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Marvel vs. Capcom (USA).chd",
-      "label": "Marvel vs. Capcom - Clash of Super Heroes (USA)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "T-1202N|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Marvel vs. Capcom 2 (USA).chd",
-      "label": "Marvel vs. Capcom 2 (USA)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "T-1212N|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Mat Hoffman's Pro BMX (USA)/Mat Hoffman's Pro BMX (USA).cue",
-      "label": "Mat Hoffman's Pro BMX (USA)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "T-13005N|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Quake III Arena (USA).chd",
-      "label": "Quake III - Arena (USA)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "51061|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
@@ -197,46 +63,6 @@
       "core_path": ".config/retroarch/cores/flycast_libretro.so",
       "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1220N|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Sega GT (USA)/Sega GT (USA).cue",
-      "label": "Sega GT (USA)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "MK-51053|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Street Fighter Alpha 3 (USA).chd",
-      "label": "Street Fighter Alpha 3 (USA)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "T-1203N|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Street Fighter III - 3rd Strike (USA).chd",
-      "label": "Street Fighter III - 3rd Strike (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/retrodream_libretro.so",
-      "core_name": "Sega - Dreamcast (RetroDream)",
-      "crc32": "T-1213N|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Super Street Fighter 2 X (Japan)/Super Street Fighter II X for Matching Service (Japan).cue",
-      "label": "Super Street Fighter II X for Matching Service (Japan)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "T-1236M|serial",
-      "db_name": "Sega - Dreamcast.lpl"
-    },
-    {
-      "path": ".config/retroarch/roms/Sega - Dreamcast/Vampire Chronicle for Matching Service (Japan).chd",
-      "label": "Vampire Chronicle for Matching Service (Japan)",
-      "core_path": ".config/retroarch/cores/flycast_libretro.so",
-      "core_name": "Sega - Dreamcast/Naomi (Flycast)",
-      "crc32": "T-1235M|serial",
       "db_name": "Sega - Dreamcast.lpl"
     }
   ]

@@ -41,6 +41,9 @@
 	  > DARKEN_COLOUR: Simply darkens pixel colours (effectively lowers gamma level of pixels)
 	                   - 0.0: Colours are normal
 	                   - 2.0: Colours are too dark...
+	  > BACKGROUND_INTENSITY: Adjusts how prominent the paper background texture is
+	                          - 0.0: No background texture
+	                          - 1.0: Background texture is clearly visible
 	
 	This program is free software; you can redistribute it and/or modify it
 	under the terms of the GNU General Public License as published by the Free
@@ -60,6 +63,7 @@
 #pragma parameter GRID_BIAS "Grid Bias" 0.5 0.0 1.0 0.01
 #pragma parameter DARKEN_GRID "Darken Grid" 0.0 0.0 1.0 0.01
 #pragma parameter DARKEN_COLOUR "Darken Colours" 0.0 0.0 2.0 0.01
+#pragma parameter BACKGROUND_INTENSITY "Background Intensity" 1.0 0.0 1.0 0.05
 
 layout(push_constant) uniform Push
 {
@@ -68,6 +72,7 @@ layout(push_constant) uniform Push
 	float GRID_BIAS;
 	float DARKEN_GRID;
 	float DARKEN_COLOUR;
+	float BACKGROUND_INTENSITY;
 	vec4 OutputSize;
 	vec4 OriginalSize;
 	vec4 SourceSize;
@@ -195,7 +200,7 @@ void main()
 	// Note: Have to calculate luminosity a second time... tiresome, but
 	// it's not a particulary expensive operation...
 	luma = (LUMA_R * colour.r) + (LUMA_G * colour.g) + (LUMA_B * colour.b);
-	colour.rgb = mix(colour.rgb, bgTexture.rgb, luma);
+	colour.rgb = mix(colour.rgb, bgTexture.rgb, luma * registers.BACKGROUND_INTENSITY);
 	
 	FragColor = vec4(colour.rgb, 1.0);
 }

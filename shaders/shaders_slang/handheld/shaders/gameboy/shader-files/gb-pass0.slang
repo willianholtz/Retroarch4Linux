@@ -10,6 +10,7 @@ layout(push_constant) uniform Push
 	float grey_balance;
 	float response_time;
 	float video_scale;
+    float color_toggle;
 } registers;
 
 layout(std140, set = 0, binding = 0) uniform UBO
@@ -20,6 +21,8 @@ layout(std140, set = 0, binding = 0) uniform UBO
 ////////////////////////////////////////////////////////////////////////////////
 // Config                                                                     //
 ////////////////////////////////////////////////////////////////////////////////
+
+#pragma parameter color_toggle "Color Toggle" 0.0 0.0 1.0 1.0 // Toggle between color (1.0) and greyscale (0.0)
 
 // The alpha value of dots in their "off" state
 // Does not affect the border region of the screen - [0, 1]
@@ -40,6 +43,8 @@ layout(std140, set = 0, binding = 0) uniform UBO
 // Gameboy Classic Shader v0.2.2                                         //
 //                                                                       //
 // Copyright (C) 2013 Harlequin : unknown92835@gmail.com                 //
+//                                                                       //
+// Modified 2/6/24 to support color output by mattakins.                 //
 //                                                                       //
 // This program is free software: you can redistribute it and/or modify  //
 // it under the terms of the GNU General Public License as published by  //
@@ -116,6 +121,9 @@ layout(set = 0, binding = 10) uniform sampler2D COLOR_PALETTE;
 ////////////////////////////////////////////////////////////////////////////////
 
 #define foreground_color texture(COLOR_PALETTE, vec2(0.75, 0.5)).rgb                 //hardcoded to look up the foreground color from the right half of the palette image
+
+vec3 foreground_source = texture(Source, vTexCoord).rgb; // samples color from source for color mode
+
 //#define rgb_to_alpha(rgb) ( ((rgb.r + rgb.g + rgb.b) / 3.0) + (is_on_dot * vec2(registers.baseline_alpha), 1.0) )       //averages rgb values (allows it to work with color games), modified for contrast and base alpha
 
 
@@ -153,7 +161,13 @@ void main()
     // Apply foreground color and assign alpha value
     // Apply the foreground color to all texels -
     // the color will be modified by alpha later - and assign alpha based on rgb input
-    vec4 out_color = vec4(foreground_color, rgb_to_alpha);  
+    
+    vec4 out_color;
+
+    if (registers.color_toggle == 0.0)
+        out_color = vec4(foreground_color, rgb_to_alpha);
+    else
+        out_color = vec4(foreground_source, rgb_to_alpha);
 
     // Overlay the matrix
     // If the fragment is not on a dot, set its alpha value to 0

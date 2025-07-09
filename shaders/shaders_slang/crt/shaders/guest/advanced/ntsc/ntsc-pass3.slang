@@ -20,9 +20,13 @@ layout(std140, set = 0, binding = 0) uniform UBO
 	mat4 MVP;
 } global;
 
+#pragma parameter auto_res "          SNES/Amiga Hi-Res Auto Mode" 0.0 0.0 1.0 1.0
+float auto_rez = mix(1.0, 0.5, clamp(params.auto_res * round(params.OriginalSize.x/300.0)-1.0, 0.0, 1.0));
+
 #pragma parameter ntsc_sharp "NTSC Sharpness (negative: Adaptive)" 0.0 -10.0 10.0 0.50
 #pragma parameter ntsc_shape "NTSC Sharpness Shape" 0.75 0.5 1.0 0.05
-#pragma parameter ntsc_gamma "NTSC Filtering Gamma Correction" 1.0 0.25 2.0 0.025
+#pragma parameter ntsc_gamma "NTSC Filtering Gamma Correction" 1.0 0.25 2.5 0.025
+#pragma parameter ntsc-row5 "------------------------------------------------" 0.0 0.0 0.0 1.0
 
 #pragma stage vertex
 layout(location = 0) in vec4 Position;
@@ -32,7 +36,7 @@ layout(location = 0) out vec2 vTexCoord;
 void main()
 {
    gl_Position = global.MVP * Position;
-   vTexCoord = TexCoord - vec2(0.25 * params.OriginalSize.z/4.0, 0.0); // Compensate for decimate-by-2.
+   vTexCoord = TexCoord - vec2(0.25 * (params.OriginalSize.z/auto_rez)/4.0, 0.0); // Compensate for decimate-by-2.
 }
 
 #pragma stage fragment
@@ -66,8 +70,8 @@ vec3 rgb2yiq(vec3 col)
 
 void main()
 {
-   vec2 offsetx = vec2(0.5 * params.OriginalSize.z, 0.0);
-   vec2 dx = vec2(0.25 * params.OriginalSize.z, 0.0)/4.0;
+   vec2 offsetx = vec2(0.5 * params.OriginalSize.z/auto_rez, 0.0);
+   vec2 dx = vec2(0.25 * params.OriginalSize.z/auto_rez, 0.0)/4.0;
    vec2 texcoord = vTexCoord + dx;
    
    vec3 l1  = texture(Source, texcoord +      offsetx).xyz;

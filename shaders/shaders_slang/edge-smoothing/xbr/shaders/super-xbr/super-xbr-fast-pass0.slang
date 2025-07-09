@@ -46,9 +46,9 @@ layout(push_constant) uniform Push
 const float wp1	= 1.0;
 const float wp2	= 0.0;
 const float wp3	= 0.0;
-const float wp4	= 2.0;
-const float wp5	=-1.0;
-const float wp6	= 0.0;
+const float wp4	= 4.0;
+const float wp5	= 0.0;
+const float wp6	= 1.0;
 
 const vec3 Y = vec3(.2126, .7152, .0722);
 
@@ -128,39 +128,25 @@ layout(set = 0, binding = 2) uniform sampler2D Source;
 
 void main()
 {
-	vec3 P0 = texture(Source, t1.xy).xyz;
-	vec3 P1 = texture(Source, t1.zy).xyz;
-	vec3 P2 = texture(Source, t1.xw).xyz;
-	vec3 P3 = texture(Source, t1.zw).xyz;
+	vec4 P0_ = texture(Source, t1.xy); vec3 P0 = P0_.rgb; float p0 = P0_.a;
+	vec4 P1_ = texture(Source, t1.zy); vec3 P1 = P1_.rgb; float p1 = P1_.a;
+	vec4 P2_ = texture(Source, t1.xw); vec3 P2 = P2_.rgb; float p2 = P2_.a;
+	vec4 P3_ = texture(Source, t1.zw); vec3 P3 = P3_.rgb; float p3 = P3_.a;
 
-	vec3  B = texture(Source, t2.xy).xyz;
-	vec3  C = texture(Source, t2.zy).xyz;
-	vec3 H5 = texture(Source, t2.xw).xyz;
-	vec3 I5 = texture(Source, t2.zw).xyz;
+	vec4  B_ = texture(Source, t2.xy); vec3  B =  B_.rgb; float  b =  B_.a;
+	vec4  C_ = texture(Source, t2.zy); vec3  C =  C_.rgb; float  c =  C_.a;
+	vec4 H5_ = texture(Source, t2.xw); vec3 H5 = H5_.rgb; float h5 = H5_.a;
+	vec4 I5_ = texture(Source, t2.zw); vec3 I5 = I5_.rgb; float i5 = I5_.a;
 
-	vec3  D = texture(Source, t3.xy).xyz;
-	vec3 F4 = texture(Source, t3.zy).xyz;
-	vec3  G = texture(Source, t3.xw).xyz;
-	vec3 I4 = texture(Source, t3.zw).xyz;
+	vec4  D_ = texture(Source, t3.xy); vec3  D =  D_.rgb; float  d =  D_.a;
+	vec4 F4_ = texture(Source, t3.zy); vec3 F4 = F4_.rgb; float f4 = F4_.a;
+	vec4  G_ = texture(Source, t3.xw); vec3  G =  G_.rgb; float  g =  G_.a;
+	vec4 I4_ = texture(Source, t3.zw); vec3 I4 = I4_.rgb; float i4 = I4_.a;
 
-	vec3  E = texture(Source, t4.xy).xyz;
-	vec3  F = texture(Source, t4.zy).xyz;
-	vec3  H = texture(Source, t4.xw).xyz;
-	vec3  I = texture(Source, t4.zw).xyz;
-
-	float b = RGBtoYUV( B );
-	float c = RGBtoYUV( C );
-	float d = RGBtoYUV( D );
-	float e = RGBtoYUV( E );
-	float f = RGBtoYUV( F );
-	float g = RGBtoYUV( G );
-	float h = RGBtoYUV( H );
-	float i = RGBtoYUV( I );
-
-	float i4 = RGBtoYUV( I4 ); float p0 = RGBtoYUV( P0 );
-	float i5 = RGBtoYUV( I5 ); float p1 = RGBtoYUV( P1 );
-	float h5 = RGBtoYUV( H5 ); float p2 = RGBtoYUV( P2 );
-	float f4 = RGBtoYUV( F4 ); float p3 = RGBtoYUV( P3 );
+	vec4  E_ = texture(Source, t4.xy); vec3  E =  E_.rgb; float  e =  E_.a;
+	vec4  F_ = texture(Source, t4.zy); vec3  F =  F_.rgb; float  f =  F_.a;
+	vec4  H_ = texture(Source, t4.xw); vec3  H =  H_.rgb; float  h =  H_.a;
+	vec4  I_ = texture(Source, t4.zw); vec3  I =  I_.rgb; float  i =  I_.a;
 
 	/* Calc edgeness in diagonal directions. */
 	float d_edge  = (d_wd( wp1, wp2, wp3, wp4, wp5, wp6, d, b, g, e, c, p2, h, f, p1, h5, i, f4, i5, i4 ) - d_wd( wp1, wp2, wp3, wp4, wp5, wp6, c, f4, b, f, i4, p0, e, i, p3, d, h, i5, g, h5 ));
@@ -175,12 +161,12 @@ void main()
 	vec3 c2 = mat4x3( P0,   E,   I,   P3 ) * fw;
 
 	/* Smoothly blends the two strongest directions. */
-	vec3 color =  mix(c1, c2, smoothstep(-limits, limits, d_edge));
+	vec3 color =  d_edge == 0.0 ? 0.5*(c1 + c2) : mix(c1, c2, smoothstep(-limits, limits, d_edge));
 
 	/* Anti-ringing code. */
 	vec3 min_sample = min4( E, F, H, I );
 	vec3 max_sample = max4( E, F, H, I );
 	color = clamp(color, min_sample, max_sample);
 
-	FragColor = vec4(color, 1.0);
+	FragColor = vec4(color, RGBtoYUV(color));
 }

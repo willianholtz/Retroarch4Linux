@@ -79,7 +79,8 @@ layout(std140, set = 0, binding = 0) uniform UBO
 	float bmask;
 	float bmask1;
 	float hmask1;
-	float mzoom_sh;	
+	float mzoom_sh;
+	float mclip;
 } global;
 
 #pragma parameter hiscan "          High Resolution Scanlines (prepend a scaler...)" 0.0 0.0 1.0 1.0
@@ -89,7 +90,7 @@ layout(std140, set = 0, binding = 0) uniform UBO
 
 #pragma parameter bogus_brightness "[ BRIGHTNESS SETTINGS ]:" 0.0 0.0 1.0 1.0
 
-#pragma parameter m_glow "          Ordinary Glow / Magic Glow" 0.0 0.0 1.0 1.0
+#pragma parameter m_glow "          Ordinary Glow / Magic Glow" 0.0 0.0 2.0 1.0
 
 #pragma parameter m_glow_low "          Magic Glow Low Strength" 0.35 0.0 7.0 0.05 
 
@@ -143,10 +144,10 @@ layout(std140, set = 0, binding = 0) uniform UBO
 #pragma parameter BLOOM "          Raster bloom %" 0.0 0.0 20.0 1.0
 #define BLOOM        params.BLOOM     // Bloom overscan percentage
 
-#pragma parameter csize "          Corner Size" 0.0 0.0 0.25 0.005
+#pragma parameter csize "          Corner Size" 0.0 0.0 0.35 0.01
 #define csize        params.csize     // corner size
 
-#pragma parameter bsize1 "          Border Size" 0.01 0.0 3.0 0.01
+#pragma parameter bsize1 "          Border Size" 0.0 0.0 2.0 0.01
 #define bsize1        params.bsize1     // border Size
 
 #pragma parameter sborder "          Border Intensity" 0.75 0.25 2.0 0.05
@@ -235,6 +236,9 @@ layout(std140, set = 0, binding = 0) uniform UBO
 #pragma parameter bmask "          Base (black) Mask strength" 0.0 0.0 0.25 0.01
 #define bmask  global.bmask
 
+#pragma parameter mclip "          Preserve Mask Strength" 0.0 0.0 1.0 0.025
+#define mclip  global.mclip
+
 #pragma parameter gamma_out "          Gamma out" 2.4 1.0 5.0 0.05
 #define gamma_out    global.gamma_out     // output gamma
 
@@ -273,6 +277,7 @@ layout(std140, set = 0, binding = 0) uniform UBO
 
 #define OutputSize global.OutputSize
 #define gl_FragCoord (vTexCoord * OutputSize.xy)
+
 
 #pragma stage vertex
 layout(location = 0) in vec4 Position;
@@ -521,18 +526,15 @@ float humbar(float pos)
 	}	
 }
 
-
 float corner(vec2 pos) {
-	vec2 b = vec2(bsize1, bsize1) *  vec2(1.0, OutputSize.x/OutputSize.y) * 0.05;
-	pos = clamp(pos, 0.0, 1.0);
 	pos = abs(2.0*(pos - 0.5));
-	float csize1 = mix(400.0, 7.0,  pow(4.0*csize, 0.10));
-	float crn = dot(pow(pos, csize1.xx), vec2(1.0, OutputSize.y/OutputSize.x));
-	crn = (csize == 0.0) ? max(pos.x, pos.y) : pow(crn, 1.0/csize1);
-	pos = max(pos, crn);
-	vec2 res = (bsize1 == 0.0) ? 1.0.xx : mix(0.0.xx, 1.0.xx, smoothstep(1.0.xx, 1.0.xx-b, sqrt(pos)));
-	res = pow(res, sborder.xx);	
-	return sqrt(res.x*res.y);
+	vec2 aspect = vec2(1.0, OutputSize.x/OutputSize.y);	
+	float b = bsize1 * 0.05 + 0.0005; pos.y = pos.y + b*(aspect.y - 1.0);	
+	vec2 crn = max(csize.xx,2.0*b+0.0015);
+	vec2 cp = max(pos-(1.0-crn*aspect),0.0)/aspect; float cd = sqrt(dot(cp,cp));
+	pos = max(pos, 1.0-crn+cd);
+	float res = mix(1.0, 0.0, smoothstep(1.0-b, 1.0, sqrt(max(pos.x,pos.y))));
+	return pow(res, sborder);	
 }
 
 
@@ -694,7 +696,7 @@ if ((abs(global.deconrr) + abs(global.deconrry) + abs(global.deconrg) + abs(glob
 	vec3 cmask2 = one;
 
 	// mask widths and mask dark compensate (fractional part) values
-	float mwidths[14] = float[14] (2.0, 3.0, 3.0, 3.0, 6.0, 2.4, 3.5, 2.4, 3.25, 3.5, 4.5, 4.25, 7.5, 6.25); 
+	float mwidths[14] = float[14] (2.0, 3.0, 3.0, 6.0, 6.0, 2.4, 3.5, 2.4, 3.25, 3.5, 4.5, 4.25, 7.5, 6.25); 
 	
 	float mwidth = mwidths[int(shadowMask)];
 	float mask_compensate = fract(mwidth);
@@ -725,9 +727,9 @@ if ( !zoomed )
 	cmask*= Mask(floor(maskcoord), mx, mb);
 else{
 	mscale  = mwidth1/mwidth;
-	float mlerp = fract(maskcoord.x/mscale); if (mzoom_sh > 0.025) mlerp = (1.0 + mzoom_sh)*mlerp - 0.5*mzoom_sh;
+	float mlerp = fract(maskcoord.x/mscale); if (mzoom_sh > 0.025) mlerp = clamp((1.0 + mzoom_sh)*mlerp - 0.5*mzoom_sh, 0.0, 1.0);
 	float mcoord = floor(maskcoord.x/mscale); if (shadowMask == 12.0 && mask_zoom == -2.0) mcoord = ceil(maskcoord.x/mscale);
-	cmask*=max(mix(Mask(vec2(mcoord,maskcoord.y), mx, mb), Mask(vec2(mcoord + 1.0, maskcoord.y), mx, mb), mlerp), 0.0);
+	cmask*=mix(Mask(vec2(mcoord,maskcoord.y), mx, mb), Mask(vec2(mcoord + 1.0, maskcoord.y), mx, mb), mlerp);
 }
 
 	if (slotwidth > 0.5) swidth = slotwidth; float smask = 1.0;
@@ -784,19 +786,22 @@ else{
 	if (!interb) color = declip(min(color,1.0), mix(1.0, w3, 0.6));
 
 	if (halation > 0.01) {
-		Bloom = mix(0.5*(Bloom + Bloom*Bloom), 0.75*Bloom*Bloom, colmx);	
-		color = color + 2.0*max((2.0*mix(maxb*maxb, maxb, colmx)-0.5*max(max(Ref.r,Ref.g),Ref.b)),0.25)*mix(1.0,w3,0.5*colmx)*hcmask*Bloom*halation; }
+		Bloom = 0.5*(Bloom + Bloom*Bloom);
+		float mbl = max(max(Bloom.r,Bloom.g),Bloom.b); float cmxh = 0.5*(colmx + colmx*colmx);
+		mbl = mix(mix(cmxh,mix(cmxh,mbl,mbl),colmx), mbl, mb);
+		Bloom = plant(Bloom, mix(sqrt(mbl*cmxh), max((mbl - 0.15*(1.0-colmx)), 0.4*cmxh), pow(colmx, 0.25))) * mix(0.425, 1.0, colmx);
+		Bloom = (3.0 - colmx - color)*plant(0.325+orig1/w3, 0.5*(1.0+w3))*hcmask*Bloom;
+		color = pow(pow(color, vec3(mask_gamma/gamma_in)) + halation * pow(Bloom, vec3(mask_gamma/gamma_in)), vec3(gamma_in/mask_gamma));
+	}
 	else
 	if (halation < -0.01) {
 		float mbl = max(max(Bloom.r,Bloom.g),Bloom.b);
 		Bloom = plant(Bloom + Ref + orig1 + Bloom*Bloom*Bloom, min(mbl*mbl,0.75));
 		color = color + 2.0*mix(1.0,w3,0.5*colmx)*hcmask*Bloom*(-halation); }
 
-
 	float w = 0.25 + 0.60*mix(w3, 1.0, sqrt(colmx));
 	if (smoothmask > 0.5) { color = min(color,1.0); color = max(min(color/w3, 1.0)*w3, min(orig1*bb,color*(1.0-w3))); }
 	
-
 	if (global.m_glow < 0.5) Glow = mix(Glow, 0.25*color, colmx);
 	else
 	{ 
@@ -804,17 +809,20 @@ else{
 		vec3 orig2 = plant(orig1 + 0.001*Ref, 1.0);
 		Bloom = plant(Glow, 1.0);
 		Ref = abs(orig2-Bloom);
-		mx0 = max(max(orig2.g,orig2.g),orig2.b)-min(min(orig2.g,orig2.g),orig2.b);
-		mx2 = max(max(Bloom.g,Bloom.g),Bloom.b)-min(min(Bloom.g,Bloom.g),Bloom.b);		
-		Bloom = mix(maxb*min(Bloom,orig2), w*mix(mix(Glow, max(max(Ref.g,Ref.g),Ref.b)*Glow, max(mx,mx0)), mix(color, Glow, mx2), max(mx0,mx2)*Ref), min(sqrt((1.10-mx0)*(0.10+mx2)),1.0));
+		mx0 = max(max(orig2.r,orig2.g),orig2.b)-min(min(orig2.r,orig2.g),orig2.b);
+		mx2 = max(max(Bloom.r,Bloom.g),Bloom.b)-min(min(Bloom.r,Bloom.g),Bloom.b);		
+		Bloom = mix(maxb*min(Bloom,orig2), w*mix(mix(Glow, max(max(Ref.r,Ref.g),Ref.b)*Glow, max(mx,mx0)), mix(color, Glow, mx2), max(mx0,mx2)*Ref), min(sqrt((1.10-mx0)*(0.10+mx2)),1.0));
+		if (global.m_glow > 1.5) Glow = mix(0.5*Glow*Glow,Bloom,Bloom);
 		Glow = mix(global.m_glow_low*Glow, global.m_glow_high*Bloom, pow(colmx, global.m_glow_dist/gamma_in));
 	}
 
 	if (global.m_glow < 0.5) {
 		if (glow >= 0.0) color = color + 0.5*Glow*glow; else color = color + abs(glow)*min(cmask2*cmask2,1.0)*Glow; }
-	else { cmask1 = clamp(mix(one, cmask1, global.m_glow_mask),0.0, 1.0); color = color + abs(glow)*cmask1*Glow; }
+	else { vec3 cmaskg = clamp(mix(one, cmask1, global.m_glow_mask),0.0, 1.0); color = color + abs(glow)*cmaskg*Glow; }
 
 	color = min(color, 1.0);
+	
+	color = min(color, max(orig1,color)*mix(one, cmask1, mclip));
 	
 	color = pow(color, vec3(1.0/gamma_out));
 

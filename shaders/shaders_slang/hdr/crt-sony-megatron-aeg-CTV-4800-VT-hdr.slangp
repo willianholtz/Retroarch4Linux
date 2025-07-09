@@ -37,12 +37,12 @@ mipmap_input4 = "false"
 alias4 = ""
 float_framebuffer4 = "false"
 srgb_framebuffer4 = "false"
-scale_type4 = viewport
 
 hcrt_hdr = "1.000000"
 hcrt_crt_screen_type = "2.000000"
 hcrt_crt_resolution = "0.000000"
 hcrt_expand_gamut = "0.000000"
+hcrt_saturation = "0.450000"
 
 hcrt_red_vertical_convergence = "0.000000"
 hcrt_green_vertical_convergence = "0.000000"

@@ -6,10 +6,12 @@ layout(push_constant) uniform Push
 	vec4 SourceSize;
 	vec4 OriginalSize;
 	float border_texture_scale;
+	float border_brightness;
 } params;
 
 #pragma parameter border_texture_scale "Border Scale" 4.0 1.0 20.0 0.005
 #pragma parameter bogus_scale_instructions "[SCREEN SIZE]: In previous menu->Change lcd-grid scale->Apply" 0.0 0.0 1.0 1.0
+#pragma parameter border_brightness "Border Brightness" 1.0 0.0 1.0 0.01
 
 vec2 middle	= vec2(0.5, 0.5);
 vec2 screen_ratio = params.OutputSize.xy * params.SourceSize.zw;
@@ -46,5 +48,5 @@ void main()
 {
 	vec4 frame	=	texture(Source, vTexCoord).rgba;
 	vec4 border	=	texture(BORDER, tex_border).rgba;
-	FragColor	=	vec4(mix(frame, border, border.a));
+	FragColor	=	vec4(mix(frame, border * params.border_brightness, border.a));
 }

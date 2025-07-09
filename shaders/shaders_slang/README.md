@@ -61,8 +61,8 @@ Vulkan GLSL is a GLSL dialect designed for Vulkan and SPIR-V intermediate repres
 The good part is that we can use whatever GLSL version we want when writing shaders, as it is decoupled from the GL runtime.
 
 In runtime, we can have a vendor-neutral mature compiler,
-[https://github.com/KhronosGroup/glslang](glslang) which compiles our Vulkan GLSL to SPIR-V.
-Using [https://github.com/KhronosGroup/SPIRV-Cross](SPIRV-Cross), we can then do reflection on the SPIR-V binary to deduce our filter chain layout.
+[glslang](https://github.com/KhronosGroup/glslang) which compiles our Vulkan GLSL to SPIR-V.
+Using [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross), we can then do reflection on the SPIR-V binary to deduce our filter chain layout.
 We can also disassemble back to our desired GLSL dialect in the GL backend based on which GL version we're running,
 which effectively means we can completely sidestep all our current problems with a pure GLSL based shading system.
 
@@ -440,7 +440,15 @@ layout(push_constant) uniform Push {
 } registers;
 #pragma parameter DummyVariable "This is a dummy variable" 1.0 0.2 2.0 0.1
 ```
+#### `#pragma include_optional`
 
+Acts like the common preprocessor #include directive,
+but does not generate an error if the specified file cannot be located.
+
+The format is:
+```
+#pragma include_optional "path/to/file_to_include"
+```
 ### I/O interface variables
 
 The slang shader spec specifies two vertex inputs and one fragment output.
@@ -525,6 +533,21 @@ These builtin variables may be part of a UBO block and/or a push constant block.
  - FrameCount: a uint variable taking a value which increases by one every frame.
    This value could be pre-wrapped by modulo if specified in preset.
    This is useful for creating time-dependent effects.
+ - Rotation: a uint variable with values from 0 to 3 describing the rotation of the content; respectively: 0°,90°,180°,270° 
+ - OriginalAspect: a float value describing the aspect ratio intended by the current core.
+ - OriginalAspectRotated: a float value that:
+   Is the same as OriginalAspect for no rotated and 180° rotated content.
+   Is 1/OriginalAspect for 90° and 270° rotated content.
+ - OriginalFPS: a float value describing the frame rate set by the core.
+ - FrameTimeDelta: a uint value describing the time difference (in microseconds) between the previous and the current frame.
+
+#### Checking for builtin uniform variables availability.
+
+It's advisable to check for the availability of specific uniforms before using them in shaders, because this prevents compilation errors when trying to use new uniforms with an older retroarch version.
+
+RetroArch provides the following defines:
+ - _HAS_ORIGINALASPECT_UNIFORMS: Indicates whether OriginalAspect and OriginalAspectRotated uniforms are available.
+ - _HAS_FRAMETIME_UNIFORMS: Indicates wheter OriginalFPS and FrameTimeDelta uniforms are available.
 
 #### Aliases
 Aliases can give meaning to arbitrary names in a slang file.

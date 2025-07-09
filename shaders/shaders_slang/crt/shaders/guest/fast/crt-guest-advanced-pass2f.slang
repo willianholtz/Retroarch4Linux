@@ -717,7 +717,7 @@ if (abs(vertmask) > 0.025)
 if (shadowMask > -0.5)
 {	
 	// mask widths and mask dark compensate (fractional part) values
-	float mwidths[14] = float[14] (2.0, 3.0, 3.0, 3.0, 6.0, 2.0, 3.0, 2.0, 3.0, 3.0, 4.0, 4.0, 7.0, 6.0); 
+	float mwidths[14] = float[14] (2.0, 3.0, 3.0, 6.0, 6.0, 2.0, 3.0, 2.0, 3.0, 3.0, 4.0, 4.0, 7.0, 6.0); 
 	
 	float mwidth = mwidths[int(shadowMask)];
 	if (shadowMask > 4.5) mask_compensate = 1.325;
@@ -744,9 +744,9 @@ if ( !zoomed )
 	cmask*= Mask(floor(maskcoord), mx);
 else{
 	mscale  = mwidth1/mwidth;
-	float mlerp = fract(maskcoord.x/mscale); if (mzoom_sh > 0.025) mlerp = (1.0 + mzoom_sh)*mlerp - 0.5*mzoom_sh;
+	float mlerp = fract(maskcoord.x/mscale); if (mzoom_sh > 0.025) mlerp = clamp((1.0 + mzoom_sh)*mlerp - 0.5*mzoom_sh, 0.0, 1.0);
 	float mcoord = floor(maskcoord.x/mscale); if (shadowMask == 12.0 && mask_zoom == -2.0) mcoord = ceil(maskcoord.x/mscale);
-	cmask*=max(mix(Mask(vec2(mcoord,maskcoord.y), mx), Mask(vec2(mcoord + 1.0, maskcoord.y), mx), mlerp), 0.0);
+	cmask*=mix(Mask(vec2(mcoord,maskcoord.y), mx), Mask(vec2(mcoord + 1.0, maskcoord.y), mx), mlerp);
 }
 
 	if (slotwidth > 0.5) swidth = slotwidth; float smask = 1.0;

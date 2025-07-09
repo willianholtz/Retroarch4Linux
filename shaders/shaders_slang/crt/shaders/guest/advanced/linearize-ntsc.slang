@@ -64,7 +64,9 @@ layout(std140, set = 0, binding = 0) uniform UBO
 #pragma parameter iscan "          Interlacing Scanline Effect ('Laced brightness)" 0.20 0.0 1.0 0.05
 #define iscan  params.iscan     // interlacing effect scanlining
 
-#pragma parameter intres "          Internal Resolution Y: 0.5...y-dowsample" 0.0 0.0 6.0 0.5 // Joint parameter with main pass, values must match
+#pragma parameter info02 "INFO --> Internal Resolution Y: 1.0 - Smart Scanline Mode" 0.0 0.0 1.0 1.0
+
+#pragma parameter intres "          Internal Resolution Y: 0.5...y-dowsample divider" 0.0 0.0 6.0 0.5 // Joint parameter with main pass, values must match
 
 #define intres         params.intres     // interlace resolution
 

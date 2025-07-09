@@ -6,7 +6,8 @@ layout(push_constant) uniform Push
 	vec4 OriginalSize;
 	vec4 SourceSize;
 	float blending_mode;
-	float adjacent_texel_alpha_blending;
+    float adjacent_texel_alpha_blending;
+    float video_scale;
 } registers;
 
 layout(std140, set = 0, binding = 0) uniform UBO
@@ -20,10 +21,13 @@ layout(std140, set = 0, binding = 0) uniform UBO
 
 // 0 - only the space between dots is blending
 // 1 - all texels are blended
-#pragma parameter blending_mode "Blending Mode" 0.0 0.0 1.0 1.0            
+#pragma parameter blending_mode "Blending Mode" 0.0 0.0 1.0 1.0
 
 // The amount of alpha swapped between neighboring texels
 #pragma parameter adjacent_texel_alpha_blending "Neighbor Blending" 0.76 0.0 1.0 0.01
+
+// Set video scale when used in console-border shaders
+#pragma parameter video_scale "Video Scale" 3.0 2.0 20.0 1.0
 
 ///////////////////////////////////////////////////////////////////////////
 //                                                                       //
@@ -65,6 +69,8 @@ layout(location = 8) out vec2 blur_coords_downright;
 layout(location = 9) out vec2 blur_coords_downleft;
 layout(location = 10) out vec2 blur_coords_lower_bound;
 layout(location = 11) out vec2 blur_coords_upper_bound;
+layout(location = 12) out vec2 lcd_bounds_upleft;
+layout(location = 13) out vec2 lcd_bounds_downright;
 
 void main()
 {
@@ -83,6 +89,10 @@ void main()
 
     blur_coords_lower_bound = vec2(0.0);
     blur_coords_upper_bound = texel * (registers.OutputSize.xy - vec2(2.0));
+
+    vec2 half_lcd_size = vec2(0.5) * ((registers.OriginalSize.xy * registers.video_scale) / registers.OutputSize.xy);
+    lcd_bounds_upleft = vec2(0.5) - half_lcd_size;
+    lcd_bounds_downright = vec2(0.5) + half_lcd_size;
 }
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -102,6 +112,8 @@ layout(location = 8) in vec2 blur_coords_downright;
 layout(location = 9) in vec2 blur_coords_downleft;
 layout(location = 10) in vec2 blur_coords_lower_bound;
 layout(location = 11) in vec2 blur_coords_upper_bound;
+layout(location = 12) in vec2 lcd_bounds_upleft;
+layout(location = 13) in vec2 lcd_bounds_downright;
 layout(location = 0) out vec4 FragColor;
 layout(set = 0, binding = 2) uniform sampler2D Source;
 
@@ -193,9 +205,17 @@ vec4 blend_all_mode(vec4 out_color)
 void main()
 {
     vec4 out_color = texture(Source, vTexCoord).rgba;
+    vec4 blended;
 
     if(registers.blending_mode == 1.0)
-        FragColor = blend_all_mode(out_color);
+        blended = blend_all_mode(out_color);
     else
-        FragColor = blend_gap_mode(out_color);
+        blended = blend_gap_mode(out_color);
+
+    if ((vTexCoord.x < lcd_bounds_upleft.x) || (vTexCoord.x > lcd_bounds_downright.x) || (vTexCoord.y < lcd_bounds_upleft.y) || (vTexCoord.y > lcd_bounds_downright.y))
+    {
+        blended = vec4(0.0);
+    }
+
+    FragColor = blended;
 }

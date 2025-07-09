@@ -33,6 +33,8 @@ layout(push_constant) uniform Push
 #pragma parameter CCONTR    "FSharpen - Sharpen Contrast/Ringing" 0.05 0.0 0.25 0.01 
 #pragma parameter CDETAILS  "FSharpen - Details sharpened"        1.00 0.0 1.00 0.05 
 #pragma parameter DEBLUR    "FSharpen - Deblur Strength"          1.00 1.0 7.00 0.25 
+#pragma parameter ntsc-row6 "------------------------------------------------" 0.0 0.0 0.0 1.0
+
 
 #define CSHARPEN params.CSHARPEN
 #define CCONTR params.CCONTR

@@ -5,6 +5,7 @@
   "label_display_mode": 0,
   "right_thumbnail_mode": 0,
   "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
   "sort_mode": 0,
   "items": [
     {
@@ -18,8 +19,8 @@
     {
       "path": ".config/retroarch/roms/Sega - Mega-CD - Sega CD/Mortal Kombat (USA).chd",
       "label": "Mortal Kombat (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
       "crc32": "T-81025|serial",
       "db_name": "Sega - Mega-CD - Sega CD.lpl"
     },

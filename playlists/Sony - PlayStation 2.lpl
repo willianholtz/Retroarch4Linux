@@ -1,0 +1,188 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Black (USA).iso",
+      "label": "Black (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLUS-21376|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Crash - Mind over Mutant (USA).iso",
+      "label": "Crash - Mind over Mutant (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLUS-21728|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Gran Turismo 4 (USA) (v2.00).iso",
+      "label": "Gran Turismo 4 (USA) (v2.00)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SCUS-97328|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Grand Theft Auto - Liberty City Stories (USA).iso",
+      "label": "Grand Theft Auto - Liberty City Stories (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLUS-21423|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Grand Theft Auto - Vice City (USA) (v4.00).iso",
+      "label": "Grand Theft Auto - Vice City (USA) (v1.40)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLUS-20552|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Guitar Hero (USA).iso",
+      "label": "Guitar Hero (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLUS-21224|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Guitar Hero Encore - Rocks the 80s (USA).iso",
+      "label": "Guitar Hero Encore - Rocks the 80s (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLUS-21586|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Guitar Hero II (USA).iso",
+      "label": "Guitar Hero II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-21447|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Guitar Hero III - Legends of Rock (USA).iso",
+      "label": "Guitar Hero III - Legends of Rock (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLUS-21672|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/J.League Winning Eleven 10 + Europe League '06-'07 (Japan) (v2.01).iso",
+      "label": "J.League Winning Eleven 10 + Europe League '06-'07 (Japan) (v2.01)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLPM-66595|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Medal of Honor - Frontline (USA).iso",
+      "label": "Medal of Honor - Frontline (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-20368|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Need for Speed - Hot Pursuit 2 (USA).iso",
+      "label": "Need for Speed - Hot Pursuit 2 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLUS-20362|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Need for Speed - Underground 2 (USA).iso",
+      "label": "Need for Speed - Underground 2 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLUS-21065|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Simpsons, The - Hit & Run (USA).iso",
+      "label": "Simpsons, The - Hit & Run (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLUS-20624|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Tekken 5 (USA).iso",
+      "label": "Tekken 5 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLUS-21059|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Tony Hawk's Pro Skater 3 (USA) (Rev 1).iso",
+      "label": "Tony Hawk's Pro Skater 3 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLUS-20013|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Tony Hawk's Pro Skater 4 (USA) (v2.01).iso",
+      "label": "Tony Hawk's Pro Skater 4 (USA) (v1.02)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLUS-20504|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Tony Hawk's Underground (USA).iso",
+      "label": "Tony Hawk's Underground (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-20731|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/Tony Hawk's Underground 2 (USA).iso",
+      "label": "Tony Hawk's Underground 2 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLUS-20965|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/World Soccer Winning Eleven 10 (English Patched).iso",
+      "label": "World Soccer Winning Eleven 10 (Japan)",
+      "core_path": "/home/willian/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLPM-66374|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/World Soccer Winning Eleven 2011 (Japan) (En,Ja).iso",
+      "label": "World Soccer Winning Eleven 2011 (Japan) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLPM-55276|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation 2/World Soccer Winning Eleven 9 (Japan) (En,Ja).iso",
+      "label": "World Soccer Winning Eleven 9 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLPM-66009|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    }
+  ]
+}

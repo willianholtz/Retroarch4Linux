@@ -62,7 +62,7 @@ layout(std140, set = 0, binding = 0) uniform UBO
 
 #pragma parameter bogus_screen "[ SCREEN OPTIONS ]: " 0.0 0.0 1.0 1.0
 
-#pragma parameter intres "          Internal Resolution Y: 0.5...y-dowsample" 0.0 0.0 6.0 0.5 // Joint parameter with linearize pass, values must match
+#pragma parameter intres "          Internal Resolution Y: 0.5...y-dowsample divider" 0.0 0.0 6.0 0.5 // Joint parameter with main pass, values must match
 
 #pragma parameter IOS "          Integer Scaling: Odd:Y, Even:'X'+Y" 0.0 0.0 4.0 1.0
 #define IOS          params.IOS     // Smart Integer Scaling
@@ -82,11 +82,11 @@ layout(std140, set = 0, binding = 0) uniform UBO
 #pragma parameter overscanY "          Overscan Y original pixels" 0.0 -200.0 200.0 1.0
 #define overscanY        global.overscanY     // OverscanY pixels
 
-#pragma parameter csize "          Corner Size" 0.0 0.0 0.25 0.005
-#define csize        global.csize     // corner size
+#pragma parameter csize "          Corner Size" 0.0 0.0 0.35 0.01
+#define csize        params.csize     // corner size
 
-#pragma parameter bsize1 "          Border Size" 0.01 0.0 3.0 0.01
-#define bsize1        global.bsize1     // border size
+#pragma parameter bsize1 "          Border Size" 0.0 0.0 2.0 0.01
+#define bsize1        params.bsize1     // border Size
 
 #pragma parameter sborder "          Border Intensity" 0.75 0.25 2.0 0.05
 #define sborder       global.sborder     // border intensity
@@ -272,7 +272,7 @@ void main()
 
 	float SourceY = SourceSize.y;
 	float sy = 1.0;
-	if (global.intres == 1.0) sy = SourceY/224.0;
+	if (global.intres == 1.0) sy = max(round(SourceY/224.0),1.0);
 	if (global.intres > 0.25 && global.intres != 1.0) sy = global.intres;
 	
 	// VGA Scan Mode

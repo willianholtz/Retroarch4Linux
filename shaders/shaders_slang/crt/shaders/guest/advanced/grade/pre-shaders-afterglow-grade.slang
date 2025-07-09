@@ -460,12 +460,13 @@ float contrast_sigmoid(float color, float cont, float pivot) {
 //  Performs better in gamma encoded space
 float contrast_sigmoid_inv(float color, float cont, float pivot) {
 
-    cont = pow(cont - 1., 3.);
+    cont = (cont - 1.);
+	cont = cont*cont*cont;
 
     float knee  = 1. / (1. + exp (cont *  pivot));
     float shldr = 1. / (1. + exp (cont * (pivot - 1.)));
 
-    color = pivot - log(1. / (color * (shldr - knee) + knee) - 1.) / cont;
+    color = pivot - log(1. / (color * (shldr - knee) + knee) - 1.) / (cont);
 
     return color;
  }

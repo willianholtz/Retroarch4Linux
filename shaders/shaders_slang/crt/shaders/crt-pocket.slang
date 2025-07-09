@@ -1,5 +1,23 @@
 #version 450
 
+/*
+
+   This program is free software; you can redistribute it and/or
+   modify it under the terms of the GNU General Public License
+   as published by the Free Software Foundation; either version 2
+   of the License, or (at your option) any later version.
+
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with this program; if not, write to the Free Software
+   Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+
+*/
+
 layout(push_constant) uniform Push
 {
 	vec4 SourceSize;
@@ -385,7 +403,11 @@ if (OriginalSize.y > 400.0 && interlace == 0.0 && progress == 1.0)
 
     
     vec3 res = Lanczos3(pos,InvResolution);
-    if (ntsc == 1.0) res = NTSCtoSRGB(res);
+    if (ntsc == 1.0) {
+    
+        res = NTSCtoSRGB(res);
+        res = clamp(res,0.0,1.0);
+    }
     res *= ColorTemp(TEMP);
 
     float lumscan = max(max(res.r,res.g),res.b);

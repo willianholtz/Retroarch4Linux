@@ -13,6 +13,7 @@ layout(push_constant) uniform Push
 	float ia_luminance;
 	float ia_black_level;
 	float ia_bright_boost;
+	float ia_invert;
 	float ia_R;
 	float ia_G;
 	float ia_B;
@@ -43,6 +44,7 @@ layout(std140, set = 0, binding = 0) uniform UBO
 #pragma parameter ia_luminance "Luminance" 1.0 0.0 2.0 0.1
 #pragma parameter ia_black_level "Black Level" 0.00 -0.30 0.30 0.01
 #pragma parameter ia_bright_boost "Brightness Boost" 0.0 -1.0 1.0 0.05
+#pragma parameter ia_invert "Invert Colors" 0.0 0.0 1.0 1.0
 #pragma parameter ia_R "Red Channel" 1.0 0.0 2.0 0.05
 #pragma parameter ia_G "Green Channel" 1.0 0.0 2.0 0.05
 #pragma parameter ia_B "Blue Channel" 1.0 0.0 2.0 0.05
@@ -122,6 +124,11 @@ void main()
    conColor = pow(conColor, 1.0 / vec3(gamma)); // Apply gamma correction
    conColor *= vec3(registers.ia_R, registers.ia_G, registers.ia_B);
    
+//invert colors
+   if (registers.ia_invert > 0.5) {
+       conColor = 1.0 - conColor; // Invert colors
+   }
+
 //overscan mask
 if (vTexCoord.y > registers.ia_TOPMASK && vTexCoord.y < (1.0 - registers.ia_BOTMASK))
    conColor = conColor;

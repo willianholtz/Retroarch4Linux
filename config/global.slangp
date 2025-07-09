@@ -1,7 +1,1 @@
-#reference "../shaders/shaders_slang/bezel/Mega_Bezel/Presets/MBZ__3__STD.slangp"
-HSM_ASPECT_RATIO_MODE = "6.000000"
-HSM_CURVATURE_MODE = "0.000000"
-HSM_INTRO_WHEN_TO_SHOW = "0.000000"
-HSM_INTRO_LOGO_BLEND_MODE = "0.000000"
-HSM_INTRO_SOLID_COLOR_BLEND_MODE = "0.000000"
-HSM_INTRO_NOISE_BLEND_MODE = "0.000000"
+#reference "../shaders/shaders_slang/crt/crt-royale.slangp"

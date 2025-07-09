@@ -27,7 +27,7 @@
 layout(push_constant) uniform Push
 {
 	float IOS, brightboost, brightboost1, gsl, scanline1, scanline2, beam_min, beam_max, beam_size,
-    glow, inters, bloom, halation, scans, gamma_c, no_scanlines, MAXS, tds, clips, ssharp, hiscan;
+    glow, inters, bloom, halation, scans, gamma_c, no_scanlines, MAXS, tds, clips, ssharp, hiscan, SIGMA_VER, VSHARPNESS, HARNG, HSHARP, S_SHARP;
 } params;
 
 layout(std140, set = 0, binding = 0) uniform UBO
@@ -46,11 +46,6 @@ layout(std140, set = 0, binding = 0) uniform UBO
 	float barspeed;
 	float barintensity;
 	float bardir;
-	float SIGMA_VER;
-	float VSHARPNESS;
-	float S_SHARPV;
-	float VARNG;
-	float VSHARP;
 	float internal_res;
 	float scangamma;
 	float sborder;
@@ -67,27 +62,27 @@ layout(std140, set = 0, binding = 0) uniform UBO
 
 #pragma parameter bogus_vfiltering "[ VERTICAL/INTERLACING FILTERING OPTIONS ]: " 0.0 0.0 1.0 1.0
 
+#pragma parameter VSHARPNESS "          Vertical Filter Range" 1.0 1.0 8.0 0.05
+#define VSHARPNESS params.VSHARPNESS
+
+#pragma parameter SIGMA_VER "          Vertical Blur Sigma" 0.50 0.1 7.0 0.025
+#define SIGMA_VER params.SIGMA_VER
+
+#pragma parameter S_SHARP "          Substractive Sharpness" 1.0 0.0 2.0 0.10
+#define S_SHARP params.S_SHARP
+
+#pragma parameter HSHARP "          Sharpness Definition" 1.20 0.0 2.0 0.10
+#define HSHARP params.HSHARP
+
 #pragma parameter MAXS "          Maximum Sharpness" 0.15 0.0 0.30 0.01
 #define MAXS params.MAXS
 
-#pragma parameter VSHARPNESS "          Vertical Filter Range" 1.0 1.0 8.0 0.05
-#define VSHARPNESS global.VSHARPNESS
-
-#pragma parameter SIGMA_VER "          Vertical Blur Sigma" 0.50 0.1 7.0 0.025
-#define SIGMA_VER global.SIGMA_VER
-
-#pragma parameter S_SHARPV "          Vert. Substractive Sharpness" 1.0 0.0 2.0 0.10
-#define S_SHARPV global.S_SHARPV
-
-#pragma parameter VSHARP "          Vert. Sharpness Definition" 1.20 0.0 2.0 0.10
-#define VSHARP global.VSHARP
-
-#pragma parameter VARNG "          Substractive Sharpness Ringing" 0.2 0.0 4.0 0.10
-#define VARNG global.VARNG 
+#pragma parameter HARNG "          Substractive Sharpness Ringing" 0.2 0.0 4.0 0.10
+#define HARNG params.HARNG 
 
 #pragma parameter bogus_screen "[ SCREEN OPTIONS ]: " 0.0 0.0 1.0 1.0
 
-#pragma parameter intres "          Internal Resolution Y: 0.5...y-dowsample" 0.0 0.0 6.0 0.5 // Joint parameter with linearize pass, values must match
+#pragma parameter intres "          Internal Resolution Y: 0.5...y-dowsample divider" 0.0 0.0 6.0 0.5 // Joint parameter with main pass, values must match
 
 #pragma parameter IOS "          Integer Scaling: Odd:Y, Even:'X'+Y" 0.0 0.0 4.0 1.0
 #define IOS          params.IOS     // Smart Integer Scaling
@@ -107,11 +102,11 @@ layout(std140, set = 0, binding = 0) uniform UBO
 #pragma parameter overscanY "          Overscan Y original pixels" 0.0 -200.0 200.0 1.0
 #define overscanY        global.overscanY     // OverscanY pixels
 
-#pragma parameter csize "          Corner Size" 0.0 0.0 0.25 0.005
-#define csize        global.csize     // corner size
+#pragma parameter csize "          Corner Size" 0.0 0.0 0.35 0.01
+#define csize        params.csize     // corner size
 
-#pragma parameter bsize1 "          Border Size" 0.01 0.0 3.0 0.01
-#define bsize1        global.bsize1     // border size
+#pragma parameter bsize1 "          Border Size" 0.0 0.0 2.0 0.01
+#define bsize1        params.bsize1     // border Size
 
 #pragma parameter sborder "          Border Intensity" 0.75 0.25 2.0 0.05
 #define sborder       global.sborder     // border intensity
@@ -230,10 +225,6 @@ float st(float x)
 	return exp2(-10.0*x*x);
 } 
 
-float st1(float x)
-{
-	return exp2(-8.0*x*x);
-}
  
 vec3 sw0(float x, float color, float scanline, vec3 c)
 {
@@ -307,13 +298,13 @@ vec3 v_resample (vec2 tex0, vec4 Size) {
 	vec3 cmax = 0.0.xxx;
 	vec3 cmin = 1.0.xxx;
 	float vsharpness = max(VSHARPNESS*internal_res, 0.6);
-	float sharp = gaussian(vsharpness) * S_SHARPV;
+	float sharp = gaussian(vsharpness) * S_SHARP;
 	float maxsharp = MAXS;
 	float FPR = vsharpness;
+	float FPRi = 1.0/vsharpness;
 	float fpx = 0.0;
 
 	float LOOPSIZE = ceil(2.0*FPR);
-	float CLAMPSIZE = round(2.0*LOOPSIZE/3.0);
 	
 	float n = -LOOPSIZE;
 	
@@ -322,10 +313,10 @@ vec3 v_resample (vec2 tex0, vec4 Size) {
 		pixel  = COMPAT_TEXTURE(Pass1, tex + n*dy).rgb;
 
 		w = gaussian(n+f) - sharp;
-		fpx = abs(n+f-sign(n)*FPR)/FPR;
-		if (abs(n) <= CLAMPSIZE) { cmax = max(cmax, pixel); cmin = min(cmin, pixel); }
-		if (w < 0.0) w = clamp(w, mix(-maxsharp, 0.0, pow(clamp(fpx,0.0,1.0), VSHARP)), 0.0);
-	
+		fpx = (abs(n+f)-FPR)*FPRi;
+		if (w < 0.0) w = max(w, mix(-maxsharp, 0.0, pow(clamp(fpx,0.0,1.0), HSHARP)));
+		else { cmax = max(cmax, pixel); cmin = min(cmin, pixel); }
+
 		color = color + w * pixel;
 		wsum  = wsum + w;
 
@@ -335,7 +326,7 @@ vec3 v_resample (vec2 tex0, vec4 Size) {
 
 	color = color / wsum;
 
-	color = clamp(mix(clamp(color, cmin, cmax), color, VARNG), 0.0, 1.0);
+	color = clamp(mix(clamp(color, cmin, cmax), color, HARNG), 0.0, 1.0);
 
 	return color; 
 }
@@ -360,7 +351,7 @@ void main()
 	
 	float SourceY = SourceSize.y;
 	float sy = 1.0;
-	if (global.intres == 1.0) sy = SourceY/224.0;
+	if (global.intres == 1.0) sy = max(round(SourceY/224.0),1.0);
 	if (global.intres > 0.25 && global.intres != 1.0) sy = global.intres;
 	
 	// VGA Scan Mode

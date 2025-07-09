@@ -1,14 +1,22 @@
-shaders = "2"
+shaders = "4"
 
-shader0 = "shader-files/lcd-cgwg/lcd-grid.slang"
-filter_linear0 = "false"
-scale_type0 = "viewport"
+shader0 = "../../motionblur/shaders/feedback.slang"
+filter_linear0 = false
 
-shader1 = "shader-files/gb-pass-5.slang"
-filter_linear1 = "true"
+shader1 = "../shaders/color/gbc-color.slang"
+filter_linear1 = false
 
-parameters = "video_scale"
+shader2 = "shader-files/lcd-cgwg/lcd-grid.slang"
+filter_linear2 = "false"
+scale_type2 = "viewport"
+
+shader3 = "shader-files/gb-pass-5.slang"
+filter_linear3 = "true"
+
+parameters = "video_scale;GRID_STRENGTH;mixfactor"
 video_scale = 4.0
+GRID_STRENGTH = "0.150000"
+mixfactor = "0.50"
 
 textures = "BORDER"
 BORDER = "resources/color-border-square-4x.png"

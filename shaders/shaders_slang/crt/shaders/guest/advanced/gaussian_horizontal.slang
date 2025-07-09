@@ -40,7 +40,7 @@ layout(push_constant) uniform Push
 
 #pragma parameter bogus_mglow "[ MAGIC GLOW SETTINGS ]:" 0.0 0.0 1.0 1.0
 
-#pragma parameter m_glow "          Ordinary Glow / Magic Glow" 0.0 0.0 1.0 1.0 
+#pragma parameter m_glow "          Ordinary Glow / Magic Glow" 0.0 0.0 2.0 1.0 
 #define m_glow params.m_glow
 
 #pragma parameter m_glow_cutoff "          Magic Glow Cutoff" 0.12 0.0 0.4 0.01 

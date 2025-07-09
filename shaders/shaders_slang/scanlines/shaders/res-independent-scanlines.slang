@@ -19,7 +19,7 @@ layout(push_constant) uniform Push
 	float phase;
 	float lines_black;
 	float lines_white;
-	float mask, mask_weight, imageSize, autoscale;
+	float mask, mask_weight, fauxRes, autoscale;
 } params;
 
 #pragma parameter amp          "Amplitude"      1.2500  0.000 2.000 0.05
@@ -29,7 +29,7 @@ layout(push_constant) uniform Push
 
 #pragma parameter mask "Mask Layout" 0.0 0.0 19.0 1.0
 #pragma parameter mask_weight "Mask Weight" 0.5 0.0 1.0 0.01
-#pragma parameter imageSize "Simulated Image Height" 224.0 144.0 288.0 1.0
+#pragma parameter fauxRes "Simulated Image Height" 224.0 144.0 288.0 1.0
 #pragma parameter autoscale "Automatic Scale" 0.0 0.0 1.0 1.0
 
 #define freq             0.500000
@@ -66,7 +66,7 @@ layout(set = 0, binding = 2) uniform sampler2D Source;
 
 void main()
 {
-    float scale = params.imageSize; if (params.autoscale == 1.0) scale = params.OriginalSize.y; 
+    float scale = params.fauxRes; if (params.autoscale == 1.0) scale = params.OriginalSize.y; 
     float angle = (gl_FragCoord.y * params.OutputSize.w) * omega * scale + params.phase;
     vec3 color = texture(Source, vTexCoord).xyz;
     float grid;

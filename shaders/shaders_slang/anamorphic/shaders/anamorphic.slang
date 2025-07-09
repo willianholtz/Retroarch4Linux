@@ -30,13 +30,13 @@ layout(push_constant) uniform Push
 	float exc;
 	float upc;
 	float btc;
-	float exp;
+	float exp_;
 	float vuc;
 	float vab;
 } params;
 
 #pragma parameter exc "orizontal correction hack (games where players stay at center)" 0.0 -10.0 10.0 0.25
-#pragma parameter exp "border hack (hack for 2d games extra correction prepass)" 1.0 0.0 1.0 1.0
+#pragma parameter exp_ "border hack (hack for 2d games extra correction prepass)" 1.0 0.0 1.0 1.0
 #pragma parameter vuc "vertical Upper resize hack (most important first pass)" 0.0 0.0 10.0 0.25
 #pragma parameter vab "vertical Bottom resize hack (90-85 second pass)" 1.0 0.5 1.0 0.01
 #pragma parameter upc "Upper  vertical Crop" 0.0 0.0 10.0 0.25
@@ -108,7 +108,7 @@ float AnamorphB(float CoordB)
 void main()
 {
 	vec2 RCoord = vTexCoord * 2.0 - 1.0;
-	if (params.exp == 1.0)
+	if (params.exp_ == 1.0)
 	{
 	RCoord.x *=1.0105;
 	RCoord.x *= AnamorphB(RCoord.x);

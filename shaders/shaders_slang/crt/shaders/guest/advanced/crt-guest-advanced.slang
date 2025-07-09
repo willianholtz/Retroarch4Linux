@@ -158,7 +158,7 @@ layout(std140, set = 0, binding = 0) uniform UBO
 
 #pragma parameter bogus_screen "[ SCREEN OPTIONS ]: " 0.0 0.0 1.0 1.0
 
-#pragma parameter intres "          Internal Resolution Y: 0.5...y-dowsample" 0.0 0.0 6.0 0.5 // Joint parameter with linearize pass, values must match
+#pragma parameter intres "          Internal Resolution Y: 0.5...y-dowsample divider" 0.0 0.0 6.0 0.5 // Joint parameter with main pass, values must match
 
 #pragma parameter TATE "          TATE Mode" 0.0 0.0 1.0 1.0
 #define TATE         params.TATE     // Screen orientation
@@ -218,11 +218,6 @@ float st(float x)
 {
 	return exp2(-10.0*x*x);
 } 
-
-float st1(float x)
-{
-	return exp2(-8.0*x*x);
-}
    
 vec3 sw0(float x, float color, float scanline, vec3 c)
 {
@@ -298,7 +293,7 @@ void main()
 	float SourceY = mix(SourceSize.y, SourceSize.x, TATE);
 	
 	float sy = 1.0;
-	if (global.intres == 1.0) sy = SourceY/224.0;
+	if (global.intres == 1.0) sy = max(round(SourceY/224.0),1.0);
 	if (global.intres > 0.25 && global.intres != 1.0) sy = global.intres;
 	
 	// VGA Scan Mode
@@ -365,14 +360,15 @@ void main()
 	float sharp1 = s_sharp * zero;
 	
 	float idiv = clamp(mix(SourceSize.x, SourceSize.y, TATE) / 400.0, 1.0, 2.0);
-	float fdivider = max(min(mix(prescalex.x, prescalex.y,TATE), 2.0), idiv*float(interb));
+	float fdivider = max(min(mix(prescalex.x, prescalex.y, TATE), 2.0), idiv*float(interb));
+	fdivider = 1.0/max(fdivider, 1.0);
 	
-	float wl3 = (2.0 + fpx)/fdivider;
-	float wl2 = (1.0 + fpx)/fdivider;
-	float wl1 = (      fpx)/fdivider;
-	float wr1 = (1.0 - fpx)/fdivider;
-	float wr2 = (2.0 - fpx)/fdivider;
-	float wr3 = (3.0 - fpx)/fdivider;
+	float wl3 = (2.0 + fpx)*fdivider;
+	float wl2 = (1.0 + fpx)*fdivider;
+	float wl1 = (      fpx)*fdivider;
+	float wr1 = (1.0 - fpx)*fdivider;
+	float wr2 = (2.0 - fpx)*fdivider;
+	float wr3 = (3.0 - fpx)*fdivider;
 
 	wl3*=wl3; wl3 = exp2(-h_sharp*wl3);
 	wl2*=wl2; wl2 = exp2(-h_sharp*wl2);
