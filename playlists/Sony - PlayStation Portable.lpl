@@ -9,35 +9,35 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Tekken - Dark Resurrection (USA) (En,Fr,De,Es,It).iso",
-      "label": "Tekken - Dark Resurrection (USA) (En,Fr,De,Es,It)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "ULUS-10139|serial",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Castlevania - The Dracula X Chronicles (USA).iso",
+      "label": "Castlevania - The Dracula X Chronicles (USA) (v1.02)",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "ULUS-10277|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/King of Fighters Collection, The - The Orochi Saga (USA).iso",
-      "label": "King of Fighters Collection, The - The Orochi Saga (USA)",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Dragon Ball Z - Tenkaichi Tag Team (USA) (EnFrEs).chd",
+      "label": "Dragon Ball Z - Tenkaichi Tag Team (USA) (En,Fr,Es)",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "ULUS-10360|serial",
+      "crc32": "ULUS-10537|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Grand Theft Auto - Chinatown Wars (USA).iso",
-      "label": "Grand Theft Auto - Chinatown Wars (USA) (v1.01)",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/God of War - Chains of Olympus (USA).chd",
+      "label": "God of War - Chains of Olympus (USA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "ULUS-10490|serial",
+      "crc32": "UCUS-98653|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Grand Theft Auto - Liberty City Stories (USA) (En,Fr,De,Es,It) (v3.00).iso",
-      "label": "Grand Theft Auto - Liberty City Stories (USA) (En,Fr,De,Es,It) (v3.00)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "ULUS-10041|serial",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/God of War - Ghost of Sparta (USA) (EnFrEs).chd",
+      "label": "God of War - Ghost of Sparta (USA) (En,Fr,Es) (v2.00)",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "UCUS-98737|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
@@ -49,63 +49,23 @@
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Castlevania - The Dracula X Chronicles (USA).iso",
-      "label": "Castlevania - The Dracula X Chronicles (USA) (v1.02)",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/MediEvil - Resurrection (USA).chd",
+      "label": "MediEvil - Resurrection (USA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "ULUS-10277|serial",
+      "crc32": "UCUS-98620|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Crazy Taxi - Fare Wars (USA) (v2.01).iso",
-      "label": "Crazy Taxi - Fare Wars (USA) (En,Fr,De,Es,It) (v2.01)",
-      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
-      "core_name": "Sony - PlayStation Portable (PPSSPP)",
-      "crc32": "ULUS-10273|serial",
-      "db_name": "Sony - PlayStation Portable.lpl"
-    },
-    {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Guilty Gear Judgment (USA).iso",
-      "label": "Guilty Gear Judgment (USA) (v1.01)",
-      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
-      "core_name": "Sony - PlayStation Portable (PPSSPP)",
-      "crc32": "ULUS-10104|serial",
-      "db_name": "Sony - PlayStation Portable.lpl"
-    },
-    {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Harvest Moon - Hero of Leaf Valley (USA).iso",
-      "label": "Harvest Moon - Hero of Leaf Valley (USA)",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Metal Gear Solid - Peace Walker (USA) (En,Fr,Es) (v2.00).iso",
+      "label": "Metal Gear Solid - Peace Walker (USA) (En,Fr,Es) (v2.00)",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "ULUS-10458|serial",
+      "crc32": "ULUS-10509|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Mega Man - Maverick Hunter X (USA).iso",
-      "label": "Mega Man - Maverick Hunter X (USA) (v1.01)",
-      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
-      "core_name": "Sony - PlayStation Portable (PPSSPP)",
-      "crc32": "ULUS-10068|serial",
-      "db_name": "Sony - PlayStation Portable.lpl"
-    },
-    {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Mega Man - Powered Up (USA).iso",
-      "label": "Mega Man - Powered Up (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "ULUS-10091|serial",
-      "db_name": "Sony - PlayStation Portable.lpl"
-    },
-    {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Metal Slug Complete (Japan, Korea).iso",
-      "label": "Metal Slug Complete (Japan) (v1.06)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "ULJS-00090|serial",
-      "db_name": "Sony - PlayStation Portable.lpl"
-    },
-    {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Metal Slug XX (USA).iso",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Metal Slug XX (USA).chd",
       "label": "Metal Slug XX (USA) (v1.01)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -113,59 +73,59 @@
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Need for Speed - Most Wanted - 5-1-0 (USA).iso",
-      "label": "Need for Speed - Most Wanted 5-1-0 (USA)",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Naruto Shippuden - Ultimate Ninja Impact (USA) (EnFrEs).chd",
+      "label": "Naruto Shippuden - Ultimate Ninja Impact (USA) (En,Fr,Es)",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "ULUS-10036|serial",
+      "crc32": "ULUS-10582|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Silent Hill Origins (USA) (En,Fr,De,Es,It).iso",
-      "label": "Silent Hill - Origins (USA) (En,Fr,De,Es,It)",
-      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
-      "core_name": "Sony - PlayStation Portable (PPSSPP)",
-      "crc32": "ULUS-10285|serial",
-      "db_name": "Sony - PlayStation Portable.lpl"
-    },
-    {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Silent Hill - Shattered Memories (USA).iso",
-      "label": "Silent Hill - Shattered Memories (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "ULUS-10450|serial",
-      "db_name": "Sony - PlayStation Portable.lpl"
-    },
-    {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Simpsons Game, The (USA).iso",
-      "label": "Simpsons Game, The (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
-      "core_name": "Sony - PlayStation Portable (PPSSPP)",
-      "crc32": "ULUS-10295|serial",
-      "db_name": "Sony - PlayStation Portable.lpl"
-    },
-    {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Street Fighter Alpha 3 Max (USA).iso",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Street Fighter Alpha 3 Max (USA).chd",
       "label": "Street Fighter Alpha 3 Max (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
-      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
       "crc32": "ULUS-10062|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Ultimate Ghosts'n Goblins (USA).iso",
-      "label": "Ultimate Ghosts 'n Goblins (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
-      "core_name": "Sony - PlayStation Portable (PPSSPP)",
-      "crc32": "ULUS-10105|serial",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Tekken 6 (USA) (EnJaFrDeEsItKoRu).chd",
+      "label": "Tekken 6 (USA) (En,Fr,De,Es,It,Ru)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULUS-10466|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/World Soccer Winning Eleven 9 - Ubiquitous Evolution (Japan, Asia).iso",
-      "label": "World Soccer Winning Eleven 9 - Ubiquitous Evolution (Japan) (v1.03)",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Tony Hawks Project 8 (USA) (v2.03).chd",
+      "label": "Tony Hawk's Project 8 (USA) (v2.03)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULUS-10197|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Tony Hawks Underground 2 Remix (USA).chd",
+      "label": "Tony Hawk's Underground 2 Remix (USA) (v1.01)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULUS-10014|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/World Soccer Winning Eleven 2012 (Asia) (EnZh).chd",
+      "label": "World Soccer Winning Eleven 2012 (Asia) (En,Zh)",
       "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
       "core_name": "Sony - PlayStation Portable (PPSSPP)",
-      "crc32": "ULJM-05033|serial",
+      "crc32": "ULAS-42289|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/World Soccer Winning Eleven 2014 - Aoki Samurai no Chousen (Japan).iso",
+      "label": "World Soccer Winning Eleven 2014 - Aoki Samurai no Chousen (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ULJM-06369|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     }
   ]

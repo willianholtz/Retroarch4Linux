@@ -9,35 +9,115 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Resident Evil - Directors Cut (USA).chd",
-      "label": "Resident Evil - Director's Cut (USA)",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Destruction Derby 2 (USA).chd",
+      "label": "Destruction Derby 2 (USA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "SLUS-00551|serial",
+      "crc32": "SCUS-94350|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Castlevania - Symphony of the Night (USA).chd",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Tekken 3 (USA).chd",
+      "label": "Tekken 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00402|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Crash Bandicoot (USA).chd",
+      "label": "Crash Bandicoot (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SCUS-94900|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Crash Bandicoot - Warped (USA).chd",
+      "label": "Crash Bandicoot - Warped (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SCUS-94244|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Twisted Metal 2 (USA).chd",
+      "label": "Twisted Metal 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SCUS-94306|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Twisted Metal III (USA) (Rev 1).chd",
+      "label": "Twisted Metal III (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SCUS-94249|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mat Hoffmans Pro BMX (USA).chd",
+      "label": "Mat Hoffman's Pro BMX (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-01113|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Tony Hawks Pro Skater 4 (USA).chd",
+      "label": "Tony Hawk's Pro Skater 4 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-01485|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Dragon Ball GT - Final Bout (USA).chd",
+      "label": "Dragon Ball GT - Final Bout (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00493|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Driver 2/Driver 2 (USA) (Disc 1) (Rev 1).cue",
+      "label": "Driver 2 (USA) (Disc 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-01161-0|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Driver 2/Driver 2 (USA) (Disc 2) (Rev 1).cue",
+      "label": "Driver 2 (USA) (Disc 2) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-01318-1|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Akumajou Dracula X - Gekka no Yasoukyoku (Portuguese v110224)/Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (Rev 2).cue",
       "label": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (Rev 1)",
-      "core_path": "/home/willian/.config/retroarch/cores/swanstation_libretro.so",
-      "core_name": "Sony - PlayStation (SwanStation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
       "crc32": "SLPM-86023|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Alone in the Dark - The New Nightmare (USA) (Disc 1).chd",
-      "label": "Alone in the Dark - The New Nightmare (USA) (Disc 1)",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Castlevania - Symphony of the Night (USA).chd",
+      "label": "Castlevania - Symphony of the Night (USA)",
       "core_path": "/home/willian/.config/retroarch/cores/swanstation_libretro.so",
       "core_name": "Sony - PlayStation (SwanStation)",
-      "crc32": "SLUS-01201-0|serial",
+      "crc32": "SLUS-00067|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Alone in the Dark - The New Nightmare (USA) (Disc 2).chd",
-      "label": "Alone in the Dark - The New Nightmare (USA) (Disc 2)",
-      "core_path": "/home/willian/.config/retroarch/cores/swanstation_libretro.so",
-      "core_name": "Sony - PlayStation (SwanStation)",
-      "crc32": "SLUS-01377-1|serial",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Crash Bandicoot 2 - Cortex Strikes Back (USA).chd",
+      "label": "Crash Bandicoot 2 - Cortex Strikes Back (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SCUS-94154|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
@@ -57,27 +137,11 @@
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Looney Tunes - Sheep Raider (USA).chd",
-      "label": "Looney Tunes - Sheep Raider (USA) (En,Fr,Es,Pt)",
-      "core_path": "/home/willian/.config/retroarch/cores/swanstation_libretro.so",
-      "core_name": "Sony - PlayStation (SwanStation)",
-      "crc32": "SLUS-01369|serial",
-      "db_name": "Sony - PlayStation.lpl"
-    },
-    {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Medal of Honor (USA).chd",
-      "label": "Medal of Honor (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/swanstation_libretro.so",
-      "core_name": "Sony - PlayStation (SwanStation)",
-      "crc32": "SLUS-00974|serial",
-      "db_name": "Sony - PlayStation.lpl"
-    },
-    {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Medal of Honor - Underground (USA).chd",
-      "label": "Medal of Honor - Underground (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/swanstation_libretro.so",
-      "core_name": "Sony - PlayStation (SwanStation)",
-      "crc32": "SLUS-01270|serial",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Legacy of Kain - Soul Reaver (USA).chd",
+      "label": "Legacy of Kain - Soul Reaver (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00708|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
@@ -97,63 +161,79 @@
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mega Man X6 (USA).chd",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mega Man X6 (USA) (Rev 1).chd",
       "label": "Mega Man X6 (USA) (Rev 1)",
-      "core_path": "/home/willian/.config/retroarch/cores/swanstation_libretro.so",
-      "core_name": "Sony - PlayStation (SwanStation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
       "crc32": "SLUS-01395|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mortal Kombat Trilogy (USA).chd",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Mortal Kombat Trilogy (USA) (Rev 1).chd",
       "label": "Mortal Kombat Trilogy (USA) (Rev 1)",
-      "core_path": "/home/willian/.config/retroarch/cores/swanstation_libretro.so",
-      "core_name": "Sony - PlayStation (SwanStation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
       "crc32": "SLUS-00330|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Resident Evil 2 (USA) (Disc 1).chd",
-      "label": "Resident Evil 2 (USA) (Disc 1)",
-      "core_path": "/home/willian/.config/retroarch/cores/swanstation_libretro.so",
-      "core_name": "Sony - PlayStation (SwanStation)",
-      "crc32": "SLUS-00421-0|serial",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Resident Evil - Directors Cut - Dual Shock Ver. (USA).chd",
+      "label": "Resident Evil - Director's Cut - Dual Shock Ver. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00747|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Resident Evil 2 (USA) (Disc 2).chd",
-      "label": "Resident Evil 2 (USA) (Disc 2)",
-      "core_path": "/home/willian/.config/retroarch/cores/swanstation_libretro.so",
-      "core_name": "Sony - PlayStation (SwanStation)",
-      "crc32": "SLUS-00592-1|serial",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1).chd",
+      "label": "Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00748-0|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Resident Evil 2 - Dual Shock Ver. (USA) (Disc 2).chd",
+      "label": "Resident Evil 2 - Dual Shock Ver. (USA) (Disc 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "SLUS-00756-1|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Resident Evil 3 - Nemesis (USA).chd",
       "label": "Resident Evil 3 - Nemesis (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/swanstation_libretro.so",
-      "core_name": "Sony - PlayStation (SwanStation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
       "crc32": "SLUS-00923|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Silent Hill (USA).chd",
       "label": "Silent Hill (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/swanstation_libretro.so",
-      "core_name": "Sony - PlayStation (SwanStation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
       "crc32": "SLUS-00707|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Star Wars - Episode I - Jedi Power Battles (USA).chd",
-      "label": "Star Wars - Episode I - Jedi Power Battles (USA)",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Spider-Man 2 - Enter - Electro (USA) (Rev 1).chd",
+      "label": "Spider-Man 2 - Enter - Electro (USA) (Rev 1)",
       "core_path": "/home/willian/.config/retroarch/cores/swanstation_libretro.so",
       "core_name": "Sony - PlayStation (SwanStation)",
-      "crc32": "SLUS-01046|serial",
+      "crc32": "SLUS-01378|serial",
       "db_name": "Sony - PlayStation.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Tony Hawk's Pro Skater 3 (USA).chd",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Tony Hawks Pro Skater 2 (USA).chd",
+      "label": "Tony Hawk's Pro Skater 2 (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/swanstation_libretro.so",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "SLUS-01066|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation/Tony Hawks Pro Skater 3 (USA).chd",
       "label": "Tony Hawk's Pro Skater 3 (USA)",
       "core_path": "/home/willian/.config/retroarch/cores/swanstation_libretro.so",
       "core_name": "Sony - PlayStation (SwanStation)",

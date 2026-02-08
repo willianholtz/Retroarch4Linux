@@ -17,6 +17,7 @@ Retroarch was configured from scratch, using some packages found on the net, suc
 - Bezzels for all games
 - Mega Bezels pack for shaders (CRT) and configured without TV curvature (Default comes with curvature)
 - All roms (games) have their overlays (roms not included!).
+- Configured for 4K monitors, using the crt-royale shader. (Change and save if you don't use this shader)
 
 ## Games (Roms)
 Roms must all be NO-INTRO or REDUMP (RECOMMENDED), or edit all the roms you download.
@@ -33,9 +34,10 @@ Bios are in the system folder, but only what is necessary for this project to wo
 - You can found roms in archive.org.
 - Retroarch does not use MAME emulators, only FBNeo, and all roms work perfectly (as far as I was able to do the tests) so avoid using the MAME core (any of them, as you won't need it). There is a rom pack, which has 16GB with all the perfect roms, you can find it using the following keywords: "Final Burn Alpha v0.2.97.43 Merged Arcade Roms Only" (Torrent)
 
+Note: If you wish to start your collection from scratch, simply delete the playlist folder and scan again according to your directories.
+
 # What do you need to know?
-Retroarch is configured with CRT shader (Mega Bezel/Presets/MBZ__3__STD) and overlay bezzels for a better experience. You can disable or change the shader at will.
-Package contains around 25GB, with 100% of the emulator configured, using Vulkan. It is also worth noting that GPU and CPU usage may change depending on the computer. For example, my equipment is:
+I'm currently only using the Royale shader for 4K monitors, so feel free to change it according to your monitor.. For example, my equipment is:
 - Ryzen 7 5700x
 - RXT 2060 12GB
 - 64GB RAM
