@@ -65,10 +65,18 @@
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Metal Slug Anthology (USA).chd",
+      "label": "Metal Slug Anthology (USA) (v1.03)",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
+      "crc32": "ULUS-10154|serial",
+      "db_name": "Sony - PlayStation Portable.lpl"
+    },
+    {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Metal Slug XX (USA).chd",
       "label": "Metal Slug XX (USA) (v1.01)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "ULUS-10495|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     },
@@ -123,8 +131,8 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/World Soccer Winning Eleven 2014 - Aoki Samurai no Chousen (Japan).iso",
       "label": "World Soccer Winning Eleven 2014 - Aoki Samurai no Chousen (Japan)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "ULJM-06369|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     }
