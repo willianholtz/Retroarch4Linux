@@ -13,8 +13,11 @@ layout(push_constant) uniform Push
     float H_InputGamma;
 } params;
 
-#pragma parameter LUT_selector_param "LUT [ Off | Grade RGB | Grade Composite ]" 1.0 0.0 2.0 1.0
-#pragma parameter H_InputGamma "INPUT GAMMA" 2.4 1.0 3.0 0.05
+#pragma parameter crt_nonono        "** CRT-HYLLIAN **"             0.0 0.0 1.0 1.0
+#pragma parameter non_nonono        " "                             0.0 0.0 1.0 1.0
+#pragma parameter col_nonono        "COLOR SETTINGS:"               0.0 0.0 1.0 1.0
+#pragma parameter LUT_selector_param "    LUT [ OFF, DARK BLUE, DARK BLUE - COOL ]" 1.0 0.0 2.0 1.0
+#pragma parameter H_InputGamma "    Input Gamma" 2.4 1.0 3.0 0.05
 
 #define H_InputGamma params.H_InputGamma
 

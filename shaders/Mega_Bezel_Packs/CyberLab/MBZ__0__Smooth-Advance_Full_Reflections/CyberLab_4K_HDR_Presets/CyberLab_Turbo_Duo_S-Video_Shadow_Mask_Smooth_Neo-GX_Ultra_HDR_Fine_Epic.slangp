@@ -1,0 +1,19 @@
+#reference "../../../CyberLab/MBZ__0__Smooth-Advance_Full_Reflections/CyberLab_4K_HDR_Presets/CyberLab_Turbo_Duo_Composite_Shadow_Mask_Smooth_Neo-GX_Ultra_HDR.slangp"
+
+HSM_INT_SCALE_MODE = "2.000000"
+HSM_CROP_PERCENT_TOP = "2.100000"
+HSM_CROP_PERCENT_BOTTOM = "2.100000"
+
+g_sat = "0.120000"
+ntsc_scale = "0.590000"
+cust_fringing = "0.000000"
+cust_artifacting = "0.600000"
+ntsc_sharp = "-10.000000"
+gamma_c = "1.075000"
+
+masksize = "2.000000"
+mshift = "-3.000000"
+mask_layout = "1.000000"
+
+AS = "0.040000"
+ntsc_scale = "0.680000"

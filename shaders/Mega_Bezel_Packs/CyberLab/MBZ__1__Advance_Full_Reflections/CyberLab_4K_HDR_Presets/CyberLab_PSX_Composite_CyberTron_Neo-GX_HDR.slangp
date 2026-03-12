@@ -1,0 +1,5 @@
+#reference "../../../CyberLab/MBZ__0__Smooth-Advance_Full_Reflections/CyberLab_Neo-GX_4K_Presets/CyberLab_PSX_Composite_CyberTron_Neo-GX.slangp"
+post_br = "1.000000"
+HSM_GLOBAL_GRAPHICS_BRIGHTNESS = "40.000000"
+g_sat = "0.040000"
+gamma_c = "1.350000"

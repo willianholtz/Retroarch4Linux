@@ -1,0 +1,13 @@
+#reference "../../../CyberLab/MBZ__0__Smooth-Advance_Full_Reflections/CyberLab_4K_HDR_Presets/CyberLab_Turbo_Duo_Composite_Shadow_Mask_Smooth_Neo-GX_Ultra_HDR.slangp"
+
+HSM_INT_SCALE_MODE = "2.000000"
+HSM_CROP_PERCENT_TOP = "2.100000"
+HSM_CROP_PERCENT_BOTTOM = "2.100000"
+
+
+masksize = "2.000000"
+mshift = "-3.000000"
+mask_layout = "1.000000"
+
+AS = "0.040000"
+ntsc_scale = "0.680000"

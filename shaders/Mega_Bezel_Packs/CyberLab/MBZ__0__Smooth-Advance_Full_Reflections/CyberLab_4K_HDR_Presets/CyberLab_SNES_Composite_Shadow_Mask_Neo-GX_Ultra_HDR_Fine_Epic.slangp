@@ -1,0 +1,7 @@
+#reference "../../../CyberLab/MBZ__0__Smooth-Advance_Full_Reflections/CyberLab_4K_HDR_Presets/CyberLab_SNES_Composite_Shadow_Mask_Neo-GX_Ultra_HDR.slangp"
+HSM_DOWNSAMPLE_BLUR_OPPOSITE_DIR = "2.000000"
+SUPERXBR_ON = "1.000000"
+gamma_c = "1.050000"
+masksize = "2.000000"
+mshift = "-3.000000"
+mask_layout = "1.000000"

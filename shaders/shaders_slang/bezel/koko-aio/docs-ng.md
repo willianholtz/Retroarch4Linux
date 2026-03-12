@@ -34,15 +34,6 @@
 ---------------------------
     
 **USEFUL LOCATIONS/FILES:**
-
-    config/config-static.inc:
-        Some shader parameters can't be changed within retroarch,
-        use this file instead.
-        Notable one is lcd antighosting feature.
-        
-    config/config-user.txt:
-        This file has been deprecated, since it could be overwritten by
-        a shader update, so use config/config-user-opional.txt
         
     config/config-user-optional.txt:    
         Shader parameters that can be changed within Retroarch.
@@ -50,13 +41,13 @@
         PRO: The shader will be faster
         CON: The parameters can no longer be modified within Retroarch. 
         Please read config-user-optional-template.txt for instructions.
-        
+               
     textures/background_under.png
-        This is the image that shown by default under the game and the bezel.
+        This is the image shown by default under the game and the bezel.
         Read further for details. 
         
     textures/background_over.png
-        This is the image that shown by default over the game and the bezel.
+        This is the image shown by default over the game and the bezel.
         Read further for details.
         
     textures/monitor_body_curved.png, textures/monitor_body_straight.png
@@ -64,12 +55,13 @@
         Read further in the bezel section of this document for details.
         
     textures/side_shade-helper.png
-        Bezel frame inner area, the reflective part, is shaded by default so that
-        upper area is less bright and lower area is a bit brighter.
-        While the shader does not expose controls to change that, if you want,
-        you can edit this file to alter the shades.
-        The more a primary color is saturated, the more the shade will turn to dark.
-        
+        This file helps the shader to cast different shadows on different sides of the reflective part of the bezel (so, the inner area).
+        Green color represents the side, while blue and red represents upper and lower side.
+        Color blue<->green<->red color transitions are smoothed to produce smoothed shadows, you can tweak that to alter the shadows look.
+        The file is also useful to overcome a bug in Retroarch, where some 3D accelerated cores like flycast, if coupled with GLCore video driver, flips the bezel upside down. In those cases, you should/could flip the image itself.
+    config/config-static.inc:
+        Some obscure shader parameters can't be changed within retroarch,
+        use this file instead.
         
 Texture "sources", including the main gimp project file for the <br>
 default curved and straight monitor frame are on the following repo: <br>
@@ -78,7 +70,10 @@ https://github.com/kokoko3k/koko-aio-slang-misc/tree/main
 
 ---------------------------
 
-**PARAMETERS:**
+**PARAMETERS:**<br>
+*koko-aio as tons of configurable parameters, and for this reason it comes with a lot of pre-configured presets.<br>
+My advice is to start with a preset you like, and then tweak it by following this documentation, rather than starting from scratch.*
+
 
 **Gamma in:**<br>
 Input Gamma: set it around 2.2 to linearize values.
@@ -99,11 +94,10 @@ However nice effects may be obtained (eg: with vector games). <br>
         self explanatory.
     Input signal gain:
         Gain applied in the chain just before the crt emulation stages.
-    Adaptive black level range:
-        On old CRTs the contrast was higher on high luminosity content,
-        and lower on low luminosity content.
-        This setting modulate the range of the effect; 0.0 disables it.
-
+    CRT Black crush:
+        Emulate an old or low-quality CRT behaviour:
+        Clips dark tones to black as the overall image brightness increases.
+        
     It is also possible to emulate a monochrome display with custom colors:
     
         Monochrome screen colorization:
@@ -117,56 +111,70 @@ However nice effects may be obtained (eg: with vector games). <br>
             . Then report them in the shader with the formula hue1/360 and hue2/360.
         Hue bright-dark bias:
             Controls the distribution of dark and bright hues.
-    
+
+
 **Antialiasing enable:**<br>
     Apply an edge smoothing/antialiasing algotithm.<br>
     Use it if you don't want to blur the image and you still don't like<br>
     jagged or too much pixelated images.<br>
 
 
-** Dedither:**<br>
-    Try to smooth dithering patterns.<br>
+**Dedither:**<br>
+	Try to smooth dithering patterns.<br>
     Dedithering does not work as long as NTSC color artifacts are enabled.
     
     Sensitivity: Avoid to dedither "legit" zones by lowering this.
     Basic search strength: Blends basic dedithering and original image.
     Extensive search strength: Blends extensive dedithering and original image .
                                may produce posterization effects.
+
+
+** Fake Transparencies blending:**<br>
+    Detect vertical patterns used in some games to
+    fake transparent colors and blends them.
+    (eg Sonic waterfalls or Kirby's dreamland 3 water)
+    
+    Overridden X(Y)-sharpness: The lower, the blurrier.
     
     
 **CVBS: NTSC color artifacts:**<br>
-    Tries to emulate typical NTSC color artifacting without emulating<br>
-    full NTSC coding/decoding pipeline.<br>
-    While it improves the look of NTSC content, don't expect it to be<br>
-    an accurate emulation (yet?)<br>
-    As today, it is enough to emulate rainbowing effects on genesis.<br>
-    If you enable Glow/Blur functions or Bandwidth limited chroma,<br>
-    the image will be blurred in a way or another.<br>
-    You can selectively keep the part of the image which does not contain<br>
-    artifacts sharp by using the followin controls.<br>
-    This allow to selectively blend artifacts.<br>
-    <br>Enabling this features automatically disabled dedithering feature.
+    Emulate typical NTSC color artifacting<br>
+    It is able to emulate straight rainbowing effects as seen on Megadrive<br>
+    or oblique as seen on NES, and specific color generation from repeating
+    B/W patterns as seen on CGA or Apple II composite systems.
     
-    Consider artifacts above this treshold:
+	Strength: 
+	    Self explanatory.
+	Filter Width, Subcarrier Frequency mul, Frequency cutoff
+	    Completely alters artifacts rendering, please see already cooked presets for interesting values.
+	Phase shift
+		Set to 0.0 to emulate straight rainbowing (Megadrive), or 1.0 to have 45 degree rainbowing.
+    Artifacts upper threshold:
         Tune this to select more or less artifacts, depending on their strength.
-    Show selected artifacts mask (need glow/blur enabled)
+    Cancel artifacts under the threshold
+        How much of the artifacts under the threshold will be completely removed.
+    Show selected artifacts mask.
         This will show only the part of the image that contains artifacts.
         Use it to for a better visual feedback of the following parameters.
-        Please, enable "glow" to s
-    Cancel artifacts under the treshold
-        How much of the artifacts under the treshold will be completely removed.
+        "glow/blur shader parameter" needs to be enabled for this to work.
         
     
 **CVBS: Bandwidth limited chroma:**<br>
-    Will cause an horizontal chroma bleed which cheaply mimics the effect of<br>
-    poor composite video signals.<br>
-    It can be used with RGB shifting and image blurring to give the picture<br>
-    an ntsc look without dealing with specific encoding/decoding stuffs. <br>
+    Will cause an horizontal chroma bleed typical of band constrained composite signals.
+    
+	Colorspace (NTSC, PAL)
+		Switch bandwidths to match different standards.
+	Strength
+		Self explanatory.
+	Size/Quality
+		Maximum bleed size (the higher, the slower).
+	Shrpness
+		The bleed falloff speed.
+
 
 **CVBS: Dot crawl**<br>
     Emulates rolling chroma->luma crosstalks observed in composite signals.<br>
     
-    Colorspace: You can switch between pal and ntsc behaviour.
     Speed:
         Lower absolute values gives a more visible effect.
         A negative value will switch to verically crawling artifacts.
@@ -175,12 +183,16 @@ However nice effects may be obtained (eg: with vector games). <br>
 **Persistence of phosphors:**<br>
     This emulates the unexcited phosphors that continue to emit light.
 
-    Early decay: is the immediate light cut after the phosphor is no more/less excited.
-    Late persistence: modulates the time the residual light will stay on screen
-
+    Early decay (blue): is the immediate light cut after the blue phosphor is no more/less excited.
+    Late persistence (blue): modulates the time the residual blue light will stay on screen
+    Red/Green decay time multiplier: 
+                       Chemical composition makes different phosphors have different decay times.
+                       Highering this parameter will make them slower than blue.
+    
 
 **Deconvergence:**<br>
     Shift R,G,B components separately to mimic channel deconvergence.<br>
+    Scanlines will be "staggered" according to the Y setting.
     
     Red,Green,Blue X,Y:
         The channels deconvergence offsets
@@ -192,7 +204,7 @@ However nice effects may be obtained (eg: with vector games). <br>
         The area of the screen that will be in focus (affects previous 2 settings)
 
         
-** RF Noise:**<br>
+**RF Noise:**<br>
     Emulates radio frequency noise with a given strength<br>
     1 produce noise before the Glow/Blur pass, while -1 will move it after.
     Suggestions:
@@ -202,23 +214,15 @@ However nice effects may be obtained (eg: with vector games). <br>
     Uniform noise: Balanced noise that ranges from -x to +x.
     Snow noise: Sparkling/Rarefied noise 
         
-**Megadrive fake transparencies:**<br>
-    Detect patterns used in some Megadrive/Genesis games to
-    fake transparent colors and blends them.
-    
-    Overridden X(Y)-sharpness: The lower, the blurrier.
-
-
         
 **Glow/Blur:**<br>
-    Emulate the CRT glowing "feature", so that the brighter areas of<br>
-    the image will light their surroundings,<br>
-    with options to switch to classic blur.<br>
+	Blur the image and/or embolds bright pixels.
 
     Glow to blur bias:
         Higher negative values -> more glow : brighter colors expands over darker ones.
         Higher positive values -> means blur: all the colors are blurred.
         0.0 means no blur, no glow.
+        Please note that this always reverts to full blur (1.0) when using "Fake transparencies/blending" feature
     Glow spread amount:
         The higher, the more the bright colors will smoothly expand.
         It emulates the natural antialiasing you see on CRTs on bright areas.
@@ -232,7 +236,7 @@ However nice effects may be obtained (eg: with vector games). <br>
           add visual sharpness to image when approaching lower values.
 
     Warped glow (X,Y):
-        Embolden bright pixels near dark ones using a warpsharp like algorithm.
+        Embolds bright pixels near dark ones using a warpsharp like algorithm.
         This is a cheap way to emulate phosphor glowing.
         The Y parameter will also allow scanlines to be higher.
         It will also help (if coupled with) antialiasing to stay sharp.
@@ -242,9 +246,15 @@ However nice effects may be obtained (eg: with vector games). <br>
         nearby pixels, thereby altering their "Warped" shape.
 
 
-**Tate mode:**<br>
-    Rotates mask and scanlines by 90°<br>
-        
+
+**Tate mode (use horizontal scanlines):**<br>
+    Rotates (or not) mask and scanlines by 90°<br>
+    
+    1: Use horizontal scanlines and vertical mask only for rotated content (typical 3:4 aspect arcade games)
+    2: Always.
+    0: Never.
+    
+    
 **Glitch if vertical resolution changes:**<br>
     Emulates the crt circuits syncing to the new signal timing.<br>
     Will shake the screen for a while when the resolution changes.<br>
@@ -288,9 +298,7 @@ However nice effects may be obtained (eg: with vector games). <br>
         
         
 **Low level phosphor grid:**<br>
-    This is a way to produce horizontal masks, scanlines and aperturegrille/slotmasks.<br>
-    Parameters are tricky to setup, but possibilities are mny more quality is good at 1080p<br>
-    and hopefully great at higher resolutions.<br>
+    This section contains parameters to emulate scanlines and phosphors layouts such as, but not limited to: aperturegrille,slotmasks,shadowmasks. <br>
     By reading the following explanaitions, you will realize that this section can also be used to emulate<br>
     handhelds screens, where pixels you see on screen have to be sized proportionally to the game one.<br>
     
@@ -349,16 +357,11 @@ However nice effects may be obtained (eg: with vector games). <br>
             The previous effect staggers scanlines at "triad width interval", but here you can alter
             that interval.
             Setting an interval of 1.0 can be used to hide moire patterns.
-        Deconvergence Y: R,G,B phosphor" 
-            This emulates Y deconvergence on phosphor level rather than on image level as seen in
-            the previous deconvergence section.
-            Emulating deconvergence here is good because phosphors will be able to brighten the
-            dark gap left by scanlines.
         Dedot mask between scanlines
             When using Horizontal masks, you mai notice a disturbing dot pattern left between high
             scanlines, that's the residual of horizontal mask.
             Use this parameter to clear it and use it only if needed or it would have counter-effects.
-            Also, mutating dots to straight lines would make moiree more visible when using curvature.
+            Also, mutating dots to straight lines would make moire more visible when using curvature.
     
     
     Horizontal mask (rgb subpixel mask strength)
@@ -488,8 +491,8 @@ However nice effects may be obtained (eg: with vector games). <br>
             0: display is always slow to refresh (Game gear)
             1: display is slow to refresh bright pixels (??)
             2: display is slow to refresh dark pixels (Game Boy)
-    Shadow strength:
-        Emulates the typical shadow seen on Gameboy mono handhelds
+    Diorama/Shadow strength:
+        Emulates the typical diorama effect seen on Gameboy mono handhelds
         casted by on the underlying screen.
         Shadow offset:
             Moves the shadow left or right.
@@ -502,39 +505,22 @@ However nice effects may be obtained (eg: with vector games). <br>
     So you can use this to restore the brightness and color saturation<br>
     loss when using features like scanlines, darklines or RGB masks.<br>
     
-    (Halo): Pre-attenuate input signal gain to 1x:
+    Pre-attenuate input signal gain to 1x:
         Nullifies the input gain applied in the color correction section.
         This way the halo effect will be consistent and will not depend on 
         it, avoiding hard to manage cascading effects.
-    (Halo): Strength (negative = 10x precision)
+    Strength (negative = 10x precision)
         The effect strength.
         Negative values are interpreted as positive ones, divided by 10,
         when fine tuning is needed.
-    (Halo): Sharpness
+    Sharpness
         The lower, the wider the halo.
-    (Halo): Gamma in
+    Gamma in
         Act like a soft treshold; the higher, the less the darker colors
         will be "haloed"
-    (Halo): Gamma out
+    Gamma out
         Post-gamma correction applied to the halo.
-    Mask Helper: Additional brighness if horizontal mask clips
-        This function will add more color to the subpixel mask (eg: RGB, RBGX...)
-        when it is unable to reach the enough brightness.
-        This will allow to fully exploit subpixel mask capacity while retaining
-        the desidered brightness.
-        Please note that a well calibrated monitor is needed.
-        
-        How to Use Mask Helper:
-        -----------------------
-            Adjust "Input signal gain" based on mask size:
-               ~2.0..3.0 for 2-sized (gm, wx)
-               ~3.0..4.0 for 3-sized (gmx, rgb,rbg)
-               ~4.0..5.0 for 4-sized (rgbx, rbgx)
-                
-            Activate the "Horizontal mask" parameter.
-               Set "Phosphors width Min, Max" to the minimum.
-               Set "Phosphors width min->max gamma" to the maximum.
-               
+    
     Light up scanline gaps and dot grid gaps too:
         Theoretically Halo has to be applied
         "over" everything, because that is the way it works in nature.
@@ -543,12 +529,12 @@ However nice effects may be obtained (eg: with vector games). <br>
         cost of some graphical artifacts visible on high contrasted areas.
         The same apply for the grid emulated via dot matrix emulation feature.
  
-**Bloom:**<br>
+**Bloom/Halation:**<br>
     Acts like Halo, but affects a much wider area and is more configurable.<br>
     By using this effect and playing with its parameters, you can achieve funny<br>
     or even artistic results.<br>
     
-    Final mix:
+    Strength:
         Modulates between the original images and the bloomed one.
     Radius:
         Controls how much the bloom has to be wide.
@@ -560,19 +546,23 @@ However nice effects may be obtained (eg: with vector games). <br>
     Output Gamma (contour smoothness):
         Lowering it will make the bloom contour more pronunced.
         Handy to simulate well defined "Aura" effects.
-    Power multiplier:
-        Just apply a gain to the final bloom.
-    Modulate: Local exposure eye adaption strength
-        Simulate the process through which the pupil adapt itself to different
-        light conditions.
-    Modulate: Strength on bright areas (0 = aura)
+    Power/Vibrance multiplier:
+        Push bloom vibrance/saturation and gain.
+    Target strength over narrow bright areas
         Since the light produced by the bloom effect is added to the underlying
         image, it can produce clipping effects on the already bright areas.
         This is actually an hack that will avoid to bloom them.
-    Bypass/Solo:
-        See how the bloomed image looks alone.
-        Use 1.0 to see naked bloom without any modulation applied
-        Use 2.0 to see naked bloom with modulation applied 
+    Reduce bloom strength over wide bright areas
+        Lower bloom strength on wide bright areas.
+    Push dark/mid bloom shades visibility (safe range: 0-1)
+        By using a a soft Roll-off curve, this causes the darker to mid bloom shades 
+        to be more visible and pronounced, while rolling off the intensity of the brightest areas.
+        Use with caution for values > 1.0, because mid bloom tones will becomes brighter than bright ones.
+    Halation strength:
+        Emulates a very wide halo from light scattering in CRT glass.
+        Since the implementation targets a good looking image, it is heavily tweaked and so not accurate.
+    Solo:
+        See how the bloom and halation image look without the main content.
 
 **Curvature:**<br>
     Emulates a curved CRT display.<br>
@@ -646,7 +636,7 @@ However nice effects may be obtained (eg: with vector games). <br>
             and no zoom/shift will be allowed
     
         
-**Backgound image:**<br>
+**Background image:**<br>
     Draws an image on screen picked from the "textures" shader subdirectory,<br>
     named by default background_over.png and background_under.png<br>
     <br>
@@ -737,6 +727,14 @@ However nice effects may be obtained (eg: with vector games). <br>
     Will cause uneven brightness of the image, more at the center,<br>
     less at the edges.<br>
     
+    Vignette size:
+        Modulates the size of the circular shade.
+        Pillow/Tube
+           * Add a pillow shape to vignette with values near 0.0.
+           * Negative values will Render the vignette with a tube shape.
+    Screen brightness uniformity:
+        Modulates the strength of random uneven brightness across the screen.
+        
 **Spot:**<br>
     Simulates external light reflected by the monitor glass.<br>
       
@@ -779,11 +777,11 @@ However nice effects may be obtained (eg: with vector games). <br>
         As long as Aspect Ratio Numerator is positive, this will
         be used as the denominator of the fraction.
 
-**Luminosity tied zoom:**<br>
+**Breathing (Luminosity tied zoom):**<br>
     On older CRT monitors, the picture gets bigger when the image was brighter.<br>
-    Please TURN THIS OFF if you want to use integer scaling, since this obstructs it.
     The higher, the more prominent the effect.
-
+    This is ignored if integer scaling is selected.
+    
 **Autocrop**: 
     Clears solid bars around the frame.
     
@@ -848,7 +846,7 @@ However nice effects may be obtained (eg: with vector games). <br>
 ---------------------------
 
 *The following shader functionalities are disabled by default and cannot be enabled by using runtime shader parameters.<br>
-To enable them, you have to edit the file config-user-optional.txt (use config-user-optional-template).txt as a guide.<br>
+To enable them, you have to edit the file config/config-user-optional.txt (use config-user-optional-template).txt as a guide.<br>
 Changes are applied after a shader reload.*<br>
 
 ---------------------------
@@ -857,27 +855,32 @@ Changes are applied after a shader reload.*<br>
     Koko-aio can render only the part of the screen that has been changed,<br>
     leading to a measurable power consumption reduction and mitigate throttling
     on mobile devices and laptops.<br>
-    This feature can, however, produce artifacts in some cases.<br><br>
+    This feature can, however, produce artifacts in some cases.<br>
+    Also, please be aware that enabling delta render disables some effects like rf noise,
+    interlace flickering screen breathing, possibly more.
     To use it, in file config-user-optional.txt, write:<br>
     ```#define DELTA_RENDER```
     
 **Delta Render configuration:**<br>
-    To configure delta render, uncomment DELTA_RENDER_FORCE_REFRESH and/or DELTA_RENDER_CHECK_AREA.
+    To configure delta render, write/uncomment DELTA_RENDER_FORCE_REFRESH and/or DELTA_RENDER_CHECK_AREA.
 
-    #define DELTA_RENDER_FORCE_REFRESH #number
-        Forces a full screen refresh every #number of frames;
+    #define DELTA_RENDER_FORCE_REFRESH 10.0
+        Forces a full screen refresh every 10.0 frames;
         if there was artifacts on the screen, they will be cleared.
-        Power comsumption benefits will be lower.
-    #define DELTA_RENDER_CHECK_AREA #number
-        If you see artifacts, try to make #number higher.
+        The higher the number, the less the power consumption.
+        
+        
+    #define DELTA_RENDER_CHECK_AREA 3.0
+        If you see artifacts, try to make 3.0 higher.
         Artifacts come basically from bloom.
         By highering this value, Delta render can take higher blur radiouses
         into account.
-        Power comsumption benefits will be lower.
+        The higher the number the more the power consumption.
         
+
 **Higher quality defocus:**<br>
     Use higher quality deconvergence by flattering rgb scanlines when <br>
-    deconvergence is high and by syncing them to the deconvergence settings.<br>
+    deconvergence is high.<br>
     This has a measurable performance impact on lower spec GPUs.<br><br>
     To use it, in file config-user-optional.txt, write:
     ```#define HQ_DECON```<br>
@@ -896,13 +899,48 @@ Changes are applied after a shader reload.*<br>
     To activate that ffeature, in config-user-optional.txt, write:<br>
     ```#define HALVE_BORDER_UPDATE```<br>
   
-**LCD antighosting:** (not compatible with delta render)<br>
+** Adaptive strobe (not compatible with LCD_ANTIGHOSTING):**
+    Similar to black frame insertion, this works by alternating the image 
+    brightness across frames and subframes (enabling the latter is recommended).
+    Doing so, will reduce the motion induced blur and image clarity, hopefully
+    approaching CRT behaviour.
+    To use it, in file config-user-optional.txt, write:<br>
+    ```#define DO_ADPT_STROBE```<br><br>
+    Once you do that, the following parameters can be changed runtime:
+    
+    Strength:
+        This modulates the clarity and the perceived flickering.
+    Gain adjustment, post gamma adjustment, Less gain on dark colors:
+        Since the perceived image depends on the display pixel refresh speed,
+        it may be needed to adjust this.
+    LCD Retention workaround cadence (frames):
+        Some (IPS?) panels may suffer from temporary image retention when BFI/like is used.
+        This parameter will invert the flipping every number of frames configured
+        hopefully preventing that issue.
+  
+**LCD antighosting:**
+    . Not compatible Direct3D<br>
+    . Disabled with DELTA_RENDER)<br>
+    . Disabled with Adaptive strobe<br>
+    . Disabled with Antiburn<br>
+    
     LCD displays often suffer from high pixel refresh times <br>
     which produces ghosting when game changes on screen.<br>
     By inducing larger color transitions, it prompts the LCD cells <br>
     to adjust their states more rapidly, thereby reducing ghosting.<br><br>
     To use it, in file config-user-optional.txt, write:<br>
-    ```#define LCD_ANTIGHOSTING 0.5```<br><br>
+    ```#define DO_LCD_ANTIGHOSTING```<br><br>
+    Once you do that, the following parameters can be changed runtime:
+    
+    Strength:
+        The effect strength; it has to be tuned depending on your LCD response time.
+    Ceil:
+        The effect is proportional to the color difference over time,
+        however you can set an hard maximum here.
+    Flip Mask:
+        Enabling this will cause the horizontal mask to be flipped at every frame.
+        It is an experimental measure to mitigate ghosting that could work or not,
+        depending on your display.
     
 **Conditional FPS Halver**<br>
     *[Warning:] Only on retroarch > 1.19.1*<br>
@@ -917,3 +955,22 @@ Changes are applied after a shader reload.*<br>
     To use it, in file config-user-optional.txt, write:<br>
     ```#define FPS_HALVER```<br><br>
     
+**Subframes rendering optimizations**<br>
+    By enabling this options, shader will take steps to speed-up subframes processing.
+    It could  display the previous rendered frame if possible or just part of it.
+    Enable it only if using subframes, as it has a performance cost itself.
+    To use it, in file config-user-optional.txt, write:<br>
+    ```#define SUBFRAMES_OPTIMIZATIONS```<br><br>
+    
+**Antiburn protection**<br>
+    By enabling this options, shader will slowly shake the content over Y/X axis to
+    prevent image retention on affected screens like OLEDs.<br>
+    To use it, in file config-user-optional.txt, write one or both:<br>
+    ```#define ANTIBURN_Y 1.0```<br>
+    ```#define ANTIBURN_X 1.0```<br><br>
+    (1.0 is the effect speed).<br>
+    By enabling the following, not just the content, but the whole screen will shake:
+    ```#define ANTIBURN_COMPLETE```<br>
+    The following modulates the shake size:
+    ```#define ANTIBURN_AMPLITUDE 1.0```<br>
+    Antiburn disables LCD antighosting.

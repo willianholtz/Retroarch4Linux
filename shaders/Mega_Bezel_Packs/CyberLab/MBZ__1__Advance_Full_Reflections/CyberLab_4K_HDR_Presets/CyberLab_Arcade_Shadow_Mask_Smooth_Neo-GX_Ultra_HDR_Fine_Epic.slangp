@@ -1,0 +1,8 @@
+#reference "../../../CyberLab/MBZ__0__Smooth-Advance_Full_Reflections/CyberLab_4K_HDR_Presets/CyberLab_Arcade_Shadow_Mask_Smooth_Neo-GX_Ultra_HDR.slangp"
+
+ntsc_scale = "1.160000"
+gamma_c = "0.975000"
+
+masksize = "2.000000"
+mshift = "-3.000000"
+mask_layout = "1.000000"

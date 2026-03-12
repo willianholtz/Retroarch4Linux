@@ -17,7 +17,7 @@ Retroarch was configured from scratch, using some packages found on the net, suc
 - Bezzels for all games
 - Mega Bezels pack for shaders (CRT) and configured without TV curvature (Default comes with curvature)
 - All roms (games) have their overlays (roms not included!).
-- Configured for 4K monitors, using the crt-royale shader. (Change and save if you don't use this shader)
+- Configured for 4K monitors, using the crt-maximus-royale + Overlays shader. (Change and save if you don't use this shader)
 
 ## Games (Roms)
 Roms must all be NO-INTRO or REDUMP (RECOMMENDED), or edit all the roms you download.
@@ -42,8 +42,5 @@ I'm currently only using the Royale shader for 4K monitors, so feel free to chan
 - RXT 2060 12GB
 - 64GB RAM
 - 4K monitor
-
-In this configuration it is observed that CPU usage is 1% or not even that for retroarch in the MENU and in-game.
-On the GPU, due to the use of shaders, in the MENU the use is between 15% and 20% maximum, in-game, you can notice the difference, 40% to 60%, although 99% of the time it is on average 60% of GPU usage!
 
 **You don't need to configure ANYTHING, other than just downloading the roms and placing them in their proper places. Just download the roms and enjoy!

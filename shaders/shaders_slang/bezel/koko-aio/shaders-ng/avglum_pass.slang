@@ -45,7 +45,7 @@ void main() {
 
     vReduced_sample_time_is_now = mod(params.FrameCount,AMBI_AVGLUM_DIVIDER);
     
-    vAvglum_needed = DO_AMBILIGHT + DO_BEZEL + (DO_DYNZOOM*10.0) + (RESSWITCH_GLITCH_SIZE*10.0) + AUTOCROP_MAX ;
+    vAvglum_needed = DO_BLOOM + DO_AMBILIGHT + DO_BEZEL + (DO_DYNZOOM*10.0) + (RESSWITCH_GLITCH_SIZE*10.0) + AUTOCROP_MAX ;
     
     //RESSWITCH shaking:
         vResSwitch_res_changed = 0.0;
@@ -80,7 +80,7 @@ layout(location = 9) in float vDo_autocrop;
 layout(location = 10) in float vDo_dynzoom;
 
 layout(location = 0) out vec4 FragColor;
-layout(set = 0, binding = 1) uniform sampler2D  colortools_and_ntsc_passFeedback;
+layout(set = 0, binding = 1) uniform sampler2D colortools_and_ntsc_passFeedback;
 layout(set = 0, binding = 2) uniform sampler2D colortools_and_ntsc_pass;
 layout(set = 0, binding = 3) uniform sampler2D avglum_passFeedback;
 

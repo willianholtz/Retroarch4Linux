@@ -1,3 +1,1 @@
-#reference "../shaders/shaders_slang/crt/crt-royale.slangp"
-border_size = "0.000000"
-border_darkness = "0.000000"
+#reference "../shaders/shaders_slang/crt/crt-maximus-royale.slangp"

@@ -1,0 +1,4 @@
+#reference "../../../CyberLab/MBZ__0__Smooth-Advance_Full_Reflections/4K_Optimized_Presets/Console_Specific_Presets/CyberLab_Genesis_Composite_Slot_Mask_IV_OLED_for_CyberLab_Blargg_Video_Filter_III.slangp"
+post_br = "1.000000"
+HSM_GLOBAL_GRAPHICS_BRIGHTNESS = "40.000000"
+mask_layout = "0.000000"

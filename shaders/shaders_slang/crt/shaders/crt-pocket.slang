@@ -1,7 +1,7 @@
 #version 450
 
 /*
-
+   
    This program is free software; you can redistribute it and/or
    modify it under the terms of the GNU General Public License
    as published by the Free Software Foundation; either version 2
@@ -24,7 +24,7 @@ layout(push_constant) uniform Push
 	vec4 OriginalSize;
 	vec4 OutputSize;
 	uint FrameCount;
-	float gammain,gammaout,warpX,warpY,vignette,vign,corners,beam1,beam2,
+	float gammaout,warpX,warpY,vignette,vign,corners,beam1,beam2,
     scanline1,scanline2,interlace,progress,boost1,boost2,sat,flick;
     } params;
 
@@ -35,63 +35,72 @@ layout(std140, set = 0, binding = 0) uniform UBO
     ntsc,TEMP,size;
 } global;
 
-#pragma parameter warpX "Curvature X" 0.03 0.00 0.20 0.01 
-#define warpX params.warpX
-#pragma parameter warpY "Curvature Y" 0.05 0.00 0.20 0.01
-#define warpY params.warpY
-#pragma parameter corners "Corners cut On/Off" 1.0 0.0 1.0 1.0
-#define corners params.corners
-#pragma parameter vignette "Vignette On/Off" 1.0 0.0 1.0 1.0
-#define vignette params.vignette
-#pragma parameter vign "Vignette Strength" 0.10 0.0 0.50 0.01
-#define vign params.vign
-#pragma parameter shadowMask "Mask Style 0:cgwg,1-4:Lottes,5:Sin" 1.0 0.0 5.0 1.0
-#define shadowMask global.shadowMask
-#pragma parameter size "Mask Size" 1.0 1.0 2.0 1.0
-#define size global.size
-#pragma parameter maskl "Mask Low" 0.9 0.0 1.0 0.05
-#define maskl global.maskl
-#pragma parameter maskh "Mask High" 0.6 0.0 1.0 0.05
-#define maskh global.maskh
-#pragma parameter bgr "RGB/BGR subpixels" 1.0 0.0 1.0 1.0
-#define bgr global.bgr
-#pragma parameter DOTMASK_STRENGTH "CGWG Dot Mask Strength" 0.7 0.0 1.0 0.05
-#define DOTMASK_STRENGTH global.DOTMASK_STRENGTH
-#pragma parameter maskDark "Lottes maskDark" 0.3 0.0 2.0 0.1
-#define maskDark global.maskDark
-#pragma parameter maskLight "Lottes maskLight" 1.5 0.0 2.0 0.1
-#define maskLight global.maskLight
-#pragma parameter interlace "Interlace On/Off" 1.0 0.0 1.0 1.0
-#define interlace params.interlace
-#pragma parameter progress "Force 240p" 0.0 0.0 1.0 1.0  
-#define progress params.progress
-#pragma parameter flick "Flicker Strength" 4.0 0.0 10.0 0.1
-#define flick params.flick
-#pragma parameter beam1 "Scanline Beam Low" 6.0 1.0 15.0 0.5
-#define beam1 params.beam1
-#pragma parameter beam2 "Scanline Beam High" 8.0 1.0 15.0 0.5
-#define beam2 params.beam2
-#pragma parameter scanline1 "Scanline Low" 1.35 0.5 3.0 0.05
-#define scanline1 params.scanline1
-#pragma parameter scanline2 "Scanline High" 1.05 0.5 3.0 0.05
-#define scanline2 params.scanline2
-#pragma parameter ntsc "NTSC Colors" 1.0 0.0 1.0 1.0
-#define ntsc global.ntsc
-#pragma parameter TEMP "Color Temperature in Kelvins"  8591.0 1031.0 12047.0 72.0
-#define TEMP global.TEMP
-#pragma parameter gammain "Gamma In" 2.45 1.0 4.0 0.05
-#define gammain params.gammain
-#pragma parameter gammaout "Gamma Out" 2.25 1.0 4.0 0.05
-#define gammaout params.gammaout
-#pragma parameter sat "Saturation" 1.0 0.0 2.0 0.01
-#define sat params.sat
-#pragma parameter boost1 "Boost Dark Colors" 1.45 1.0 2.0 0.05
-#define boost1 params.boost1
-#pragma parameter boost2 "Boost Bright Colors" 1.25 1.0 2.0 0.05
-#define boost2 params.boost2
-#pragma parameter gl "Glow Strength" 0.15 0.0 1.0 0.01
-#define gl global.gl
+#pragma parameter bogus_geom "[ GEOMETRY ]" 0.0 0.0 0.0 0.0
 
+#pragma parameter warpX "Curvature X" 0.03 0.00 0.20 0.01 
+#pragma parameter warpY "Curvature Y" 0.05 0.00 0.20 0.01
+#pragma parameter corners "Corners cut On/Off" 1.0 0.0 1.0 1.0
+#pragma parameter vignette "Vignette On/Off" 1.0 0.0 1.0 1.0
+#pragma parameter vign "Vignette Strength" 0.10 0.0 0.50 0.01
+
+#pragma parameter bogus_masks "[ MASK SETTINGS ]" 0.0 0.0 0.0 0.0
+
+#pragma parameter shadowMask "Mask Style 0:cgwg,1-4:Lottes,5:Sin,Slot2" 1.0 -1.0 6.0 1.0
+#pragma parameter size "Mask Size" 1.0 1.0 2.0 1.0
+#pragma parameter maskl "Mask Low" 0.9 0.0 1.0 0.05
+#pragma parameter maskh "Mask High" 0.6 0.0 1.0 0.05
+#pragma parameter bgr "RGB/BGR subpixels" 1.0 0.0 1.0 1.0
+#pragma parameter DOTMASK_STRENGTH "CGWG Dot Mask Strength" 0.7 0.0 1.0 0.05
+#pragma parameter maskDark "Lottes maskDark" 0.5 0.0 2.0 0.1
+#pragma parameter maskLight "Lottes maskLight" 1.5 0.0 2.0 0.1
+
+#pragma parameter bogus_scan "[ SCANLINE SETTINGS ]" 0.0 0.0 0.0 0.0
+
+#pragma parameter interlace "Interlace On/Off" 1.0 0.0 1.0 1.0
+#pragma parameter progress "Force 240p" 0.0 0.0 1.0 1.0  
+#pragma parameter beam1 "Scanline Beam Low" 6.0 1.0 15.0 0.5
+#pragma parameter beam2 "Scanline Beam High" 8.0 1.0 15.0 0.5
+#pragma parameter scanline1 "Scanline Low" 1.35 0.5 3.0 0.05
+#pragma parameter scanline2 "Scanline High" 1.05 0.5 3.0 0.05
+
+#pragma parameter bogus_col "[ COLOR SETTINGS ]" 0.0 0.0 0.0 0.0
+
+#pragma parameter ntsc "NTSC Colors" 1.0 0.0 1.0 1.0
+#pragma parameter TEMP "Color Temperature in Kelvins"  6500.0 1031.0 12047.0 72.0
+#pragma parameter gammaout "Gamma Out" 2.2 1.0 4.0 0.05
+#pragma parameter sat "Saturation" 1.0 0.0 2.0 0.01
+#pragma parameter boost1 "Boost Dark Colors" 1.45 1.0 2.0 0.05
+#pragma parameter boost2 "Boost Bright Colors" 1.25 1.0 2.0 0.05
+#pragma parameter gl "Glow Strength" 0.15 0.0 1.0 0.01
+#pragma parameter flick "Flicker Strength" 2.0 0.0 10.0 0.1
+
+#define scanline1 params.scanline1
+#define beam2 params.beam2
+#define beam1 params.beam1
+#define flick params.flick
+#define progress params.progress
+#define interlace params.interlace
+#define maskLight global.maskLight
+#define maskDark global.maskDark
+#define DOTMASK_STRENGTH global.DOTMASK_STRENGTH
+#define bgr global.bgr
+#define maskh global.maskh
+#define maskl global.maskl
+#define size global.size
+#define shadowMask global.shadowMask
+#define vign params.vign
+#define vignette params.vignette
+#define corners params.corners
+#define warpY params.warpY
+#define warpX params.warpX
+#define scanline2 params.scanline2
+#define ntsc global.ntsc
+#define TEMP global.TEMP
+#define gammaout params.gammaout
+#define sat params.sat
+#define boost1 params.boost1
+#define boost2 params.boost2
+#define gl global.gl
 
 #define pi 3.141592
 #define SourceSize params.SourceSize
@@ -101,9 +110,6 @@ layout(std140, set = 0, binding = 0) uniform UBO
 #define timer float(FrameCount*2.0)
 #define flicker sin(timer)*flick/1000.0
 #define mod_factor vTexCoord.x * SourceSize.x * OutputSize.x/size / SourceSize.x
-
-
-
 
 #pragma stage vertex
 layout(location = 0) in vec4 Position;
@@ -192,45 +198,73 @@ vec3 Mask(vec2 pos){
     return vec3(Mask);
 }
 
+   else if (shadowMask == 6.0) {
+    float line=maskLight;
+    float odd=0.0;
+    if(fract(pos.x/4.0)<0.5)odd=1.0;
+    if(fract((pos.y+odd)/2.0)<0.5)line=maskDark;  
+    pos.x=fract(pos.x/2.0);
+   
+    if(pos.x<0.5)     mask.rb=vec2(maskLight) ;
+    else              mask.g=maskLight;
+    mask*=line;  
+  } 
+else if (shadowMask == -1.0) {
+mask = vec3(1.0);
+}
+
   return mask;
 }
 
-
-
-//Lanczos filter
+// Lanczos filter
 float sinc(float x)
 {
     return sin(x * pi) / (x * pi); 
 }
 
-float lanczosWeight(float d, float n)
+float lanczosWeight(float n, float N)
 {
-    return (d == 0.0) ? (1.0) : (d*d < n*n ? sinc(d) * sinc(d / n) : 0.0);
+    return ((n == 0.0)   ? (1.0) : 
+            (abs(n) < N) ? sinc(n) * sinc(n / N) : 
+            0.0);
 }
 
-vec3 Lanczos3(vec2 uv, vec2 InvResolution)
+vec3 Lanczos(vec2 uv, vec2 InvResolution)
 {
-    vec2 center = uv - (mod(uv / InvResolution, 1.0)-0.5) * InvResolution;// texel center
-    vec2 offset = (uv - center)/InvResolution;// relevant texel position in the range -0.5～+0.5
-    
+    vec2 center = (floor(uv * SourceSize.xy) + 0.5) * InvResolution;
+    vec2 offset = fract(uv * SourceSize.xy) - 0.5;
+
     vec3 col = vec3(0.0);
     float weight = 0.0;
- //loop   
-    for(int x = -2; x < 3; x++)
+
+    // Anti-ringing: track local min/max neighborhood
+    vec3 localMin = vec3( 10e6 );
+    vec3 localMax = vec3(-10e6 );
+
+    for (float x = -2.0; x < 3.0; x += 1.0)
     {
-        for(int y = -1; y < 2; y++)
+        for (float y = -1.0; y < 2.0; y += 1.0)
         {
-        
-            float wx = lanczosWeight(float(x)-offset.x, 2.0);
-            float wy = lanczosWeight(float(y)-offset.y, 1.0);
+            vec3 smpl = texture(Source, center + vec2(x, y) * InvResolution).rgb;
+
+            // Track min/max neighborhood bounds
+            localMin = min(localMin, smpl);
+            localMax = max(localMax, smpl);
+
+            float wx = lanczosWeight(x - offset.x, 2.0);
+            float wy = lanczosWeight(y - offset.y, 1.0);
             float w = wx * wy;
-        
-        col +=  w * texture(Source, center + vec2(x,y) * InvResolution).rgb;
-        weight += w;
+
+            col += smpl * w;
+            weight += w;
         }
     }
+
     col /= weight;
-    
+
+    // Anti-ringing clamp
+    col = clamp(col, localMin, localMax);
+
     return col;
 }
 
@@ -271,26 +305,20 @@ vec3 glow(vec2 pos)
     vec3 col = vec3(0.0);
     float x = SourceSize.z;
     float y = SourceSize.w;
-    float w1 = 0.15;
-    float w2 = 0.05;
-    col += w1*texture(Source,pos+vec2(x,0.0)).rgb;
-    col += w1*texture(Source,pos+vec2(x,y)).rgb;
-    col += w1*texture(Source,pos+vec2(x,-y)).rgb;
-    col += w1*texture(Source,pos+vec2(-x,0.0)).rgb;
-    col += w1*texture(Source,pos+vec2(-x,y)).rgb;
-    col += w1*texture(Source,pos+vec2(-x,-y)).rgb;
-    col += w1*texture(Source,pos+vec2(0.0,y)).rgb;
-    col += w1*texture(Source,pos+vec2(0.0,-y)).rgb;
-
-    col += w2*texture(Source,pos+vec2(2.0*x,0.0)).rgb;
-    col += w2*texture(Source,pos+vec2(2.0*x,y)).rgb;
-    col += w2*texture(Source,pos+vec2(2.0*x,-y)).rgb;
-    col += w2*texture(Source,pos+vec2(-2.0*x,0.0)).rgb;
-    col += w2*texture(Source,pos+vec2(-2.0*x,y)).rgb;
-    col += w2*texture(Source,pos+vec2(-2.0*x,-y)).rgb;
-    col += w1*texture(Source,pos+vec2(0.0,2.0*y)).rgb;
-    col += w1*texture(Source,pos+vec2(0.0,-2.0*y)).rgb;
-    return col*gl;
+    float sum = 0.0;
+for (float x=-2; x<3; x +=1.0)
+{
+    for (float y=-2; y<3; y +=1.0)
+    {
+    float wy = exp(-0.4*y*y);    
+    float wx = exp(-0.15*x*x);    
+    float w = wx + wy;    
+    col += w*texture(Source,pos + vec2(x,y)*SourceSize.zw).rgb;
+    sum += w;
+    }
+}
+    col /= sum;
+    return col*col*gl;
 }
 
 vec3 DecodeGamma(vec3 color, float gamma)
@@ -306,47 +334,13 @@ vec3 DecodeGamma(vec3 color, float gamma)
     return color;
 }
 
+mat3 sRGB_to_NTSC = mat3(
+  1.0143, -0.0165, 0.0307,
+0.0723,  0.9125,  0.0173,
+0.0175,  -0.0419, 1.1101
 
+);
 
-
-vec3 RGBtoXYZ(vec3 RGB)
-{
-    const mat3x3 m = mat3x3(
-        0.6068909, 0.1735011, 0.2003480,
-        0.2989164, 0.5865990, 0.1144845,
-        0.0000000, 0.0660957, 1.1162243);
-    return RGB * m;
-}
-
- vec3 NTSC(vec3 c)
- {
-     vec3 v = vec3(pow(c.r, 2.2), pow(c.g, 2.2), pow(c.b, 2.2)); //Inverse Companding
-     return RGBtoXYZ(v);
- }
-
-vec3 XYZtoSRGB(vec3 XYZ)
-{
-    const mat3x3 m = mat3x3(
-        3.2404542,-1.5371385,-0.4985314,
-       -0.9692660, 1.8760108, 0.0415560,
-        0.0556434,-0.2040259, 1.0572252);
-    return XYZ * m;
-}
-
-vec3 sRGB(vec3 c)
- {
-     vec3 v = XYZtoSRGB(c);
-     v = DecodeGamma(v, 2.4); //Companding
- 
-     return v;
- }
-
-
-// NTSC RGB to sRGB
-vec3 NTSCtoSRGB( vec3 c )
- { 
-     return sRGB(NTSC( c )); 
- }
 
 float saturate(float v) 
     { 
@@ -380,6 +374,8 @@ vec3 ColorTemp(float temperatureInKelvins)
     return retColor;
 }
 
+
+
 void main()
 {
     vec2 pos = Warp(vTexCoord);
@@ -401,18 +397,18 @@ if (OriginalSize.y > 400.0 && interlace == 0.0 && progress == 1.0)
     f = fract(0.5+pos.y*SourceSize.y/2.0);
     }
 
-    
-    vec3 res = Lanczos3(pos,InvResolution);
-    if (ntsc == 1.0) {
-    
-        res = NTSCtoSRGB(res);
-        res = clamp(res,0.0,1.0);
-    }
-    res *= ColorTemp(TEMP);
+    vec3 res = Lanczos(pos, InvResolution);
+    float lumsat  = dot(vec3(0.3,0.6,0.1),res);
+    res = mix(vec3(lumsat),res,sat);
 
+    if (ntsc == 1.0) {
+        res = sRGB_to_NTSC*res;
+    }
+	res = clamp(res,vec3(0.0),vec3(1.0));
+    res += glow(pos);
+    res *= ColorTemp(TEMP);
     float lumscan = max(max(res.r,res.g),res.b);
-    float lumsat  = dot(vec3(0.22,0.7,0.08),res);
-    res = pow(res,vec3(gammain));
+
     res = res*sw(f,lumscan) + res*sw(abs(1.0-f),lumscan);
     float msk = mix(maskl,maskh,lumscan);
     res *= mix(vec3(1.0),Mask(floor(vTexCoord.xy * OutputSize.xy/size + vec2(0.5))),msk);
@@ -424,9 +420,7 @@ if (OriginalSize.y > 400.0 && interlace == 0.0 && progress == 1.0)
 
     vec2 corn = min(pos,vec2(1.0)-pos); // This is used to mask corners
     corn.x = 0.0001/corn.x;             
-    res +=glow(pos);
     if (corners == 1.0 && corn.y <= corn.x || corn.x < 0.0001 ) res = vec3(0.0);
-    res = mix(vec3(lumsat),res,sat);
 
     FragColor = vec4(res,1.0);
 }
