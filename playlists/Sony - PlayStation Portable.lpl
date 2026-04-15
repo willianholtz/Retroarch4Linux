@@ -27,8 +27,8 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/God of War - Chains of Olympus (USA).chd",
       "label": "God of War - Chains of Olympus (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "UCUS-98653|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     },
@@ -59,8 +59,8 @@
     {
       "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Metal Gear Solid - Peace Walker (USA) (En,Fr,Es) (v2.00).iso",
       "label": "Metal Gear Solid - Peace Walker (USA) (En,Fr,Es) (v2.00)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "ULUS-10509|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     },
@@ -89,31 +89,31 @@
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Street Fighter Alpha 3 Max (USA).chd",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Street Fighter Alpha 3 MAX (USA).chd",
       "label": "Street Fighter Alpha 3 Max (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "ULUS-10062|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Tekken 6 (USA) (EnJaFrDeEsItKoRu).chd",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Tekken 6 (USA) (En,Fr,De,Es,It,Ru).chd",
       "label": "Tekken 6 (USA) (En,Fr,De,Es,It,Ru)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "ULUS-10466|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Tony Hawks Project 8 (USA) (v2.03).chd",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Tony Hawk's Project 8 (Europe) (Fr,De,Es,It) (v1.02).chd",
       "label": "Tony Hawk's Project 8 (USA) (v2.03)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/willian/.config/retroarch/cores/ppsspp_libretro.so",
+      "core_name": "Sony - PlayStation Portable (PPSSPP)",
       "crc32": "ULUS-10197|serial",
       "db_name": "Sony - PlayStation Portable.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Tony Hawks Underground 2 Remix (USA).chd",
+      "path": "/home/willian/.config/retroarch/roms/Sony - Playstation Portable/Tony Hawk's Underground 2 Remix (USA) (v1.01).chd",
       "label": "Tony Hawk's Underground 2 Remix (USA) (v1.01)",
       "core_path": "DETECT",
       "core_name": "DETECT",

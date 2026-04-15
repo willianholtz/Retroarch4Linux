@@ -1,0 +1,20 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/willian/.config/retroarch/roms/Sega - Saturn/Dracula X Nocturne in the Moonlight - Ultimate (v1.1)/Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (2M).cue",
+      "label": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (2M)",
+      "core_path": "/home/willian/.config/retroarch/cores/mednafen_saturn_libretro.so",
+      "core_name": "Sega - Saturn (Beetle Saturn)",
+      "crc32": "T-9527G|serial",
+      "db_name": "Sega - Saturn.lpl"
+    }
+  ]
+}

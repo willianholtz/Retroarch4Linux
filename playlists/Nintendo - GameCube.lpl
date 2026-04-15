@@ -9,6 +9,14 @@
   "sort_mode": 0,
   "items": [
     {
+      "path": "/home/willian/.config/retroarch/roms/Nintendo - Gamecube/Mario Kart - Double Dash!! (USA).rvz",
+      "label": "Mario Kart - Double Dash!! (USA)",
+      "core_path": "/home/willian/.config/retroarch/cores/dolphin_libretro.so",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "DL-DOL-GM4E-USA|serial",
+      "db_name": "Nintendo - GameCube.lpl"
+    },
+    {
       "path": "/home/willian/.config/retroarch/roms/Nintendo - Gamecube/Mortal Kombat - Deadly Alliance (USA) (Rev 1).rvz",
       "label": "Mortal Kombat - Deadly Alliance (USA) (Rev 1)",
       "core_path": "DETECT",
@@ -30,14 +38,6 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "DL-DOL-GALE-USA|serial",
-      "db_name": "Nintendo - GameCube.lpl"
-    },
-    {
-      "path": "/home/willian/.config/retroarch/roms/Nintendo - Gamecube/Mario Kart - Double Dash!! (USA).rvz",
-      "label": "Mario Kart - Double Dash!! (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "DL-DOL-GM4E-USA|serial",
       "db_name": "Nintendo - GameCube.lpl"
     }
   ]
