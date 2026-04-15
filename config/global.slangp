@@ -1,5 +1,7 @@
 #reference "../shaders/shaders_slang/bezel/Mega_Bezel/Presets/Variations/CRT-Flavors/Royale-Clone__ADV__GDV.slangp"
 HSM_VIEWPORT_ZOOM = "119.999695"
+HSM_ASPECT_RATIO_EXPLICIT = "1.331300"
+HSM_CURVATURE_MODE = "0.000000"
 HSM_INTRO_WHEN_TO_SHOW = "0.000000"
 HSM_INTRO_LOGO_BLEND_MODE = "0.000000"
 HSM_INTRO_NOISE_BLEND_MODE = "0.000000"
