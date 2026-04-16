@@ -9,15 +9,15 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/home/willian/.config/retroarch/roms/Nintendo - Gamecube/Mario Kart - Double Dash!! (USA).rvz",
+      "path": ".config/retroarch/roms/Nintendo - Gamecube/Mario Kart - Double Dash!! (USA).rvz",
       "label": "Mario Kart - Double Dash!! (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/dolphin_libretro.so",
+      "core_path": ".config/retroarch/cores/dolphin_libretro.so",
       "core_name": "Nintendo - GameCube / Wii (Dolphin)",
       "crc32": "DL-DOL-GM4E-USA|serial",
       "db_name": "Nintendo - GameCube.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Nintendo - Gamecube/Mortal Kombat - Deadly Alliance (USA) (Rev 1).rvz",
+      "path": ".config/retroarch/roms/Nintendo - Gamecube/Mortal Kombat - Deadly Alliance (USA) (Rev 1).rvz",
       "label": "Mortal Kombat - Deadly Alliance (USA) (Rev 1)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -25,7 +25,7 @@
       "db_name": "Nintendo - GameCube.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Nintendo - Gamecube/Super Mario Sunshine (USA).rvz",
+      "path": ".config/retroarch/roms/Nintendo - Gamecube/Super Mario Sunshine (USA).rvz",
       "label": "Super Mario Sunshine (USA, Canada)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -33,7 +33,7 @@
       "db_name": "Nintendo - GameCube.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Nintendo - Gamecube/Super Smash Bros. Melee (USA) (En,Ja) (Rev 2).rvz",
+      "path": ".config/retroarch/roms/Nintendo - Gamecube/Super Smash Bros. Melee (USA) (En,Ja) (Rev 2).rvz",
       "label": "Super Smash Bros. Melee (USA) (En,Ja) (Rev 2)",
       "core_path": "DETECT",
       "core_name": "DETECT",

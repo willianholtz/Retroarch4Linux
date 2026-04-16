@@ -9,7 +9,7 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/demofist.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/demofist.zip",
       "label": "Demolish Fist",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -17,7 +17,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/dirtypig.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/dirtypig.zip",
       "label": "Dirty Pigskin Football",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -25,7 +25,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/dolphin.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/dolphin.zip",
       "label": "Dolphin Blue",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -33,7 +33,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/xtrmhunt.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/xtrmhunt.zip",
       "label": "Extreme Hunting",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -41,7 +41,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/xtrmhnt2.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/xtrmhnt2.zip",
       "label": "Extreme Hunting 2",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -49,7 +49,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/ftspeed.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/ftspeed.zip",
       "label": "Faster Than Speed",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -57,7 +57,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/fotns.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/fotns.zip",
       "label": "Fist Of The North Star",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -65,7 +65,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/ggisuka.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/ggisuka.zip",
       "label": "Guilty Gear Isuka",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -73,7 +73,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/ggx15.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/ggx15.zip",
       "label": "Guilty Gear X ver. 1.5",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -81,7 +81,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/kov7sprt.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/kov7sprt.zip",
       "label": "Knights of Valour - The Seven Spirits",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -89,7 +89,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/maxspeed.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/maxspeed.zip",
       "label": "Maximum Speed",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -97,7 +97,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/mslug6.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/mslug6.zip",
       "label": "Metal Slug 6",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -105,7 +105,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/ngbc.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/ngbc.zip",
       "label": "NeoGeo Battle Coliseum",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -113,7 +113,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/vfurlong.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/vfurlong.zip",
       "label": "Net@Select: Horse Racing - Victory Furlong",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -121,7 +121,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/salmankt.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/salmankt.zip",
       "label": "Net@Select: Salaryman Kintaro",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -129,7 +129,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/rangrmsn.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/rangrmsn.zip",
       "label": "Ranger Mission",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -137,7 +137,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/samsptk.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/samsptk.zip",
       "label": "Samurai Spirits Tenkaichi Kenkakuden",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -145,7 +145,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/claychal.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/claychal.zip",
       "label": "Sega Clay Challenge",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -153,7 +153,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/sprtshot.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/sprtshot.zip",
       "label": "Sports Shooting USA",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -161,23 +161,23 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/kofnw.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/kofnw.zip",
       "label": "The King of Fighters Neowave",
-      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_path": ".config/retroarch/cores/flycast_libretro.so",
       "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "27AAB918|crc",
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/kofxi.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/kofxi.zip",
       "label": "The King of Fighters XI",
-      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_path": ".config/retroarch/cores/flycast_libretro.so",
       "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "7F9D6AF9|crc",
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/rumblef.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/rumblef.zip",
       "label": "The Rumble Fish",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -185,7 +185,7 @@
       "db_name": "Atomiswave.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Atomiswave/rumblef2.zip",
+      "path": ".config/retroarch/roms/Sega - Atomiswave/rumblef2.zip",
       "label": "The Rumble Fish 2",
       "core_path": "DETECT",
       "core_name": "DETECT",

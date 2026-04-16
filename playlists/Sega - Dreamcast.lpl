@@ -9,7 +9,7 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Biohazard 2 - Value Plus (Japan) (Disc 1)/Biohazard 2 - Value Plus (Japan) (Disc 1).cue",
+      "path": ".config/retroarch/roms/Sega - Dreamcast/Biohazard 2 - Value Plus (Japan) (Disc 1)/Biohazard 2 - Value Plus (Japan) (Disc 1).cue",
       "label": "Biohazard 2 - Value Plus (Japan) (Disc 1)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -17,7 +17,7 @@
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Biohazard 2 - Value Plus (Japan) (Disc 2)/Biohazard 2 - Value Plus (Japan) (Disc 2).cue",
+      "path": ".config/retroarch/roms/Sega - Dreamcast/Biohazard 2 - Value Plus (Japan) (Disc 2)/Biohazard 2 - Value Plus (Japan) (Disc 2).cue",
       "label": "Biohazard 2 - Value Plus (Japan) (Disc 2)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -25,15 +25,15 @@
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Capcom vs. SNK 2 - Millionaire Fighting 2001 (English v1.0)/disc.gdi",
+      "path": ".config/retroarch/roms/Sega - Dreamcast/Capcom vs. SNK 2 - Millionaire Fighting 2001 (English v1.0)/disc.gdi",
       "label": "Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan)",
-      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_path": ".config/retroarch/cores/flycast_libretro.so",
       "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1249M|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Crazy Taxi (USA).chd",
+      "path": ".config/retroarch/roms/Sega - Dreamcast/Crazy Taxi (USA).chd",
       "label": "Crazy Taxi (USA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -41,15 +41,15 @@
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Crazy Taxi 2 (USA).chd",
+      "path": ".config/retroarch/roms/Sega - Dreamcast/Crazy Taxi 2 (USA).chd",
       "label": "Crazy Taxi 2 (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_path": ".config/retroarch/cores/flycast_libretro.so",
       "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "51136|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Jet Grind Radio (USA).chd",
+      "path": ".config/retroarch/roms/Sega - Dreamcast/Jet Grind Radio (USA).chd",
       "label": "Jet Grind Radio (USA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -57,7 +57,7 @@
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Legacy of Kain - Soul Reaver (USA).chd",
+      "path": ".config/retroarch/roms/Sega - Dreamcast/Legacy of Kain - Soul Reaver (USA).chd",
       "label": "Legacy of Kain - Soul Reaver (USA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -65,17 +65,17 @@
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Resident Evil 3 - Nemesis (USA).chd",
+      "path": ".config/retroarch/roms/Sega - Dreamcast/Resident Evil 3 - Nemesis (USA).chd",
       "label": "Resident Evil 3 - Nemesis (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_path": ".config/retroarch/cores/flycast_libretro.so",
       "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1220N|serial",
       "db_name": "Sega - Dreamcast.lpl"
     },
     {
-      "path": "/home/willian/.config/retroarch/roms/Sega - Dreamcast/Street Fighter Alpha 3 (USA).chd",
+      "path": ".config/retroarch/roms/Sega - Dreamcast/Street Fighter Alpha 3 (USA).chd",
       "label": "Street Fighter Alpha 3 (USA)",
-      "core_path": "/home/willian/.config/retroarch/cores/flycast_libretro.so",
+      "core_path": ".config/retroarch/cores/flycast_libretro.so",
       "core_name": "Sega - Dreamcast/Naomi (Flycast)",
       "crc32": "T-1203N|serial",
       "db_name": "Sega - Dreamcast.lpl"
