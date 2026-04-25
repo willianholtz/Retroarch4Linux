@@ -298,7 +298,7 @@
     {
       "path": ".config/retroarch/roms/FBNeo - Arcade Games/dadandrn.zip",
       "label": "Kyukyoku Sentai Dadandarn (Japan ver JAA)",
-      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Konami.lpl"
@@ -514,7 +514,7 @@
     {
       "path": ".config/retroarch/roms/FBNeo - Arcade Games/ssriders.zip",
       "label": "Sunset Riders (World 4 Players ver. EAC)",
-      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
       "core_name": "Arcade (MAME)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Konami.lpl"

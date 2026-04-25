@@ -58,7 +58,7 @@
     {
       "path": ".config/retroarch/roms/FBNeo - Arcade Games/mshvsf.zip",
       "label": "Marvel Super Heroes Vs. Street Fighter (US 970827)",
-      "core_path": "/home/willian/.config/retroarch/cores/Arcade (FinalBurn Neo)_plus_libretro.so",
+      "core_path": ".config/retroarch/cores/Arcade (FinalBurn Neo)_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"
@@ -138,7 +138,7 @@
     {
       "path": ".config/retroarch/roms/FBNeo - Arcade Games/xmvsf.zip",
       "label": "X-Men Vs. Street Fighter (Euro 960910)",
-      "core_path": "/home/willian/.config/retroarch/cores/Arcade (FinalBurn Neo)_plus_libretro.so",
+      "core_path": ".config/retroarch/cores/Arcade (FinalBurn Neo)_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - Super Heroes.lpl"

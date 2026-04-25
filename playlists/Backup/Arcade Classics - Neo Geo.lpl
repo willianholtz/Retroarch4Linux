@@ -235,7 +235,7 @@
     {
       "path": ".config/retroarch/roms/FBNeo - Arcade Games/fatfury3.zip",
       "label": "Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai (NGM-069)(NGH-069)",
-      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "SNK - Neo Geo.lpl"
@@ -979,7 +979,7 @@
     {
       "path": ".config/retroarch/roms/FBNeo - Arcade Games/kof2003.zip",
       "label": "The King of Fighters 2003 (NGM-2710)",
-      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
       "core_name": "Arcade (FB Alpha 2012)",
       "crc32": "00000000|crc",
       "db_name": "SNK - Neo Geo.lpl"

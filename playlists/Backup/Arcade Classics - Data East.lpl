@@ -322,7 +322,7 @@
     {
       "path": ".config/retroarch/roms/FBNeo - Arcade Games/spinmast.zip",
       "label": "Spin Master / Miracle Adventure",
-      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
       "core_name": "Arcade (MAME)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Data East.lpl"

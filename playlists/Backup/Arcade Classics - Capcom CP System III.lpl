@@ -43,7 +43,7 @@
     {
       "path": ".config/retroarch/roms/FBNeo - Arcade Games/sfiii3.zip",
       "label": "Street Fighter III 3rd Strike: Fight for the Future (Euro 990608)",
-      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade - Capcom CP System III.lpl"
@@ -51,7 +51,7 @@
     {
       "path": ".config/retroarch/roms/FBNeo - Arcade Games/sfiii.zip",
       "label": "Street Fighter III: New Generation (Euro 970204)",
-      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade - Capcom CP System III.lpl"

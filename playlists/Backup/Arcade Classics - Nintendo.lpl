@@ -226,7 +226,7 @@
     {
       "path": ".config/retroarch/roms/FBNeo - Arcade Games/suprmrio.zip",
       "label": "Vs. Super Mario Bros.",
-      "core_path": "/home/willian/.config/retroarch/cores/mame_libretro.so",
+      "core_path": ".config/retroarch/cores/mame_libretro.so",
       "core_name": "Arcade (MAME)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Classics - Nintendo.lpl"

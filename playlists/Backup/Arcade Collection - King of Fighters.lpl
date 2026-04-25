@@ -83,7 +83,7 @@
     {
       "path": ".config/retroarch/roms/FBNeo - Arcade Games/kof2003.zip",
       "label": "The King of Fighters 2003 (NGM-2710)",
-      "core_path": "/home/willian/.config/retroarch/cores/fbneo_libretro.so",
+      "core_path": ".config/retroarch/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - King of Fighters.lpl"
@@ -91,7 +91,7 @@
     {
       "path": ".config/retroarch/roms/FBNeo - Arcade Games/kf2k3pcb.zip",
       "label": "The King of Fighters 2003 [dedicated PCB version, Japan region]",
-      "core_path": "/home/willian/.config/retroarch/cores/mame_libretro.so",
+      "core_path": ".config/retroarch/cores/mame_libretro.so",
       "core_name": "Arcade (MAME)",
       "crc32": "00000000|crc",
       "db_name": "Arcade Collection - King of Fighters.lpl"
